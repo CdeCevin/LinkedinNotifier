@@ -1,0 +1,273 @@
+{
+
+  "nombre": "Kevin Olivares",
+
+  "titulo": "Estudiante de Ingeniería Civil Informática",
+
+
+
+  "contacto": {
+
+    "telefono": "+56 976478194",
+
+    "email": "Kevin.olivaresf2@gmail.com",
+
+    "linkedin": "linkedin.com/in/kevinolivaresfuentes",
+
+    "github": "github.com/CdeCevin"
+
+  },
+
+
+
+  "sobre_mi": "Estudiante de Ingeniería Civil Informática. Persona perseverante y motivada, con interés en el desarrollo de proyectos tecnológicos de impacto. Enfoque orientado al análisis y la creatividad para construir soluciones de calidad y colaborar activamente en equipo.",
+
+
+
+  "experiencia_laboral": [
+
+    {
+
+      "cargo": "Desarrollador Backend",
+
+      "proyecto": "Proyecto Plataforma de Simulación Contable Inteligente (PSCI)",
+
+      "empresa_url": "www.uapsci.cl",
+
+      "anio": 2025,
+
+      "responsabilidades": [
+
+        "Diseño e implementación del backend y APIs RESTful para una aplicación educativa contable",
+
+        "Integración de inteligencia artificial para generación automática de ejercicios y retroalimentación personalizada",
+
+        "Implementación de ingeniería de prompts para instrucción contable y métricas de progreso",
+
+        "Desarrollo de pruebas automatizadas E2E y pruebas de carga para asegurar rendimiento y escalabilidad"
+
+      ],
+
+      "tecnologias": [
+
+        "Node.js",
+
+        "Express.js",
+
+        "Google Gemini AI",
+
+        "Playwright",
+
+        "K6"
+
+      ]
+
+    }
+
+  ],
+
+
+
+  "herramientas_software": {
+
+    "lenguajes_programacion": [
+
+      {
+
+        "nombre": "Python",
+
+        "nivel": "Intermedio-Avanzado"
+
+      },
+
+      {
+
+        "nombre": "JavaScript",
+
+        "nivel": "Intermedio-Avanzado"
+
+      },
+
+      {
+
+        "nombre": "TypeScript",
+
+        "nivel": "Intermedio-Avanzado"
+
+      },
+
+      {
+
+        "nombre": "C",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "C++",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "Java",
+
+        "nivel": "Intermedio"
+
+      }
+
+    ],
+
+
+
+    "bases_datos": [
+
+      {
+
+        "nombre": "SQL Server",
+
+        "nivel": "Intermedio-Avanzado"
+
+      },
+
+      {
+
+        "nombre": "MySQL",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "SQLite",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "Oracle SQL",
+
+        "nivel": "Intermedio-Avanzado"
+
+      },
+
+      {
+
+        "nombre": "MongoDB",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "Neo4j",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "SurrealistDB",
+
+        "nivel": "Intermedio"
+
+      }
+
+    ],
+
+
+
+    "analisis_datos": [
+
+      {
+
+        "nombre": "Excel / Office",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "Power BI",
+
+        "nivel": "Intermedio"
+
+      },
+
+      {
+
+        "nombre": "Qlik",
+
+        "nivel": "Basico"
+
+      }
+
+    ],
+
+
+
+    "competencias": [
+
+      "Desarrollo Backend",
+
+      "Integracion de IA",
+
+      "APIs RESTful",
+
+      "Testing automatizado"
+
+    ]
+
+  },
+
+
+
+  "estudios": [
+
+    {
+
+      "institucion": "Universidad Catolica del Maule",
+
+      "carrera": "Ingenieria Civil Informatica",
+
+      "inicio": 2021,
+
+      "fin": "Actualidad"
+
+    }
+
+  ],
+
+
+
+  "idiomas": [
+
+    {
+
+      "idioma": "Español",
+
+      "nivel": "Nativo"
+
+    },
+
+    {
+
+      "idioma": "Ingles",
+
+      "nivel": "Intermedio" 
+
+    }
+
+  ]
+
+}
