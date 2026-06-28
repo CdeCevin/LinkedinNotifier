@@ -2,8 +2,8 @@ name: LinkedIn Job Scraper
 
 on:
   schedule:
-    # Ejecutar todos los días a las 09:00 UTC (05:00 AM hora de Chile aprox)
-    - cron: '0 9 * * *'
+    # Ejecutar todos los días a las 13:00 UTC (09:00 AM hora de Chile aprox)
+    - cron: '0 13 * * *'
   workflow_dispatch: # Permite ejecutar manualmente desde la interfaz de GitHub
 
 jobs:
