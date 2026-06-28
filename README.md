@@ -50,7 +50,7 @@ python hunter.py
 El proyecto incluye un flujo de trabajo automatizado mediante GitHub Actions ubicado en `.github/workflows/scrape.yml`. 
 
 ### ¿Cómo funciona?
-1. **Frecuencia**: Se ejecuta automáticamente todos los días a las **09:00 UTC** (aproximadamente a las 05:00 AM hora de Chile) y también puede ejecutarse manualmente desde la pestaña "Actions" en GitHub.
+1. **Frecuencia**: Se ejecuta automáticamente todos los días a las **13:00 UTC** (aproximadamente a las 09:00 AM hora de Chile) y también puede ejecutarse manualmente desde la pestaña "Actions" en GitHub.
 2. **Secretos**: Utiliza los secretos del repositorio para configurar de forma segura las variables de entorno sin exponerlas en el código.
 3. **Persistencia**: Tras analizar las ofertas, el pipeline realiza un commit y push automático del archivo `revisado.json` actualizado de regreso al repositorio Git, de modo que las ejecuciones diarias siguientes sepan qué ofertas ya fueron evaluadas.
 
