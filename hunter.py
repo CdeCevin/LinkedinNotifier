@@ -197,18 +197,23 @@ def evaluar_con_gemini(descripcion_empleo):
     
     Nota sobre 'cercano': Si no es un match perfecto (ej. piden 1-2 años de experiencia y el tiene proyectos, o falta alguna herramienta menor) pero crees que igual vale la pena que lo revise manualmente por su capacidad de aprender rapido y perfil junior, pon "cercano": true.
     """
-    try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json"
+    for intento in range(3):
+        try:
+            response = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json"
+                )
             )
-        )
-        return json.loads(response.text)
-    except Exception as e:
-        print(f"[!] Error en API Gemini: {e}")
-        return {"calza": False, "motivo": "Fallo en la consulta de IA"}
+            return json.loads(response.text)
+        except Exception as e:
+            print(f"[!] Error en API Gemini (Intento {intento+1}/3): {e}")
+            if intento < 2:
+                time.sleep(random.uniform(15, 30)) # Espera larga para evitar limites de cuota (429)
+
+    # Si fallan todos los reintentos, devolvemos un flag de error
+    return {"error_api": True, "motivo": "Fallo total en la consulta de IA"}
 
 
 # =====================================================================
@@ -290,6 +295,10 @@ if __name__ == "__main__":
         print(f"[~] Analizando con Gemini: {limpiar_texto(empleo['titulo'])} en {limpiar_texto(empleo['empresa'])}...")
         veredicto = evaluar_con_gemini(texto_descripcion)
         
+        if veredicto.get("error_api"):
+            print("[!] API de Gemini no disponible. Se omitira esta oferta para mantenerla en cola.")
+            continue # No se guarda en revisado.json, por lo que se reintentara en la proxima ejecucion
+            
         calza = veredicto.get("calza") is True
         cercano = veredicto.get("cercano") is True
         motivo = veredicto.get("motivo", "Sin motivo")
