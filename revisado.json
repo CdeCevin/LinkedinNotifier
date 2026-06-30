@@ -1222,5 +1222,173 @@
         "fecha": "2026-06-30 14:55:35",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-wild-lama-4432031208",
+        "titulo": "Desarrollador/a Full Stack",
+        "empresa": "Wild Lama",
+        "fecha": "2026-06-30 15:24:18",
+        "calza": false,
+        "motivo": "La oferta de empleo exige presencialidad en Santiago, lo cual contradice las reglas de ubicación que especifican exclusividad en el Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-development-at-metlife-chile-4430488635",
+        "titulo": "Software Development",
+        "empresa": "MetLife Chile",
+        "fecha": "2026-06-30 15:24:20",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587",
+        "titulo": "Software Engineer Dynamics 365 Junior",
+        "empresa": "AVOS Tech | Chile",
+        "fecha": "2026-06-30 15:24:28",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago (La Florida o Las Condes), lo cual viola la regla crítica de ubicación que solo permite Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-net-developer-at-perform-4398412316",
+        "titulo": "Full Stack Developer (.NET Developer)",
+        "empresa": "Perform",
+        "fecha": "2026-06-30 15:24:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056",
+        "titulo": "Associate Engineer AFP",
+        "empresa": "AFP Cuprum",
+        "fecha": "2026-06-30 15:24:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-full-stack-multiplataforma-at-go-4434031139",
+        "titulo": "Practicante De Desarrollo Full Stack Multiplataforma",
+        "empresa": "Go",
+        "fecha": "2026-06-30 15:24:43",
+        "calza": true,
+        "motivo": "El candidato posee las bases de JavaScript, Python y MySQL, además de experiencia en APIs y desarrollo backend, lo que lo hace adecuado para un rol de práctica con potencial para aprender las tecnologías front-end y PHP requeridas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-desarrollador-at-apex-group-ltd-4398862113",
+        "titulo": "Analista desarrollador",
+        "empresa": "Apex Group Ltd",
+        "fecha": "2026-06-30 15:24:47",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desenvolvimento-de-software-at-asc-solutions-4419216426",
+        "titulo": "Desenvolvimento de software",
+        "empresa": "ASC Solutions",
+        "fecha": "2026-06-30 15:24:58",
+        "calza": true,
+        "motivo": "El candidato cumple con la ubicación remota, el nivel de inglés es adecuado y posee fuertes bases en JavaScript, TypeScript y SQL, demostrando un perfil apto para aprender las tecnologías específicas de la oferta como C#, .NET y Angular en un rol de Estagiario."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/web-developer-at-ria-money-transfer-4426978559",
+        "titulo": "Web Developer",
+        "empresa": "Ria Money Transfer",
+        "fecha": "2026-06-30 15:25:02",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-intern-at-vambe-4426008297",
+        "titulo": "Software Engineer Intern",
+        "empresa": "Vambe",
+        "fecha": "2026-06-30 15:25:07",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Las Condes (Santiago), lo cual viola la regla de ubicación que requiere 100% remoto o presencial en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-at-getronics-4432857277",
+        "titulo": "Desarrollador/a",
+        "empresa": "Getronics",
+        "fecha": "2026-06-30 15:25:17",
+        "calza": true,
+        "motivo": "Aunque el candidato es estudiante y no cumple formalmente los 2 años de experiencia, posee habilidades relevantes en JavaScript, TypeScript y desarrollo Backend con APIs, además de interés en Frontend y una modalidad remota que se alinea con la oferta, haciéndolo un perfil cercano para un rol Junior/Trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-laravel-remote-work-ref%23295862-at-bairesdev-4432463786",
+        "titulo": "Full Stack Engineer (Laravel) - Remote Work | REF#295862",
+        "empresa": "BairesDev",
+        "fecha": "2026-06-30 15:25:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-crypto-engineer-l1-at-kraken-4430585979",
+        "titulo": "Backend Crypto Engineer - L1",
+        "empresa": "Kraken",
+        "fecha": "2026-06-30 15:25:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-inform%C3%A1tica-automatizaci%C3%B3n-de-procesos-grc-at-claro-chile-s-a-4430487905",
+        "titulo": "Práctica Ingeniería Informática Automatización de Procesos GRC",
+        "empresa": "Claro Chile S.A.",
+        "fecha": "2026-06-30 15:25:23",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-java-node-js-%E2%80%93gcp-at-bc-tecnolog%C3%ADa-4433446299",
+        "titulo": "Desarrollador Full-Stack Java / Node.js –GCP",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-06-30 15:25:37",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule, lo cual es un requisito obligatorio según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-java-springboot-at-tata-consultancy-services-4426568268",
+        "titulo": "Desarrollador java springboot",
+        "empresa": "Tata Consultancy Services",
+        "fecha": "2026-06-30 15:25:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-uc-christus-4424581211",
+        "titulo": "Práctica TI",
+        "empresa": "UC CHRISTUS",
+        "fecha": "2026-06-30 15:25:49",
+        "calza": false,
+        "motivo": "La oferta es de modalidad híbrida y no especifica una ubicación en la Región del Maule, lo que la hace incompatible con los requisitos de ubicación del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-finapsys-4425266861",
+        "titulo": "Ingeniero de software",
+        "empresa": "Finapsys",
+        "fecha": "2026-06-30 15:26:09",
+        "calza": true,
+        "motivo": "La oferta de empleo es híbrida pero no especifica la ubicación física, lo cual es crítico dado que el candidato se encuentra en la Región del Maule. Sin embargo, su perfil técnico, experiencia en proyectos y habilidades deseables como TypeScript y MongoDB calzan muy bien para una posición junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/engineer-at-principal-chile-4388245249",
+        "titulo": "Engineer",
+        "empresa": "Principal Chile",
+        "fecha": "2026-06-30 15:26:13",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-analyst-at-deloitte-4433328771",
+        "titulo": "AI Engineer Analyst",
+        "empresa": "Deloitte",
+        "fecha": "2026-06-30 15:26:27",
+        "calza": false,
+        "motivo": "La oferta es híbrida sin especificar ubicación dentro de la Región del Maule o ser 100% remota, incumpliendo la regla crítica de ubicación, y exige inglés intermedio-avanzado que el candidato no posee fluidamente."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-java-%2B-react-%F0%9F%9A%80-at-sii-group-chile-4430990453",
+        "titulo": "Desarrollador Full-Stack (Java + React) 🚀",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-06-30 15:26:38",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida con presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencialidad exclusiva en la Región del Maule."
     }
 ]
