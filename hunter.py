@@ -5,6 +5,8 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime
+import time
+import random
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
@@ -107,8 +109,8 @@ def buscar_ofertas_linkedin():
     
     empleos_totales = []
     
-    # Recorrer las primeras 5 páginas (del 0 al 40, saltando de 10 en 10)
-    for pagina in range(0, 50, 10):
+    # Recorrer las primeras 3 páginas (del 0 al 50, saltando de 25 en 25)
+    for pagina in range(0, 75, 25):
         print(f"[*] Extrayendo resultados de LinkedIn (Iniciando en posicion {pagina})...")
         
         # Parámetro f_TPR=r2592000 equivale al último mes
@@ -137,22 +139,32 @@ def buscar_ofertas_linkedin():
                 if url_limpia not in [e["url"] for e in empleos_totales]:
                     empleos_totales.append({"titulo": titulo, "empresa": empresa, "url": url_limpia})
                     
+        # Pausa aleatoria para no saturar al buscar paginación
+        time.sleep(random.uniform(2, 4))
+                    
     return empleos_totales
 
 
 # =====================================================================
 # FUNCIÓN 2: EXTRAER EL TEXTO COMPLETO DE UNA OFERTA
 # =====================================================================
-def obtener_descripcion_completa(url_empleo):
+def obtener_descripcion_completa(url_empleo, reintentos=2):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-    res = requests.get(url_empleo, headers=headers)
-    if res.status_code != 200:
-        return None
-        
-    soup = BeautifulSoup(res.text, "html.parser")
-    descripcion_elem = soup.find("div", class_="show-more-less-html__markup")
     
-    return descripcion_elem.text.strip() if descripcion_elem else None
+    for intento in range(reintentos):
+        res = requests.get(url_empleo, headers=headers)
+        if res.status_code == 200:
+            soup = BeautifulSoup(res.text, "html.parser")
+            descripcion_elem = soup.find("div", class_="show-more-less-html__markup")
+            return descripcion_elem.text.strip() if descripcion_elem else None
+            
+        if res.status_code == 429:
+            print(f"[!] Limite de peticiones alcanzado al obtener descripcion (429). Reintentando en breve...")
+            time.sleep(random.uniform(3, 6))
+        else:
+            break
+            
+    return None
 
 
 # =====================================================================
@@ -162,9 +174,13 @@ def evaluar_con_gemini(descripcion_empleo):
     prompt = f"""
     Actua como un reclutador tecnico experto en TI. Evalua si el candidato del siguiente CV calza con la oferta de empleo.
     
-    REGLAS CRITICAS:
-    1. El candidato es estudiante de ultimo año de Ingenieria Civil Informatica. Puede trabajar jornada completa o parcial (remoto o hibrido/presencial cerca de su zona (TALCA)).
-    2. El candidato NO habla ingles fluido (solo lee documentacion). Si la oferta exige explicitamente hablar ingles en el dia a dia o entrevistas en ingles, RECHAZALA.
+    REGLAS CRITICAS (DE CUMPLIMIENTO OBLIGATORIO):
+    1. UBICACION: La oferta DEBE ser:
+       - 100% Remota (desde cualquier parte de Chile o global).
+       - O presencial/hibrida EXCLUSIVAMENTE en Talca, la Region del Maule en general, o comunas aledañas.
+       Si exige presencialidad o modalidad hibrida en Santiago, Viña del Mar, Concepcion o cualquier otra region fuera del Maule, RECHAZALA INMEDIATAMENTE.
+    2. TECNOLOGIAS (FLEXIBILIDAD): El candidato aprende rapido y domina las bases de la programacion. Si la oferta pide lenguajes o frameworks que no estan explicitamente en el CV (por ejemplo, PHP, C#, Java, Go, Ruby, etc.) pero el rol es Junior o Trainee, NO la descartes por eso.
+    3. INGLES: El candidato NO habla ingles fluido (solo lee documentacion). Si la oferta exige explicitamente hablar ingles fluido, nivel conversacional o entrevistas en ingles, RECHAZALA.
     
     CV del Candidato (JSON):
     {CV_TEXTO_JSON}
@@ -175,8 +191,11 @@ def evaluar_con_gemini(descripcion_empleo):
     Responde ESTRICTAMENTE con un objeto JSON valido con esta estructura, sin textos extras:
     {{
         "calza": true o false,
-        "motivo": "Explicacion breve de una frase del porque calza o se rechaza"
+        "cercano": true o false,
+        "motivo": "Explicacion breve de una frase del porque calza, es cercano, o se rechaza"
     }}
+    
+    Nota sobre 'cercano': Si no es un match perfecto (ej. piden 1-2 años de experiencia y el tiene proyectos, o falta alguna herramienta menor) pero crees que igual vale la pena que lo revise manualmente por su capacidad de aprender rapido y perfil junior, pon "cercano": true.
     """
     try:
         response = client.models.generate_content(
@@ -195,7 +214,7 @@ def evaluar_con_gemini(descripcion_empleo):
 # =====================================================================
 # FUNCIÓN 4: ENVIARTE LA ALERTA A TU GMAIL
 # =====================================================================
-def enviar_alerta_correo(empleo, motivo):
+def enviar_alerta_correo(empleo, motivo, es_cercano=False):
     remitente = os.environ.get("EMAIL_REMITENTE")
     destinatario = os.environ.get("EMAIL_DESTINATARIO")
     password_aplicacion = os.environ.get("EMAIL_PASSWORD")
@@ -208,12 +227,13 @@ def enviar_alerta_correo(empleo, motivo):
     msg["From"] = remitente
     msg["To"] = destinatario
     # Limpiamos el asunto por si el título trae emojis
-    msg["Subject"] = limpiar_texto(f"MATCH: {empleo['titulo']} en {empleo['empresa']}")
+    tipo_match = "MATCH CERCANO" if es_cercano else "MATCH"
+    msg["Subject"] = limpiar_texto(f"{tipo_match}: {empleo['titulo']} en {empleo['empresa']}")
     
     cuerpo = f"""
     Hola Kevin,
     
-    Gemini encontro una oferta ideal para ti:
+    Gemini encontro una oferta {'cercana para revisar' if es_cercano else 'ideal para ti'}:
     
     - Puesto: {empleo['titulo']}
     - Empresa: {empleo['empresa']}
@@ -271,14 +291,19 @@ if __name__ == "__main__":
         veredicto = evaluar_con_gemini(texto_descripcion)
         
         calza = veredicto.get("calza") is True
+        cercano = veredicto.get("cercano") is True
         motivo = veredicto.get("motivo", "Sin motivo")
         
         # Guardar en revisados
-        guardar_revisado(empleo, calza, motivo)
+        guardar_revisado(empleo, calza or cercano, motivo)
         
-        if calza:
-            print(f"[+] MATCH ENCONTRADO!: {limpiar_texto(motivo)}")
+        if calza or cercano:
+            nivel = "MATCH ENCONTRADO" if calza else "MATCH CERCANO"
+            print(f"[+] {nivel}!: {limpiar_texto(motivo)}")
             # ACTIVADO: Enviará el correo
-            enviar_alerta_correo(empleo, motivo) 
+            enviar_alerta_correo(empleo, motivo, es_cercano=cercano and not calza) 
         else:
             print(f"[-] Pasando: {limpiar_texto(motivo)}")
+            
+        # Pausa aleatoria antes de la siguiente oferta para evitar bloqueos
+        time.sleep(random.uniform(1.5, 3.5))
