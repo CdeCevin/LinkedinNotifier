@@ -101,7 +101,7 @@ def guardar_revisado(empleo, calza, motivo):
 # FUNCIÓN 1: IR A BUSCAR LAS OFERTAS A LINKEDIN (GUEST API)
 # =====================================================================
 def buscar_ofertas_linkedin():
-    keywords = '(Junior OR Trainee) AND ("Backend" OR "Desarrollador" OR "Developer" OR "Programador") AND ("Python" OR "Node" OR "TypeScript")'
+    keywords = '(Junior OR Trainee) AND ("Backend" OR "Frontend" OR "Fullstack" OR "Desarrollador" OR "Developer" OR "Programador")'
     location = "Chile"
     
     keywords_encoded = urllib.parse.quote(keywords)
@@ -179,7 +179,7 @@ def evaluar_con_gemini(descripcion_empleo):
        - 100% Remota (desde cualquier parte de Chile o global).
        - O presencial/hibrida EXCLUSIVAMENTE en Talca, la Region del Maule en general, o comunas aledañas.
        Si exige presencialidad o modalidad hibrida en Santiago, Viña del Mar, Concepcion o cualquier otra region fuera del Maule, RECHAZALA INMEDIATAMENTE.
-    2. TECNOLOGIAS (FLEXIBILIDAD): El candidato aprende rapido y domina las bases de la programacion. Si la oferta pide lenguajes o frameworks que no estan explicitamente en el CV (por ejemplo, PHP, C#, Java, Go, Ruby, etc.) pero el rol es Junior o Trainee, NO la descartes por eso.
+    2. TECNOLOGIAS (FLEXIBILIDAD Y FRONTEND): El candidato aprende rapido y tiene facilidad para el Frontend y Fullstack. Acepta ofertas que requieran tecnologias como HTML, CSS, TypeScript, Tailwind, React, Angular, etc. Si la oferta pide lenguajes o frameworks de frontend o backend que no estan explicitamente en el CV, NO la descartes por eso, siempre que sea perfil Junior/Trainee.
     3. INGLES: El candidato NO habla ingles fluido (solo lee documentacion). Si la oferta exige explicitamente hablar ingles fluido, nivel conversacional o entrevistas en ingles, RECHAZALA.
     
     CV del Candidato (JSON):
