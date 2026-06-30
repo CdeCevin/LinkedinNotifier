@@ -1022,5 +1022,205 @@
         "fecha": "2026-06-29 16:36:51",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4433524289",
+        "titulo": "Desarrollador jr",
+        "empresa": "CONKORD",
+        "fecha": "2026-06-30 14:54:53",
+        "calza": true,
+        "motivo": "El candidato calza perfectamente con el perfil junior buscado, demostrando conocimientos sólidos en desarrollo de software y experiencia práctica en proyectos relevantes, además de ubicación compatible en la región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434170202",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-06-30 14:55:07",
+        "calza": false,
+        "motivo": "La oferta exige un 'Buen nivel de inglés', lo cual entra en conflicto con la regla crítica de que el candidato no habla inglés fluido o conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-finder-hr-finder-it-uniendo-personas-4426936679",
+        "titulo": "Software Developer Junior - Java Spring Boot",
+        "empresa": "Finder HR & Finder IT Uniendo Personas",
+        "fecha": "2026-06-30 14:55:16",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago Centro, lo cual es un criterio de rechazo inmediato según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435104193",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:19",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435110079",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:20",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435114035",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:21",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434997310",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4435113042",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-remote-at-hire-feed-4435106107",
+        "titulo": "Frontend Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:23",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4435111298",
+        "titulo": "Frontend Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:24",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-remote-at-hire-feed-4435102138",
+        "titulo": "Python Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:25",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4435103162",
+        "titulo": "Data Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:25",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4434991625",
+        "titulo": "Data Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:26",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-scientist-remote-at-hire-feed-4434998273",
+        "titulo": "Data Scientist (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:27",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-quality-analyst-remote-at-hire-feed-4434996582",
+        "titulo": "Software Quality Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:28",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4434999235",
+        "titulo": "AI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analytics-engineer-remote-at-hire-feed-4435100310",
+        "titulo": "Analytics Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/genai-engineer-remote-at-hire-feed-4435107219",
+        "titulo": "GenAI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:30",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4435104273",
+        "titulo": "AI Agent Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-developer-remote-at-hire-feed-4434993663",
+        "titulo": "Salesforce Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4434997467",
+        "titulo": "Data Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4435100208",
+        "titulo": "Data Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:33",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/manual-qa-engineer-at-lionhires-recruitment-4429064056",
+        "titulo": "Manual QA Engineer",
+        "empresa": "LionHires Recruitment",
+        "fecha": "2026-06-30 14:55:34",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/cybersecurity-engineer-remote-at-hire-feed-4434992504",
+        "titulo": "Cybersecurity Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:34",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/platform-engineer-remote-at-hire-feed-4435105147",
+        "titulo": "Platform Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-06-30 14:55:35",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
