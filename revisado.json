@@ -1558,5 +1558,125 @@
         "fecha": "2026-07-01 15:38:41",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435805164",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 17:22:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435806070",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 17:22:42",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435805156",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 17:22:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4435597703",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 17:22:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4435801488",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 17:22:44",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-apiux-tech-4432410034",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-07-01 17:22:52",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual es motivo de rechazo inmediato según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-bc-tecnolog%C3%ADa-4432861786",
+        "titulo": "Desarrollador Full-Stack",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-07-01 17:23:11",
+        "calza": false,
+        "motivo": "La oferta no especifica una ubicación permitida (remota o Región del Maule) y el candidato no cumple con el requisito de 2+ años de experiencia ni el título profesional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-reactjs-%2B-node-js-%2B-typescript-at-stefanini-group-4430563879",
+        "titulo": "Desarrollador Full Stack | ReactJS + Node.js + TypeScript",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-07-01 17:23:26",
+        "calza": true,
+        "motivo": "El candidato cumple con los requisitos de backend (Node.js, TypeScript, APIs REST, testing) y, aunque carece de experiencia explícita en ReactJS, su perfil junior/estudiante de Ingeniería Civil Informática y facilidad para el Frontend/Fullstack lo hacen apto para aprender rápidamente, según las reglas de flexibilidad para perfiles Junior/Trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-native-software-engineer-early-career-americas-at-chaingpt-4433887578",
+        "titulo": "AI-Native Software Engineer - Early Career - Americas",
+        "empresa": "ChainGPT",
+        "fecha": "2026-07-01 17:23:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-bice-vida-4432115107",
+        "titulo": "Programador full stack",
+        "empresa": "BICE VIDA",
+        "fecha": "2026-07-01 17:23:41",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Providencia, Santiago, lo cual es una ubicación no permitida por las reglas de filtrado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-softtek-4435340389",
+        "titulo": "Programador full stack",
+        "empresa": "Softtek",
+        "fecha": "2026-07-01 17:23:44",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at-grupo-belator-4430103986",
+        "titulo": "Ingeniero(a) en Desarrollo (Viña del Mar)",
+        "empresa": "Grupo Belator",
+        "fecha": "2026-07-01 17:23:49",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Viña del Mar, lo cual no cumple con las condiciones de ubicación permitidas (100% remota o presencial en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-martech-at-copec-s-a-4429486315",
+        "titulo": "Desarrollador Martech",
+        "empresa": "COPEC S.A.",
+        "fecha": "2026-07-01 17:24:05",
+        "calza": false,
+        "motivo": "La oferta no especifica explícitamente una modalidad de trabajo 100% remota o presencial/híbrida en la Región del Maule, lo cual es un requisito de ubicación obligatorio."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4435598692",
+        "titulo": "QA Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 17:24:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/big-data-engineer-remote-at-hire-feed-4435596376",
+        "titulo": "Big Data Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 17:24:10",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
