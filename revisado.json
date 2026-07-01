@@ -1390,5 +1390,173 @@
         "fecha": "2026-06-30 15:26:38",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida con presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencialidad exclusiva en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4435821283",
+        "titulo": "Desarrollador jr",
+        "empresa": "CONKORD",
+        "fecha": "2026-07-01 15:37:30",
+        "calza": true,
+        "motivo": "El candidato posee conocimientos sólidos en desarrollo de software, bases de datos y APIs, superando los requisitos básicos para perfiles Junior y se alinea perfectamente con la búsqueda de talento emergente."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172",
+        "titulo": "Fullstack Software Engineer",
+        "empresa": "Grupo Falabella",
+        "fecha": "2026-07-01 15:37:46",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en Talca o la Región del Maule, incumpliendo la regla crítica de ubicación obligatoria."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-evertec-4423983580",
+        "titulo": "Full Stack Developer",
+        "empresa": "Evertec",
+        "fecha": "2026-07-01 15:37:56",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes (Santiago), lo cual está fuera de las regiones permitidas (Talca/Maule o 100% remota)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675",
+        "titulo": "Software Engineer",
+        "empresa": "Toku",
+        "fecha": "2026-07-01 15:38:03",
+        "calza": false,
+        "motivo": "La oferta exige vivir y trabajar presencial/híbrido en Santiago (Oficina en Manquehue Nte.), lo cual no cumple con las restricciones de ubicación permitidas (100% remoto o presencial/híbrido exclusivamente en Talca/Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4435581747",
+        "titulo": "Frontend Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:06",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-remote-at-hire-feed-4435593292",
+        "titulo": "Python Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:07",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-entrenamiento-de-ia-at-alignerr-4435372140",
+        "titulo": "Ingeniero de Software (Entrenamiento de IA)",
+        "empresa": "Alignerr",
+        "fecha": "2026-07-01 15:38:08",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-desarrollador-a-ia-junior-proyecto-at-kibernum-4431993309",
+        "titulo": "🤖 Desarrollador/a IA Junior - Proyecto",
+        "empresa": "Kibernum",
+        "fecha": "2026-07-01 15:38:20",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida con asistencia a oficina en Las Condes, Santiago, lo cual incumple la restricción de ubicación, que debe ser 100% remota o en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-scientist-remote-at-hire-feed-4435802112",
+        "titulo": "Data Scientist (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:24",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4435582598",
+        "titulo": "Data Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:24",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-quality-analyst-remote-at-hire-feed-4435589916",
+        "titulo": "Software Quality Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:25",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-remote-at-hire-feed-4435588967",
+        "titulo": "Backend Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:27",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/back-end-java-developer-remote-at-hire-feed-4435594257",
+        "titulo": "Back-End Java Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:28",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/genai-engineer-remote-at-hire-feed-4435802446",
+        "titulo": "GenAI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:28",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4435803187",
+        "titulo": "Data Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4435582592",
+        "titulo": "Data Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:30",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/android-developer-remote-at-hire-feed-4435593277",
+        "titulo": "Android Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4435596277",
+        "titulo": "DevOps Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/cybersecurity-engineer-remote-at-hire-feed-4435800073",
+        "titulo": "Cybersecurity Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:39",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/platform-engineer-remote-at-hire-feed-4435587497",
+        "titulo": "Platform Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:40",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/net-developer-remote-at-hire-feed-4435808023",
+        "titulo": ".NET Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-01 15:38:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
