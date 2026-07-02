@@ -1678,5 +1678,93 @@
         "fecha": "2026-07-01 17:24:10",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436339023",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-02 15:09:54",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436316776",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-02 15:09:55",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436313965",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-02 15:09:56",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436317828",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-02 15:09:57",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-apside-4434357608",
+        "titulo": "Full-Stack Developer",
+        "empresa": "Apside",
+        "fecha": "2026-07-02 15:10:41",
+        "calza": false,
+        "motivo": "El candidato es estudiante sin experiencia profesional, y la oferta exige al menos 3 años de experiencia en el rol."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4431927970",
+        "titulo": "Software Engineer",
+        "empresa": "AgendaPro",
+        "fecha": "2026-07-02 15:10:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack%21-regi%C3%B3n-metropolitana-chile-at-zenta-group-4431134767",
+        "titulo": "Desarrollador/a Full Stack!  Región Metropolitana, Chile",
+        "empresa": "Zenta Group",
+        "fecha": "2026-07-02 15:11:37",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en la Región Metropolitana, lo cual no cumple con los requisitos de ubicación permitidos para el candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-java-%2B-react-at-seidor-4428760795",
+        "titulo": "Desarrollador/a Full Stack Java + React",
+        "empresa": "SEIDOR",
+        "fecha": "2026-07-02 15:11:40",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-web-angular-react-y-typescript-at-matchfy-ag%C3%AAncia-digital-4423560455",
+        "titulo": "Desarrollador/a Web (Angular, React y TypeScript)",
+        "empresa": "MatchFY Agência Digital",
+        "fecha": "2026-07-02 15:13:04",
+        "calza": true,
+        "motivo": "El candidato es un perfil junior con TypeScript sólido y aptitud para el frontend, pero no demuestra el dominio excluyente de Angular y React requerido por la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-prestashop-integraciones-apis-at-kibernum-4427865200",
+        "titulo": "Desarrollador Prestashop / integraciones / APIS",
+        "empresa": "Kibernum",
+        "fecha": "2026-07-02 15:13:27",
+        "calza": true,
+        "motivo": "El candidato no cumple con requisitos excluyentes específicos como experiencia comprobable en Prestashop y Arquitectura Hexagonal; sin embargo, sus sólidos fundamentos en Node.js, TypeScript, APIs y bases de datos, sumado a su perfil de estudiante junior con capacidad de rápido aprendizaje y facilidad para Frontend y Fullstack, lo hacen un candidato cercano para considerar su potencial."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-python-angular-cl-at-imagemaker-4435810409",
+        "titulo": "Desarrollador FullStack Python/Angular - CL",
+        "empresa": "Imagemaker",
+        "fecha": "2026-07-02 15:13:46",
+        "calza": true,
+        "motivo": "El candidato tiene un fuerte perfil en Python y TypeScript, con experiencia backend, lo que lo hace cercano al rol FullStack Python/Angular, a pesar de carecer de experiencia explícita en Angular, GCP (mandatorio) y SAP, se valora su capacidad de aprendizaje rápido para un perfil junior."
     }
 ]
