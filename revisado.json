@@ -1766,5 +1766,157 @@
         "fecha": "2026-07-02 15:13:46",
         "calza": true,
         "motivo": "El candidato tiene un fuerte perfil en Python y TypeScript, con experiencia backend, lo que lo hace cercano al rol FullStack Python/Angular, a pesar de carecer de experiencia explícita en Angular, GCP (mandatorio) y SAP, se valora su capacidad de aprendizaje rápido para un perfil junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/graphic-design-and-frontend-intern-at-levera-web-4433110512",
+        "titulo": "Graphic Design And Frontend Intern",
+        "empresa": "levera.web",
+        "fecha": "2026-07-03 15:05:33",
+        "calza": true,
+        "motivo": "El candidato tiene un perfil técnico sólido en programación (JavaScript, TypeScript) y aptitud para el frontend, lo cual se alinea con la parte de 'programación frontend' de la oferta para un rol de Intern, y la ubicación remota es compatible, aunque carece de experiencia explícita en diseño gráfico."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436725215",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:37",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436736257",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:38",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436734371",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:39",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436729575",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:39",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-remote-at-hire-feed-4436728123",
+        "titulo": "Frontend Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:40",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-remote-at-hire-feed-4436726164",
+        "titulo": "Frontend Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-web-developer-wix-enterprise-remote-latin-america-at-fullstack-4436105866",
+        "titulo": "Junior Web Developer (Wix Enterprise) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-07-03 15:05:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-web-developer-wix-enterprise-remote-latin-america-at-fullstack-4436122409",
+        "titulo": "Junior Web Developer (Wix Enterprise) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-07-03 15:05:42",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4436718579",
+        "titulo": "Frontend Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-remote-at-hire-feed-4436730476",
+        "titulo": "Python Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4436725441",
+        "titulo": "Data Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:44",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-scientist-remote-at-hire-feed-4436738190",
+        "titulo": "Data Scientist (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-03 15:05:45",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-acl-4433116733",
+        "titulo": "Programador full stack",
+        "empresa": "ACL",
+        "fecha": "2026-07-03 15:05:45",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-junior-at-fundamenta-4435897583",
+        "titulo": "Ingeniero Informático Junior",
+        "empresa": "Fundamenta",
+        "fecha": "2026-07-03 15:05:52",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual es un motivo de rechazo inmediato según las reglas críticas de ubicación, ya que el candidato es de la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-java-at-kibernum-4431983291",
+        "titulo": "Desarrollador Fullstack Java",
+        "empresa": "Kibernum",
+        "fecha": "2026-07-03 15:06:01",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Providencia (Región Metropolitana), lo cual no cumple con las reglas de ubicación de la oferta (100% remota o presencial/híbrida en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-at-sfl-consulting-limitada-4430105995",
+        "titulo": "Desarrollador Back End",
+        "empresa": "SFL Consulting Limitada",
+        "fecha": "2026-07-03 15:06:23",
+        "calza": false,
+        "motivo": "La oferta no especifica ser 100% remota o presencial/híbrida exclusivamente en la Región del Maule, incumpliendo la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-42labs-4435055217",
+        "titulo": "Full-Stack Developer",
+        "empresa": "42Labs",
+        "fecha": "2026-07-03 15:06:47",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial en Talca/Región del Maule, lo cual es un requisito de ubicación crítico y excluyente para el candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-python-at-perform-4398407324",
+        "titulo": "Full Stack Developer (Python)",
+        "empresa": "Perform",
+        "fecha": "2026-07-03 15:07:04",
+        "calza": true,
+        "motivo": "El candidato posee un perfil fuerte en Python e IA relevante para la oferta, pero carece de experiencia explícita y práctica con AWS y Azure, lo que lo convierte en un perfil cercano para el puesto junior."
     }
 ]
