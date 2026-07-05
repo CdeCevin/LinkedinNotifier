@@ -2086,5 +2086,125 @@
         "fecha": "2026-07-04 14:25:38",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436799178",
+        "titulo": "Software Engineer",
+        "empresa": "Fingo",
+        "fecha": "2026-07-05 14:27:16",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica la ubicación (remota, presencial, híbrida), por lo que no cumple con el requisito crítico de ser 100% remota o en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026",
+        "titulo": "Software Engineer",
+        "empresa": "Fingo",
+        "fecha": "2026-07-05 14:27:31",
+        "calza": true,
+        "motivo": "El candidato posee una sólida base en lenguajes como Python, JavaScript y TypeScript, y diversas bases de datos SQL y NoSQL, con experiencia en desarrollo backend y testing que se alinea con los requisitos de 0-2 años, siendo un perfil junior apto para aprender las tecnologías deseables como Django y React."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-netaxion-4436797225",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "Netaxion",
+        "fecha": "2026-07-05 14:27:42",
+        "calza": false,
+        "motivo": "La oferta de empleo exige modalidad presencial en Providencia (Santiago), lo cual incumple la regla crítica de ubicación del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-geovictoria-4435409192",
+        "titulo": "Software Engineer",
+        "empresa": "GeoVictoria",
+        "fecha": "2026-07-05 14:27:58",
+        "calza": true,
+        "motivo": "Su experiencia en desarrollo backend, integración de IA y testing automatizado se alinea con las responsabilidades del cargo, siendo un candidato prometedor para un rol junior/trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-at-banchile-inversiones-4429528360",
+        "titulo": "Desarrollador",
+        "empresa": "Banchile Inversiones",
+        "fecha": "2026-07-05 14:28:17",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica una modalidad 100% remota ni una ubicación presencial exclusiva en Talca o la Región del Maule, lo que implica una ubicación en una región no aceptada por las reglas críticas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-node-js-react-aws-at-witi-4428096093",
+        "titulo": "Desarrollador Full-Stack (Node.js | React | AWS)",
+        "empresa": "WiTI",
+        "fecha": "2026-07-05 14:28:21",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4437102342",
+        "titulo": "QA Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:21",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-developer-remote-at-hire-feed-4436987799",
+        "titulo": "Salesforce Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/back-end-java-developer-remote-at-hire-feed-4436998483",
+        "titulo": "Back-End Java Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:23",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4437103301",
+        "titulo": "AI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:23",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analytics-engineer-remote-at-hire-feed-4437106288",
+        "titulo": "Analytics Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:24",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-developer-remote-at-hire-feed-4436996749",
+        "titulo": "Salesforce Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:25",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4437100400",
+        "titulo": "AI Agent Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:26",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/net-developer-remote-at-hire-feed-4436993784",
+        "titulo": "NET Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:26",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/genai-engineer-remote-at-hire-feed-4436991728",
+        "titulo": "GenAI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-05 14:28:27",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
