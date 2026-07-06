@@ -2206,5 +2206,109 @@
         "fecha": "2026-07-05 14:28:27",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4437180513",
+        "titulo": "Frontend Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:24",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-remote-at-hire-feed-4437199086",
+        "titulo": "Python Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:24",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4437178705",
+        "titulo": "Data Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:25",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-scientist-remote-at-hire-feed-4437192101",
+        "titulo": "Data Scientist (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:26",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-web-developer-wix-enterprise-remote-latin-america-at-fullstack-4436105868",
+        "titulo": "Junior Web Developer (Wix Enterprise) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-07-06 16:15:27",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4437179616",
+        "titulo": "AI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:28",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analytics-engineer-remote-at-hire-feed-4437401040",
+        "titulo": "Analytics Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4437176931",
+        "titulo": "AI Agent Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/genai-engineer-remote-at-hire-feed-4437177947",
+        "titulo": "GenAI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:30",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4437185257",
+        "titulo": "QA Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-developer-remote-at-hire-feed-4437183629",
+        "titulo": "Salesforce Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/net-developer-remote-at-hire-feed-4437400068",
+        "titulo": "NET Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-06 16:15:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/qa-automatizador-at-haulmer-4434628997",
+        "titulo": "QA Automatizador",
+        "empresa": "Haulmer",
+        "fecha": "2026-07-06 16:15:47",
+        "calza": true,
+        "motivo": "El candidato tiene experiencia en automatización de pruebas con Playwright y K6, domina TypeScript y Python, y la oferta es 100% remota, pero su experiencia es de un proyecto universitario y no cumple los 2-3 años formales."
     }
 ]
