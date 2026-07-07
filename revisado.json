@@ -2310,5 +2310,133 @@
         "fecha": "2026-07-06 16:15:47",
         "calza": true,
         "motivo": "El candidato tiene experiencia en automatización de pruebas con Playwright y K6, domina TypeScript y Python, y la oferta es 100% remota, pero su experiencia es de un proyecto universitario y no cumple los 2-3 años formales."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-trainee-at-getdata-cl-4433979231",
+        "titulo": "Desarrollador Full Stack (Trainee)",
+        "empresa": "Getdata (CL)",
+        "fecha": "2026-07-07 15:41:55",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual no cumple con las restricciones de ubicación (100% remoto o presencial/híbrido exclusivamente en Talca/Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-at-mok-4437802905",
+        "titulo": "Developer",
+        "empresa": "MOK",
+        "fecha": "2026-07-07 15:42:10",
+        "calza": true,
+        "motivo": "El candidato posee un sólido perfil backend con Node.js y bases de datos relacionales, y aunque su experiencia laboral explícita no alcanza el +1 año requerido, su proyecto relevante y perfil junior con facilidad de aprendizaje lo hacen un candidato muy cercano y prometedor para el rol."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4436253506",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-07 15:42:28",
+        "calza": true,
+        "motivo": "El candidato tiene un nivel intermedio-avanzado de Python y experiencia relevante en proyectos backend como desarrollador, y la oferta es 100% remota. Aunque no cumple con 1 año de experiencia profesional explícita, su perfil es junior y tiene facilidad para aprender, por lo que es un candidato cercano."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/react-developer-remote-at-hire-feed-4437774830",
+        "titulo": "React Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-07 15:42:33",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4437777483",
+        "titulo": "Frontend Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-07 15:42:33",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-remote-at-hire-feed-4437786293",
+        "titulo": "Python Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-07 15:42:34",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-scientist-remote-at-hire-feed-4437773936",
+        "titulo": "Data Scientist (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-07 15:42:34",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4437789591",
+        "titulo": "Data Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-07 15:42:35",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-quality-analyst-remote-at-hire-feed-4437784343",
+        "titulo": "Software Quality Analyst (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-07 15:42:36",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-backend-java-pl-sql-batch-at-accenture-chile-4435417243",
+        "titulo": "Desarrollador/a Backend (Java/PL-SQL/Batch)",
+        "empresa": "Accenture Chile",
+        "fecha": "2026-07-07 15:42:48",
+        "calza": true,
+        "motivo": "El candidato es un estudiante sin los 2 años de experiencia profesional requeridos para Java y PL/SQL, pero demuestra conocimientos sólidos en estas tecnologías y una experiencia relevante en proyectos backend."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-at-getronics-4428281135",
+        "titulo": "Desarrollador Python",
+        "empresa": "Getronics",
+        "fecha": "2026-07-07 15:43:03",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida sin especificar una ubicación aceptable (Talca o Región del Maule), lo que incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-sw-4-at-sonda-4434079444",
+        "titulo": "Desarrollador de SW 4",
+        "empresa": "SONDA",
+        "fecha": "2026-07-07 15:43:17",
+        "calza": false,
+        "motivo": "Se rechaza por no especificar la ubicación del trabajo híbrido en Talca/Maule o ser 100% remoto, y por la falta de experiencia (3+ años) y tecnologías clave (.NET) para el rol ofrecido."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-back-end-at-banco-falabella-4437470106",
+        "titulo": "Desarrollador de back-end",
+        "empresa": "Banco Falabella",
+        "fecha": "2026-07-07 15:43:34",
+        "calza": false,
+        "motivo": "La oferta exige +4 años de experiencia en Java + Spring Boot, un perfil mucho más senior que el del candidato, y no especifica modalidad remota o ubicación compatible con las reglas críticas (Talca/Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-java-at-groupe-sii-4425913140",
+        "titulo": "Desarrollador Backend (Java)",
+        "empresa": "Groupe SII",
+        "fecha": "2026-07-07 15:43:45",
+        "calza": true,
+        "motivo": "El candidato tiene conocimientos intermedios de Java y experiencia en desarrollo backend con APIs REST y testing, lo que lo hace un perfil cercano a pesar de no especificar experiencia directa con Spring Boot, siendo un perfil junior con potencial."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-python-at-perform-4415692509",
+        "titulo": "Full Stack Developer (Python)",
+        "empresa": "Perform",
+        "fecha": "2026-07-07 15:43:49",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/growth-engineer-i-at-xepelin-4414912034",
+        "titulo": "Growth Engineer I",
+        "empresa": "Xepelin",
+        "fecha": "2026-07-07 15:44:05",
+        "calza": true,
+        "motivo": "El candidato cumple con los requisitos tecnológicos de Javascript y Python, experiencia con APIs REST, y manejo de bases de datos, y su perfil junior y capacidad de aprendizaje rápido, especialmente en tecnologías de frontend/fullstack, lo hace un excelente fit para un rol de Growth Engineer. Además, la ubicación remota y el nivel de inglés intermedio son compatibles con la oferta."
     }
 ]
