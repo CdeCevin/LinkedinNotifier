@@ -2438,5 +2438,133 @@
         "fecha": "2026-07-07 15:44:05",
         "calza": true,
         "motivo": "El candidato cumple con los requisitos tecnológicos de Javascript y Python, experiencia con APIs REST, y manejo de bases de datos, y su perfil junior y capacidad de aprendizaje rápido, especialmente en tecnologías de frontend/fullstack, lo hace un excelente fit para un rol de Growth Engineer. Además, la ubicación remota y el nivel de inglés intermedio son compatibles con la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438203827",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:08",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438201748",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438210469",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4438210610",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:10",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4438212482",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:11",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4438199908",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:12",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/integration-analyst-at-buk-4436878142",
+        "titulo": "Integration Analyst",
+        "empresa": "Buk",
+        "fecha": "2026-07-08 15:14:24",
+        "calza": true,
+        "motivo": "El candidato cumple con la formación, tiene experiencia relevante en desarrollo de APIs e integración de IA, y su perfil técnico se alinea con el stack core y la modalidad remota de la oferta, siendo un gran match para un perfil Junior/Trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-web-at-bc-global-4434560196",
+        "titulo": "Desarrollador web",
+        "empresa": "BC Global",
+        "fecha": "2026-07-08 15:14:36",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en la comuna de Las Condes (Santiago), lo cual está fuera de la Región del Maule y no es 100% remota, incumpliendo las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4438217047",
+        "titulo": "AI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:39",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analytics-engineer-remote-at-hire-feed-4438193975",
+        "titulo": "Analytics Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:40",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4438203902",
+        "titulo": "AI Agent Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4438214255",
+        "titulo": "QA Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:14:42",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-automation-developer-at-red-pine-solutions-4433975259",
+        "titulo": "Backend & Automation Developer",
+        "empresa": "Red Pine Solutions",
+        "fecha": "2026-07-08 15:14:56",
+        "calza": true,
+        "motivo": "El candidato posee un excelente match técnico con el stack de la oferta (Node.js, Express, MongoDB, APIs, testing, IA) y perfil Junior/Mid, pero la modalidad híbrida sin especificar ubicación del puesto en Maule genera incertidumbre de compatibilidad inicial."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-developer-remote-at-hire-feed-4438201918",
+        "titulo": "Salesforce Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:15:00",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/genai-engineer-remote-at-hire-feed-4438208647",
+        "titulo": "GenAI Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:15:01",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4438220120",
+        "titulo": "Data Engineer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-08 15:15:02",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
