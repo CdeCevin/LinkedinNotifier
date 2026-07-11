@@ -2878,5 +2878,69 @@
         "fecha": "2026-07-10 15:28:44",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4439557440",
+        "titulo": "Junior Software Engineer – Remote",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-11 14:19:51",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-remote-at-hire-feed-4439549647",
+        "titulo": "Frontend Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-11 14:19:52",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-remote-at-hire-feed-4439555477",
+        "titulo": "Frontend Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-11 14:19:53",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-at-sii-group-chile-4437446917",
+        "titulo": "Desarrollador Back End",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-07-11 14:20:00",
+        "calza": false,
+        "motivo": "La modalidad híbrida exige presencialidad en Tobalaba (Santiago), lo cual incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-node-js-trabajo-remoto-at-bairesdev-4436216872",
+        "titulo": "Desarrollador Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-11 14:20:12",
+        "calza": false,
+        "motivo": "Se rechaza la oferta porque exige un nivel avanzado de inglés, y el candidato solo posee un nivel intermedio, lo cual es una regla crítica de descarte."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-springboot-at-softtek-4438107373",
+        "titulo": "FullStack Springboot",
+        "empresa": "Softtek",
+        "fecha": "2026-07-11 14:20:26",
+        "calza": true,
+        "motivo": "El candidato no cumple con el requisito de 3 años de experiencia en roles Full Stack, pero posee fundamentos sólidos en Java, TypeScript y Oracle SQL, haciendo su perfil cercano para una posición junior o de entrada."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-160k-4438527366",
+        "titulo": "Programador full stack",
+        "empresa": "160K",
+        "fecha": "2026-07-11 14:20:42",
+        "calza": false,
+        "motivo": "La oferta exige 5+ años de experiencia en desarrollo Fullstack con React y Java Spring Boot, mientras el candidato es estudiante y no posee dicha experiencia ni el nivel sénior requerido."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-front-end-at-confidential-tech-company-latam-4438857883",
+        "titulo": "Desarrollador/a Front-End",
+        "empresa": "Confidential Tech Company LATAM",
+        "fecha": "2026-07-11 14:20:45",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
