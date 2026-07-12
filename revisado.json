@@ -2942,5 +2942,93 @@
         "fecha": "2026-07-11 14:20:45",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-full-stack-at-inge%21-4439583351",
+        "titulo": "Desarrollador Junior Full-Stack",
+        "empresa": "InGe!",
+        "fecha": "2026-07-12 14:24:20",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-jr-de-visualizaci%C3%B3n-%E2%80%93-tableau-%F0%9F%99%8C-at-apiux-tech-4435904557",
+        "titulo": "Ingeniero Jr. de Visualización – Tableau 🙌",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-07-12 14:24:35",
+        "calza": true,
+        "motivo": "La oferta exige dominio \"Excluyente\" de Tableau, herramienta que el candidato no domina, pero su experiencia con Power BI, SQL y Python lo hace un perfil cercano para un rol de BI Junior con potencial de aprendizaje rápido."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-angular-full-stack-engineer-at-epam-systems-4412284643",
+        "titulo": "Lead Angular Full Stack Engineer",
+        "empresa": "EPAM Systems",
+        "fecha": "2026-07-12 14:24:40",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-salesforce-developer-sales-service-cloud-at-atmira-4432349699",
+        "titulo": "Senior Salesforce Developer (Sales & Service Cloud)",
+        "empresa": "atmira",
+        "fecha": "2026-07-12 14:24:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/android-developer-senior-at-sovos-latinoam%C3%A9rica-4437493433",
+        "titulo": "Android Developer Senior",
+        "empresa": "Sovos Latinoamérica",
+        "fecha": "2026-07-12 14:24:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-backend-engineer-at-copilot-money-4294618107",
+        "titulo": "Senior Backend Engineer",
+        "empresa": "Copilot Money",
+        "fecha": "2026-07-12 14:24:42",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/android-developer-senior-at-sovos-4437453344",
+        "titulo": "Android Developer Senior",
+        "empresa": "Sovos",
+        "fecha": "2026-07-12 14:24:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-angular-full-stack-engineer-at-epam-systems-4412277700",
+        "titulo": "Senior Angular Full Stack Engineer",
+        "empresa": "EPAM Systems",
+        "fecha": "2026-07-12 14:24:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-ios-developer-at-grupo-falabella-4439076626",
+        "titulo": "Senior iOS Developer",
+        "empresa": "Grupo Falabella",
+        "fecha": "2026-07-12 14:24:44",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-at-tessera-data-4439724328",
+        "titulo": "Senior Software Engineer",
+        "empresa": "Tessera Data",
+        "fecha": "2026-07-12 14:24:45",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-frontend-next-js-at-impulsa-consultores-4436685463",
+        "titulo": "Desarrollador de Frontend Next.js",
+        "empresa": "Impulsa Consultores",
+        "fecha": "2026-07-12 14:24:59",
+        "calza": true,
+        "motivo": "El candidato no cumple con los 2+ años de experiencia en desarrollo frontend solicitados, pero posee sólidas bases en JavaScript y TypeScript y el perfil junior para aprender rápidamente."
     }
 ]
