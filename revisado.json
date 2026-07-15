@@ -3350,5 +3350,117 @@
         "fecha": "2026-07-14 14:45:10",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4440989270",
+        "titulo": "Product Engineer Full-Stack Trainee / Junior",
+        "empresa": "WHO&Co.",
+        "fecha": "2026-07-15 14:44:08",
+        "calza": true,
+        "motivo": "El candidato se alinea perfectamente con la oferta que busca potencial y capacidad de aprendizaje sobre experiencia específica, posee sólidos conocimientos en desarrollo web, bases de datos, habilidades en IA relevantes, y su perfil junior/trainee encaja con el foco en la construcción de productos digitales."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440972528",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-15 14:44:12",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440978145",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-15 14:44:12",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440959929",
+        "titulo": "Junior Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-15 14:44:13",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4440962930",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-15 14:44:14",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4440976279",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-15 14:44:20",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4440968532",
+        "titulo": "Entry Level Software Developer (Remote)",
+        "empresa": "Hire Feed",
+        "fecha": "2026-07-15 14:44:21",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-neuralworks-4439905864",
+        "titulo": "Software Engineer",
+        "empresa": "NeuralWorks",
+        "fecha": "2026-07-15 14:44:34",
+        "calza": true,
+        "motivo": "Aunque el candidato no cumple con los 3 años de experiencia solicitados, su perfil de estudiante de Ingeniería Civil Informática con experiencia en proyectos (Python, JS, IA, testing) y el inglés requerido para lectura, lo hace un candidato cercano y con alto potencial para el puesto, acorde a la invitación de la oferta a postular aunque no se cumplan todos los requisitos."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-vitacura-at-salfa-rent-4440203361",
+        "titulo": "FULLSTACK DEVELOPER - VITACURA",
+        "empresa": "Salfa Rent",
+        "fecha": "2026-07-15 14:44:52",
+        "calza": true,
+        "motivo": "El candidato es un perfil junior muy prometedor con sólida base en TypeScript, Node.js, APIs y testing, alineado con las tecnologías valoradas y el enfoque de la empresa en el aprendizaje, cumpliendo las reglas de ubicación e inglés."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-at-sermaluc-4440806024",
+        "titulo": "Desarrollador Backend",
+        "empresa": "Sermaluc",
+        "fecha": "2026-07-15 14:45:05",
+        "calza": false,
+        "motivo": "El candidato no cumple con los 4 años de experiencia en Java 8+ y Spring Boot requeridos para el puesto, su experiencia principal es en Node.js y aún es estudiante."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-javascript-at-epam-systems-4437660700",
+        "titulo": "Frontend Developer (JavaScript)",
+        "empresa": "EPAM Systems",
+        "fecha": "2026-07-15 14:45:07",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-everseek-4438072723",
+        "titulo": "Software Engineer",
+        "empresa": "Everseek",
+        "fecha": "2026-07-15 14:45:08",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-front-end-at-getdata-cl-4436631859",
+        "titulo": "Desarrollador Front-End",
+        "empresa": "Getdata (CL)",
+        "fecha": "2026-07-15 14:45:19",
+        "calza": true,
+        "motivo": "El candidato posee una sólida base en JavaScript y TypeScript, experiencia en Node.js y APIs RESTful que son deseables en la oferta, y su perfil junior y capacidad de aprendizaje rápido lo hacen un candidato cercano para las tecnologías de frontend requeridas como Angular e Ionic/Capacitor, cumpliendo además con la flexibilidad de ubicación remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-java%2Bangular-at-stefanini-latam-4439453811",
+        "titulo": "Desarrollador Fullstack (JAVA+Angular)",
+        "empresa": "Stefanini LATAM",
+        "fecha": "2026-07-15 14:45:44",
+        "calza": false,
+        "motivo": "El candidato no cumple con la mayoría de los requisitos técnicos excluyentes de la oferta, incluyendo tecnologías clave como Spring Boot, Kafka, Kubernetes y Azure, a pesar de tener Java y MongoDB."
     }
 ]
