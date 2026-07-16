@@ -3462,5 +3462,45 @@
         "fecha": "2026-07-15 14:45:44",
         "calza": false,
         "motivo": "El candidato no cumple con la mayoría de los requisitos técnicos excluyentes de la oferta, incluyendo tecnologías clave como Spring Boot, Kafka, Kubernetes y Azure, a pesar de tener Java y MongoDB."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/java-trainee-j%C3%B3ven-profesional-ingenier%C3%ADa-inform%C3%A1tica-at-indra-group-4438422838",
+        "titulo": "Java Trainee | Jóven Profesional Ingeniería Informática",
+        "empresa": "Indra Group",
+        "fecha": "2026-07-16 14:55:12",
+        "calza": true,
+        "motivo": "La oferta no especifica la ubicación, la cual es un requisito crítico. Sin embargo, el perfil del candidato es un buen ajuste para las tecnologías y la experiencia requeridas en un rol junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-inform%C3%A1tico-a-junior-formaci%C3%B3n-en-gemelos-digitales-y-tecnolog%C3%ADas-at-segsal-latam-spa-4441243874",
+        "titulo": "Ingeniero/a informático/a Junior. Formación en Gemelos Digitales y Tecnologías",
+        "empresa": "SEGSAL LATAM SpA",
+        "fecha": "2026-07-16 14:55:29",
+        "calza": true,
+        "motivo": "El candidato cumple con los requisitos técnicos fundamentales, el perfil junior/en titulación y la oferta ofrece la capacitación necesaria para las tecnologías específicas, sin exigir inglés fluido ni una ubicación presencial restrictiva fuera del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-banco-de-chile-4441242778",
+        "titulo": "Desarrollador Fullstack.",
+        "empresa": "Banco de Chile",
+        "fecha": "2026-07-16 14:55:45",
+        "calza": false,
+        "motivo": "El candidato es estudiante y no cumple con el requisito de ser titulado/egresado ni con los 3 años de experiencia profesional mínima, además de no dominar las tecnologías clave como Spring/Springboot y Angular en el nivel requerido para un puesto Fullstack de 3+ años de experiencia."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developers-at-deloitte-4441265357",
+        "titulo": "Full Stack Developers",
+        "empresa": "Deloitte",
+        "fecha": "2026-07-16 14:56:04",
+        "calza": true,
+        "motivo": "El candidato tiene un perfil junior/estudiante y no cumple con los 3-5 años de experiencia requeridos, pero posee habilidades técnicas relevantes (Node.js, Python, TypeScript, APIs) y potencial para el rol Full Stack."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-por-proyecto-at-matchfy-ag%C3%AAncia-digital-4441244815",
+        "titulo": "Desarrollador Full-stack (Por proyecto)",
+        "empresa": "MatchFY Agência Digital",
+        "fecha": "2026-07-16 14:56:23",
+        "calza": false,
+        "motivo": "El candidato tiene un perfil sólido en desarrollo backend con Node.js, Express.js y TypeScript, pero carece de experiencia explícita en desarrollo frontend web o móvil, y la oferta exige React Native de forma excluyente para un rol Full Stack."
     }
 ]
