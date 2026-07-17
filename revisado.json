@@ -3502,5 +3502,37 @@
         "fecha": "2026-07-16 14:56:23",
         "calza": false,
         "motivo": "El candidato tiene un perfil sólido en desarrollo backend con Node.js, Express.js y TypeScript, pero carece de experiencia explícita en desarrollo frontend web o móvil, y la oferta exige React Native de forma excluyente para un rol Full Stack."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-sw-programa-fresh-graduates-at-sonda-4439337968",
+        "titulo": "Desarrollador de SW- Programa Fresh Graduates",
+        "empresa": "SONDA",
+        "fecha": "2026-07-17 14:27:36",
+        "calza": false,
+        "motivo": "La oferta exige dominio avanzado de inglés, lo cual no cumple el candidato, y la ubicación no se especifica como 100% remota o en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-sw-programa-fresh-graduates-at-sonda-4438815482",
+        "titulo": "Desarrollador de SW- Programa Fresh Graduates",
+        "empresa": "SONDA",
+        "fecha": "2026-07-17 14:27:52",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito de dominio avanzado de inglés, y la oferta no especifica una modalidad 100% remota ni presencial exclusiva en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/semi-senior-react-native-developer-remote-work-ref%23296558-at-bairesdev-4435340367",
+        "titulo": "Semi Senior React Native Developer - Remote Work | REF#296558",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-17 14:27:56",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/semi-senior-react-native-developer-remote-work-ref%23296990-at-bairesdev-4438253995",
+        "titulo": "Semi Senior React Native Developer - Remote Work | REF#296990",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-17 14:27:56",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
