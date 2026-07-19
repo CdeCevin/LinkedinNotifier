@@ -3542,5 +3542,21 @@
         "fecha": "2026-07-18 14:18:09",
         "calza": false,
         "motivo": "La oferta no especifica que sea 100% remota o con ubicación presencial/híbrida exclusiva en la Región del Maule, lo cual es un requisito crítico."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-entrenamiento-de-ia-at-alignerr-4441902457",
+        "titulo": "Ingeniero de Software (Entrenamiento de IA)",
+        "empresa": "Alignerr",
+        "fecha": "2026-07-19 14:21:50",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-engineer-at-zubale-4442175815",
+        "titulo": "Product Engineer",
+        "empresa": "Zubale",
+        "fecha": "2026-07-19 14:21:51",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
