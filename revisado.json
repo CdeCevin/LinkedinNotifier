@@ -3558,5 +3558,29 @@
         "fecha": "2026-07-19 14:21:51",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-at-btg-pactual-chile-4442714987",
+        "titulo": "Python Developer",
+        "empresa": "BTG Pactual Chile",
+        "fecha": "2026-07-20 15:05:55",
+        "calza": false,
+        "motivo": "El candidato no cumple con el nivel de inglés avanzado requerido por la oferta y la ubicación geográfica no se ajusta a las restricciones."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-sales-representative-at-quectel-4433285813",
+        "titulo": "Junior Sales Representative",
+        "empresa": "Quectel",
+        "fecha": "2026-07-20 15:05:58",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/concurso-e-242026-desarrollador-junior-de-sistemas-at-universidad-austral-de-chile-4435685682",
+        "titulo": "Concurso E-242026 - Desarrollador Junior de Sistemas",
+        "empresa": "Universidad Austral de Chile",
+        "fecha": "2026-07-20 15:06:13",
+        "calza": false,
+        "motivo": "La oferta es para una institución (UACH) ubicada fuera de la Región del Maule y no especifica ser 100% remota, incumpliendo la regla crítica de ubicación."
     }
 ]
