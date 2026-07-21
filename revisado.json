@@ -3582,5 +3582,53 @@
         "fecha": "2026-07-20 15:06:13",
         "calza": false,
         "motivo": "La oferta es para una institución (UACH) ubicada fuera de la Región del Maule y no especifica ser 100% remota, incumpliendo la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442224494",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-21 15:00:01",
+        "calza": true,
+        "motivo": "El candidato tiene sólidos conocimientos en Python y experiencia en desarrollo backend que se alinea con el perfil Junior, aunque la experiencia formal de 1 año y el nivel de inglés podrían requerir revisión."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-front-react-cl-at-imagemaker-4442792429",
+        "titulo": "Desarrollador Front React - CL",
+        "empresa": "Imagemaker",
+        "fecha": "2026-07-21 15:00:05",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollo-de-software-at-btg-pactual-chile-4442714987",
+        "titulo": "Desarrollo de Software",
+        "empresa": "BTG Pactual Chile",
+        "fecha": "2026-07-21 15:00:13",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito de inglés avanzado solicitado en la oferta, ya que solo posee nivel intermedio para lectura de documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-test-automation-engineer-java-at-epam-systems-4412294731",
+        "titulo": "Lead Test Automation Engineer (Java)",
+        "empresa": "EPAM Systems",
+        "fecha": "2026-07-21 15:00:16",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-android-senior-smartpos-plataformas-de-pago-at-techsolution-4438817416",
+        "titulo": "Desarrollador Android Senior (SmartPOS / Plataformas de Pago)",
+        "empresa": "TECHSOLUTION",
+        "fecha": "2026-07-21 15:00:17",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-kibernum-4440407192",
+        "titulo": "Programador full stack",
+        "empresa": "Kibernum",
+        "fecha": "2026-07-21 15:00:47",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago (Las Condes), lo cual no cumple con las reglas críticas de ubicación del candidato (solo Remoto o presencial/híbrido en la Región del Maule)."
     }
 ]
