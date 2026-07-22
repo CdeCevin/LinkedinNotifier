@@ -3630,5 +3630,13 @@
         "fecha": "2026-07-21 15:00:47",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago (Las Condes), lo cual no cumple con las reglas críticas de ubicación del candidato (solo Remoto o presencial/híbrido en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-mobile-ios-senior-at-tinet-s-a-4439857523",
+        "titulo": "Desarrollador Mobile iOS Senior",
+        "empresa": "TINET S.A.",
+        "fecha": "2026-07-22 14:59:47",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
