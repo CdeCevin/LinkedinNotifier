@@ -3638,5 +3638,29 @@
         "fecha": "2026-07-22 14:59:47",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-backend-tech-lead-investigaci%C3%B3n-%2B-desarrollo-trabajo-remoto-at-bairesdev-4442078983",
+        "titulo": "Python Backend Tech Lead / Investigación + Desarrollo - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-24 14:48:46",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-at-tessera-data-4444422802",
+        "titulo": "Senior Software Engineer",
+        "empresa": "Tessera Data",
+        "fecha": "2026-07-24 14:48:47",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-wild-lama-4444469268",
+        "titulo": "Desarrollador/a Full Stack",
+        "empresa": "Wild Lama",
+        "fecha": "2026-07-24 14:48:53",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual viola la regla crítica de ubicación que demanda rechazo inmediato para este tipo de localización."
     }
 ]
