@@ -3662,5 +3662,13 @@
         "fecha": "2026-07-24 14:48:53",
         "calza": false,
         "motivo": "La oferta exige presencialidad en Santiago, lo cual viola la regla crítica de ubicación que demanda rechazo inmediato para este tipo de localización."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-evertec-4443439272",
+        "titulo": "Full Stack Developer",
+        "empresa": "Evertec",
+        "fecha": "2026-07-25 14:28:00",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes (Santiago), lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
