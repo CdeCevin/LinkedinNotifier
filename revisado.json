@@ -3678,5 +3678,29 @@
         "fecha": "2026-07-26 14:26:05",
         "calza": false,
         "motivo": "La oferta de empleo exige presencialidad en Conchalí, Santiago, lo cual no calza con la política de ubicación que permite solo Talca/Maule o modalidad remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/application-developer-student-conversion-at-ibm-4441837438",
+        "titulo": "Application Developer - Student Conversion",
+        "empresa": "IBM",
+        "fecha": "2026-07-27 15:38:47",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-at-global66-4444020641",
+        "titulo": "Backend Developer",
+        "empresa": "Global66",
+        "fecha": "2026-07-27 15:38:57",
+        "calza": true,
+        "motivo": "El candidato, aunque es estudiante y no egresado con un año de experiencia formal, posee un perfil técnico avanzado en backend con Node.js, Express.js e integración de IA, lo cual es muy relevante para la oferta AI-First."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-fundamenta-4435897583",
+        "titulo": "Ingeniero Informático",
+        "empresa": "Fundamenta",
+        "fecha": "2026-07-27 15:39:07",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual no cumple con la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
