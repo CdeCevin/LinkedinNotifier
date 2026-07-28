@@ -3702,5 +3702,45 @@
         "fecha": "2026-07-27 15:39:07",
         "calza": false,
         "motivo": "La oferta exige presencialidad en Santiago, lo cual no cumple con la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4445164557",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-28 15:15:22",
+        "calza": false,
+        "motivo": "La oferta exige un 'buen nivel de inglés', lo cual entra en conflicto con el nivel 'Intermedio' del candidato, que según las reglas implica solo lectura de documentación y no fluidez conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4445173105",
+        "titulo": "Desarrollador Java Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-07-28 15:15:34",
+        "calza": false,
+        "motivo": "La oferta exige explícitamente un 'Buen nivel de inglés', lo cual entra en conflicto directo con la regla crítica de que el candidato no habla inglés fluido y solo lee documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior%F0%9F%92%A1-at-apiux-tech-4442878233",
+        "titulo": "Desarrollador Python Junior💡",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-07-28 15:15:48",
+        "calza": false,
+        "motivo": "La oferta exige modalidad de trabajo híbrida sin especificar que las oficinas del cliente se ubiquen en Talca o la Región del Maule, lo cual incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-python-developer-remote-work-at-indi-staffing-services-4443953229",
+        "titulo": "Senior Python Developer - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-07-28 15:15:52",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-ios-at-grupo-falabella-4439076626",
+        "titulo": "Desarrollador de iOS",
+        "empresa": "Grupo Falabella",
+        "fecha": "2026-07-28 15:15:53",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
