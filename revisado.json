@@ -3742,5 +3742,45 @@
         "fecha": "2026-07-28 15:15:53",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4446812226",
+        "titulo": "Python Developer (Junior) - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-07-29 15:06:19",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-avos-tech-chile-4446060423",
+        "titulo": "analista de datos Junior",
+        "empresa": "AVOS Tech | Chile",
+        "fecha": "2026-07-29 15:06:25",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Conchalí, Santiago, lo cual no cumple con las reglas de ubicación del candidato (solo remoto o presencial en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-java-senior-at-tinet-s-a-4439871134",
+        "titulo": "Desarrollador Backend Java Senior",
+        "empresa": "TINET S.A.",
+        "fecha": "2026-07-29 15:06:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-quality-engineer-javascript-playwright-at-epam-systems-4446013439",
+        "titulo": "Lead Quality Engineer (JavaScript, Playwright)",
+        "empresa": "EPAM Systems",
+        "fecha": "2026-07-29 15:06:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-jr-%E2%80%93-desarrollo-moodle-y-web-at-ecrgroup%C2%AE-chile-4443617101",
+        "titulo": "Programador Jr  – Desarrollo Moodle y Web",
+        "empresa": "ECRGROUP® Chile",
+        "fecha": "2026-07-29 15:06:41",
+        "calza": false,
+        "motivo": "La oferta especifica modalidad híbrida, pero no detalla la ubicación geográfica del puesto. Dado que el candidato reside en la Región del Maule y las Reglas Críticas exigen presencialidad/hibridez exclusivamente en esta región o que sea 100% remota (lo cual no es el caso para esta oferta), y no se cumple la condición de ubicación, la oferta es rechazada según la Regla Crítica 1."
     }
 ]
