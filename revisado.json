@@ -3782,5 +3782,29 @@
         "fecha": "2026-07-29 15:06:41",
         "calza": false,
         "motivo": "La oferta especifica modalidad híbrida, pero no detalla la ubicación geográfica del puesto. Dado que el candidato reside en la Región del Maule y las Reglas Críticas exigen presencialidad/hibridez exclusivamente en esta región o que sea 100% remota (lo cual no es el caso para esta oferta), y no se cumple la condición de ubicación, la oferta es rechazada según la Regla Crítica 1."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-web-y-automatizaci%C3%B3n-at-miramar-performance-4444596897",
+        "titulo": "Desarrollador/a Web y Automatización",
+        "empresa": "Miramar Performance",
+        "fecha": "2026-07-30 15:06:57",
+        "calza": true,
+        "motivo": "El candidato cumple con las tecnologías requeridas y valoradas para un perfil junior, tiene experiencia en proyectos con IA y backend, y su ubicación en la Región del Maule es compatible con la modalidad híbrida de la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-wild-lama-4446867045",
+        "titulo": "Desarrollador/a Full Stack",
+        "empresa": "Wild Lama",
+        "fecha": "2026-07-30 15:07:05",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual es un motivo de rechazo inmediato según las reglas de ubicación establecidas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-at-checkr-inc-4424974735",
+        "titulo": "Senior Software Engineer",
+        "empresa": "Checkr, Inc.",
+        "fecha": "2026-07-30 15:07:08",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
