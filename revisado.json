@@ -3806,5 +3806,45 @@
         "fecha": "2026-07-30 15:07:08",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-hibrido-at-stefanini-group-4439956012",
+        "titulo": "Desarrollador Back End - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-07-31 15:14:30",
+        "calza": false,
+        "motivo": "La oferta exige de 3 a 5 años de experiencia en desarrollo Java y una modalidad híbrida sin especificar la ubicación en la Región del Maule, lo cual no se alinea con el perfil de estudiante del candidato ni con los requisitos de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-javascript-typescript-full-stack-at-siigsa-4444182274",
+        "titulo": "Desarrollador(a) JavaScript/TypeScript Full-Stack",
+        "empresa": "SIIGSA",
+        "fecha": "2026-07-31 15:14:51",
+        "calza": true,
+        "motivo": "El candidato, siendo un perfil junior con bases sólidas en TypeScript y Express.js, es cercano a la oferta Full-Stack. Sin embargo, carece de experiencia explícita en React, Next.js y Zustand, y la oferta no especifica su ubicación o modalidad, impidiendo un calce directo."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-node-js-angular-remoto-at-bc-tecnolog%C3%ADa-4445348841",
+        "titulo": "Desarrollador Full Stack Node.js / Angular (Remoto)",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-07-31 15:14:56",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-back-end-cloud-at-agilistik-4447146573",
+        "titulo": "Desarrollador Full-Stack Back-end/Cloud",
+        "empresa": "AGILISTIK",
+        "fecha": "2026-07-31 15:15:10",
+        "calza": false,
+        "motivo": "La oferta no especifica una ubicación permitida (100% remota o en la Región del Maule), lo cual es un requisito crítico. Además, el candidato no cumple con los 2-3 años de experiencia mínima requeridos en Backend y Cloud, ni con la experiencia específica en tecnologías cloud avanzadas como Kubernetes y servicios de GCP/Azure."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-node-js-flutter%21-at-bc-tecnolog%C3%ADa-4445354433",
+        "titulo": "Desarrollador/a Full Stack Node.js / Flutter!",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-07-31 15:15:22",
+        "calza": true,
+        "motivo": "Aunque la oferta pide 2 años de experiencia y tecnologías como Flutter y NestJS que no están explícitamente en el CV, el candidato tiene una sólida base en Node.js, bases de datos y APIs REST, además de un perfil junior con capacidad de aprendizaje rápido para el desarrollo fullstack, y la modalidad es 100% remota."
     }
 ]
