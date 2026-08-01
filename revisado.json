@@ -3846,5 +3846,93 @@
         "fecha": "2026-07-31 15:15:22",
         "calza": true,
         "motivo": "Aunque la oferta pide 2 años de experiencia y tecnologías como Flutter y NestJS que no están explícitamente en el CV, el candidato tiene una sólida base en Node.js, bases de datos y APIs REST, además de un perfil junior con capacidad de aprendizaje rápido para el desarrollo fullstack, y la modalidad es 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-at-sonda-4447585064",
+        "titulo": "Desarrollador Junior",
+        "empresa": "SONDA",
+        "fecha": "2026-08-01 14:24:08",
+        "calza": false,
+        "motivo": "La oferta de empleo es híbrida pero no especifica que el componente presencial sea exclusivamente en Talca, la Región del Maule o comunas aledañas, lo cual incumple una regla crítica."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-fullstack-reactjs-node-js-typescript-gcp-contrato-indefinido-at-seidor-4447582088",
+        "titulo": "Desarrollador/a Fullstack | ReactJS | Node.js | TypeScript | GCP | Contrato Indefinido",
+        "empresa": "SEIDOR",
+        "fecha": "2026-08-01 14:24:19",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida con presencialidad en Santiago, lo cual es un motivo de rechazo inmediato según las reglas de ubicación establecidas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-de-software-quilicura-modalidad-h%C3%ADbrida-at-hr-profile-4443546632",
+        "titulo": "Desarrollador/a de Software  Quilicura (Modalidad Híbrida)",
+        "empresa": "HR Profile",
+        "fecha": "2026-08-01 14:24:31",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Quilicura (Santiago), lo cual está fuera de la ubicación permitida por las reglas (solo remoto o presencial/híbrido en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack%21-regi%C3%B3n-metropolitana-chile-at-zenta-group-4447574878",
+        "titulo": "Desarrollador/a Full Stack!  Región Metropolitana, Chile",
+        "empresa": "Zenta Group",
+        "fecha": "2026-08-01 14:24:38",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en la Región Metropolitana, lo cual no calza con la ubicación del candidato (Región del Maule) según las reglas de ubicación establecidas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-%F0%9F%9A%80-at-apiux-tech-4445532804",
+        "titulo": "Desarrollador Fullstack 🚀",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-08-01 14:24:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/engineer-at-principal-chile-4447187312",
+        "titulo": "Engineer",
+        "empresa": "Principal Chile",
+        "fecha": "2026-08-01 14:24:42",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/especialista-desarrollador-at-getronics-4441018305",
+        "titulo": "Especialista Desarrollador",
+        "empresa": "Getronics",
+        "fecha": "2026-08-01 14:24:52",
+        "calza": true,
+        "motivo": "El candidato no cumple los 2 años de experiencia requeridos, pero sus habilidades en JavaScript/TypeScript y su relevante proyecto de desarrollo demuestran un gran potencial como perfil junior y capacidad de aprendizaje."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-react-at-stefanini-group-4443887765",
+        "titulo": "Frontend Developer React",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-08-01 14:25:04",
+        "calza": false,
+        "motivo": "La oferta de empleo es presencial/híbrida en Santiago, Chile, lo cual contraviene la regla de ubicación crítica que exige Talca, Maule, o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollo-front-end-at-factorit-4441109125",
+        "titulo": "Desarrollo Front-end",
+        "empresa": "FactorIT",
+        "fecha": "2026-08-01 14:25:07",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-junior-gcp-data-angular-at-devaid-4445728432",
+        "titulo": "Ingeniero/a de Soporte Junior (GCP Data & Angular)",
+        "empresa": "Devaid",
+        "fecha": "2026-08-01 14:25:17",
+        "calza": true,
+        "motivo": "Aunque el CV no muestra experiencia explícita en Angular, el candidato tiene un sólido dominio de JavaScript y TypeScript, además de un perfil junior y capacidad de aprendizaje rápido, lo que lo hace cercano a un rol donde la empresa ofrece capacitación y guía."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-foco-back-end-node-js-nest-react-next-at-2brains-4443418148",
+        "titulo": "Full-Stack Developer Foco Back-end (Node.js/Nest React/Next)",
+        "empresa": "2Brains",
+        "fecha": "2026-08-01 14:25:32",
+        "calza": false,
+        "motivo": "La oferta de empleo exige una modalidad híbrida (1-2 veces al mes presencial), y no especifica que la ubicación sea en Talca o la Región del Maule, lo que incumple la regla crítica de ubicación."
     }
 ]
