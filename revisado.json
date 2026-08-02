@@ -3934,5 +3934,21 @@
         "fecha": "2026-08-01 14:25:32",
         "calza": false,
         "motivo": "La oferta de empleo exige una modalidad híbrida (1-2 veces al mes presencial), y no especifica que la ubicación sea en Talca o la Región del Maule, lo que incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4445166610",
+        "titulo": "Desarrollador Junior .NET - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-02 14:25:50",
+        "calza": false,
+        "motivo": "La oferta exige un 'Buen nivel de inglés', lo cual entra en conflicto con la regla de que el candidato no habla inglés fluido, solo lee documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/stage-software-developer-at-bluebirdmedia-4445826120",
+        "titulo": "Stage - Software Developer",
+        "empresa": "BlueBirdMedia",
+        "fecha": "2026-08-02 14:26:03",
+        "calza": false,
+        "motivo": "La oferta no especifica ser 100% remota ni ubicada en Talca/Maule, lo cual es un requisito de cumplimiento obligatorio para la ubicación, y el idioma de la oferta sugiere que está fuera de Chile."
     }
 ]
