@@ -3950,5 +3950,21 @@
         "fecha": "2026-08-02 14:26:03",
         "calza": false,
         "motivo": "La oferta no especifica ser 100% remota ni ubicada en Talca/Maule, lo cual es un requisito de cumplimiento obligatorio para la ubicación, y el idioma de la oferta sugiere que está fuera de Chile."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-trainee-at-apiux-tech-4447995523",
+        "titulo": "Desarrollador FullStack Trainee",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-08-03 15:40:00",
+        "calza": true,
+        "motivo": "El candidato es un estudiante sin el título ni el año de experiencia requerido explícitamente, pero su fuerte experiencia en proyectos de IA con tecnologías relevantes y su perfil de rápido aprendizaje lo hacen un candidato cercano para un rol junior o trainee en IA."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-engineer-at-houm-4445553045",
+        "titulo": "Product Engineer",
+        "empresa": "Houm",
+        "fecha": "2026-08-03 15:40:12",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual es una ubicación fuera de la Región del Maule y es un criterio de rechazo inmediato."
     }
 ]
