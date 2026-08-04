@@ -3966,5 +3966,37 @@
         "fecha": "2026-08-03 15:40:12",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual es una ubicación fuera de la Región del Maule y es un criterio de rechazo inmediato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-trainee-at-apiux-tech-4448508678",
+        "titulo": "Desarrollador FullStack Trainee",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-08-04 15:21:31",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica una ubicación 100% remota o presencial/híbrida en la Región del Maule, incumpliendo una regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-mantu-4446642776",
+        "titulo": "Programador full stack",
+        "empresa": "Mantu",
+        "fecha": "2026-08-04 15:21:42",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago de Chile, lo cual incumple las reglas de ubicación, y requiere de 3 a 5 años de experiencia, que no se alinea con el perfil del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-web-fullstack-react-%2B-node-js-modalidad-h%C3%ADbrida-at-atcom-chile-4448318522",
+        "titulo": "Desarrollador Web Fullstack React + Node.js | Modalidad Híbrida",
+        "empresa": "ATCOM Chile",
+        "fecha": "2026-08-04 15:22:04",
+        "calza": false,
+        "motivo": "La oferta exige 3-4 años de experiencia y una modalidad híbrida sin especificar ubicación en la región del Maule, lo cual no calza con el perfil de estudiante y la ubicación del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-semi-senior-at-zenta-group-4447570966",
+        "titulo": "Desarrollador(a) Full Stack semi senior",
+        "empresa": "Zenta Group",
+        "fecha": "2026-08-04 15:22:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
