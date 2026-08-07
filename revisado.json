@@ -4062,5 +4062,61 @@
         "fecha": "2026-08-05 15:11:45",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-%0Achile-remote-at-sezzle-la-4447369303",
+        "titulo": "Junior Software Engineer with Accounting Experience (Chile)\nChile, Remote",
+        "empresa": "Sezzle LA",
+        "fecha": "2026-08-07 14:07:50",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/application-developer-at-accenture-chile-4444000291",
+        "titulo": "Application Developer",
+        "empresa": "Accenture Chile",
+        "fecha": "2026-08-07 14:08:03",
+        "calza": false,
+        "motivo": "La oferta no especifica si es 100% remota o presencial en la Región del Maule, lo cual es un requisito de ubicación de cumplimiento obligatorio."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-uno-afp-4448596445",
+        "titulo": "Desarrollador Full Stack",
+        "empresa": "UNO afp",
+        "fecha": "2026-08-07 14:08:21",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica ser 100% remota ni presencial/híbrida exclusivamente en la Región del Maule, incumpliendo la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-agp-s-a-4448922631",
+        "titulo": "Desarrollador/a Full-Stack",
+        "empresa": "AGP S.A.",
+        "fecha": "2026-08-07 14:08:39",
+        "calza": true,
+        "motivo": "El candidato no cumple con los 3+ años de experiencia requeridos en producción ni con la experiencia excluyente en integración de sistemas; sin embargo, posee las bases tecnológicas (TypeScript, Node.js, Express.js, MongoDB, REST APIs) para un perfil junior y la capacidad de aprender rápido."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-javascript-developer-remote-work-ref%23299934-at-bairesdev-4449089485",
+        "titulo": "Full Stack JavaScript Developer - Remote Work | REF#299934",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-07 14:08:45",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-java-angular-%F0%9F%9A%80-at-sii-group-chile-4440063191",
+        "titulo": "Desarrollador Full-Stack (Java/Angular) 🚀",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-08-07 14:09:02",
+        "calza": false,
+        "motivo": "La oferta de empleo es híbrida, pero no especifica que la ubicación sea en la Región del Maule, lo que la descarta según la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-sii-group-chile-4446870025",
+        "titulo": "Programador full stack",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-08-07 14:09:04",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
