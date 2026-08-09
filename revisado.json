@@ -4134,5 +4134,29 @@
         "fecha": "2026-08-08 13:40:33",
         "calza": false,
         "motivo": "La oferta es para una empresa basada en Santiago de Chile y no especifica modalidad remota o ubicación en la Región del Maule, lo cual no cumple con las condiciones de ubicación obligatorias."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-instituci%C3%B3n-de-educaci%C3%B3n-superior-4451091816",
+        "titulo": "Desarrollador Full Stack",
+        "empresa": "INSTITUCIÓN DE EDUCACIÓN SUPERIOR",
+        "fecha": "2026-08-09 13:43:41",
+        "calza": false,
+        "motivo": "El candidato es estudiante sin el título profesional y la experiencia mínima de 4 años requerida, además de no dominar las tecnologías específicas como PHP, jQuery, CodeIgniter y Phalcon para un perfil no-junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-a-at-getronics-4445539768",
+        "titulo": "Programador/a",
+        "empresa": "Getronics",
+        "fecha": "2026-08-09 13:43:55",
+        "calza": false,
+        "motivo": "El candidato es un estudiante sin los 5+ años de experiencia demostrable requeridos para el perfil de Programador/a Especialista."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-truckercloud-4451311893",
+        "titulo": "Software Engineer",
+        "empresa": "TruckerCloud",
+        "fecha": "2026-08-09 13:43:58",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
