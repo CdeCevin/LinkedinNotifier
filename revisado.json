@@ -4158,5 +4158,29 @@
         "fecha": "2026-08-09 13:43:58",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-jr-at-evertec-4451176820",
+        "titulo": "Full Stack Developer Jr.",
+        "empresa": "Evertec",
+        "fecha": "2026-08-10 14:17:07",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual no cumple con los criterios de ubicación permitidos (remoto o presencial/híbrido exclusivamente en Talca/Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-acelerex-4449567565",
+        "titulo": "Full Stack Developer",
+        "empresa": "Acelerex",
+        "fecha": "2026-08-10 14:17:11",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-javascript-at-neuralworks-4446919883",
+        "titulo": "Software Engineer JavaScript",
+        "empresa": "NeuralWorks",
+        "fecha": "2026-08-10 14:17:27",
+        "calza": true,
+        "motivo": "El candidato cumple con el perfil académico, tiene buen manejo de inglés para lectura y experiencia en Python e IA, pero carece de los 3 años de experiencia solicitados, siendo un perfil Junior/Trainee con gran potencial."
     }
 ]
