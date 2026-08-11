@@ -4182,5 +4182,29 @@
         "fecha": "2026-08-10 14:17:27",
         "calza": true,
         "motivo": "El candidato cumple con el perfil académico, tiene buen manejo de inglés para lectura y experiencia en Python e IA, pero carece de los 3 años de experiencia solicitados, siendo un perfil Junior/Trainee con gran potencial."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-junior-at-bitua-4449860094",
+        "titulo": "Full Stack Junior",
+        "empresa": "Bitua",
+        "fecha": "2026-08-11 14:15:33",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/semillero-a-de-desarrollo-%F0%9F%9A%80-at-sii-group-chile-4451567077",
+        "titulo": "Semillero/a de Desarrollo  🚀",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-08-11 14:15:34",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-veta-virtual-4448457664",
+        "titulo": "Full-Stack Software Engineer",
+        "empresa": "Veta Virtual",
+        "fecha": "2026-08-11 14:15:34",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
