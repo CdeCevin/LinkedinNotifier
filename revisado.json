@@ -4206,5 +4206,93 @@
         "fecha": "2026-08-11 14:15:34",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-net-developer-remote-work-at-indi-staffing-services-4452390854",
+        "titulo": "Junior .NET Developer - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-08-12 14:17:03",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/services-at-prositeweb-inc-4451022189",
+        "titulo": "Services",
+        "empresa": "Prositeweb Inc",
+        "fecha": "2026-08-12 14:17:12",
+        "calza": true,
+        "motivo": "Aunque el candidato no tiene experiencia explícita en PHP, es un perfil junior con fuertes bases en desarrollo backend, lenguajes como JavaScript/TypeScript y aprendizaje rápido, lo que lo hace un buen candidato para un puesto intermedio con potencial."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-programador-%E2%80%93-desarrollo-de-aplicaciones-java-at-uc-christus-4445190658",
+        "titulo": "Práctica Profesional Programador – Desarrollo de Aplicaciones (Java)",
+        "empresa": "UC CHRISTUS",
+        "fecha": "2026-08-12 14:17:22",
+        "calza": false,
+        "motivo": "La oferta exige modalidad mixta, y al ser de UC CHRISTUS, se asume presencialidad/hibrida en Santiago, lo cual no calza con las regiones aceptadas para modalidad no-remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollo-de-software-at-forcast-4447569958",
+        "titulo": "Práctica Profesional Desarrollo de Software",
+        "empresa": "Forcast.",
+        "fecha": "2026-08-12 14:17:37",
+        "calza": true,
+        "motivo": "El candidato cumple con los requisitos de modalidad remota, nivel de inglés para lectura, es estudiante de ingeniería y posee sólidos conocimientos en JavaScript, TypeScript y Node.js, ideal para una práctica."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-y-desarrollo-puerto-montt-at-singulares-bcorp-4443148389",
+        "titulo": "Ingeniero de Sistemas y Desarrollo - Puerto Montt",
+        "empresa": "Singulares.bcorp",
+        "fecha": "2026-08-12 14:17:46",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Puerto Montt, lo cual es una ubicación fuera de las permitidas (remoto o Región del Maule) según las reglas críticas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollo-inform%C3%A1tico-at-ripley-chile-4443503316",
+        "titulo": "Práctica Profesional - Desarrollo informático",
+        "empresa": "Ripley Chile",
+        "fecha": "2026-08-12 14:18:01",
+        "calza": true,
+        "motivo": "El perfil de estudiante en Ingeniería Informática con experiencia en Node.js, Express.js y MongoDB calza perfectamente con la oferta de práctica, y su capacidad de aprendizaje rápido compensa la falta de React y AWS explícitos, conforme a las reglas para perfiles junior y la modalidad de trabajo flexible."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/laravel-developer-remote-work-ref%23299740-at-bairesdev-4449092393",
+        "titulo": "Laravel Developer - Remote Work | REF#299740",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-12 14:18:06",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ii-with-accounting-experience-chile-at-sezzle-4340336457",
+        "titulo": "Software Engineer II with Accounting Experience (Chile)",
+        "empresa": "Sezzle",
+        "fecha": "2026-08-12 14:18:07",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-innovaci%C3%B3n-digital-at-copec-s-a-4446419424",
+        "titulo": "Ingeniero/a de Innovación Digital",
+        "empresa": "COPEC S.A.",
+        "fecha": "2026-08-12 14:18:18",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o que su ubicación presencial/híbrida sea exclusivamente en Talca o la Región del Maule, lo cual es un requisito crítico para la evaluación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-semisenior-at-agilistik-4451953116",
+        "titulo": "Software Engineer Semisenior",
+        "empresa": "AGILISTIK",
+        "fecha": "2026-08-12 14:18:21",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sofware-engineer-backend-machbank-at-machbank-4451865751",
+        "titulo": "Sofware Engineer Backend MACHBANK",
+        "empresa": "MACHBANK",
+        "fecha": "2026-08-12 14:18:37",
+        "calza": false,
+        "motivo": "La oferta exige una inducción presencial de 2 semanas y una modalidad híbrida (1 día presencial semanal) que, al no especificar la ubicación en la Región del Maule, se asume fuera de ella, violando la regla crítica de ubicación del candidato."
     }
 ]
