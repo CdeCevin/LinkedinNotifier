@@ -4294,5 +4294,141 @@
         "fecha": "2026-08-12 14:18:37",
         "calza": false,
         "motivo": "La oferta exige una inducción presencial de 2 semanas y una modalidad híbrida (1 día presencial semanal) que, al no especificar la ubicación en la Región del Maule, se asume fuera de ella, violando la regla crítica de ubicación del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-at-mok-4453360875",
+        "titulo": "Developer",
+        "empresa": "MOK",
+        "fecha": "2026-08-13 14:19:24",
+        "calza": true,
+        "motivo": "El candidato cumple con los requisitos técnicos de backend (Node.js) y bases de datos relacionales, la oferta es remota (LATAM) y el nivel de inglés no es un impedimento crítico, aunque su experiencia formal sea menor al año solicitado, su proyecto y habilidades lo hacen un perfil cercano con alto potencial para un rol junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4452382952",
+        "titulo": "Python Developer (Junior) - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-08-13 14:19:27",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4453641007",
+        "titulo": "Software Engineer",
+        "empresa": "Fingo",
+        "fecha": "2026-08-13 14:19:39",
+        "calza": true,
+        "motivo": "El candidato se ajusta al perfil junior de 0-2 años y posee las bases para aprender las tecnologías deseables, cumpliendo con todas las reglas críticas de ubicación e idioma."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-ikea-4452697027",
+        "titulo": "Desarrollador Full Stack",
+        "empresa": "IKEA",
+        "fecha": "2026-08-13 14:19:54",
+        "calza": true,
+        "motivo": "El candidato posee un fuerte perfil en desarrollo backend y la integración de IA con Node.js y TypeScript, lo que se alinea perfectamente con los requisitos de la oferta de Desarrollador Full Stack con enfoque en IA generativa, a pesar de su experiencia formal como estudiante."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-sw-at-sonda-4446852556",
+        "titulo": "Desarrollador de SW",
+        "empresa": "SONDA",
+        "fecha": "2026-08-13 14:20:05",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago Centro, lo cual es una ubicación no permitida según las reglas críticas de la postulación, que excluyen Santiago para modalidades presenciales o híbridas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-node-js-at-groupe-sii-4453386369",
+        "titulo": "Backend Developer Node.js",
+        "empresa": "Groupe SII",
+        "fecha": "2026-08-13 14:20:19",
+        "calza": true,
+        "motivo": "El candidato posee fuerte experiencia en Node.js, TypeScript y desarrollo backend con APIs RESTful, y aunque carece de experiencia explícita en AWS/GCP y Terraform, su perfil Junior y capacidad de aprendizaje lo hacen un candidato cercano para la posición."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-python-at-conkord-4450767559",
+        "titulo": "Desarrollador de Python",
+        "empresa": "CONKORD",
+        "fecha": "2026-08-13 14:20:30",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual contradice la política de ubicación que solo permite Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-agilistik-4451941464",
+        "titulo": "Ingeniero de Software",
+        "empresa": "AGILISTIK",
+        "fecha": "2026-08-13 14:20:47",
+        "calza": true,
+        "motivo": "El candidato tiene una sólida base en Node.js, Python y desarrollo backend, además de un perfil de estudiante con capacidad de aprendizaje, pero no cuenta con experiencia explícita en los servicios AWS requeridos por la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pac-consultant-at-murex-4439924671",
+        "titulo": "PAC Consultant",
+        "empresa": "Murex",
+        "fecha": "2026-08-13 14:20:51",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156",
+        "titulo": "Software Engineer (Backend)",
+        "empresa": "Xepelin",
+        "fecha": "2026-08-13 14:21:00",
+        "calza": false,
+        "motivo": "El candidato es un estudiante sin la experiencia de +3 años en desarrollo de software en producción que la oferta requiere explícitamente."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/intersystems-iris-developer-at-atmira-4443290880",
+        "titulo": "InterSystems IRIS Developer",
+        "empresa": "atmira",
+        "fecha": "2026-08-13 14:21:14",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida sin especificar una ubicación exclusiva en la Región del Maule y demanda al menos 2 años de experiencia con la plataforma IRIS InterSystems y ObjectScript, requisitos que el candidato no cumple."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/web-developer-at-ria-money-transfer-4448253020",
+        "titulo": "Web Developer",
+        "empresa": "Ria Money Transfer",
+        "fecha": "2026-08-13 14:21:18",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-angular-%2B-seo-marketing-remote-latin-america-at-fullstack-4451944717",
+        "titulo": "Software Engineer (Angular + SEO/Marketing) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-08-13 14:21:19",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-qa-junior-residencia-santiago-at-viggo-4451977259",
+        "titulo": "Analista QA Junior / Residencia Santiago",
+        "empresa": "Viggo",
+        "fecha": "2026-08-13 14:21:27",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en la Oficina Regional de Santiago, lo cual es un rechazo inmediato según las reglas de ubicación establecidas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-c%23-at-ria-money-transfer-4450798876",
+        "titulo": "Full Stack Developer C#",
+        "empresa": "Ria Money Transfer",
+        "fecha": "2026-08-13 14:21:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/net-developer-at-perform-4415711218",
+        "titulo": "NET Developer)",
+        "empresa": "Perform",
+        "fecha": "2026-08-13 14:21:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inform%C3%A1tica-h%C3%ADbrida-rondizzoni-at-salfa-rent-4446933260",
+        "titulo": "Práctica Informática-híbrida-Rondizzoni",
+        "empresa": "Salfa Rent",
+        "fecha": "2026-08-13 14:21:33",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
