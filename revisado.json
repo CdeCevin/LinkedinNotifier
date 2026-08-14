@@ -4430,5 +4430,125 @@
         "fecha": "2026-08-13 14:21:33",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4453216022",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-14 14:11:44",
+        "calza": false,
+        "motivo": "La oferta exige un 'buen nivel de inglés', lo cual entra en conflicto con la limitación del candidato de solo leer documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-backend-machbank-at-machbank-4454017780",
+        "titulo": "Software Engineer Backend MACHBANK",
+        "empresa": "MACHBANK",
+        "fecha": "2026-08-14 14:12:02",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida/presencial (4 días remotos, 1 día presencial y 2 semanas de inducción presencial) sin especificar que la ubicación presencial sea exclusivamente en Talca, la Región del Maule o comunas aledañas, lo que incumple una regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-python-at-conkord-4451570676",
+        "titulo": "Developer Python",
+        "empresa": "CONKORD",
+        "fecha": "2026-08-14 14:12:11",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual es una ubicación no permitida según las reglas críticas de la oferta para este candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-sql-at-groupe-sii-4452054301",
+        "titulo": "Desarrollador SQL",
+        "empresa": "Groupe SII",
+        "fecha": "2026-08-14 14:12:19",
+        "calza": false,
+        "motivo": "La oferta es híbrida en Santiago de Chile, lo cual es un motivo de rechazo inmediato según las reglas críticas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-java-react-cl-at-imagemaker-4445226289",
+        "titulo": "Desarrollador FullStack Java / React  - CL",
+        "empresa": "Imagemaker",
+        "fecha": "2026-08-14 14:12:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-neuralworks-4452755309",
+        "titulo": "Software Engineer",
+        "empresa": "NeuralWorks",
+        "fecha": "2026-08-14 14:12:33",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida (flexibilidad entre oficina y home office) sin especificar una ubicación en la Región del Maule o ser 100% remota, incumpliendo la regla de ubicación crítica."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-ai-engineer-at-deloitte-4450700660",
+        "titulo": "Analista - AI Engineer",
+        "empresa": "Deloitte",
+        "fecha": "2026-08-14 14:12:37",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-java-%2B-spring-boot-at-randstad-chile-4450187462",
+        "titulo": "Full stack developer / Java + Spring Boot",
+        "empresa": "Randstad Chile",
+        "fecha": "2026-08-14 14:12:44",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Las Condes (Santiago), lo cual incumple la regla crítica de ubicación. Además, el candidato es estudiante y no cumple con los 4 años de experiencia profesional ni el requisito de estar titulado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/middle-front-end-engineer-vue-js-at-softserve-4453570877",
+        "titulo": "Middle Front End Engineer (Vue.js)",
+        "empresa": "SoftServe",
+        "fecha": "2026-08-14 14:12:53",
+        "calza": false,
+        "motivo": "La oferta exige un nivel de inglés intermedio-alto (hablado y escrito) para comunicación diaria, lo cual no cumple el candidato según el nivel especificado en el CV."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-netcore-at-axity-4453399491",
+        "titulo": "Desarrollador FullStack Netcore",
+        "empresa": "axity",
+        "fecha": "2026-08-14 14:13:06",
+        "calza": false,
+        "motivo": "La oferta exige modalidad de trabajo híbrida con asistencia en Las Condes, Santiago, lo cual es incompatible con las ubicaciones permitidas según las reglas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-mobile-hibrido-at-stefanini-group-4453243251",
+        "titulo": "Desarrollador Mobile - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-08-14 14:13:18",
+        "calza": true,
+        "motivo": "El candidato tiene fuertes bases en JavaScript, TypeScript y Java, lo que lo hace un perfil apto para aprender React Native rápidamente, y la modalidad híbrida en el Maule es compatible."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrolladores-as-full-stack-inteligencia-artificial-at-deloitte-4442784898",
+        "titulo": "Desarrolladores/as Full Stack - Inteligencia Artificial",
+        "empresa": "Deloitte",
+        "fecha": "2026-08-14 14:14:01",
+        "calza": false,
+        "motivo": "Rechazado porque la oferta exige inglés conversacional (nivel intermedio/avanzado) y el candidato no lo posee fluidamente, y la experiencia (3-5 años liderando equipos) y el título profesional son excluyentes, lo cual no cumple el candidato al ser estudiante actual."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4451362660",
+        "titulo": "React Engineer - Remote, Latin America",
+        "empresa": "Bluelight",
+        "fecha": "2026-08-14 14:14:04",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/front-end-developer-angular-at-42labs-4453037676",
+        "titulo": "Front-end Developer Angular",
+        "empresa": "42Labs",
+        "fecha": "2026-08-14 14:14:20",
+        "calza": false,
+        "motivo": "La oferta describe una modalidad de trabajo híbrida sin especificar que sea en Talca o la Región del Maule, ni que sea 100% remota, lo cual incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-sermaluc-4453154353",
+        "titulo": "Ingeniero de integración",
+        "empresa": "Sermaluc",
+        "fecha": "2026-08-14 14:14:32",
+        "calza": false,
+        "motivo": "La oferta de empleo es híbrida y no especifica que sea en la Región del Maule, incumpliéndose el requisito de ubicación crítica."
     }
 ]
