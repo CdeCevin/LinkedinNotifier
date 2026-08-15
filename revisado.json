@@ -4550,5 +4550,69 @@
         "fecha": "2026-08-14 14:14:32",
         "calza": false,
         "motivo": "La oferta de empleo es híbrida y no especifica que sea en la Región del Maule, incumpliéndose el requisito de ubicación crítica."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-trainee-at-getdata-cl-4451243961",
+        "titulo": "Desarrollador Full Stack (Trainee)",
+        "empresa": "Getdata (CL)",
+        "fecha": "2026-08-15 13:25:42",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual contradice la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-nodejs-angular-contrato-indefinido-at-tata-consultancy-services-4452012666",
+        "titulo": "Desarrollador Fullstack NodeJS/Angular (contrato indefinido)",
+        "empresa": "Tata Consultancy Services",
+        "fecha": "2026-08-15 13:25:45",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-ssr-go-at-redbee-4442415441",
+        "titulo": "Backend Developer SSR | Go",
+        "empresa": "redbee",
+        "fecha": "2026-08-15 13:25:59",
+        "calza": true,
+        "motivo": "Aunque el candidato no tiene experiencia directa con Go o Docker, su fuerte base en desarrollo backend, APIs RESTful, múltiples bases de datos (SQL, MongoDB) y perfil de estudiante/junior indica una alta capacidad para aprender las tecnologías requeridas, haciendo que su perfil sea cercano a la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-nodejs-contrato-indefinido-at-tata-consultancy-services-4444986502",
+        "titulo": "Desarrollador FullStack NodeJS (contrato indefinido)",
+        "empresa": "Tata Consultancy Services",
+        "fecha": "2026-08-15 13:26:04",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/mobile-engineer-chile-all-levels-%0Achile-remote-at-sezzle-la-4447368356",
+        "titulo": "Mobile Engineer (Chile, All Levels)\nChile, Remote",
+        "empresa": "Sezzle LA",
+        "fecha": "2026-08-15 13:26:05",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/back-end-developer-net-at-42labs-4453044646",
+        "titulo": "Back-end Developer .NET",
+        "empresa": "42Labs",
+        "fecha": "2026-08-15 13:27:37",
+        "calza": true,
+        "motivo": "Aunque no tiene experiencia explícita en .NET/C#, su perfil Junior/Trainee, sólidos conocimientos en desarrollo backend (Node.js, Express.js, JS/TS), APIs RESTful, SQL y testing lo hacen un candidato cercano con alto potencial de aprendizaje según las reglas establecidas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/java-gen-ai-engineer-at-jobgether-4451678453",
+        "titulo": "Java Gen AI Engineer",
+        "empresa": "Jobgether",
+        "fecha": "2026-08-15 13:27:52",
+        "calza": true,
+        "motivo": "Aunque el nivel de Java del candidato es intermedio y la oferta exige una expertise fuerte, su sólida experiencia en proyectos de IA generativa con Gemini y su perfil junior lo hacen un candidato cercano por su potencial de aprendizaje."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-1-at-ey-4436881165",
+        "titulo": "Data Engineer GCP Consultant 1",
+        "empresa": "EY",
+        "fecha": "2026-08-15 13:28:17",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule, lo cual es una condición obligatoria de ubicación."
     }
 ]
