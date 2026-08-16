@@ -4614,5 +4614,21 @@
         "fecha": "2026-08-15 13:28:17",
         "calza": false,
         "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule, lo cual es una condición obligatoria de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-filial-blue-express-at-copec-s-a-4446689731",
+        "titulo": "Full Stack - Filial Blue Express",
+        "empresa": "COPEC S.A.",
+        "fecha": "2026-08-16 13:25:53",
+        "calza": false,
+        "motivo": "El candidato es estudiante sin la experiencia requerida de 3+ años y la oferta no especifica una modalidad 100% remota o presencial/híbrida en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-siigsa-4451264837",
+        "titulo": "Desarrollador Full Stack",
+        "empresa": "SIIGSA",
+        "fecha": "2026-08-16 13:26:04",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida sin especificar una ubicación en la Región del Maule y requiere al menos 5 años de experiencia en C#/.NET, la cual el candidato no posee."
     }
 ]
