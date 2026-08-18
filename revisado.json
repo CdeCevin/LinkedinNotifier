@@ -4630,5 +4630,21 @@
         "fecha": "2026-08-16 13:26:04",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida sin especificar una ubicación en la Región del Maule y requiere al menos 5 años de experiencia en C#/.NET, la cual el candidato no posee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-%E2%80%93-b4x-php-e-iot-at-impotec-4455370438",
+        "titulo": "PROGRAMADOR FULL STACK – B4X, PHP E IoT",
+        "empresa": "Impotec",
+        "fecha": "2026-08-18 13:37:08",
+        "calza": false,
+        "motivo": "La oferta exige trabajo presencial en Santiago, lo cual contradice las reglas de ubicación permitidas (remoto o presencial/híbrido exclusivamente en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-finder-hr-finder-it-uniendo-personas-4447405352",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "Finder HR & Finder IT Uniendo Personas",
+        "fecha": "2026-08-18 13:37:11",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
