@@ -4646,5 +4646,85 @@
         "fecha": "2026-08-18 13:37:11",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4454783164",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-19 13:38:41",
+        "calza": false,
+        "motivo": "La oferta exige un 'buen nivel de inglés', lo cual contradice la limitación del candidato de no hablar inglés fluido y solo leer documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4454787211",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-19 13:38:56",
+        "calza": true,
+        "motivo": "El candidato tiene un perfil cercano para el rol Junior al poseer Python intermedio-avanzado y experiencia en desarrollo backend, aunque no cumple con el año explícito de experiencia en Python y su nivel de inglés es intermedio."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-so-ikea-chile-colombia-y-per%C3%BA-at-ikea-4452312172",
+        "titulo": "Full Stack Software Engineer SO IKEA Chile, Colombia y Perú",
+        "empresa": "IKEA",
+        "fecha": "2026-08-19 13:39:15",
+        "calza": true,
+        "motivo": "El candidato demuestra habilidades sólidas en tecnologías solicitadas y gran potencial full stack e IA, aunque la oferta no especifica la ubicación de la etapa presencial ni el candidato tiene los años de experiencia formales."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-aws-junior-reci%C3%A9n-egresado-a-at-bc-tecnolog%C3%ADa-4446388089",
+        "titulo": "Ingeniero/a de Datos AWS Junior  Recién Egresado/a",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-08-19 13:39:20",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultor-sap-crm-cxv2-at-seidor-4450841434",
+        "titulo": "Consultor SAP CRM - CxV2",
+        "empresa": "SEIDOR",
+        "fecha": "2026-08-19 13:39:48",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule, incumpliendo la regla crítica de ubicación obligatoria."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultor-appian-junior%F0%9F%92%A1-at-apiux-tech-4438437075",
+        "titulo": "Consultor Appian Junior💡",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-08-19 13:39:59",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Providencia (Santiago), lo cual está fuera de las regiones permitidas (Maule o remoto)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practica-desarrollo-network-planning-at-latam-airlines-4452293941",
+        "titulo": "PRACTICA DESARROLLO NETWORK PLANNING",
+        "empresa": "LATAM Airlines",
+        "fecha": "2026-08-19 13:40:09",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual es un rechazo inmediato según la regla de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/oportunidad-laboral-analista-ingeniero-desarrollador-fullstack-junior-at-holding-grupo-firma-4455103060",
+        "titulo": "Oportunidad Laboral: Analista / Ingeniero Desarrollador Fullstack (Junior)",
+        "empresa": "Holding Grupo Firma",
+        "fecha": "2026-08-19 13:40:49",
+        "calza": false,
+        "motivo": "La oferta exige 100% presencialidad en 'sector oriente' (Santiago), lo cual está fuera de la región del Maule y es una razón de rechazo inmediato según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practica-profesional-desarrollador-de-software-at-prosys-4454595225",
+        "titulo": "Practica Profesional Desarrollador de Software",
+        "empresa": "Prosys",
+        "fecha": "2026-08-19 13:41:26",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual es un motivo de rechazo inmediato según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-empresa-confidencial-4452842457",
+        "titulo": "Full Stack Developer",
+        "empresa": "Empresa Confidencial",
+        "fecha": "2026-08-19 13:41:42",
+        "calza": true,
+        "motivo": "El candidato, aunque es un estudiante con un proyecto y sin los 3 años de experiencia requeridos, posee un perfil técnico relevante en Node.js, TypeScript, MongoDB y APIs, siendo apto para un rol Full Stack junior/trainee con potencial de rápido aprendizaje."
     }
 ]
