@@ -4726,5 +4726,21 @@
         "fecha": "2026-08-19 13:41:42",
         "calza": true,
         "motivo": "El candidato, aunque es un estudiante con un proyecto y sin los 3 años de experiencia requeridos, posee un perfil técnico relevante en Node.js, TypeScript, MongoDB y APIs, siendo apto para un rol Full Stack junior/trainee con potencial de rápido aprendizaje."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4454784147",
+        "titulo": "Desarrollador Junior .NET - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-20 13:40:43",
+        "calza": false,
+        "motivo": "La oferta exige un 'Buen nivel de inglés', lo cual, para un rol en un equipo global, implica fluidez conversacional, y el candidato solo lee documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4456323334",
+        "titulo": "Python Developer (Junior) - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-08-20 13:40:47",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
