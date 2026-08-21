@@ -4742,5 +4742,53 @@
         "fecha": "2026-08-20 13:40:47",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-banco-de-chile-4456739967",
+        "titulo": "Desarrollador Fullstack.",
+        "empresa": "Banco de Chile",
+        "fecha": "2026-08-21 13:41:31",
+        "calza": false,
+        "motivo": "La oferta no especifica ser 100% remota o presencial/híbrida en la Región del Maule, y el candidato no cumple con los 3 años de experiencia requeridos ni el stack tecnológico específico de Java/Spring y Angular para el rol."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/back-end-dev-at-vr-group-chile-4454645036",
+        "titulo": "Back__End DEV",
+        "empresa": "VR Group Chile",
+        "fecha": "2026-08-21 13:41:48",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito de 2 a 3 años de experiencia desarrollando en Java, siendo su experiencia laboral principal en Node.js para un perfil de estudiante."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4456393435",
+        "titulo": "Fullstack Software Engineer",
+        "empresa": "Grupo Falabella",
+        "fecha": "2026-08-21 13:42:06",
+        "calza": false,
+        "motivo": "La oferta no especifica modalidad remota ni ubicación en la Región del Maule, y requiere 3+ años de experiencia en el rol, lo cual no se alinea con el perfil de estudiante del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-azure-con-experiencia-at-ey-4445045518",
+        "titulo": "Desarrollador/a Azure con Experiencia",
+        "empresa": "EY",
+        "fecha": "2026-08-21 13:42:23",
+        "calza": false,
+        "motivo": "La oferta exige al menos 2 años de experiencia en desarrollo con tecnologías Azure, lo cual el candidato no posee, y no especifica una ubicación permitida (100% remoto o Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-desarrollador-at-metalkit-4455956241",
+        "titulo": "PROGRAMADOR-DESARROLLADOR",
+        "empresa": "Metalkit",
+        "fecha": "2026-08-21 13:42:33",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Paine, Región Metropolitana, lo cual está fuera de las ubicaciones permitidas (100% remoto, o presencial/híbrido exclusivamente en Talca o Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-fullstack-react-js-%2B-nestjs-node-js-at-genesys-global-4454126931",
+        "titulo": "Desarrollador/a Fullstack | React.js + NestJS/Node.js",
+        "empresa": "Genesys Global",
+        "fecha": "2026-08-21 13:42:45",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago Centro, lo cual es una ubicación no permitida para el candidato según las reglas críticas de ubicación."
     }
 ]
