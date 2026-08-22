@@ -4790,5 +4790,53 @@
         "fecha": "2026-08-21 13:42:45",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago Centro, lo cual es una ubicación no permitida para el candidato según las reglas críticas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-outsystems-at-sonda-4447582121",
+        "titulo": "Desarrollador Outsystems",
+        "empresa": "SONDA",
+        "fecha": "2026-08-22 13:27:29",
+        "calza": false,
+        "motivo": "La oferta de empleo es de modalidad híbrida, pero no especifica que la ubicación sea exclusivamente en la Región del Maule, Talca o comunas aledañas, lo que incumple la Regla Crítica 1 sobre ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollo-inform%C3%A1tico-at-ripley-chile-4456776961",
+        "titulo": "Práctica Profesional - Desarrollo informático",
+        "empresa": "Ripley Chile",
+        "fecha": "2026-08-22 13:33:58",
+        "calza": true,
+        "motivo": "El candidato es estudiante de Ingeniería Informática con conocimientos sólidos en JavaScript, TypeScript, Node.js y MongoDB, y la oferta es 100% remota, cumpliendo con todos los criterios de evaluación para un perfil de práctica."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-power-platform-junior-casablanca-at-acl-4454665864",
+        "titulo": "Desarrollador Power Platform Junior- Casablanca",
+        "empresa": "ACL",
+        "fecha": "2026-08-22 13:34:06",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Casablanca, Valparaíso o Viña del Mar, que no es la Región del Maule ni sus alrededores, incumpliendo la Regla Crítica 1."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-finapsys-4442896705",
+        "titulo": "Software Engineer",
+        "empresa": "Finapsys",
+        "fecha": "2026-08-22 13:43:53",
+        "calza": false,
+        "motivo": "La oferta exige modalidad de trabajo híbrida y, aunque no especifica la ubicación, el perfil de la empresa y la experiencia de sus fundadores sugieren que su sede principal no está en la Región del Maule, lo cual no es compatible con la ubicación actual del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-java-react-cl-at-imagemaker-4447001849",
+        "titulo": "Desarrollador FullStack Java/React - CL",
+        "empresa": "Imagemaker",
+        "fecha": "2026-08-22 13:44:08",
+        "calza": true,
+        "motivo": "El candidato es un perfil junior con una sólida base en JavaScript, TypeScript y Java, con experiencia en APIs RESTful y testing automatizado, lo que lo hace cercano a la oferta Fullstack ReactJS/Springboot a pesar de no tener experiencia explícita en estos frameworks."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-go-y-python-hibrido-at-stefanini-group-4456068855",
+        "titulo": "Fullstack Developer - Go y Python - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-08-22 13:44:23",
+        "calza": true,
+        "motivo": "El candidato no tiene experiencia en Go, pero posee sólidos conocimientos en Python y TypeScript, experiencia directa en IA Generativa y desarrollo de APIs, lo que lo hace un perfil muy cercano y prometedor para el rol fullstack junior."
     }
 ]
