@@ -4838,5 +4838,21 @@
         "fecha": "2026-08-22 13:44:23",
         "calza": true,
         "motivo": "El candidato no tiene experiencia en Go, pero posee sólidos conocimientos en Python y TypeScript, experiencia directa en IA Generativa y desarrollo de APIs, lo que lo hace un perfil muy cercano y prometedor para el rol fullstack junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-springboot-at-softtek-4457511541",
+        "titulo": "Backend Developer (SpringBoot)",
+        "empresa": "Softtek",
+        "fecha": "2026-08-24 13:58:28",
+        "calza": false,
+        "motivo": "La oferta no especifica ser 100% remota o presencial/híbrida en Talca/Maule, incumpliendo un requisito crítico de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-semi-senior-at-amaris-consulting-4454154094",
+        "titulo": "Full Stack Engineer Semi Senior",
+        "empresa": "Amaris Consulting",
+        "fecha": "2026-08-24 13:58:49",
+        "calza": false,
+        "motivo": "La oferta exige inglés intermedio o alto para interactuar con equipos, pero el candidato solo tiene nivel intermedio para lectura de documentación."
     }
 ]
