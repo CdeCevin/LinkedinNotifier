@@ -4854,5 +4854,29 @@
         "fecha": "2026-08-24 13:58:49",
         "calza": false,
         "motivo": "La oferta exige inglés intermedio o alto para interactuar con equipos, pero el candidato solo tiene nivel intermedio para lectura de documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4457178634",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-25 13:43:23",
+        "calza": true,
+        "motivo": "El candidato posee un excelente dominio de las tecnologías clave (Node.js, JavaScript, TypeScript) y un perfil Junior adecuado con experiencia en proyectos relevantes, aunque su experiencia formal no alcanza el año solicitado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4457170690",
+        "titulo": "Desarrollador Junior .NET - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-25 13:43:46",
+        "calza": true,
+        "motivo": "El candidato, como perfil Junior/Trainee con sólida base en desarrollo backend y capacidad de aprendizaje, es cercano al rol aunque carezca de experiencia directa en .NET/C#."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-acl-4456507245",
+        "titulo": "Programador full stack",
+        "empresa": "ACL",
+        "fecha": "2026-08-25 13:43:59",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual es un rechazo inmediato según las reglas críticas de ubicación."
     }
 ]
