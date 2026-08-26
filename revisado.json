@@ -4878,5 +4878,45 @@
         "fecha": "2026-08-25 13:43:59",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual es un rechazo inmediato según las reglas críticas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4456893752",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-08-26 13:49:06",
+        "calza": false,
+        "motivo": "La oferta exige 'Buen nivel de inglés', lo cual para una empresa global implica habilidades conversacionales activas, mientras que el candidato no habla inglés fluido y solo lee documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-at-arcadis-4457250756",
+        "titulo": "Desarrollador",
+        "empresa": "Arcadis",
+        "fecha": "2026-08-26 13:49:10",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-copec-s-a-4456948591",
+        "titulo": "Ingeniero de software",
+        "empresa": "COPEC S.A.",
+        "fecha": "2026-08-26 13:49:11",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-puelche-hc-4445439206",
+        "titulo": "Desarrollador/a Full Stack",
+        "empresa": "Puelche HC",
+        "fecha": "2026-08-26 13:49:13",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual es un criterio de rechazo inmediato según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-go-python-at-metrica-chile-4459309461",
+        "titulo": "Fullstack Go / Python",
+        "empresa": "METRICA Chile",
+        "fecha": "2026-08-26 13:49:22",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago centro, lo cual es un motivo de rechazo inmediato según las reglas establecidas."
     }
 ]
