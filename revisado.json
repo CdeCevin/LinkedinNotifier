@@ -4918,5 +4918,85 @@
         "fecha": "2026-08-26 13:49:22",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago centro, lo cual es un motivo de rechazo inmediato según las reglas establecidas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-programador-junior-at-randstad-chile-4457702367",
+        "titulo": "Analista Programador Junior",
+        "empresa": "Randstad Chile",
+        "fecha": "2026-08-27 22:43:33",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes (Santiago), una ubicación no permitida, y el candidato aún es estudiante, mientras que la oferta requiere ser titulado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4459304806",
+        "titulo": "Python Developer (Junior) - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-08-27 22:43:36",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practica-profesional-desarrollo-de-software-at-forcast-4459371279",
+        "titulo": "Practica Profesional Desarrollo de Software",
+        "empresa": "Forcast.",
+        "fecha": "2026-08-27 22:43:46",
+        "calza": true,
+        "motivo": "El candidato cumple con los requisitos de ubicación remota y nivel de inglés, y aunque su experiencia es mayormente backend, sus sólidos conocimientos en JavaScript y TypeScript, junto a su perfil junior y capacidad de aprendizaje, lo hacen un excelente candidato para las tecnologías frontend y móviles deseadas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practicantes-ingenieros-de-datos-at-apiux-tech-4456515428",
+        "titulo": "Practicantes - Ingenieros de Datos",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-08-27 22:43:54",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad, pero no especifica que sea en Talca o la Región del Maule, lo cual es un requisito de ubicación crítico y excluyente."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollador-web-marketing-digital-at-buk-4457184372",
+        "titulo": "Práctica Desarrollador Web - Marketing Digital",
+        "empresa": "Buk",
+        "fecha": "2026-08-27 22:43:57",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-agiloft-at-del-mar-technology-group-4459866864",
+        "titulo": "Developer Agiloft",
+        "empresa": "Del Mar Technology Group",
+        "fecha": "2026-08-27 22:43:58",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-java-spring-boot-angular-%E2%80%93-santiago-100%25-presencial-at-amaris-consulting-4456961059",
+        "titulo": "Fullstack Java / Spring Boot / Angular – Santiago (100% presencial)",
+        "empresa": "Amaris Consulting",
+        "fecha": "2026-08-27 22:44:07",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad 100% presencial en Santiago de Chile, lo cual viola la regla crítica de ubicación, y demanda más de 4 años de experiencia, superando el perfil junior del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-react-con-java-o-python-semi-sr-at-tinet-s-a-4458623271",
+        "titulo": "Desarrollador Fullstack (React con Java o Python) - Semi Sr",
+        "empresa": "TINET S.A.",
+        "fecha": "2026-08-27 22:44:10",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-java-react-cl-at-imagemaker-4452624081",
+        "titulo": "Desarrollador FullStack Java / React - CL",
+        "empresa": "Imagemaker",
+        "fecha": "2026-08-27 22:44:17",
+        "calza": false,
+        "motivo": "La oferta exige residencia en Santiago o sus alrededores, lo cual entra en conflicto con las restricciones de ubicación del candidato (exclusivamente Talca/Maule o 100% remoto)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-avanzado-at-banco-de-chile-4454550436",
+        "titulo": "Desarrollador Avanzado",
+        "empresa": "Banco de Chile",
+        "fecha": "2026-08-27 22:44:19",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
