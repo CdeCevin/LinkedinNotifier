@@ -4998,5 +4998,53 @@
         "fecha": "2026-08-27 22:44:19",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-junior-at-randstad-chile-4458429771",
+        "titulo": "Backend Developer Junior",
+        "empresa": "Randstad Chile",
+        "fecha": "2026-08-28 22:50:25",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual es una condición de rechazo inmediata según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-c%23-at-ria-money-transfer-4458070202",
+        "titulo": "Full Stack Developer C#",
+        "empresa": "Ria Money Transfer",
+        "fecha": "2026-08-28 22:50:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-experis-chile-4460517134",
+        "titulo": "Programador full stack",
+        "empresa": "Experis Chile",
+        "fecha": "2026-08-28 22:50:38",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual es un requisito de ubicación explícitamente rechazado por el candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-back-end-go-5-meses-at-agilistik-4456624660",
+        "titulo": "Developer Back-end Go (5 Meses)",
+        "empresa": "AGILISTIK",
+        "fecha": "2026-08-28 22:50:42",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/front-end-developer-angular-ia-at-2brains-4451189878",
+        "titulo": "Front-end Developer Angular / IA",
+        "empresa": "2Brains",
+        "fecha": "2026-08-28 22:50:56",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica una ubicación que cumpla con los requisitos críticos (100% remota o en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/back-end-developer-golang-at-2brains-4451198116",
+        "titulo": "Back-end Developer Golang",
+        "empresa": "2Brains",
+        "fecha": "2026-08-28 22:51:16",
+        "calza": false,
+        "motivo": "La oferta no especifica la ubicación, no confirmando que sea 100% remota o presencial/híbrida en la Región del Maule, lo cual es un requisito crítico y obligatorio."
     }
 ]
