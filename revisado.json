@@ -5046,5 +5046,45 @@
         "fecha": "2026-08-28 22:51:16",
         "calza": false,
         "motivo": "La oferta no especifica la ubicación, no confirmando que sea 100% remota o presencial/híbrida en la Región del Maule, lo cual es un requisito crítico y obligatorio."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-satck-at-vigatec-4450613935",
+        "titulo": "Desarrollador Full Satck",
+        "empresa": "Vigatec",
+        "fecha": "2026-08-29 16:56:44",
+        "calza": false,
+        "motivo": "La oferta exige un mínimo de 3 años de experiencia y la ubicación no se especifica como remota o en la Región del Maule, incumpliendo los requisitos críticos."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrllador-full-stack-at-groupe-sii-4460106821",
+        "titulo": "Desarrllador Full Stack",
+        "empresa": "Groupe SII",
+        "fecha": "2026-08-29 16:56:53",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida presencial en Santiago, lo cual incumple la regla crítica de ubicación que prohíbe ofertas fuera de la Región del Maule o que no sean 100% remotas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-desarrollador-a-fullstack-java-%2B-react-oportunidad-colombia-latam-at-muruna-4458317862",
+        "titulo": "🚀 Desarrollador/a Fullstack Java + React | Oportunidad COLOMBIA / LATAM",
+        "empresa": "Muruna",
+        "fecha": "2026-08-29 16:57:11",
+        "calza": true,
+        "motivo": "Aunque el candidato no cuenta con la experiencia profesional sólida requerida y le faltan herramientas específicas como Spring Boot o React, posee un buen nivel de Java y de las tecnologías base (TypeScript, JavaScript), lo que, sumado a su perfil de estudiante de ingeniería, indica una alta capacidad de aprendizaje para un rol Junior/Trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-%E2%80%93-react-%2B-java-hibrido-at-stefanini-group-4459817253",
+        "titulo": "Desarrollador/a Full Stack – React + Java - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-08-29 16:57:39",
+        "calza": false,
+        "motivo": "La oferta no especifica una ubicación permitida (100% remota o en la Región del Maule) como requisito obligatorio según las reglas críticas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/laravel-developer-%2B-react-remote-latin-america-at-bluelight-4459101228",
+        "titulo": "Laravel Developer + React - Remote, Latin America",
+        "empresa": "Bluelight",
+        "fecha": "2026-08-29 16:57:42",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
