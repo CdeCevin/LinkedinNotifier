@@ -5086,5 +5086,29 @@
         "fecha": "2026-08-29 16:57:42",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-operaciones-ti-at-geovictoria-4459470294",
+        "titulo": "Software Engineer (Operaciones TI)",
+        "empresa": "GeoVictoria",
+        "fecha": "2026-08-30 17:07:02",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-semi-senior-at-neuralworks-4459472275",
+        "titulo": "Software Engineer Semi Senior",
+        "empresa": "NeuralWorks",
+        "fecha": "2026-08-30 17:07:18",
+        "calza": false,
+        "motivo": "La oferta exige al menos 3 años de experiencia como Software Engineer, mientras el candidato es estudiante y no posee experiencia profesional. Además, la oferta no cumple los requisitos de ubicación obligatorios (100% remoto o híbrido exclusivamente en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-operaciones-ti-at-geovictoria-4456615469",
+        "titulo": "Software Engineer (Operaciones TI)",
+        "empresa": "GeoVictoria",
+        "fecha": "2026-08-30 17:07:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
