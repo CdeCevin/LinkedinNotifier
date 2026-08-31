@@ -5110,5 +5110,53 @@
         "fecha": "2026-08-30 17:07:22",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-web-at-fundaci%C3%B3n-triangular-inclusiva-4459020963",
+        "titulo": "Desarrollador/a Web",
+        "empresa": "Fundación Triangular Inclusiva",
+        "fecha": "2026-08-31 19:20:27",
+        "calza": true,
+        "motivo": "El candidato, siendo un estudiante con fuerte base en programación, bases de datos (MySQL match), y backend, tiene la capacidad de aprender rápidamente las tecnologías específicas (PHP, CodeIgniter) requeridas para este perfil junior/trainee Desarrollador Web Full Stack."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-en-computaci%C3%B3n-o-af%C3%ADn-at-uc-christus-4454444102",
+        "titulo": "Práctica Ingeniería en Computación o Afín",
+        "empresa": "UC CHRISTUS",
+        "fecha": "2026-08-31 19:21:12",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida y, al no especificar una ubicación en la Región del Maule, se asume que sería en Santiago u otra región no permitida según las reglas críticas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-enginer-mid-at-conkord-4454826268",
+        "titulo": "AI Enginer (Mid)",
+        "empresa": "CONKORD",
+        "fecha": "2026-08-31 19:21:15",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-mid-at-conkord-4454578940",
+        "titulo": "AI Engineer (Mid)",
+        "empresa": "CONKORD",
+        "fecha": "2026-08-31 19:21:16",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4455533944",
+        "titulo": "Full Stack Software Engineer (Mid)",
+        "empresa": "Xe.com",
+        "fecha": "2026-08-31 19:21:17",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-inform%C3%A1tica-santiago-at-liebherr-mining-4439941050",
+        "titulo": "ESTUDIANTE EN PRÁCTICA INFORMÁTICA - SANTIAGO",
+        "empresa": "Liebherr Mining",
+        "fecha": "2026-08-31 19:21:23",
+        "calza": false,
+        "motivo": "La oferta de empleo exige residir y trabajar presencialmente en Santiago, lo cual es una ubicación explícitamente rechazada por las reglas críticas."
     }
 ]
