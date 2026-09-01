@@ -5158,5 +5158,61 @@
         "fecha": "2026-08-31 19:21:23",
         "calza": false,
         "motivo": "La oferta de empleo exige residir y trabajar presencialmente en Santiago, lo cual es una ubicación explícitamente rechazada por las reglas críticas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-remote-work-at-bairesdev-4460071302",
+        "titulo": "Desarrollador Junior Node.js - Remote Work",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-01 17:06:00",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-net-remote-work-at-bairesdev-4460061522",
+        "titulo": "Desarrollador Junior .NET - Remote Work",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-01 17:06:01",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-desarrollador-full-stack-php-at-valio-4461236043",
+        "titulo": "Analista-Desarrollador Full Stack PHP",
+        "empresa": "Valio",
+        "fecha": "2026-09-01 17:06:18",
+        "calza": false,
+        "motivo": "La oferta exige un mínimo de 3 años de experiencia en soporte y mantención, además de dominio avanzado de PHP y CodeIgniter, requisitos que el candidato no cumple."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-java-%2B-angular-at-sii-group-chile-4456748857",
+        "titulo": "Desarrollador FullStack (Java + Angular)",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-09-01 17:06:36",
+        "calza": true,
+        "motivo": "El candidato no demuestra experiencia sólida y comprobable en desarrollo Backend con Java, pero su perfil junior con conocimientos intermedios de Java, experiencia en Node.js, TypeScript y Oracle SQL lo hacen cercano."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-software-fullstack-ia-generativa-at-sonda-4455563515",
+        "titulo": "Desarrollador de Software Fullstack - IA Generativa",
+        "empresa": "SONDA",
+        "fecha": "2026-09-01 17:06:56",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida sin especificar una ubicación en la Región del Maule, lo que incumple con el requisito crítico de ubicación exclusiva para el candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-asiamerica-retail-4459256003",
+        "titulo": "Ingeniero Informático",
+        "empresa": "Asiamerica Retail",
+        "fecha": "2026-09-01 17:07:05",
+        "calza": false,
+        "motivo": "La oferta de empleo es presencial en Santiago (Sector Los Leones), lo cual incumple la regla crítica de ubicación que exige que sea 100% remota o presencial/híbrida exclusivamente en Talca, Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-semi-senior-at-softtek-4461516665",
+        "titulo": "Desarrollador Fullstack Semi Senior",
+        "empresa": "Softtek",
+        "fecha": "2026-09-01 17:07:08",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
