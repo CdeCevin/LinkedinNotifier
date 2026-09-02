@@ -5214,5 +5214,53 @@
         "fecha": "2026-09-01 17:07:08",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-chile-at-sezzle-4462415367",
+        "titulo": "Junior Software Engineer (Chile)",
+        "empresa": "Sezzle",
+        "fecha": "2026-09-02 16:56:49",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4460060652",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-02 16:57:06",
+        "calza": false,
+        "motivo": "La oferta exige un 'buen nivel de inglés', lo cual, para una empresa global con clientes de alto perfil, implica habilidades comunicacionales que el candidato no posee, ya que solo lee documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-softtek-4461270100",
+        "titulo": "Programador full stack",
+        "empresa": "Softtek",
+        "fecha": "2026-09-02 16:57:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-palvi-4459592509",
+        "titulo": "Ingeniero de software",
+        "empresa": "PALVI",
+        "fecha": "2026-09-02 16:57:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-javascript-at-neuralworks-4455448510",
+        "titulo": "Software Engineer JavaScript",
+        "empresa": "NeuralWorks",
+        "fecha": "2026-09-02 16:57:54",
+        "calza": false,
+        "motivo": "La oferta no especifica ser 100% remota ni presencial/híbrida exclusivamente en Talca o el Maule, no cumpliendo con la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-at-sii-group-chile-4461206621",
+        "titulo": "Desarrollador Back End",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-09-02 16:57:58",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
