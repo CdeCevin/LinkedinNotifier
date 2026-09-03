@@ -5262,5 +5262,61 @@
         "fecha": "2026-09-02 16:57:58",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-trainee-at-getdata-cl-4460411250",
+        "titulo": "Desarrollador Full Stack (Trainee)",
+        "empresa": "Getdata (CL)",
+        "fecha": "2026-09-03 16:50:24",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, la cual es una ubicación prohibida según las reglas establecidas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-chile-%0Achile-remote-at-sezzle-la-4462426762",
+        "titulo": "Junior Software Engineer (Chile)\nChile, Remote",
+        "empresa": "Sezzle LA",
+        "fecha": "2026-09-03 16:50:26",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-desarrollador-at-imed-4462464836",
+        "titulo": "Ingeniero Desarrollador",
+        "empresa": "imed",
+        "fecha": "2026-09-03 16:50:38",
+        "calza": true,
+        "motivo": "No calza perfectamente por la falta de experiencia explícita en frontend frameworks (React, Next.js, Tailwind) y los 2 años de experiencia requeridos, pero es un perfil cercano debido a sus sólidas habilidades en backend (Node.js, JavaScript, TypeScript, APIs, IA) y su potencial como junior con facilidad para aprender."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-delpa-group-4462434080",
+        "titulo": "Desarrollador/a Full Stack",
+        "empresa": "Delpa Group",
+        "fecha": "2026-09-03 16:52:24",
+        "calza": true,
+        "motivo": "El candidato calza bien con el perfil Junior/Trainee y la cultura de aprendizaje de la empresa, posee experiencia relevante en Backend (Node.js, Express, Python), bases de datos y crucialmente, integración de IA (Gemini), habilidades clave para la oferta 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-integrations-at-front-4460529305",
+        "titulo": "Full Stack Engineer - Integrations",
+        "empresa": "Front",
+        "fecha": "2026-09-03 16:52:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ii-data-engineer-at-terminal-4452314255",
+        "titulo": "Software Engineer II, Data Engineer",
+        "empresa": "Terminal",
+        "fecha": "2026-09-03 16:52:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-java-%2B-angular-at-kibernum-4460730136",
+        "titulo": "Desarrollador/a Full Stack Java + Angular",
+        "empresa": "Kibernum",
+        "fecha": "2026-09-03 16:54:17",
+        "calza": false,
+        "motivo": "La oferta exige disponibilidad para asistir a oficina en Las Condes (Santiago), lo cual incumple la regla crítica de ubicación."
     }
 ]
