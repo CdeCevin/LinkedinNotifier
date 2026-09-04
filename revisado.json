@@ -5318,5 +5318,45 @@
         "fecha": "2026-09-03 16:54:17",
         "calza": false,
         "motivo": "La oferta exige disponibilidad para asistir a oficina en Las Condes (Santiago), lo cual incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-sofware-santander-chile-at-santander-chile-4461522475",
+        "titulo": "Ingeniero Sofware | Santander Chile",
+        "empresa": "Santander Chile",
+        "fecha": "2026-09-04 16:41:26",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-frontend-web-ui-%E2%80%93-react-node-at-elitsoft-4458856313",
+        "titulo": "Desarrollador Frontend (Web UI) – React / Node",
+        "empresa": "Elitsoft",
+        "fecha": "2026-09-04 16:41:37",
+        "calza": true,
+        "motivo": "La oferta exige más de 3 años de experiencia en React y Node.js, lo cual no cumple el candidato siendo estudiante, pero su base en JavaScript, TypeScript, Node.js y Python, junto a su perfil junior y capacidad de aprendizaje rápido, lo hacen un perfil cercano para considerar."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inform%C3%A1tica-h%C3%ADbrida-rondizzoni-at-salfa-rent-4460647842",
+        "titulo": "Práctica Informática-híbrida-Rondizzoni",
+        "empresa": "Salfa Rent",
+        "fecha": "2026-09-04 16:42:01",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida pero no especifica que la ubicación sea exclusivamente en Talca o la Región del Maule, incumpliendo la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-backend-api-at-acl-4461169792",
+        "titulo": "Desarrollador/a Backend API",
+        "empresa": "ACL",
+        "fecha": "2026-09-04 16:42:30",
+        "calza": true,
+        "motivo": "El candidato posee un perfil técnico sólido en Node.js, TypeScript, APIs RESTful y bases de datos con experiencia en proyectos académicos relevantes, aunque no cumple con los 3 años de experiencia profesional mínima requerida, podría ser un perfil junior con potencial."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-react-semi-sr-at-tinet-s-a-4460291360",
+        "titulo": "Desarrollador Fullstack (React) - Semi Sr",
+        "empresa": "TINET S.A.",
+        "fecha": "2026-09-04 16:42:35",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
