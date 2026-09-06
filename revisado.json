@@ -5358,5 +5358,37 @@
         "fecha": "2026-09-04 16:42:35",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-software-engineering-ai-at-tooxs-4461463331",
+        "titulo": "Práctica Profesional – Software Engineering & AI",
+        "empresa": "Tooxs",
+        "fecha": "2026-09-06 15:55:57",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-en-desarrollo-de-experiencias-digitales-santiago-at-santander-chile-4461511822",
+        "titulo": "Ingeniero en Desarrollo de Experiencias Digitales | Santiago",
+        "empresa": "Santander Chile",
+        "fecha": "2026-09-06 15:55:58",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-java-react-cl-remote-at-imagemaker-4460369895",
+        "titulo": "Desarrollador FullStack Java / React CL - Remote",
+        "empresa": "Imagemaker",
+        "fecha": "2026-09-06 15:55:58",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-java-quarkus-at-acl-4459992625",
+        "titulo": "Desarrollador Full Stack (Java/Quarkus)",
+        "empresa": "ACL",
+        "fecha": "2026-09-06 15:56:04",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual es un motivo de rechazo inmediato según las reglas establecidas para la ubicación."
     }
 ]
