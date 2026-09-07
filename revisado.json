@@ -5390,5 +5390,53 @@
         "fecha": "2026-09-06 15:56:04",
         "calza": false,
         "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual es un motivo de rechazo inmediato según las reglas establecidas para la ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-filial-blue-express-at-copec-s-a-4462224331",
+        "titulo": "Full Stack - Filial Blue Express",
+        "empresa": "COPEC S.A.",
+        "fecha": "2026-09-07 18:02:35",
+        "calza": false,
+        "motivo": "La oferta no especifica una modalidad 100% remota o una ubicación en la Región del Maule, lo que incumple la Regla Crítica 1, y requiere al menos 3 años de experiencia que el candidato no posee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-taqtic-4462239098",
+        "titulo": "Ingeniero de software",
+        "empresa": "TAQTIC",
+        "fecha": "2026-09-07 18:02:46",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual va en contra de la regla crítica de ubicación que solo permite Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-full-stack-at-palvi-4459592509",
+        "titulo": "Ingeniero de Software Full-Stack",
+        "empresa": "PALVI",
+        "fecha": "2026-09-07 18:02:49",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-ssr-at-getdata-cl-4461402325",
+        "titulo": "Desarrollador Full Stack Ssr",
+        "empresa": "Getdata (CL)",
+        "fecha": "2026-09-07 18:02:49",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-java-%2B-angular-ia-generativa-at-kibernum-4460422102",
+        "titulo": "Desarrollador/a Full Stack Java + Angular | IA Generativa",
+        "empresa": "Kibernum",
+        "fecha": "2026-09-07 18:02:58",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Región Metropolitana, lo cual no calza con los requisitos de ubicación del candidato (solo Maule o remoto) y el perfil del candidato no cumple con los requisitos excluyentes de experiencia (2-3 años) y título profesional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-randstad-chile-4462219494",
+        "titulo": "Full stack Developer",
+        "empresa": "Randstad Chile",
+        "fecha": "2026-09-07 18:03:06",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual es una ubicación no permitida según las reglas críticas de la oferta para el candidato."
     }
 ]
