@@ -5438,5 +5438,45 @@
         "fecha": "2026-09-07 18:03:06",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual es una ubicación no permitida según las reglas críticas de la oferta para el candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developers-at-deloitte-4455381569",
+        "titulo": "Full Stack Developers",
+        "empresa": "Deloitte",
+        "fecha": "2026-09-08 16:58:50",
+        "calza": false,
+        "motivo": "La oferta exige modalidad hibrida sin especificar una ubicación permitida (Talca/Maule o 100% remota), lo que implica una ubicación fuera de las reglas y genera un rechazo inmediato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-tecnolog%C3%ADa-%E2%80%93-desarrollo-de-aplicaciones-at-empresa-confidencial-4461878134",
+        "titulo": "Práctica Profesional área Tecnología – Desarrollo de Aplicaciones",
+        "empresa": "Empresa Confidencial",
+        "fecha": "2026-09-08 16:59:06",
+        "calza": false,
+        "motivo": "La oferta de empleo con modalidad híbrida no especifica que la ubicación sea exclusivamente en Talca o la Región del Maule, lo cual es un requisito crítico para la aceptación de la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programa-trainee-sap-business-one-proyectos-at-seidor-4462241520",
+        "titulo": "Programa Trainee SAP Business One | Proyectos",
+        "empresa": "SEIDOR",
+        "fecha": "2026-09-08 16:59:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-node-js-at-sermaluc-4464624402",
+        "titulo": "Desarrollador Backend Node.js",
+        "empresa": "Sermaluc",
+        "fecha": "2026-09-08 16:59:19",
+        "calza": true,
+        "motivo": "El candidato tiene un sólido perfil técnico en Node.js, JavaScript, TypeScript, MongoDB y testing automatizado, y aunque su experiencia es de proyecto académico, es muy cercano al perfil Junior/Trainee buscado para la oferta remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4464078434",
+        "titulo": "Full Stack Software Engineer (Mid)",
+        "empresa": "Xe.com",
+        "fecha": "2026-09-08 16:59:24",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
