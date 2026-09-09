@@ -5478,5 +5478,77 @@
         "fecha": "2026-09-08 16:59:24",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4463527289",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-09 16:57:55",
+        "calza": true,
+        "motivo": "El perfil del candidato calza con los requisitos técnicos de Node.js y la modalidad 100% remota, aunque la experiencia laboral listada en 2025 y el nivel de inglés podrían ser un factor a considerar para ser un match perfecto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-chile-at-crossjoin-solutions-4463541406",
+        "titulo": "Junior Software Engineer - Chile",
+        "empresa": "Crossjoin Solutions",
+        "fecha": "2026-09-09 16:58:00",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4463524552",
+        "titulo": "Desarrollador React Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-09 16:58:11",
+        "calza": false,
+        "motivo": "Se rechaza la postulación debido a que la oferta exige un buen nivel de inglés, mientras que el candidato solo posee un nivel intermedio para lectura de documentación, lo cual no cumple con el requisito de fluidez conversacional implícito."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-tinsa-chile-by-accumin-4464650185",
+        "titulo": "Ingeniero de datos",
+        "empresa": "Tinsa Chile by Accumin",
+        "fecha": "2026-09-09 16:58:26",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos tecnológicos excluyentes (SQL, Python, Git, uso de IA para desarrollo), posee experiencia relevante en APIs y proyectos con integración de IA, y su perfil junior se alinea con la experiencia requerida de 0-3 años, demostrando capacidad de aprendizaje para las tecnologías deseables."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-private-at-seidor-4462232638",
+        "titulo": "Trainee Program SEIDOR SAP Private",
+        "empresa": "SEIDOR",
+        "fecha": "2026-09-09 16:58:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-java-react-at-jobgether-4460961975",
+        "titulo": "Fullstack Developer (Java, React)",
+        "empresa": "Jobgether",
+        "fecha": "2026-09-09 16:58:30",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-credit%C3%BA-4463065283",
+        "titulo": "Software Engineer",
+        "empresa": "Creditú",
+        "fecha": "2026-09-09 16:58:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-node-react-at-amaris-consulting-4446931595",
+        "titulo": "Desarrollador Fullstack Node/React",
+        "empresa": "Amaris Consulting",
+        "fecha": "2026-09-09 16:58:38",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago de Chile, lo cual es un requisito de ubicación no permitido según las reglas críticas, y el candidato no cumple con los 4 años de experiencia requeridos."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-datos-trainee-at-avos-tech-chile-4465066879",
+        "titulo": "Ingeniero de Datos Trainee",
+        "empresa": "AVOS Tech | Chile",
+        "fecha": "2026-09-09 16:58:49",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida pero no especifica que sea exclusivamente en Talca, la Región del Maule o comunas aledañas, lo cual es una condición obligatoria de rechazo."
     }
 ]
