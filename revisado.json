@@ -5550,5 +5550,93 @@
         "fecha": "2026-09-09 16:58:49",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida pero no especifica que sea exclusivamente en Talca, la Región del Maule o comunas aledañas, lo cual es una condición obligatoria de rechazo."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4463526273",
+        "titulo": "Desarrollador Junior .NET - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-10 16:50:06",
+        "calza": false,
+        "motivo": "Se rechaza la oferta debido a que el candidato no cumple con el nivel de inglés requerido, ya que la oferta exige 'Buen nivel de inglés' y el candidato solo lee documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-builder-full-stack-ia-las-condes-at-mandomedio-4465088767",
+        "titulo": "Product Builder (Full Stack & IA) - Las Condes",
+        "empresa": "Mandomedio",
+        "fecha": "2026-09-10 16:50:15",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes (Santiago), lo cual es una región fuera del Maule y debe ser rechazada inmediatamente según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ia-engineer-junior-at-conkord-4464340211",
+        "titulo": "IA Engineer Junior",
+        "empresa": "CONKORD",
+        "fecha": "2026-09-10 16:50:18",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-sonda-4463625594",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "SONDA",
+        "fecha": "2026-09-10 16:50:31",
+        "calza": false,
+        "motivo": "La oferta exige entre 3 y 5 años de experiencia como desarrollador fullstack, lo cual no calza con el perfil de estudiante del candidato. Además, la modalidad híbrida de la oferta no especifica una ubicación permitida por las reglas críticas de contratación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-mean-at-bc-tecnolog%C3%ADa-4463554311",
+        "titulo": "Desarrollador Full-Stack (MEAN)",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-09-10 16:50:47",
+        "calza": true,
+        "motivo": "El candidato no cumple con los 2 años de experiencia requeridos y no lista frameworks JS MVC específicos como Angular o Backbone, pero su perfil junior y experiencia con Node.js, Express.js, APIs RESTful y testing automatizado lo hacen un candidato muy cercano y con alto potencial para la posición fullstack, especialmente en backend y con capacidad de aprender el frontend."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-acl-4462228705",
+        "titulo": "Desarrollador Full Stack",
+        "empresa": "ACL",
+        "fecha": "2026-09-10 16:51:02",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad de trabajo híbrida en Santiago de Chile, lo cual es un motivo de rechazo según las reglas de ubicación, y el candidato no cumple con los 3-5 años de experiencia Full Stack requeridos."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-carvuk-4460223044",
+        "titulo": "Software Engineer",
+        "empresa": "Carvuk",
+        "fecha": "2026-09-10 16:51:17",
+        "calza": false,
+        "motivo": "La oferta de empleo, al mencionar una 'Oficina pet friendly' y operaciones en Santiago sin especificar modalidad remota o ubicación en Maule, implica un requisito de ubicación que no cumple con las reglas críticas de la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-net-semi-sr-at-tinet-s-a-4463854581",
+        "titulo": "Desarrollador Fullstack .NET - Semi Sr",
+        "empresa": "TINET S.A.",
+        "fecha": "2026-09-10 16:51:20",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-react-%2B-node-js-at-sermaluc-4465676634",
+        "titulo": "Desarrollador Fullstack (React + Node.js)",
+        "empresa": "Sermaluc",
+        "fecha": "2026-09-10 16:51:37",
+        "calza": true,
+        "motivo": "No cumple con los 2 años de experiencia profesional fullstack ni el dominio en frontend (React/Next.js) requerido, pero su fuerte perfil backend, bases de datos y experiencia en IA lo hacen un candidato cercano para un puesto junior/trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/spring-dev-at-vr-group-chile-4463488377",
+        "titulo": "Spring DEV",
+        "empresa": "VR Group Chile",
+        "fecha": "2026-09-10 16:51:59",
+        "calza": false,
+        "motivo": "La oferta no especifica una ubicación que cumpla con los requisitos (remota o en el Maule) y exige 2 años de experiencia, incluyendo el framework Spring (indispensable), lo cual el candidato no posee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-node-js-javascript-at-bc-tecnolog%C3%ADa-4465329143",
+        "titulo": "Desarrollador/a Full Stack Node.js / JavaScript",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-09-10 16:52:15",
+        "calza": true,
+        "motivo": "El candidato tiene sólidos conocimientos en Node.js, Express, JavaScript y backend, que son el core de la oferta. Aunque no cumple con los 2 años de experiencia requeridos y los frameworks frontend específicos, su perfil junior y capacidad de aprendizaje lo hacen una opción cercana para un rol Full Stack remoto."
     }
 ]
