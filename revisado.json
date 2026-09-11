@@ -5638,5 +5638,37 @@
         "fecha": "2026-09-10 16:52:15",
         "calza": true,
         "motivo": "El candidato tiene sólidos conocimientos en Node.js, Express, JavaScript y backend, que son el core de la oferta. Aunque no cumple con los 2 años de experiencia requeridos y los frameworks frontend específicos, su perfil junior y capacidad de aprendizaje lo hacen una opción cercana para un rol Full Stack remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-back-end-node-js-golang-microservicios-%E2%80%93-semi-senior-at-orantex-tech-4466328569",
+        "titulo": "Developer Back End (Node.js, Golang & Microservicios) – Semi Senior",
+        "empresa": "Orantex Tech",
+        "fecha": "2026-09-11 16:50:43",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-kibernum-4463901938",
+        "titulo": "Programador full stack",
+        "empresa": "Kibernum",
+        "fecha": "2026-09-11 16:50:57",
+        "calza": true,
+        "motivo": "Aunque el candidato es estudiante y no posee los 2 años de experiencia Full Stack requeridos, tiene un proyecto backend relevante con Node.js y TypeScript, integración de IA, y un perfil junior con potencial de aprendizaje rápido que podría interesarle al reclutador."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-semi-senior-react-at-soaint-4464579475",
+        "titulo": "Desarrollador Semi Senior React",
+        "empresa": "SOAINT",
+        "fecha": "2026-09-11 16:51:01",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/d%C3%A9veloppeur-javascript-front-end-back-end-at-parsys-telemedicine-4459720596",
+        "titulo": "Développeur JavaScript Front-End / Back-End",
+        "empresa": "Parsys Telemedicine",
+        "fecha": "2026-09-11 16:51:13",
+        "calza": false,
+        "motivo": "La oferta de empleo no cumple con los requisitos de ubicación obligatorios, ya que su descripción en francés no especifica ser 100% remota (desde Chile o global) ni presencial/híbrida exclusivamente en la Región del Maule."
     }
 ]
