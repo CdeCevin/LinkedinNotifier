@@ -5670,5 +5670,37 @@
         "fecha": "2026-09-11 16:51:13",
         "calza": false,
         "motivo": "La oferta de empleo no cumple con los requisitos de ubicación obligatorios, ya que su descripción en francés no especifica ser 100% remota (desde Chile o global) ni presencial/híbrida exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-nodejs-junior-presencial-at-randstad-chile-4464221828",
+        "titulo": "Desarrollador Backend Nodejs Junior - PRESENCIAL",
+        "empresa": "Randstad Chile",
+        "fecha": "2026-09-12 15:57:20",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Las Condes (Santiago), lo que incumple la regla crítica de ubicación (debe ser remoto o en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-accenture-chile-4465164720",
+        "titulo": "Desarrollador Fullstack Junior",
+        "empresa": "Accenture Chile",
+        "fecha": "2026-09-12 15:57:32",
+        "calza": true,
+        "motivo": "El candidato cumple con los requisitos de Desarrollador Junior, posee conocimientos en MySQL e IA (bonus), y su perfil encaja con el interés en aprender nuevas tecnologías."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-at-publicis-chile-4465161322",
+        "titulo": "Data Engineer",
+        "empresa": "Publicis Chile",
+        "fecha": "2026-09-12 15:57:45",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida/presencial en Las Condes (Santiago), lo cual incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-angular-%2B-seo-marketing-remote-latin-america-at-fullstack-4451950633",
+        "titulo": "Software Engineer (Angular + SEO/Marketing) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-09-12 15:57:48",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
