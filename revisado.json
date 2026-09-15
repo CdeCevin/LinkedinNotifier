@@ -5718,5 +5718,61 @@
         "fecha": "2026-09-14 18:18:14",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4466123030",
+        "titulo": "Desarrollador Junior .NET - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-15 17:25:53",
+        "calza": false,
+        "motivo": "La oferta exige un 'buen nivel de inglés' que implica fluidez conversacional, lo cual no calza con el nivel del candidato de solo lectura de documentación según las reglas críticas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4466120034",
+        "titulo": "Desarrollador React Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-15 17:26:07",
+        "calza": false,
+        "motivo": "La oferta exige un 'buen nivel de inglés', lo cual no cumple el candidato según la regla crítica de idioma que indica que no habla inglés fluido y solo lee documentación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/trainee-software-engineer-at-alma-observatory-4465241409",
+        "titulo": "Trainee Software Engineer",
+        "empresa": "ALMA Observatory",
+        "fecha": "2026-09-15 17:26:11",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-back-end-node-js-golang-microservicios-%E2%80%93-semi-senior-at-orantex-tech-4465566769",
+        "titulo": "Developer Back End (Node.js, Golang & Microservicios) – Semi Senior",
+        "empresa": "Orantex Tech",
+        "fecha": "2026-09-15 17:26:12",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/front-end-developer-modyo-at-factorit-4466501114",
+        "titulo": "Front-end Developer Modyo",
+        "empresa": "FactorIT",
+        "fecha": "2026-09-15 17:26:26",
+        "calza": false,
+        "motivo": "La oferta exige modalidad de trabajo híbrida en Santiago, lo cual no cumple con las restricciones de ubicación del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-geovictoria-4456615469",
+        "titulo": "Software Engineer",
+        "empresa": "GeoVictoria",
+        "fecha": "2026-09-15 17:26:28",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-semi-senior-javascript-node-js-at-acl-4465262079",
+        "titulo": "Desarrollador Fullstack Semi Senior (JavaScript, Node.js)",
+        "empresa": "ACL",
+        "fecha": "2026-09-15 17:26:29",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
