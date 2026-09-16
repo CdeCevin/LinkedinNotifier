@@ -5774,5 +5774,53 @@
         "fecha": "2026-09-15 17:26:29",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/application-developer-student-conversion-at-hakk%C5%8Dda-an-ibm-company-4467799585",
+        "titulo": "Application Developer - STUDENT CONVERSION",
+        "empresa": "Hakkōda, an IBM Company",
+        "fecha": "2026-09-16 17:24:40",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4466876753",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-16 17:24:57",
+        "calza": true,
+        "motivo": "El candidato tiene un nivel intermedio-avanzado de Python y las bases de un ingeniero informático, y la oferta es 100% remota; aunque no tiene 1 año de experiencia explícita, su nivel es prometedor para un rol Junior, y el requisito de inglés no exige fluidez conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/associate-data-engineer-at-sodimac-4466342207",
+        "titulo": "Associate Data Engineer",
+        "empresa": "Sodimac",
+        "fecha": "2026-09-16 17:25:14",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica una ubicación que cumpla con los requisitos obligatorios de 100% remota o presencial/híbrida en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-desarrollador-net%2B-at-bc-tecnolog%C3%ADa-4466826146",
+        "titulo": "Analista Desarrollador .NET+",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-09-16 17:25:18",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-net-%2B-angular-remote-latin-america-at-fullstack-4467793483",
+        "titulo": "Software Engineer (.NET + Angular) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-09-16 17:25:18",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-net-%2B-angular-remote-latin-america-at-fullstack-4467795462",
+        "titulo": "Software Engineer (.NET + Angular) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-09-16 17:25:19",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
