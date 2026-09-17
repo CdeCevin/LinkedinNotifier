@@ -5822,5 +5822,45 @@
         "fecha": "2026-09-16 17:25:19",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-chile-%0Achile-remote-at-sezzle-la-4468355567",
+        "titulo": "Junior Software Engineer (Chile)\nChile, Remote",
+        "empresa": "Sezzle LA",
+        "fecha": "2026-09-17 17:23:54",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4467540976",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-17 17:24:07",
+        "calza": false,
+        "motivo": "La oferta exige 'Buen nivel de inglés', lo cual no calza con el nivel 'Intermedio' del candidato, quien no habla inglés fluido y solo lee documentación, según la regla crítica de idioma."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-c%23-at-ria-money-transfer-4466240858",
+        "titulo": "Full Stack Developer C#",
+        "empresa": "Ria Money Transfer",
+        "fecha": "2026-09-17 17:24:10",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-back-end-integraciones-nodejs-at-tsoft-4468644819",
+        "titulo": "Developer Back End Integraciones NodeJS",
+        "empresa": "Tsoft",
+        "fecha": "2026-09-17 17:24:26",
+        "calza": true,
+        "motivo": "El candidato tiene experiencia relevante en desarrollo backend con Node.js y APIs, y cumple con los requisitos de idioma y flexibilidad tecnológica para un perfil junior, aunque algunas herramientas específicas no estén explícitamente en el CV."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-java-spring-boot-%2B-aws-at-inovabiz-4466222455",
+        "titulo": "Desarrollador/a Full Stack Java (Spring Boot + AWS)",
+        "empresa": "INOVABIZ",
+        "fecha": "2026-09-17 17:24:43",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule, incumpliendo la regla crítica de ubicación."
     }
 ]
