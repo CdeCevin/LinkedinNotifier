@@ -5862,5 +5862,29 @@
         "fecha": "2026-09-17 17:24:43",
         "calza": false,
         "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule, incumpliendo la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-lisit-4464535371",
+        "titulo": "Desarrollador Full-Stack",
+        "empresa": "LISIT",
+        "fecha": "2026-09-18 16:52:20",
+        "calza": true,
+        "motivo": "Aunque el candidato es estudiante y no cuenta con los 2 años de experiencia profesional requeridos, posee una base técnica sólida en backend (Node.js, Express.js, TypeScript, APIs REST, DBs), experiencia relevante en integración de IA y testing automatizado, y cumple con el perfil junior/trainee adaptable para frontend según la regla 2. La ubicación de la oferta es ambigua, lo que no permite un 'calza' perfecto según la regla 1, pero tampoco la descarta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pasante-at-crawford-company-4464082111",
+        "titulo": "Pasante",
+        "empresa": "Crawford & Company",
+        "fecha": "2026-09-18 16:52:33",
+        "calza": false,
+        "motivo": "La oferta de empleo especifica una modalidad de trabajo híbrida sin indicar una ubicación en Talca o la Región del Maule, lo cual incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-de-software-automatizaci%C3%B3n-e-inteligencia-artificial-at-cencosud-4467796134",
+        "titulo": "Práctica Profesional – Desarrollo de Software, Automatización e Inteligencia Artificial",
+        "empresa": "Cencosud",
+        "fecha": "2026-09-18 16:52:44",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago (Cenco Costanera), lo cual incumple la Regla Crítica 1 sobre ubicación, que prohíbe ubicaciones presenciales/híbridas fuera de Talca o la Región del Maule."
     }
 ]
