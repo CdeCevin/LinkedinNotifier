@@ -5886,5 +5886,21 @@
         "fecha": "2026-09-18 16:52:44",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago (Cenco Costanera), lo cual incumple la Regla Crítica 1 sobre ubicación, que prohíbe ubicaciones presenciales/híbridas fuera de Talca o la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ii-backend-payments-at-kraken-4467803372",
+        "titulo": "Software Engineer II - Backend - Payments",
+        "empresa": "Kraken",
+        "fecha": "2026-09-20 16:39:21",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-developer-net-%2B-vue-3-remote-latin-america-at-fullstack-4469244964",
+        "titulo": "Software Developer (.NET + Vue 3) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-09-20 16:39:22",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
