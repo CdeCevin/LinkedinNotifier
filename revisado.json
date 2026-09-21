@@ -5902,5 +5902,37 @@
         "fecha": "2026-09-20 16:39:22",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-i-at-ripley-chile-4469916656",
+        "titulo": "Software Engineer I",
+        "empresa": "Ripley Chile",
+        "fecha": "2026-09-21 18:25:29",
+        "calza": false,
+        "motivo": "La oferta no especifica una ubicación 100% remota o presencial/híbrida en la Región del Maule o aledañas, incumpliendo un requisito crítico de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-net-remote-work-ref%23303229-at-bairesdev-4464907482",
+        "titulo": "Software Engineer (.NET) - Remote Work | REF#303229",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-21 18:25:32",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-web-at-municipalidad-de-independencia-4467397606",
+        "titulo": "Practicante de Desarrollo Web",
+        "empresa": "Municipalidad de Independencia",
+        "fecha": "2026-09-21 18:25:39",
+        "calza": false,
+        "motivo": "La oferta exige que la práctica se desarrolle en Santiago de Chile, lo cual es una condición de rechazo inmediata según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/node-fullstack-developer-remote-work-ref%23303156-at-bairesdev-4464911009",
+        "titulo": "Node Fullstack Developer - Remote Work | REF#303156",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-21 18:25:41",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
