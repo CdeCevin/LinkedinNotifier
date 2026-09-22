@@ -5934,5 +5934,37 @@
         "fecha": "2026-09-21 18:25:41",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4470462345",
+        "titulo": "Python Developer (Junior) - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-09-22 17:28:58",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-intern-at-ria-money-transfer-4469968356",
+        "titulo": "Software Engineer Intern",
+        "empresa": "Ria Money Transfer",
+        "fecha": "2026-09-22 17:29:06",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago y un nivel de inglés intermedio/avanzado excluyente, requisitos que incumplen las reglas críticas de ubicación y nivel de inglés del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practicante-analista-en-sistemas-o-programador-quilicura-presencial-at-relix-water-4470213415",
+        "titulo": "Practicante Analista en sistemas o Programador / Quilicura / Presencial/",
+        "empresa": "ReliX Water",
+        "fecha": "2026-09-22 17:29:08",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-at-groupe-sii-4470430899",
+        "titulo": "Desarrollador Backend",
+        "empresa": "Groupe SII",
+        "fecha": "2026-09-22 17:29:09",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
