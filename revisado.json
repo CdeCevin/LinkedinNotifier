@@ -5966,5 +5966,29 @@
         "fecha": "2026-09-22 17:29:09",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-programador-junior-at-randstad-chile-4468925279",
+        "titulo": "Analista Programador Junior",
+        "empresa": "Randstad Chile",
+        "fecha": "2026-09-23 17:38:30",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Providencia (Santiago), lo cual está fuera de las regiones permitidas para el candidato (100% remoto o Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/node-js-back-end-engineer-semi-senior-at-prontopaga-4458050638",
+        "titulo": "Node.js Back-end Engineer (Semi Senior)",
+        "empresa": "ProntoPaga",
+        "fecha": "2026-09-23 17:38:43",
+        "calza": false,
+        "motivo": "El candidato es estudiante sin la experiencia consolidada de 2 a 3 años y carece de los conocimientos específicos en arquitecturas serverless de AWS, que son requisitos clave para la posición."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-geovictoria-4469060005",
+        "titulo": "Software Engineer",
+        "empresa": "GeoVictoria",
+        "fecha": "2026-09-23 17:38:47",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
