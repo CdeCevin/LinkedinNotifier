@@ -5990,5 +5990,37 @@
         "fecha": "2026-09-23 17:38:47",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4469676532",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-24 17:41:47",
+        "calza": false,
+        "motivo": "Aunque la oferta es 100% remota y el perfil técnico en Node.js del candidato es prometedor para un rol Junior, la exigencia de un 'Buen nivel de inglés' por parte de una empresa global como BairesDev implica una habilidad conversacional que el candidato no posee, siendo un requisito crítico de comunicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4469679433",
+        "titulo": "Desarrollador Junior .NET - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-24 17:42:00",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito de 'Buen nivel de inglés' y carece de la experiencia específica de 1+ año en .NET solicitada para el puesto, lo cual es un criterio de rechazo crítico para el inglés."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-at-ita%C3%BA-chile-4471493745",
+        "titulo": "Desarrollador Back End",
+        "empresa": "Itaú Chile",
+        "fecha": "2026-09-24 17:42:50",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica si es 100% remota o si es presencial/híbrida en Talca o la Región del Maule, lo que incumple la regla crítica de ubicación establecida."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/marketplace-engineering-intern-at-wherex-4470995888",
+        "titulo": "Marketplace Engineering Intern",
+        "empresa": "Wherex",
+        "fecha": "2026-09-24 17:43:00",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida con presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo acepta ofertas 100% remotas o presenciales en la Región del Maule."
     }
 ]
