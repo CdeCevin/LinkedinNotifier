@@ -6022,5 +6022,21 @@
         "fecha": "2026-09-24 17:43:00",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida con presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo acepta ofertas 100% remotas o presenciales en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-de-software-erp-at-kiosclub-american-supermarket-4470180546",
+        "titulo": "Desarrollador/a de Software ERP",
+        "empresa": "KiosClub American Supermarket",
+        "fecha": "2026-09-25 17:42:41",
+        "calza": true,
+        "motivo": "Aunque no cumple con los 2 años de experiencia formal ni la experiencia explícita en Odoo, su sólido dominio de Python y SQL, junto con su perfil de estudiante de Ingeniería Civil Informática, lo hacen un candidato cercano con alto potencial de aprendizaje para un rol Junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-proyectos-core-at-nubox-spa-4470025276",
+        "titulo": "AI Engineer - Proyectos Core",
+        "empresa": "Nubox SpA",
+        "fecha": "2026-09-25 17:42:45",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
