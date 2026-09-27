@@ -6054,5 +6054,21 @@
         "fecha": "2026-09-26 16:50:38",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-power-platform-at-ey-4468119093",
+        "titulo": "Desarrollador Junior Power Platform",
+        "empresa": "EY",
+        "fecha": "2026-09-27 17:23:31",
+        "calza": true,
+        "motivo": "El candidato posee una sólida base técnica, un perfil junior con capacidad de aprendizaje y experiencia en Power BI, lo que lo hace cercano a la oferta a pesar de no tener experiencia explícita en Power Platform."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-data-ai-at-geovictoria-4469045401",
+        "titulo": "Software Engineer - Data & AI",
+        "empresa": "GeoVictoria",
+        "fecha": "2026-09-27 17:23:51",
+        "calza": true,
+        "motivo": "El candidato no cumple con los 3+ años de experiencia para un rol Mid, pero sus habilidades en IA (Gemini), Python, SQL y desarrollo backend lo hacen un perfil muy prometedor y cercano para el área de Data & AI."
     }
 ]
