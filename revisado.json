@@ -6070,5 +6070,53 @@
         "fecha": "2026-09-27 17:23:51",
         "calza": true,
         "motivo": "El candidato no cumple con los 3+ años de experiencia para un rol Mid, pero sus habilidades en IA (Gemini), Python, SQL y desarrollo backend lo hacen un perfil muy prometedor y cercano para el área de Data & AI."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-junior-at-conkord-4464378187",
+        "titulo": "AI Engineer Junior",
+        "empresa": "CONKORD",
+        "fecha": "2026-09-28 19:56:44",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-ia-y-automatizaci%C3%B3n-at-veltis-latam-4461260827",
+        "titulo": "Desarrollador(a) IA y Automatización",
+        "empresa": "Veltis Latam",
+        "fecha": "2026-09-28 19:56:52",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual no cumple con las restricciones de ubicación (100% remoto o presencial/híbrido solo en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-innovaci%C3%B3n-digital-at-copec-s-a-4470895793",
+        "titulo": "Ingeniero/a de Innovación Digital",
+        "empresa": "COPEC S.A.",
+        "fecha": "2026-09-28 19:57:06",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica una ubicación o modalidad (100% remota o presencial/híbrida exclusivamente en Talca/Maule) que cumpla con los requisitos críticos de postulación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-%E2%80%93-nestjs-%2B-elasticsearch-hibrido-at-stefanini-group-4471024538",
+        "titulo": "Backend Developer – NestJS + Elasticsearch- HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-09-28 19:57:18",
+        "calza": true,
+        "motivo": "El candidato tiene experiencia sólida en desarrollo Backend con Node.js y TypeScript, lo que facilita el aprendizaje de NestJS, y sus habilidades le permiten adquirir Elasticsearch rápidamente para un perfil Junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-xepelin-4363845156",
+        "titulo": "Software Engineer",
+        "empresa": "Xepelin",
+        "fecha": "2026-09-28 19:57:38",
+        "calza": false,
+        "motivo": "El candidato no cumple con los +3 años de experiencia en desarrollo de software en producción requeridos, ya que su experiencia es de un proyecto académico."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4472423144",
+        "titulo": "Full Stack Software Engineer (Mid)",
+        "empresa": "Xe.com",
+        "fecha": "2026-09-28 19:57:40",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
