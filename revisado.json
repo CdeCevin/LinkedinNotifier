@@ -6118,5 +6118,37 @@
         "fecha": "2026-09-28 19:57:40",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-trainee-at-apiux-tech-4471733525",
+        "titulo": "Desarrollador Trainee",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-09-29 18:24:53",
+        "calza": false,
+        "motivo": "La oferta exige modalidad de trabajo presencial y no especifica que sea exclusivamente en Talca o la Región del Maule, incumpliendo la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-developer-at-advendio-4471555463",
+        "titulo": "Junior Software Developer",
+        "empresa": "ADvendio",
+        "fecha": "2026-09-29 18:24:56",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-de-software-erp-at-kiosclub-american-supermarket-4471721521",
+        "titulo": "Desarrollador/a de Software ERP",
+        "empresa": "KiosClub American Supermarket",
+        "fecha": "2026-09-29 18:25:07",
+        "calza": false,
+        "motivo": "La oferta no especifica modalidad remota ni se ubica en la Región del Maule como es requerido, y el candidato no cumple con los 2 años de experiencia en Python ni conocimientos explícitos en Odoo."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-net-at-r-y-c-consultores-asociados-4471756646",
+        "titulo": "Desarrollador .NET",
+        "empresa": "R y C Consultores Asociados",
+        "fecha": "2026-09-29 18:25:11",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
