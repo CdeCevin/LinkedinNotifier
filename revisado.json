@@ -6150,5 +6150,45 @@
         "fecha": "2026-09-29 18:25:11",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4473790941",
+        "titulo": "Python Developer (Junior) - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fecha": "2026-09-30 18:14:19",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-scada-trainee-at-siemens-4473597809",
+        "titulo": "Developer SCADA Trainee",
+        "empresa": "Siemens",
+        "fecha": "2026-09-30 18:14:19",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4472322372",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-09-30 18:14:30",
+        "calza": false,
+        "motivo": "La oferta exige un 'Buen nivel de inglés', lo cual, en un entorno global como BairesDev, implica habilidades conversacionales. El candidato, según las reglas críticas, solo lee documentación y no habla inglés fluido, lo que es un impedimento insalvable."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-angular%2Bnode-js-%F0%9F%9A%80-at-sii-group-chile-4473507684",
+        "titulo": "Desarrollador Full Stack (Angular+Node.JS)🚀",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-09-30 18:14:46",
+        "calza": true,
+        "motivo": "El candidato posee una sólida base en backend con Node.js, JavaScript y TypeScript, y aunque no tiene experiencia explícita en Angular, su perfil junior/trainee y la facilidad para aprender frontend lo hacen un candidato cercano y apto para ser considerado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/net-developer-%2B-cloud-ms-at-r-y-c-consultores-asociados-4472608764",
+        "titulo": ".NET Developer + Cloud MS",
+        "empresa": "R y C Consultores Asociados",
+        "fecha": "2026-09-30 18:14:50",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
     }
 ]
