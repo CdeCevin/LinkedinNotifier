@@ -6190,5 +6190,45 @@
         "fecha": "2026-09-30 18:14:50",
         "calza": false,
         "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-truckercloud-4472931331",
+        "titulo": "Software Engineer",
+        "empresa": "TruckerCloud",
+        "fecha": "2026-10-01 18:39:31",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-at-banchile-inversiones-4472574930",
+        "titulo": "Desarrollador BackEnd",
+        "empresa": "Banchile Inversiones",
+        "fecha": "2026-10-01 18:39:43",
+        "calza": true,
+        "motivo": "El candidato tiene una sólida base en desarrollo backend, Java y bases de datos relacionales (Oracle SQL), además de experiencia en APIs REST, sin embargo, no posee experiencia explícita con Spring Boot ni los 1-2 años de experiencia profesional requeridos, aunque su proyecto es altamente relevante para un perfil junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23304603-at-bairesdev-4474335972",
+        "titulo": "Node.js Software Engineer - Remote Work | REF#304603",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-01 18:39:49",
+        "calza": false,
+        "motivo": "Descartado por palabras clave estaticas (Senior o Ingles)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-laravel-at-usercode-4467599379",
+        "titulo": "Desarrollador Full-Stack Laravel",
+        "empresa": "Usercode",
+        "fecha": "2026-10-01 18:40:00",
+        "calza": false,
+        "motivo": "La oferta exige modalidad de trabajo híbrida con presencialidad en Santiago, lo cual es un requisito de ubicación no compatible. Además, el candidato no cumple con el requisito excluyente de poseer título profesional ni con los 3 años de experiencia en PHP-Laravel."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-1-1-at-ey-4472652485",
+        "titulo": "Data Engineer GCP Consultant 1 1",
+        "empresa": "EY",
+        "fecha": "2026-10-01 18:40:15",
+        "calza": true,
+        "motivo": "Aunque es estudiante y aún no tiene el título profesional ni experiencia explícita en AWS/PySpark, sus sólidas habilidades en Python y SQL, junto con su experiencia en desarrollo backend y IA, lo hacen un candidato muy cercano al perfil junior buscado y con potencial."
     }
 ]
