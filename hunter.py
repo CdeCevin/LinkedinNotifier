@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import urllib.parse
 import smtplib
@@ -21,11 +22,27 @@ load_dotenv()
 # Instanciar el nuevo cliente de Gemini
 client = genai.Client()
 
-# Palabras clave para descartar ofertas basura antes de usar la IA
-PALABRAS_DESCARTE = [
-    "senior", "sr", "lead", "architect", "semi-senior", "ssr", 
-    "bilingue", "bilingual", "ingles avanzado", "fluent english", "advanced english"
+# Palabras clave para descartar ofertas basura antes de usar la IA.
+# Se buscan como palabras completas (\b), no como trozos de texto: así "sr" no
+# calza con cualquier palabra que contenga esas letras, ni "lead" con "leading".
+# Seniority se revisa SOLO en el título: las descripciones de ofertas junior
+# suelen mencionar "trabajarás con desarrolladores senior" o "tech lead".
+PALABRAS_DESCARTE_TITULO = [
+    "senior", "sr", "semi senior", "semi-senior", "semisenior", "ssr",
+    "lead", "líder", "lider", "architect", "arquitecto", "principal", "staff", "head",
 ]
+# Inglés se revisa en la descripción completa
+PALABRAS_DESCARTE_DESCRIPCION = [
+    "bilingue", "bilingüe", "bilingual", "ingles avanzado", "inglés avanzado",
+    "ingles fluido", "inglés fluido", "fluent english", "advanced english",
+    "english fluency", "native english",
+]
+
+def compilar_patron(palabras):
+    return re.compile(r"\b(" + "|".join(re.escape(p) for p in palabras) + r")\b", re.IGNORECASE)
+
+PATRON_TITULO = compilar_patron(PALABRAS_DESCARTE_TITULO)
+PATRON_DESCRIPCION = compilar_patron(PALABRAS_DESCARTE_DESCRIPCION)
 
 # Ruta absoluta automática para cv.json y revisado.json al lado del script
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -109,12 +126,13 @@ def buscar_ofertas_linkedin():
     
     empleos_totales = []
     
-    # Recorrer las primeras 3 páginas (del 0 al 50, saltando de 25 en 25)
+    # Recorrer las primeras 3 páginas (posiciones 0, 25 y 50)
     for pagina in range(0, 75, 25):
         print(f"[*] Extrayendo resultados de LinkedIn (Iniciando en posicion {pagina})...")
-        
-        # Parámetro f_TPR=r2592000 equivale al último mes
-        url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keywords_encoded}&location={location_encoded}&f_TPR=r2592000&start={pagina}"
+
+        # f_TPR=r604800 = última semana; sortBy=DD = más recientes primero
+        # (sin sortBy LinkedIn ordena por relevancia y las ofertas nuevas pueden quedar fuera de las 3 páginas)
+        url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keywords_encoded}&location={location_encoded}&f_TPR=r604800&sortBy=DD&start={pagina}"
         
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         response = requests.get(url, headers=headers)
@@ -283,12 +301,12 @@ if __name__ == "__main__":
             print(f"[!] No se pudo obtener la descripcion de: {limpiar_texto(empleo['titulo'])}")
             continue
             
-        texto_lowercase = texto_descripcion.lower()
-        
         # Filtro estático por código
-        if any(palabra in texto_lowercase for palabra in PALABRAS_DESCARTE):
-            print(f"[-] Descartado (Codigo): {limpiar_texto(empleo['titulo'])} - Senior o requiere Ingles.")
-            guardar_revisado(empleo, False, "Descartado por palabras clave estaticas (Senior o Ingles)")
+        coincidencia = PATRON_TITULO.search(empleo["titulo"]) or PATRON_DESCRIPCION.search(texto_descripcion)
+        if coincidencia:
+            palabra = coincidencia.group(0)
+            print(f"[-] Descartado (Codigo): {limpiar_texto(empleo['titulo'])} - palabra clave '{limpiar_texto(palabra)}'.")
+            guardar_revisado(empleo, False, f"Descartado por palabra clave estatica: '{palabra}'")
             continue
             
         # Filtro con Inteligencia Artificial
