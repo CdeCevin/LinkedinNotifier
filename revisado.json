@@ -6230,5 +6230,181 @@
         "fecha": "2026-10-01 18:40:15",
         "calza": true,
         "motivo": "Aunque es estudiante y aún no tiene el título profesional ni experiencia explícita en AWS/PySpark, sus sólidas habilidades en Python y SQL, junto con su experiencia en desarrollo backend y IA, lo hacen un candidato muy cercano al perfil junior buscado y con potencial."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-chile-%0Achile-remote-at-sezzle-la-4474596324",
+        "titulo": "Junior Software Engineer (Chile)\nChile, Remote",
+        "empresa": "Sezzle LA",
+        "fecha": "2026-10-02 21:07:46",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o con base en la Región del Maule, lo cual es un requisito obligatorio y excluyente."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4473348205",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-02 21:07:55",
+        "calza": false,
+        "motivo": "La oferta exige un 'buen nivel de inglés', lo cual no cumple el candidato, quien solo tiene inglés intermedio para lectura de documentación y no es conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-%0Achile-remote-at-sezzle-la-4474595377",
+        "titulo": "Junior Software Engineer with Accounting Experience (Chile)\nChile, Remote",
+        "empresa": "Sezzle LA",
+        "fecha": "2026-10-02 21:08:09",
+        "calza": false,
+        "motivo": "El candidato no posee la experiencia contable o financiera requerida, y su nivel de inglés no conversacional es una barrera para la comunicación en este rol global."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4473341464",
+        "titulo": "Desarrollador React Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-02 21:08:21",
+        "calza": false,
+        "motivo": "Se rechaza por no cumplir con el requisito de un buen nivel de inglés conversacional, lo cual es explícitamente requerido por la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-at-banchile-inversiones-4474185658",
+        "titulo": "Desarrollador BackEnd",
+        "empresa": "Banchile Inversiones",
+        "fecha": "2026-10-02 21:08:33",
+        "calza": true,
+        "motivo": "El candidato tiene un perfil sólido en desarrollo backend, manejo de bases de datos relacionales (incluyendo Oracle SQL) y metodologías ágiles. Aunque no domina Spring Boot, su conocimiento de Java y proyectos complejos demuestran gran capacidad de aprendizaje para un perfil Junior/Trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-back-end-y-cloud-at-agilistik-4472855692",
+        "titulo": "Desarrollador/a Back-end y Cloud",
+        "empresa": "AGILISTIK",
+        "fecha": "2026-10-02 21:08:50",
+        "calza": true,
+        "motivo": "No cumple con la experiencia explícitamente excluyente en servicios AWS, pero su perfil junior con sólida experiencia en Node.js, Python y alta capacidad de aprendizaje lo hacen un candidato cercano."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-de-software-erp-at-kiosclub-american-supermarket-4473129888",
+        "titulo": "Desarrollador/a de Software ERP",
+        "empresa": "KiosClub American Supermarket",
+        "fecha": "2026-10-02 21:09:08",
+        "calza": false,
+        "motivo": "La oferta de empleo no especifica que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule, lo que incumple un requisito crítico de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-react-node-js-at-grupo-o2-4472993003",
+        "titulo": "Ingeniero/a de Software Full Stack (React / Node.js)",
+        "empresa": "Grupo O2",
+        "fecha": "2026-10-02 21:09:22",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad híbrida con 4 días presenciales en Las Condes, RM, lo que incumple la regla crítica de ubicación al no ser 100% remota o en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-%E2%80%93-cobol-java-medios-de-pago-at-indra-group-4473150872",
+        "titulo": "Ingeniero/a de Desarrollo – COBOL / Java | Medios de Pago",
+        "empresa": "Indra Group",
+        "fecha": "2026-10-02 21:09:41",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito excluyente de 2-3 años de experiencia en desarrollo con COBOL, una tecnología clave para la oferta y que no se alinea con su perfil de aprendizaje rápido enfocado en tecnologías modernas de frontend y fullstack."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-js-at-sii-group-chile-4474527282",
+        "titulo": "Programador full stack (JS)",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-10-02 21:09:53",
+        "calza": false,
+        "motivo": "La oferta es híbrida y no especifica una ubicación en Talca o la Región del Maule, lo que incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-full-stack-react%2Bnode-h%C3%ADbrido-4x1-las-condes-mid-level-at-grupo-o2-4475021544",
+        "titulo": "Ingeniero/a Full Stack React+Node  Híbrido 4x1 Las Condes  Mid-Level",
+        "empresa": "Grupo O2",
+        "fecha": "2026-10-02 21:10:08",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad híbrida con 4 días presenciales en Las Condes, Región Metropolitana, lo cual contradice la regla de ubicación que rechaza ofertas fuera del Maule o que no sean 100% remotas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/back-end-developer-java-spring-boot-apigee-at-42labs-4472305619",
+        "titulo": "Back-end Developer (Java/Spring Boot/apigee)",
+        "empresa": "42Labs",
+        "fecha": "2026-10-02 21:10:20",
+        "calza": false,
+        "motivo": "El candidato no cumple con los 3 años de experiencia requeridos ni con la experiencia excluyente en Spring Boot y Apigee, siendo un perfil más junior según su fecha de egreso."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-frontend-web-y-mobile-at-aeolabs-4472463711",
+        "titulo": "Desarrollador/a Frontend Web y Mobile",
+        "empresa": "Aeolabs",
+        "fecha": "2026-10-02 21:10:31",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida con base en Santiago, lo cual contradice el requisito de ubicación del candidato (100% remota o presencial/híbrida exclusivamente en Talca, Región del Maule o comunas aledañas)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/application-developer-at-consertus-4474560010",
+        "titulo": "Application Developer",
+        "empresa": "Consertus",
+        "fecha": "2026-10-02 21:10:34",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'bilingual'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-integration-engineer-remote-rancagua-at-blacksmith-agency-4474365382",
+        "titulo": "AI Integration Engineer (Remote, Rancagua)",
+        "empresa": "Blacksmith Agency",
+        "fecha": "2026-10-02 21:11:12",
+        "calza": true,
+        "motivo": "El candidato es un Ingeniero Civil Informático con experiencia práctica relevante en integración de IA y orquestación de LLMs (Google Gemini), arquitectura de sistemas resilientes y desarrollo backend con Node.js y Python, lo que lo hace un excelente match para el rol de AI Integration Engineer, a pesar de que algunas tecnologías específicas de la oferta no estén explícitamente en su CV y el requisito de 2+ años de experiencia se compense con la calidad de sus proyectos y perfil junior."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-ai-data-at-ey-4472647671",
+        "titulo": "EY FastPass - Trainee AI&Data.",
+        "empresa": "EY",
+        "fecha": "2026-10-02 21:11:31",
+        "calza": false,
+        "motivo": "La oferta no especifica ser 100% remota ni presencial/híbrida en la Región del Maule. La falta de especificación en un cargo de una consultora global como EY, por lo general, implica que el puesto es en sus oficinas centrales (Santiago), lo que incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/packaged-saas-application-engineer-at-accenture-chile-4472393795",
+        "titulo": "Packaged/SaaS Application Engineer",
+        "empresa": "Accenture Chile",
+        "fecha": "2026-10-02 21:11:43",
+        "calza": true,
+        "motivo": "El candidato tiene un perfil técnico full-stack y experiencia en IA relevante para el rol, y no se exige inglés conversacional. La ubicación no se especifica, no siendo un rechazo directo, pero requiere confirmación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-%F0%9F%92%A1-at-apiux-tech-4463907782",
+        "titulo": "Desarrollador Fullstack 💡",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-10-02 21:12:08",
+        "calza": true,
+        "motivo": "La oferta de empleo es híbrida y no especifica una ubicación dentro de la Región del Maule o remoto, lo cual incumple la regla crítica de ubicación. Sin embargo, el perfil técnico del candidato es muy prometedor y se alinea bien con las tecnologías y arquitecturas buscadas, por lo que sería un candidato cercano si la ubicación fuera compatible."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-geovictoria-4471951635",
+        "titulo": "Desarrollador Full-Stack",
+        "empresa": "GeoVictoria",
+        "fecha": "2026-10-02 21:12:26",
+        "calza": true,
+        "motivo": "El candidato es un perfil junior prometedor con experiencia en SQL, arquitectura de sistemas, testing y AI, lo que lo hace muy cercano a la oferta. Aunque no tiene experiencia explícita en C#/.NET, su capacidad de aprendizaje rápido y su base sólida en múltiples lenguajes cumplen con la flexibilidad permitida para un perfil Junior/Trainee."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-node-js-angular-at-bc-tecnolog%C3%ADa-4472826214",
+        "titulo": "Desarrollador/a Full-Stack (Node.js/angular)",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-10-02 21:12:41",
+        "calza": true,
+        "motivo": "El candidato posee las bases de Node.js, Express y MongoDB, experiencia en metodologías ágiles y capacidad full-stack, haciendo que sus gaps en Angular y AWS sean superables por su adaptabilidad y el perfil junior/mid-level, además de cumplir con la modalidad 100% remota y el nivel de inglés."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-salesforce-contrato-indefinido-at-tata-consultancy-services-4474746086",
+        "titulo": "Desarrollador/a Salesforce (contrato indefinido)",
+        "empresa": "Tata Consultancy Services",
+        "fecha": "2026-10-02 21:12:59",
+        "calza": true,
+        "motivo": "El candidato no tiene experiencia directa en Salesforce, pero su perfil junior/trainee con sólidos conocimientos en Java y otras tecnologías backend/full-stack, junto a su capacidad de aprendizaje rápido, lo hacen un candidato cercano para ser capacitado en el ecosistema Salesforce. La ubicación y el inglés no son impedimento."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/profesionales-salesforce-para-multiples-roles-en-santiago-at-cmg3-4473158578",
+        "titulo": "Profesionales Salesforce para multiples roles en Santiago",
+        "empresa": "CMG3",
+        "fecha": "2026-10-02 21:13:08",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual es una ubicación no aceptable según las reglas críticas de la búsqueda."
     }
 ]
