@@ -2,10 +2,10 @@ name: LinkedIn Job Scraper
 
 on:
   schedule:
-    # Cada 2 horas, en el minuto 17. GitHub atrasa mucho los crons en hora en punto
-    # (el antiguo '0 13 * * *' partía entre 3 y 7 horas tarde), así que se evita el :00.
+    # Cada 2 horas, en el minuto 17 de las horas IMPARES en UTC = horas PARES en Chile (UTC-3 en verano).
+    # GitHub atrasa mucho los crons en hora en punto, así que se evita el :00.
     # Solo se evalúan con Gemini las ofertas nuevas, así que correr seguido no gasta cuota de más.
-    - cron: '17 */2 * * *'
+    - cron: '17 1-23/2 * * *'
   workflow_dispatch: # Permite ejecutar manualmente desde la interfaz de GitHub
 
 # Evita que dos ejecuciones se pisen al escribir revisado.json

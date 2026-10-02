@@ -30,13 +30,30 @@ client = genai.Client()
 PALABRAS_DESCARTE_TITULO = [
     "senior", "sr", "semi senior", "semi-senior", "semisenior", "ssr",
     "lead", "líder", "lider", "architect", "arquitecto", "principal", "staff", "head",
+    # Prácticas profesionales (solo para estudiantes, no aplica a titulados)
+    "práctica", "practica", "prácticas", "practicas", "practicante", "practicantes",
+    "pasantía", "pasantia", "pasante", "internship", "intern", "interns",
+    "becario", "becaria", "memorista", "alumno en práctica", "estudiante en práctica",
 ]
 # Inglés se revisa en la descripción completa
 PALABRAS_DESCARTE_DESCRIPCION = [
     "bilingue", "bilingüe", "bilingual", "ingles avanzado", "inglés avanzado",
     "ingles fluido", "inglés fluido", "fluent english", "advanced english",
     "english fluency", "native english",
+    "ingles conversacional", "inglés conversacional", "conversational english",
+    "buen nivel de ingles", "buen nivel de inglés", "upper intermediate", "upper-intermediate",
+    "english proficiency", "proficient in english", "strong english",
 ]
+
+# Si la oferta está escrita en inglés, se asume que el trabajo es en inglés
+PALABRAS_INGLES = {"the", "and", "with", "you", "our", "will", "for", "are", "your", "experience", "team", "we"}
+PALABRAS_ESPANOL = {"el", "la", "los", "las", "y", "con", "para", "que", "de", "en", "experiencia", "equipo", "nuestro"}
+
+def oferta_en_ingles(texto):
+    palabras = re.findall(r"[a-záéíóúñ]+", texto.lower())
+    ingles = sum(p in PALABRAS_INGLES for p in palabras)
+    espanol = sum(p in PALABRAS_ESPANOL for p in palabras)
+    return ingles > espanol
 
 def compilar_patron(palabras):
     return re.compile(r"\b(" + "|".join(re.escape(p) for p in palabras) + r")\b", re.IGNORECASE)
@@ -153,9 +170,11 @@ def buscar_ofertas_linkedin():
                 url_limpia = link_elem["href"].split("?")[0]
                 titulo = tarjeta.find("h3", class_="base-search-card__title").text.strip()
                 empresa = tarjeta.find("h4", class_="base-search-card__subtitle").text.strip()
-                
+                ubicacion_elem = tarjeta.find("span", class_="job-search-card__location")
+                ubicacion = ubicacion_elem.text.strip() if ubicacion_elem else ""
+
                 if url_limpia not in [e["url"] for e in empleos_totales]:
-                    empleos_totales.append({"titulo": titulo, "empresa": empresa, "url": url_limpia})
+                    empleos_totales.append({"titulo": titulo, "empresa": empresa, "ubicacion": ubicacion, "url": url_limpia})
                     
         # Pausa aleatoria para no saturar al buscar paginación
         time.sleep(random.uniform(2, 4))
@@ -188,32 +207,47 @@ def obtener_descripcion_completa(url_empleo, reintentos=2):
 # =====================================================================
 # FUNCIÓN 3: CONSULTAR A LA API DE GEMINI
 # =====================================================================
-def evaluar_con_gemini(descripcion_empleo):
+def evaluar_con_gemini(empleo, descripcion_empleo):
     prompt = f"""
     Actua como un reclutador tecnico experto en TI. Evalua si el candidato del siguiente CV calza con la oferta de empleo.
     
-    REGLAS CRITICAS (DE CUMPLIMIENTO OBLIGATORIO):
+    REGLAS CRITICAS (DE CUMPLIMIENTO OBLIGATORIO). Si la oferta incumple CUALQUIERA, "cumple_reglas" debe ser false:
     1. UBICACION: La oferta DEBE ser:
-       - 100% Remota (desde cualquier parte de Chile o global).
+       - 100% Remota (desde cualquier parte de Chile o global). Si el titulo o la ubicacion de LinkedIn dicen "Remote"/"Remoto", considerala remota salvo que la descripcion diga lo contrario.
        - O presencial/hibrida EXCLUSIVAMENTE en Talca, la Region del Maule en general, o comunas aledañas.
-       Si exige presencialidad o modalidad hibrida en Santiago, Viña del Mar, Concepcion o cualquier otra region fuera del Maule, RECHAZALA INMEDIATAMENTE.
-    2. TECNOLOGIAS (FLEXIBILIDAD Y FRONTEND): El candidato aprende rapido y tiene facilidad para el Frontend y Fullstack. Acepta ofertas que requieran tecnologias como HTML, CSS, TypeScript, Tailwind, React, Angular, etc. Si la oferta pide lenguajes o frameworks de frontend o backend que no estan explicitamente en el CV, NO la descartes por eso, siempre que sea perfil Junior/Trainee.
-    3. INGLES: El candidato NO habla ingles fluido (solo lee documentacion). Si la oferta exige explicitamente hablar ingles fluido, nivel conversacional o entrevistas en ingles, RECHAZALA.
+       Si exige presencialidad o modalidad hibrida en Santiago, Viña del Mar, Concepcion o cualquier otra region fuera del Maule, incumple la regla.
+       Si la oferta NO indica la modalidad ni la ciudad, NO la rechaces por eso: cumple la regla, pero marcala como "cercano" (no "calza") para que el candidato confirme la modalidad.
+    2. INGLES: El candidato solo LEE documentacion tecnica en ingles; no habla ni escribe en ingles de forma profesional. Incumple la regla si la oferta:
+       - pide ingles fluido, avanzado, conversacional, intermedio-alto, B2 o superior, o "buen nivel de ingles";
+       - requiere usar ingles en el trabajo diario (reuniones, comunicacion escrita, chats, documentacion o colaboracion con equipos o clientes angloparlantes, por ejemplo un equipo en Estados Unidos);
+       - tiene entrevistas en ingles, o la descripcion esta escrita en ingles (en ese caso se asume que el trabajo es en ingles).
+       Solo cumple si no menciona ingles, o si lo pide solo como "deseable" o para leer documentacion.
+    3. NIVEL: El candidato es titulado. Incumple la regla si es una practica profesional, pasantia, internship o cualquier cargo exclusivo para estudiantes. Los programas trainee o para recien titulados SI son validos.
+    
+    CRITERIOS FLEXIBLES (no son motivo de rechazo):
+    - TECNOLOGIAS: El candidato aprende rapido y tiene facilidad para Frontend y Fullstack (HTML, CSS, TypeScript, Tailwind, React, Angular, etc.). Si la oferta pide lenguajes o frameworks que no estan en el CV, NO la descartes por eso.
+    - EXPERIENCIA: Sus proyectos (Caudal Rio y UAPSCI, desarrollados en produccion desde 2025) equivalen a 1 a 1,5 años de experiencia real. Si la oferta pide hasta 2 años, considera que calza. Si pide 3 años, puede ser "cercano". Si pide 4 o mas años, no calza.
     
     CV del Candidato (JSON):
     {CV_TEXTO_JSON}
     
-    Descripcion de la Oferta de Empleo:
+    Oferta de Empleo:
+    - Titulo: {empleo['titulo']}
+    - Empresa: {empleo['empresa']}
+    - Ubicacion segun LinkedIn: {empleo.get('ubicacion') or 'No indicada'}
+    
+    Descripcion:
     {descripcion_empleo}
     
     Responde ESTRICTAMENTE con un objeto JSON valido con esta estructura, sin textos extras:
     {{
+        "cumple_reglas": true o false,
         "calza": true o false,
         "cercano": true o false,
         "motivo": "Explicacion breve de una frase del porque calza, es cercano, o se rechaza"
     }}
     
-    Nota sobre 'cercano': Si no es un match perfecto (ej. piden 1-2 años de experiencia y el tiene proyectos, o falta alguna herramienta menor) pero crees que igual vale la pena que lo revise manualmente por su capacidad de aprender rapido y perfil junior, pon "cercano": true.
+    Nota sobre 'cercano': Si cumple las reglas criticas pero no es un match perfecto (falta alguna herramienta, pide algo mas de experiencia o no indica modalidad), pon "cercano": true para que lo revise manualmente.
     """
     for intento in range(3):
         try:
@@ -308,17 +342,24 @@ if __name__ == "__main__":
             print(f"[-] Descartado (Codigo): {limpiar_texto(empleo['titulo'])} - palabra clave '{limpiar_texto(palabra)}'.")
             guardar_revisado(empleo, False, f"Descartado por palabra clave estatica: '{palabra}'")
             continue
+
+        if oferta_en_ingles(texto_descripcion):
+            print(f"[-] Descartado (Codigo): {limpiar_texto(empleo['titulo'])} - oferta escrita en ingles.")
+            guardar_revisado(empleo, False, "Descartado: la oferta esta escrita en ingles")
+            continue
             
         # Filtro con Inteligencia Artificial
         print(f"[~] Analizando con Gemini: {limpiar_texto(empleo['titulo'])} en {limpiar_texto(empleo['empresa'])}...")
-        veredicto = evaluar_con_gemini(texto_descripcion)
+        veredicto = evaluar_con_gemini(empleo, texto_descripcion)
         
         if veredicto.get("error_api"):
             print("[!] API de Gemini no disponible. Se omitira esta oferta para mantenerla en cola.")
             continue # No se guarda en revisado.json, por lo que se reintentara en la proxima ejecucion
             
-        calza = veredicto.get("calza") is True
-        cercano = veredicto.get("cercano") is True
+        # Las reglas criticas mandan: si no se cumplen, no hay match aunque Gemini marque "cercano"
+        cumple_reglas = veredicto.get("cumple_reglas") is True
+        calza = cumple_reglas and veredicto.get("calza") is True
+        cercano = cumple_reglas and veredicto.get("cercano") is True
         motivo = veredicto.get("motivo", "Sin motivo")
         
         # Guardar en revisados
