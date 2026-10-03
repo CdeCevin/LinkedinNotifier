@@ -6406,5 +6406,21 @@
         "fecha": "2026-10-02 21:13:08",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual es una ubicación no aceptable según las reglas críticas de la búsqueda."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-%2B-apex-developer-at-r-y-c-consultores-asociados-4473175372",
+        "titulo": "Salesforce + Apex Developer",
+        "empresa": "R y C Consultores Asociados",
+        "fecha": "2026-10-03 01:56:45",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual incumple la regla crítica de ubicación que solo permite remoto o presencial en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-builder-at-comunidadfeliz-com-4472866205",
+        "titulo": "Product Builder",
+        "empresa": "ComunidadFeliz.com",
+        "fecha": "2026-10-03 01:57:24",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas y posee un perfil full-stack con experiencia en backend y arquitectura de sistemas relevante para el rol de Product Builder, pero no cuenta con la experiencia específica en Ruby on Rails ni los años de experiencia solicitados."
     }
 ]
