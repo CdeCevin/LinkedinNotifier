@@ -6422,5 +6422,13 @@
         "fecha": "2026-10-03 01:57:24",
         "calza": true,
         "motivo": "El candidato cumple las reglas críticas y posee un perfil full-stack con experiencia en backend y arquitectura de sistemas relevante para el rol de Product Builder, pero no cuenta con la experiencia específica en Ruby on Rails ni los años de experiencia solicitados."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-backend-product-ads-supply-at-mercado-libre-4472614505",
+        "titulo": "Software Engineer Backend - Product ADs Supply",
+        "empresa": "Mercado Libre",
+        "fecha": "2026-10-03 09:08:09",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación, que solo permite ofertas remotas o presenciales/híbridas en la Región del Maule."
     }
 ]
