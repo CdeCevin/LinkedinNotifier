@@ -6438,5 +6438,13 @@
         "fecha": "2026-10-03 14:18:40",
         "calza": false,
         "motivo": "La oferta es híbrida en Santiago, lo cual incumple la regla de ubicación del candidato que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-node-react-at-amaris-consulting-part-of-mantu-4446931595",
+        "titulo": "Desarrollador Fullstack Node/React",
+        "empresa": "Amaris Consulting  | Part of Mantu",
+        "fecha": "2026-10-04 02:37:43",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
