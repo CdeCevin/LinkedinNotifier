@@ -6446,5 +6446,13 @@
         "fecha": "2026-10-04 02:37:43",
         "calza": false,
         "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-frontend-web-ui-%E2%80%93-react-node-at-elitsoft-4473606324",
+        "titulo": "Desarrollador Frontend (Web UI) – React / Node",
+        "empresa": "Elitsoft",
+        "fecha": "2026-10-05 07:02:16",
+        "calza": true,
+        "motivo": "El candidato cumple con las reglas críticas y posee las tecnologías principales requeridas, pero la oferta solicita más de 3 años de experiencia, mientras que su experiencia en proyectos equivaldría a 1-1.5 años."
     }
 ]
