@@ -6478,5 +6478,37 @@
         "fecha": "2026-10-05 15:59:56",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Prácticas'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-en-ia-informatica-at-fenix-servicios-acuicolas-4473947508",
+        "titulo": "Ingeniero en IA - Informatica",
+        "empresa": "Fenix Servicios Acuicolas",
+        "fecha": "2026-10-05 23:13:22",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Puerto Montt, Región de Los Lagos, lo cual incumple la regla de ubicación que solo permite Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-frontend-at-soaint-4474613062",
+        "titulo": "Desarrollador Frontend",
+        "empresa": "SOAINT",
+        "fecha": "2026-10-05 23:13:50",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual incumple la regla de ubicación que solo permite remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-tata-consultancy-services-4464646874",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "Tata Consultancy Services",
+        "fecha": "2026-10-05 23:13:59",
+        "calza": false,
+        "motivo": "La oferta exige inglés profesional indispensable para interactuar con equipos globales y la ubicación en Santiago incumple las reglas críticas de idioma y ubicación del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4474770052",
+        "titulo": "Practicantes de Tecnología/Consultoría",
+        "empresa": "Deloitte",
+        "fecha": "2026-10-05 23:14:02",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Practicantes'"
     }
 ]
