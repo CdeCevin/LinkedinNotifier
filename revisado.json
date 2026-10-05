@@ -6454,5 +6454,29 @@
         "fecha": "2026-10-05 07:02:16",
         "calza": true,
         "motivo": "El candidato cumple con las reglas críticas y posee las tecnologías principales requeridas, pero la oferta solicita más de 3 años de experiencia, mientras que su experiencia en proyectos equivaldría a 1-1.5 años."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-net-jr-%F0%9F%92%A1-at-apiux-tech-4472965195",
+        "titulo": "Desarrollador/a .NET Jr 💡",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-10-05 15:59:40",
+        "calza": false,
+        "motivo": "Se rechaza debido a que la oferta es de modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que exige que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-cmpc-4473954837",
+        "titulo": "FULL STACK DEVELOPER",
+        "empresa": "CMPC",
+        "fecha": "2026-10-05 15:59:53",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que solo permite Talca/Maule o remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-at-sellside-spa-4352646561",
+        "titulo": "Prácticas",
+        "empresa": "Sellside SpA",
+        "fecha": "2026-10-05 15:59:56",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Prácticas'"
     }
 ]
