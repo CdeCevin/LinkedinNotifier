@@ -6526,5 +6526,53 @@
         "fecha": "2026-10-06 02:58:00",
         "calza": false,
         "motivo": "El candidato no cumple el requisito de francés obligatorio y su nivel de inglés solo es para lectura de documentación técnica, no para comunicación profesional como exige la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4474982324",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-06 17:12:21",
+        "calza": false,
+        "motivo": "La oferta exige un 'Buen nivel de inglés', lo cual incumple la regla crítica de inglés del candidato que solo posee nivel intermedio para lectura de documentación técnica y no es conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-examedi-yc-s21-4474057867",
+        "titulo": "Software Engineer",
+        "empresa": "Examedi (YC S21)",
+        "fecha": "2026-10-06 17:12:36",
+        "calza": false,
+        "motivo": "La oferta de empleo exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que requiere que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-semi-senior-at-factorit-4474618715",
+        "titulo": "Full-Stack Developer Semi Senior",
+        "empresa": "FactorIT",
+        "fecha": "2026-10-06 17:12:39",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-acl-4473692481",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "ACL",
+        "fecha": "2026-10-06 17:12:53",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero su experiencia es cercana al mínimo requerido, no posee algunas tecnologías específicas de la oferta y la modalidad laboral no está definida."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/shopify-builder-at-wild-lama-4475836768",
+        "titulo": "Shopify Builder",
+        "empresa": "Wild Lama",
+        "fecha": "2026-10-06 17:13:29",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad/modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-avos-tech-chile-4476338019",
+        "titulo": "Ingeniero de software",
+        "empresa": "AVOS Tech | Chile",
+        "fecha": "2026-10-06 17:13:40",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en Talca o la Región del Maule."
     }
 ]
