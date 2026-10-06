@@ -6574,5 +6574,21 @@
         "fecha": "2026-10-06 17:13:40",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en Talca o la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-net-at-muck-consultores-4476378126",
+        "titulo": "Desarrollador .NET",
+        "empresa": "Muck Consultores",
+        "fecha": "2026-10-06 21:37:31",
+        "calza": false,
+        "motivo": "La oferta de empleo exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite remoto global/Chile o presencial/híbrido exclusivamente en Talca o la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-golang-at-hirealice-4476349833",
+        "titulo": "Full-Stack Golang",
+        "empresa": "HireAlice",
+        "fecha": "2026-10-06 21:37:39",
+        "calza": false,
+        "motivo": "La oferta exige una ubicación en Santiago, lo cual incumple la regla crítica de ubicación que solo permite 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
