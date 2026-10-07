@@ -6638,5 +6638,45 @@
         "fecha": "2026-10-07 17:49:27",
         "calza": false,
         "motivo": "La oferta de empleo exige presencialidad en la Región Metropolitana de Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-automatizaci%C3%B3n-e-ia-%E2%80%94-grupo-bruno-fritsch-at-bruno-fritsch-4474453905",
+        "titulo": "Ingeniero/a de Automatización e IA — Grupo Bruno Fritsch",
+        "empresa": "Bruno Fritsch",
+        "fecha": "2026-10-07 23:35:23",
+        "calza": false,
+        "motivo": "La oferta exige modalidad presencial/híbrida en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-react-python-fastapi-at-muck-consultores-4476923287",
+        "titulo": "Fullstack Developer React / Python / FastAPI",
+        "empresa": "Muck Consultores",
+        "fecha": "2026-10-07 23:35:33",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes (Santiago), lo que incumple la regla crítica de ubicación al no ser remota ni en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-ssr-at-stefanini-latam-4475433816",
+        "titulo": "Desarrollador/a Full Stack Ssr",
+        "empresa": "Stefanini LATAM",
+        "fecha": "2026-10-07 23:35:36",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Ssr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/cloud-engineer-aws-at-r-y-c-consultores-asociados-4474482321",
+        "titulo": "Cloud Engineer AWS",
+        "empresa": "R y C Consultores Asociados",
+        "fecha": "2026-10-07 23:35:45",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-rust-payward-services-at-kraken-4447430353",
+        "titulo": "Software Engineer - Rust - Payward Services",
+        "empresa": "Kraken",
+        "fecha": "2026-10-07 23:35:48",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
