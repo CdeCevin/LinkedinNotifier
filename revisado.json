@@ -6590,5 +6590,45 @@
         "fecha": "2026-10-06 21:37:39",
         "calza": false,
         "motivo": "La oferta exige una ubicación en Santiago, lo cual incumple la regla crítica de ubicación que solo permite 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-jr-gcp-at-stefanini-latam-4472801765",
+        "titulo": "Data Engineer Jr ( GCP)",
+        "empresa": "Stefanini LATAM",
+        "fecha": "2026-10-07 10:14:03",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago Centro, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-martech-afp-at-afp-cuprum-4476557429",
+        "titulo": "Práctica Profesional Martech AFP",
+        "empresa": "AFP Cuprum",
+        "fecha": "2026-10-07 10:14:07",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Práctica'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-bc-tecnolog%C3%ADa-4475144827",
+        "titulo": "Desarrollador/a Full-Stack",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-10-07 10:14:14",
+        "calza": false,
+        "motivo": "La oferta es híbrida en Las Condes, Santiago, lo cual incumple la regla de ubicación que exige que sea 100% remota o presencial/híbrida solo en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-160k-4475873957",
+        "titulo": "Ingeniero de software",
+        "empresa": "160K",
+        "fecha": "2026-10-07 10:14:25",
+        "calza": false,
+        "motivo": "La oferta exige una ubicación presencial en Santiago, lo cual incumple la regla de ubicación que solo permite Talca/Maule o modalidad 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-ria-money-transfer-4474414701",
+        "titulo": "Software Engineer",
+        "empresa": "Ria Money Transfer",
+        "fecha": "2026-10-07 10:14:27",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
