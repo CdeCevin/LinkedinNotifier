@@ -6750,5 +6750,109 @@
         "fecha": "2026-10-08 16:28:18",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Huechuraba, Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido solo en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-private-at-seidor-4474087305",
+        "titulo": "Trainee Program SEIDOR SAP Private",
+        "empresa": "SEIDOR",
+        "fecha": "2026-10-08 22:03:55",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'inglés avanzado'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-tecnolog%C3%ADa-programaci%C3%B3n-at-btg-pactual-chile-4475865527",
+        "titulo": "Práctica Tecnología (Programación)",
+        "empresa": "BTG Pactual Chile",
+        "fecha": "2026-10-08 22:03:56",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Práctica'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-amaris-consulting-part-of-mantu-4474835048",
+        "titulo": "Programador full stack",
+        "empresa": "Amaris Consulting  | Part of Mantu",
+        "fecha": "2026-10-08 22:04:05",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite trabajo 100% remoto o presencial/híbrido en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-net-at-acl-4474099325",
+        "titulo": "Desarrollador de .NET",
+        "empresa": "ACL",
+        "fecha": "2026-10-08 22:04:18",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Las Condes, Santiago, lo cual incumple la regla de ubicación crítica."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-software-engineer-remote-santiago-at-blacksmith-agency-4477430392",
+        "titulo": "AI Software Engineer (Remote, Santiago)",
+        "empresa": "Blacksmith Agency",
+        "fecha": "2026-10-08 22:04:20",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-santiago-chile-at-stefanini-latam-4474983569",
+        "titulo": "Frontend Developer | Santiago Chile",
+        "empresa": "Stefanini LATAM",
+        "fecha": "2026-10-08 22:04:27",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-golang-at-amaris-consulting-part-of-mantu-4446946384",
+        "titulo": "Desarrollador Golang",
+        "empresa": "Amaris Consulting  | Part of Mantu",
+        "fecha": "2026-10-08 22:04:40",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago de Chile, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o modalidad remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-bc-tecnolog%C3%ADa-4476918408",
+        "titulo": "Desarrollador FullStack",
+        "empresa": "BC Tecnología",
+        "fecha": "2026-10-08 22:04:50",
+        "calza": false,
+        "motivo": "La oferta de empleo exige presencialidad en Santiago, lo cual incumple la regla de ubicación que restringe a Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-developer-remote-vina-del-mar-at-blacksmith-agency-4476349241",
+        "titulo": "AI Developer (Remote, Vina del Mar)",
+        "empresa": "Blacksmith Agency",
+        "fecha": "2026-10-08 22:04:53",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-%F0%9F%92%A1-proyecto-5-meses-at-apiux-tech-4445539749",
+        "titulo": "Desarrollador Fullstack 💡 Proyecto 5 meses",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-10-08 22:05:03",
+        "calza": false,
+        "motivo": "El candidato tiene entre 1 y 1.5 años de experiencia, mientras que la oferta exige un mínimo de 4 años, lo que supera el rango considerado como 'cercano' según los criterios de experiencia."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-backend-nestjs-tscript-cloud-native-aws-at-haibu-solutions-4475018573",
+        "titulo": "Desarrollador Fullstack Backend NestJS-TScript / Cloud Native AWS",
+        "empresa": "Haibu Solutions",
+        "fecha": "2026-10-08 22:05:17",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que requiere 100% remota o presencial/híbrida exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-react-remote-latin-america-at-fullstack-4476388726",
+        "titulo": "Full Stack Engineer (Java + React) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-10-08 22:05:19",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Advanced English'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/profesionales-salesforce-para-m%C3%BAltiples-roles-en-santiago-at-solheiro-advogados-associados-saa-4475080067",
+        "titulo": "Profesionales Salesforce para múltiples roles en Santiago",
+        "empresa": "Solheiro Advogados Associados - SAA",
+        "fecha": "2026-10-08 22:05:27",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación del candidato que busca 100% remoto o presencial/híbrido en la Región del Maule."
     }
 ]
