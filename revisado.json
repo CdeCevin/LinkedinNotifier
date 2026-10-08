@@ -6678,5 +6678,61 @@
         "fecha": "2026-10-07 23:35:48",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-brightstar-lottery-4475714724",
+        "titulo": "Ingeniero de Desarrollo",
+        "empresa": "Brightstar Lottery",
+        "fecha": "2026-10-08 07:24:27",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla de ubicación que solo permite 100% remoto o presencial en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-con-angular-y-nodejs-at-innomar-4475467732",
+        "titulo": "Desarrollador Backend con Angular y Nodejs",
+        "empresa": "Innomar",
+        "fecha": "2026-10-08 07:24:58",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla de ubicación establecida."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-ntt-data-europe-latam-4475450655",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "NTT DATA Europe & Latam",
+        "fecha": "2026-10-08 07:25:20",
+        "calza": false,
+        "motivo": "La oferta de empleo exige presencialidad en Santiago, lo cual incumple la regla de ubicación que solo permite Talca/Maule o ser 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/operational-automation-engineer-at-comunidadfeliz-com-4475728462",
+        "titulo": "Operational Automation Engineer",
+        "empresa": "ComunidadFeliz.com",
+        "fecha": "2026-10-08 07:27:14",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos críticos, su experiencia con IA (Google Gemini AI) y SQL calza directamente con la oferta, y su perfil de recién graduado con proyectos de impacto se ajusta perfectamente al rango de experiencia solicitado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-react-remote-latin-america-at-fullstack-4476390633",
+        "titulo": "Full Stack Engineer (Java + React) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fecha": "2026-10-08 07:27:20",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Advanced English'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-valio-4476358000",
+        "titulo": "Full Stack Developer",
+        "empresa": "Valio",
+        "fecha": "2026-10-08 07:27:46",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos críticos, su experiencia y habilidades Full Stack y en IA se alinean muy bien con el stack y el enfoque de software industrial y Digital Twins de la oferta."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/growth-engineer-at-xe-com-4476961484",
+        "titulo": "Growth Engineer",
+        "empresa": "Xe.com",
+        "fecha": "2026-10-08 07:27:50",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
