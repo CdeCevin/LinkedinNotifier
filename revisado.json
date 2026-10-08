@@ -6734,5 +6734,21 @@
         "fecha": "2026-10-08 07:27:50",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-tecnolog%C3%ADa-corredora-de-bolsa-at-btg-pactual-chile-4475870518",
+        "titulo": "Práctica Tecnología | Corredora de Bolsa",
+        "empresa": "BTG Pactual Chile",
+        "fecha": "2026-10-08 16:28:15",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Práctica'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/especialista-en-administraci%C3%B3n-jira-desarrollo-de-plataformas-at-hitss-chile-4474071874",
+        "titulo": "Especialista en Administración Jira & Desarrollo de Plataformas",
+        "empresa": "Hitss Chile",
+        "fecha": "2026-10-08 16:28:18",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Huechuraba, Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido solo en la Región del Maule."
     }
 ]
