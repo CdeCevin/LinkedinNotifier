@@ -6886,5 +6886,45 @@
         "fecha": "2026-10-09 10:31:07",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'English proficiency'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4476805535",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-09 17:26:38",
+        "calza": false,
+        "motivo": "La oferta pide un 'buen nivel de inglés', lo cual incumple la regla crítica de inglés del candidato que solo lee documentación técnica."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-reservo-4476834085",
+        "titulo": "Programador full stack",
+        "empresa": "Reservo",
+        "fecha": "2026-10-09 17:26:47",
+        "calza": false,
+        "motivo": "La oferta exige modalidad presencial en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-de-automatizaciones-at-falabella-4477695382",
+        "titulo": "Analista de Automatizaciones",
+        "empresa": "Falabella",
+        "fecha": "2026-10-09 17:26:56",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practicante-de-procesos-y-desarrollo-bpa-low-code-at-apiux-tech-4465949453",
+        "titulo": "Practicante de Procesos y Desarrollo (BPA / Low-Code)",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-10-09 17:27:00",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Practicante'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-chile-4424003971",
+        "titulo": "Analista Programador SQL",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-10-09 17:27:10",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o 100% remoto."
     }
 ]
