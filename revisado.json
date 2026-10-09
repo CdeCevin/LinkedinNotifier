@@ -6854,5 +6854,21 @@
         "fecha": "2026-10-08 22:05:27",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación del candidato que busca 100% remoto o presencial/híbrido en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-programador-full-stack-net-at-tipartner-consulting-4476255033",
+        "titulo": "Analista Programador - Full Stack .NET",
+        "empresa": "TIPartner Consulting",
+        "fecha": "2026-10-09 02:56:47",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-semi-senior-at-factorlt-4476228736",
+        "titulo": "Data Engineer Semi Senior",
+        "empresa": "FactorlT",
+        "fecha": "2026-10-09 02:56:50",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
     }
 ]
