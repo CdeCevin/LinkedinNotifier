@@ -6926,5 +6926,37 @@
         "fecha": "2026-10-09 17:27:10",
         "calza": false,
         "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-developer-software-engineer-at-omilia-4477801932",
+        "titulo": "AI Developer / Software Engineer",
+        "empresa": "Omilia",
+        "fecha": "2026-10-09 23:15:48",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-software-engineer-remote-concepcion-at-blacksmith-agency-4477822948",
+        "titulo": "AI Software Engineer (Remote, Concepcion)",
+        "empresa": "Blacksmith Agency",
+        "fecha": "2026-10-09 23:15:48",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-react-nestjs-aws-at-witi-4476847588",
+        "titulo": "Desarrollador Full-Stack (React | NestJS | AWS)",
+        "empresa": "WiTI",
+        "fecha": "2026-10-09 23:15:53",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-fullstack-java-%2B-react-hibrido-at-stefanini-group-4476859319",
+        "titulo": "Desarrollador/a Fullstack Java + React - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fecha": "2026-10-09 23:16:07",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
