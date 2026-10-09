@@ -6870,5 +6870,21 @@
         "fecha": "2026-10-09 02:56:50",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-builder-at-flowcraft-ventures-4477658549",
+        "titulo": "Product Builder",
+        "empresa": "Flowcraft Ventures",
+        "fecha": "2026-10-09 10:31:07",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-engineer-medical-imaging-viewer-at-epam-systems-4476256228",
+        "titulo": "Frontend Engineer (Medical Imaging Viewer)",
+        "empresa": "EPAM Systems",
+        "fecha": "2026-10-09 10:31:07",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'English proficiency'"
     }
 ]
