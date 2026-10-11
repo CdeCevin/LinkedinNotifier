@@ -7006,5 +7006,13 @@
         "fecha": "2026-10-11 14:02:30",
         "calza": false,
         "motivo": "La oferta exige modalidad presencial/híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-salesforce-at-sii-group-chile-4424017520",
+        "titulo": "Desarrollador Salesforce",
+        "empresa": "SII Group Chile",
+        "fecha": "2026-10-11 19:33:35",
+        "calza": false,
+        "motivo": "La oferta de empleo exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación, y el candidato no tiene experiencia ni certificación en Salesforce, Apex o Lightning."
     }
 ]
