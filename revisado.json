@@ -6982,5 +6982,29 @@
         "fecha": "2026-10-11 07:11:20",
         "calza": false,
         "motivo": "La oferta exige modalidad presencial en Santiago y un nivel de inglés intermedio, lo cual incumple las reglas críticas de ubicación y las limitaciones del candidato con el idioma."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/insight-data-engineer-at-infosys-4458449135",
+        "titulo": "Insight Data Engineer",
+        "empresa": "Infosys",
+        "fecha": "2026-10-11 14:02:22",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Fluent English'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/a-i-engineering-intern-at-sezzle-4460366386",
+        "titulo": "A.I. Engineering Intern",
+        "empresa": "Sezzle",
+        "fecha": "2026-10-11 14:02:23",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Intern'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/web-growth-engineer-at-global66-4476805523",
+        "titulo": "Web Growth Engineer",
+        "empresa": "Global66",
+        "fecha": "2026-10-11 14:02:30",
+        "calza": false,
+        "motivo": "La oferta exige modalidad presencial/híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o remoto."
     }
 ]
