@@ -6966,5 +6966,21 @@
         "fecha": "2026-10-11 00:14:25",
         "calza": true,
         "motivo": "El candidato cumple con todos los requisitos técnicos y de modalidad remota, pero la experiencia solicitada (3 años) es mayor a la que posee (1-1.5 años), calificándolo como cercano."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4477441649",
+        "titulo": "Full Stack Software Engineer",
+        "empresa": "Grupo Falabella",
+        "fecha": "2026-10-11 07:11:09",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, fuera de la Región del Maule, y un nivel de inglés intermedio-avanzado (hablado y escrito) que no coincide con el nivel de lectura técnica del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/engineer-at-empresa-confidencial-4475945095",
+        "titulo": "Engineer",
+        "empresa": "Empresa Confidencial",
+        "fecha": "2026-10-11 07:11:20",
+        "calza": false,
+        "motivo": "La oferta exige modalidad presencial en Santiago y un nivel de inglés intermedio, lo cual incumple las reglas críticas de ubicación y las limitaciones del candidato con el idioma."
     }
 ]
