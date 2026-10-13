@@ -7126,5 +7126,77 @@
         "fecha": "2026-10-13 18:19:59",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-truckercloud-4476484562",
+        "titulo": "Software Engineer",
+        "empresa": "TruckerCloud",
+        "fecha": "2026-10-13 23:16:33",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-typescript-react-at-acl-4476482426",
+        "titulo": "Desarrollador Fullstack ( TypeScript, React)",
+        "empresa": "ACL",
+        "fecha": "2026-10-13 23:16:43",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que restringe a 100% remota o presencial/híbrida solo en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-veta-virtual-4478173159",
+        "titulo": "Full Stack Software Engineer",
+        "empresa": "Veta Virtual",
+        "fecha": "2026-10-13 23:16:47",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-avos-tech-chile-4476395759",
+        "titulo": "Ingeniero de Software.",
+        "empresa": "AVOS Tech | Chile",
+        "fecha": "2026-10-13 23:16:55",
+        "calza": false,
+        "motivo": "La oferta de empleo exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que requiere 100% remota o presencial/híbrida exclusivamente en la Región del Maule o comunas aledañas."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/1573-data-engineer-postgresql-databricks-at-nortal-4469888514",
+        "titulo": "(1573) Data Engineer (PostgreSQL & Databricks)",
+        "empresa": "Nortal",
+        "fecha": "2026-10-13 23:16:59",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-semi-senior-at-factorit-4476215103",
+        "titulo": "Data Engineer Semi Senior",
+        "empresa": "FactorIT",
+        "fecha": "2026-10-13 23:16:59",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/murex-workflows-developer-at-talan-4475777699",
+        "titulo": "Murex Workflows Developer",
+        "empresa": "Talan",
+        "fecha": "2026-10-13 23:17:03",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-%E2%80%93-backend-node-js-python-aws-cloud-at-apiux-tech-4466604746",
+        "titulo": "Desarrollador Full Stack – Backend Node.js/Python (AWS Cloud)",
+        "empresa": "Apiux Tech",
+        "fecha": "2026-10-13 23:17:17",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que requiere la oferta sea remota o en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sql-developer-market-risk-applications-production-support-at-evalueserve-4443195723",
+        "titulo": "SQL Developer (Market Risk Applications & Production Support)",
+        "empresa": "Evalueserve",
+        "fecha": "2026-10-13 23:17:21",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
