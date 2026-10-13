@@ -7030,5 +7030,101 @@
         "fecha": "2026-10-12 00:31:40",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4477593601",
+        "titulo": "Desarrollador Junior Node.js - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-13 18:17:28",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito de 'Buen nivel de inglés' exigido en la oferta, ya que su nivel es solo intermedio para lectura de documentación técnica y no conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4478122550",
+        "titulo": "Desarrollador Python Junior - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-13 18:17:42",
+        "calza": false,
+        "motivo": "La oferta de empleo exige un \"Buen nivel de inglés\", lo cual el candidato no posee, ya que solo domina la lectura de documentación técnica y no tiene un nivel conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-software-engineer-at-copec-s-a-4476469355",
+        "titulo": "AI Software Engineer",
+        "empresa": "COPEC S.A.",
+        "fecha": "2026-10-13 18:17:53",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo permite 100% remoto o presencial/híbrido en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-software-engineer-remote-la-serena-at-blacksmith-agency-4478079369",
+        "titulo": "AI Software Engineer (Remote, La Serena)",
+        "empresa": "Blacksmith Agency",
+        "fecha": "2026-10-13 18:17:57",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-innomar-4478147346",
+        "titulo": "Ingeniero de software",
+        "empresa": "Innomar",
+        "fecha": "2026-10-13 18:18:04",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-front-end-at-bice-vida-4476875821",
+        "titulo": "Developer Front-end",
+        "empresa": "BICE VIDA",
+        "fecha": "2026-10-13 18:18:13",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo permite 100% remoto o presencial/híbrido en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-engineer-ai-first-at-who-co-4476767714",
+        "titulo": "Product Engineer AI First",
+        "empresa": "WHO&Co.",
+        "fecha": "2026-10-13 18:19:02",
+        "calza": false,
+        "motivo": "La oferta indica una ubicación en Santiago, lo cual incumple la regla crítica que solo permite ofertas 100% remotas o presenciales/híbridas exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pentests-ethical-hacking-at-deloitte-4476722180",
+        "titulo": "Pentests/Ethical Hacking",
+        "empresa": "Deloitte",
+        "fecha": "2026-10-13 18:19:21",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual no cumple con las reglas de ubicación que requieren 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-banco-falabella-4476906931",
+        "titulo": "Software Engineer",
+        "empresa": "Banco Falabella",
+        "fecha": "2026-10-13 18:19:43",
+        "calza": false,
+        "motivo": "La ubicación de la oferta es en Santiago, lo cual incumple la regla crítica de ubicación que exige que sea 100% remota o en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-web-fullstack-react-%2B-node-js-at-atcom-chile-4476381251",
+        "titulo": "Desarrollador Web Fullstack React + Node.js",
+        "empresa": "ATCOM Chile",
+        "fecha": "2026-10-13 18:19:56",
+        "calza": false,
+        "motivo": "La oferta exige modalidad presencial en Santiago, lo cual incumple la regla de ubicación que restringe a Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-developer-chile-at-anyone-ai-4476529546",
+        "titulo": "Python Developer (Chile)",
+        "empresa": "Anyone AI",
+        "fecha": "2026-10-13 18:19:59",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-web-senior-at-ita%C3%BA-chile-4477891042",
+        "titulo": "Fullstack Web Senior",
+        "empresa": "Itaú Chile",
+        "fecha": "2026-10-13 18:19:59",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
     }
 ]
