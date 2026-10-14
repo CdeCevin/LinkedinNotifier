@@ -7198,5 +7198,93 @@
         "fecha": "2026-10-13 23:17:21",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-developer-software-engineer-at-omilia-4477801931",
+        "titulo": "AI Developer / Software Engineer",
+        "empresa": "Omilia",
+        "fecha": "2026-10-14 19:22:06",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/estudiante-at-unicon-chile-4476462448",
+        "titulo": "Estudiante",
+        "empresa": "UNICON Chile",
+        "fecha": "2026-10-14 19:22:12",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, fuera de las ubicaciones permitidas, y el cargo es para practicante, mientras el candidato es titulado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/growth-engineer-at-capitaria-latam-4479561383",
+        "titulo": "Growth Engineer",
+        "empresa": "Capitaria Latam",
+        "fecha": "2026-10-14 19:22:34",
+        "calza": false,
+        "motivo": "La oferta de empleo exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-de-integraciones-con-ia-at-finder-hr-finder-it-uniendo-personas-4476864573",
+        "titulo": "Desarrollador(a) de integraciones con IA",
+        "empresa": "Finder HR & Finder IT Uniendo Personas",
+        "fecha": "2026-10-14 19:22:44",
+        "calza": false,
+        "motivo": "La oferta exige modalidad hibrida en Puerto Montt, Región de Los Lagos, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/hibrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrolladores-as-full-stack-con-ia-aplicada-at-cmg3-4478475924",
+        "titulo": "Desarrolladores(as) Full Stack con IA Aplicada",
+        "empresa": "CMG3",
+        "fecha": "2026-10-14 19:23:03",
+        "calza": false,
+        "motivo": "La oferta indica una ubicación en Santiago sin especificar modalidad remota, lo que incumple la regla crítica de ubicación exclusiva en Maule o 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-at-avos-tech-chile-4477455222",
+        "titulo": "Data Engineer",
+        "empresa": "AVOS Tech | Chile",
+        "fecha": "2026-10-14 19:23:10",
+        "calza": false,
+        "motivo": "La oferta es híbrida en Santiago, lo cual incumple la regla crítica de ubicación que exige que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/profesionales-salesforce-latam-remoto-at-cmg3-4478477804",
+        "titulo": "Profesionales Salesforce LATAM remoto",
+        "empresa": "CMG3",
+        "fecha": "2026-10-14 19:23:27",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas y su experiencia (1-1.5 años) es cercana al rol de Desarrollador (+3 años), aunque no posee experiencia directa en el ecosistema Salesforce."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/bizops-analyst-at-xepelin-4479540890",
+        "titulo": "BizOps Analyst",
+        "empresa": "Xepelin",
+        "fecha": "2026-10-14 19:23:37",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación del candidato (solo remoto o en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/technical-delivery-lead-jr-at-amaris-consulting-part-of-mantu-4474486460",
+        "titulo": "Technical Delivery Lead Jr",
+        "empresa": "Amaris Consulting  | Part of Mantu",
+        "fecha": "2026-10-14 19:23:40",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/devops-engineer-at-bounteous-4477469381",
+        "titulo": "DevOps Engineer",
+        "empresa": "Bounteous",
+        "fecha": "2026-10-14 19:23:41",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/murex-specialist-at-luxoft-4479077697",
+        "titulo": "Murex Specialist",
+        "empresa": "Luxoft",
+        "fecha": "2026-10-14 19:23:42",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
