@@ -7286,5 +7286,85 @@
         "fecha": "2026-10-14 19:23:42",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-web-junior-full-stack-react-y-node-js-%E2%80%93-santiago-centro-at-atcom-chile-4479713964",
+        "titulo": "Desarrollador Web Junior Full Stack React y Node.js – Santiago Centro",
+        "empresa": "ATCOM Chile",
+        "fecha": "2026-10-14 23:54:47",
+        "calza": false,
+        "motivo": "La oferta de empleo es presencial en Santiago, lo cual incumple la regla de ubicación crítica, que exige que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-j%C3%BAnior-at-betterbites-4476698808",
+        "titulo": "Ingeniero de software júnior",
+        "empresa": "BetterBites",
+        "fecha": "2026-10-14 23:54:56",
+        "calza": false,
+        "motivo": "La oferta está dirigida explícitamente a estudiantes que buscan realizar su práctica profesional, mientras que el candidato ya es un Ingeniero Civil Informático titulado."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/front-end-entwicklungsassistent-at-startup-ideo-4477018542",
+        "titulo": "Front-End-Entwicklungsassistent",
+        "empresa": "Startup_ideo",
+        "fecha": "2026-10-14 23:54:59",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-junior-en-inteligencia-artificial-at-bice-vida-4478811076",
+        "titulo": "Ingeniero Junior en Inteligencia Artificial",
+        "empresa": "BICE VIDA",
+        "fecha": "2026-10-14 23:55:07",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo permite 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/semi-senior-full-stack-developer-foco-frontend-%E2%80%93-react-%2B-typescript-at-cencosud-4477016438",
+        "titulo": "Semi senior Full Stack Developer (Foco Frontend – React + TypeScript)",
+        "empresa": "Cencosud",
+        "fecha": "2026-10-14 23:55:10",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ii-rust-pro-at-kraken-4478153924",
+        "titulo": "Software Engineer II - Rust - Pro",
+        "empresa": "Kraken",
+        "fecha": "2026-10-14 23:55:10",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-senior-ai-engineer-at-deloitte-4465084528",
+        "titulo": "Analista Senior - AI Engineer",
+        "empresa": "Deloitte",
+        "fecha": "2026-10-14 23:55:11",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-salesforce-at-experis-chile-4478078233",
+        "titulo": "Desarrollador de Salesforce",
+        "empresa": "Experis Chile",
+        "fecha": "2026-10-14 23:55:20",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla de ubicación exclusiva en Talca/Maule o 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-at-innomar-4478801304",
+        "titulo": "Backend Engineer",
+        "empresa": "Innomar",
+        "fecha": "2026-10-14 23:55:35",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad implícita en Santiago, lo cual incumple la regla de ubicación que requiere que sea 100% remota o presencial/híbrida exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-bi-developer-%E2%80%93-microsoft-fabric-at-r-q-ingenier%C3%ADa-4474851273",
+        "titulo": "Data Engineer / BI Developer – Microsoft Fabric",
+        "empresa": "R&Q Ingeniería",
+        "fecha": "2026-10-14 23:55:48",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
