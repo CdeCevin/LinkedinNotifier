@@ -7374,5 +7374,29 @@
         "fecha": "2026-10-15 05:54:21",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/buscamos-desarrollador-a-backend%21-at-zenta-group-4478806224",
+        "titulo": "Buscamos Desarrollador/a Backend!",
+        "empresa": "Zenta Group",
+        "fecha": "2026-10-15 12:39:13",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que solo permite Talca, la Región del Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-aws-hibrido-at-kpaz-4479705442",
+        "titulo": "Desarrollador Backend AWS - Hibrido",
+        "empresa": "KPaz",
+        "fecha": "2026-10-15 12:39:23",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultor-etl-at-tipartner-consulting-4476248236",
+        "titulo": "Consultor ETL",
+        "empresa": "TIPartner Consulting",
+        "fecha": "2026-10-15 12:39:34",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
