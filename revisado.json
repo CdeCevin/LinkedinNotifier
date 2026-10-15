@@ -7398,5 +7398,77 @@
         "fecha": "2026-10-15 12:39:34",
         "calza": false,
         "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-bairesdev-4479132968",
+        "titulo": "Node.js Junior Developer - Remote Work",
+        "empresa": "BairesDev",
+        "fecha": "2026-10-15 17:46:35",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-desarrollo-de-software-at-grupo-empresas-las-garzas-4477085764",
+        "titulo": "Práctica Profesional en Desarrollo de Software",
+        "empresa": "GRUPO EMPRESAS LAS GARZAS",
+        "fecha": "2026-10-15 17:46:35",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Práctica'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-at-koywe-4479539434",
+        "titulo": "Developer",
+        "empresa": "Koywe",
+        "fecha": "2026-10-15 17:46:47",
+        "calza": false,
+        "motivo": "La oferta exige una modalidad de trabajo híbrida en Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrolladores-as-full-stack-con-ia-aplicada-at-solheiro-advogados-associados-saa-4479248439",
+        "titulo": "Desarrolladores(as) Full Stack con IA Aplicada",
+        "empresa": "Solheiro Advogados Associados - SAA",
+        "fecha": "2026-10-15 17:46:58",
+        "calza": false,
+        "motivo": "La oferta de empleo exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla de ubicación que solo permite Talca/Maule o remoto 100%."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-at-amaris-consulting-part-of-mantu-4477304195",
+        "titulo": "Full Stack Engineer",
+        "empresa": "Amaris Consulting  | Part of Mantu",
+        "fecha": "2026-10-15 17:47:10",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago de Chile, lo cual incumple la regla crítica de ubicación (solo se acepta 100% remota o presencial/híbrida en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/dise%C3%B1ador-digital-web-at-falabella-4462042475",
+        "titulo": "Diseñador Digital / Web",
+        "empresa": "Falabella",
+        "fecha": "2026-10-15 17:47:19",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Las Condes, Santiago, lo cual no cumple con los requisitos de ubicación del candidato (remoto o presencial/híbrido en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/engineer-at-principal-chile-4469633446",
+        "titulo": "Engineer",
+        "empresa": "Principal Chile",
+        "fecha": "2026-10-15 17:47:29",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación (debe ser 100% remota o presencial/híbrida exclusivamente en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-casta%C3%B1o-4479722661",
+        "titulo": "Programador Full Stack",
+        "empresa": "CASTAÑO",
+        "fecha": "2026-10-15 17:47:41",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad o modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o trabajo 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-iii-at-arcadia-4477073233",
+        "titulo": "Software Engineer III",
+        "empresa": "Arcadia",
+        "fecha": "2026-10-15 17:47:51",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
