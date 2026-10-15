@@ -7470,5 +7470,13 @@
         "fecha": "2026-10-15 17:47:51",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-personalizaci%C3%B3n-y-experimentaci%C3%B3n-at-sodimac-4480136477",
+        "titulo": "Ingeniero/a de Personalización y Experimentación",
+        "empresa": "Sodimac",
+        "fecha": "2026-10-15 22:15:45",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Inglés avanzado'"
     }
 ]
