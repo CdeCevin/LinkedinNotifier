@@ -7478,5 +7478,37 @@
         "fecha": "2026-10-15 22:15:45",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Inglés avanzado'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-personalizaci%C3%B3n-y-experimentaci%C3%B3n-at-sodimac-4480131678",
+        "titulo": "Ingeniero/a de Personalización y Experimentación",
+        "empresa": "Sodimac",
+        "fecha": "2026-10-16 08:08:40",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Inglés avanzado'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-casa-de-moneda-de-chile-s-a-4480138483",
+        "titulo": "Ingeniero/a de Desarrollo",
+        "empresa": "Casa de Moneda de Chile S.A",
+        "fecha": "2026-10-16 08:08:50",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o 100% Remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-inform%C3%A1tico-full-stack-e-inteligencia-artificial-aplicada-at-ecoalliance-spa-4480141475",
+        "titulo": "Desarrollador Informático Full Stack e Inteligencia Artificial Aplicada",
+        "empresa": "EcoAlliance SpA",
+        "fecha": "2026-10-16 08:09:09",
+        "calza": false,
+        "motivo": "La oferta incumple la regla crítica de ubicación, ya que exige presencialidad en Viña del Mar, lo cual no está permitido fuera de la Región del Maule o modalidad 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-support-specialist-%E2%80%93-azure-data-factory-sql-databricks-36058-at-myticas-consulting-4479163591",
+        "titulo": "Data Engineer & Support Specialist – Azure Data Factory, SQL & Databricks (36058)",
+        "empresa": "Myticas Consulting",
+        "fecha": "2026-10-16 08:09:12",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
