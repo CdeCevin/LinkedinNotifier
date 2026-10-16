@@ -7534,5 +7534,13 @@
         "fecha": "2026-10-16 13:57:18",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-de-software-react-native-typescript-at-meludi-4477715501",
+        "titulo": "Practicante de Desarrollo de Software | React Native & TypeScript",
+        "empresa": "meludi",
+        "fecha": "2026-10-16 18:48:38",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Practicante'"
     }
 ]
