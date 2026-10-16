@@ -7542,5 +7542,53 @@
         "fecha": "2026-10-16 18:48:38",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Practicante'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/semi-senior-full-stack-developer-foco-frontend-%E2%80%93-react-%2B-typescript-at-cencosud-4479768149",
+        "titulo": "Semi senior Full Stack Developer (Foco Frontend – React + TypeScript)",
+        "empresa": "Cencosud",
+        "fecha": "2026-10-16 22:05:23",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-developer-remote-concepcion-at-blacksmith-agency-4480523572",
+        "titulo": "AI Developer (Remote, Concepcion)",
+        "empresa": "Blacksmith Agency",
+        "fecha": "2026-10-16 22:05:23",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-at-seidor-4480522054",
+        "titulo": "Fullstack Developer",
+        "empresa": "SEIDOR",
+        "fecha": "2026-10-16 22:05:33",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual incumple la regla de ubicación que solo permite 100% remoto o presencial/híbrido exclusivamente en Talca o la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/angular-14%2B-nodejs-fullstack-at-seiza-4478790758",
+        "titulo": "Angular 14+ & NodeJS Fullstack",
+        "empresa": "Seiza",
+        "fecha": "2026-10-16 22:05:45",
+        "calza": false,
+        "motivo": "La oferta incumple la regla crítica de ubicación, ya que exige presencialidad o modalidad híbrida en Santiago, fuera de las ubicaciones permitidas (100% remota o en la Región del Maule)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/cosultor-sap-abap-at-goplicity-4467003347",
+        "titulo": "Cosultor sap abap",
+        "empresa": "Goplicity",
+        "fecha": "2026-10-16 22:06:02",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite ofertas 100% remotas o presenciales/híbridas exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-aws-at-kabeli-selecci%C3%B3n-4480537958",
+        "titulo": "Desarrollador Back End AWS",
+        "empresa": "Kabeli Selección",
+        "fecha": "2026-10-16 22:06:14",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual incumple la regla de ubicación que solo permite remoto o presencial en la Región del Maule."
     }
 ]
