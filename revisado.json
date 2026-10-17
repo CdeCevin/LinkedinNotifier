@@ -7614,5 +7614,21 @@
         "fecha": "2026-10-17 12:58:00",
         "calza": false,
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-developer-remote-temuco-at-blacksmith-agency-4479048947",
+        "titulo": "AI Developer (Remote, Temuco)",
+        "empresa": "Blacksmith Agency",
+        "fecha": "2026-10-17 19:23:24",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultores-as-sap-abap-%E2%80%93-btp-at-deloitte-4458255965",
+        "titulo": "Consultores/as SAP ABAP – BTP",
+        "empresa": "Deloitte",
+        "fecha": "2026-10-17 19:23:31",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o 100% remoto."
     }
 ]
