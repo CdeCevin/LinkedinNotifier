@@ -7606,5 +7606,13 @@
         "fecha": "2026-10-17 01:19:03",
         "calza": false,
         "motivo": "La oferta de empleo exige una modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o remoto 100%."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4480801233",
+        "titulo": "Full Stack Software Engineer (Mid)",
+        "empresa": "Xe.com",
+        "fecha": "2026-10-17 12:58:00",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
