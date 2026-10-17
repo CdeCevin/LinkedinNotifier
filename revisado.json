@@ -7590,5 +7590,21 @@
         "fecha": "2026-10-16 22:06:14",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Las Condes, Santiago, lo cual incumple la regla de ubicación que solo permite remoto o presencial en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-agilistik-4479632372",
+        "titulo": "Software Engineer",
+        "empresa": "AGILISTIK",
+        "fecha": "2026-10-17 01:18:51",
+        "calza": false,
+        "motivo": "La oferta de empleo es presencial/híbrida en Santiago, lo cual incumple la regla crítica de ubicación del candidato que busca 100% remoto o presencial exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/dev-full-stack-ror-react-integraciones-api-restful-at-rankmi-4479623722",
+        "titulo": "Dev Full-Stack (RoR/React) Integraciones API RESTful",
+        "empresa": "Rankmi",
+        "fecha": "2026-10-17 01:19:03",
+        "calza": false,
+        "motivo": "La oferta de empleo exige una modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o remoto 100%."
     }
 ]
