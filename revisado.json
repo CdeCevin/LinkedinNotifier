@@ -7646,5 +7646,13 @@
         "fecha": "2026-10-18 19:25:50",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Puerto Varas, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-at-empresa-confidencial-4480906854",
+        "titulo": "Desarrollador",
+        "empresa": "Empresa Confidencial",
+        "fecha": "2026-10-18 23:10:43",
+        "calza": false,
+        "motivo": "La modalidad híbrida en Las Condes no cumple con la regla de ubicación, que exige presencialidad solo en la Región del Maule o que sea 100% remota."
     }
 ]
