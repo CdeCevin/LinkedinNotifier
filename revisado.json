@@ -7630,5 +7630,21 @@
         "fecha": "2026-10-17 19:23:31",
         "calza": false,
         "motivo": "La oferta exige modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que solo permite Talca/Maule o 100% remoto."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-java-cf-benchmark-at-kraken-4479625633",
+        "titulo": "Software Engineer - Java - CF Benchmark",
+        "empresa": "Kraken",
+        "fecha": "2026-10-18 19:25:38",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-retina-lab-4477731269",
+        "titulo": "Programador full stack",
+        "empresa": "Retina Lab",
+        "fecha": "2026-10-18 19:25:50",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida en Puerto Varas, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
