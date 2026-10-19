@@ -1,13 +1,13 @@
-# LinkedIn Job Scraper & Gemini Evaluator
+# Job Hunter Chile: Scraper multiplataforma + evaluador con Gemini
 
-Este proyecto es un scraper automatizado diseñado para buscar ofertas de empleo en LinkedIn, analizarlas mediante inteligencia artificial (Google Gemini) en base a un perfil profesional en formato JSON, y enviar alertas por correo electrónico cuando se encuentra un "Match" ideal.
+Busca ofertas de desarrollo en **LinkedIn, Get on Board, Computrabajo y Chiletrabajos**, las filtra, las evalúa con Google Gemini contra el currículum en `cv.json` y envía un correo cuando encuentra un match.
 
 ## 🚀 Características
-- **Búsqueda automática**: Consulta las últimas ofertas de empleo en LinkedIn utilizando palabras clave específicas (Junior, Trainee, Backend, Developer, etc.) para Chile.
-- **Filtros estáticos**: Descarte rápido de ofertas no aptas (ej. cargos Senior o exigencia de inglés avanzado fluido) antes de consumir la API de IA.
-- **Evaluación Inteligente**: Uso del modelo `gemini-2.5-flash` para comparar la descripción de la oferta directamente con el currículum en `cv.json`.
-- **Alertas por Correo**: Envío automático de notificaciones a tu Gmail cuando hay un match positivo.
-- **Control de Duplicados**: Almacenamiento local e incremental de ofertas evaluadas en `revisado.json` para evitar analizar la misma oferta en ejecuciones posteriores, optimizando recursos y llamadas a la API.
+- **Multiplataforma** (`fuentes.py`): LinkedIn (API guest), Get on Board (API pública), Computrabajo y Chiletrabajos. Términos amplios: desarrollador, developer, programador, ingeniero de software, ingeniero informático, informático.
+- **Filtros estáticos** (antes de gastar cuota de IA): cargo de desarrollo, seniority (senior, ssr, lead, jefe…), prácticas profesionales, inglés exigido u oferta escrita en inglés, y ubicación presencial fuera de la zona.
+- **Ubicación**: remoto; presencial/híbrido en la zona cercana a Lontué (Talca, Curicó, Molina, San Fernando, Rancagua, etc.); Santiago solo remoto o híbrido con máximo 2 días presenciales.
+- **Evaluación con Gemini** (`gemini-2.5-flash`) con reglas críticas obligatorias (`cumple_reglas`) y match "cercano" para revisar a mano. Máximo `MAX_EVALUACIONES_GEMINI` evaluaciones por ejecución; el resto queda en cola.
+- **Sin duplicados**: `revisado.json` guarda lo ya evaluado, por URL y por empresa+título (la misma oferta en varias plataformas se evalúa una sola vez).
 
 ---
 
@@ -50,7 +50,7 @@ python hunter.py
 El proyecto incluye un flujo de trabajo automatizado mediante GitHub Actions ubicado en `.github/workflows/scrape.yml`. 
 
 ### ¿Cómo funciona?
-1. **Frecuencia**: Se ejecuta automáticamente todos los días a las **13:00 UTC** (aproximadamente a las 09:00 AM hora de Chile) y también puede ejecutarse manualmente desde la pestaña "Actions" en GitHub.
+1. **Frecuencia**: Se ejecuta cada 2 horas, en el minuto 17 de las horas pares de Chile (GitHub puede atrasar o saltarse ejecuciones programadas), y también puede ejecutarse manualmente desde la pestaña "Actions" en GitHub.
 2. **Secretos**: Utiliza los secretos del repositorio para configurar de forma segura las variables de entorno sin exponerlas en el código.
 3. **Persistencia**: Tras analizar las ofertas, el pipeline realiza un commit y push automático del archivo `revisado.json` actualizado de regreso al repositorio Git, de modo que las ejecuciones diarias siguientes sepan qué ofertas ya fueron evaluadas.
 

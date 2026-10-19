@@ -1,6 +1,7 @@
 {
   "nombre": "Kevin Alejandro Gabriel Olivares Fuentes",
-  "titulo": "Ingeniero Civil Informático",
+  "titulo": "Ingeniero Civil Informático (titulado con Distinción Máxima)",
+  "residencia": "Lontué, Región del Maule, Chile",
 
   "contacto": {
     "telefono": "+56 976478194",
@@ -9,7 +10,7 @@
     "github": "github.com/CdeCevin"
   },
 
-  "sobre_mi": "Ingeniero Civil Informático con experiencia práctica en desarrollo full-stack y backend, arquitectura de sistemas resilientes, testing de calidad (E2E/carga) e integración de IA. Orientado a resultados de alto impacto social y con facilidad para adaptarse a sistemas heredados.",
+  "sobre_mi": "Ingeniero Civil Informático titulado con Distinción Máxima, con dos plataformas propias en producción y con usuarios reales. Experiencia en backend, APIs REST, arquitectura de sistemas resilientes, integración de IA y testing automatizado (E2E y carga).",
 
   "experiencia_y_proyectos": [
     {
@@ -17,11 +18,13 @@
       "url": "caudalrio.cl",
       "cargo": "Creador y Desarrollador Principal",
       "periodo": "2026 - Actualidad",
+      "descripcion": "Plataforma pública de monitoreo de caudales en tiempo real para todo Chile (~1.800 estaciones de la DGA), pensada para la toma de decisiones ante crecidas.",
       "responsabilidades": [
-        "Desarrollo de una plataforma de monitoreo fluviométrico en tiempo real con cobertura regional, diseñada para la toma de decisiones informadas durante emergencias climáticas",
-        "Implementación de una arquitectura backend resiliente (Zero-DB) que mitiga la inestabilidad de sistemas gubernamentales mediante scraping concurrente y estrategias de caché inteligente",
-        "Integración de un sistema nativo de notificaciones Web Push y un servicio de pre-escalado de datos para garantizar disponibilidad inmediata ante alta demanda"
-      ]
+        "Diseño de un backend tolerante a caídas del portal estatal, con scraping paralelo, caché adaptativa según el nivel de alerta y tres fuentes de respaldo (API REST, scraping y boletines PDF)",
+        "Historial propio de mediciones en SQLite, alertas Web Push con más de 160 dispositivos suscritos y una API REST para terceros, consumida en producción por una app de pesca en La Araucanía",
+        "Configuración de la infraestructura completa (Railway, dominio, correo corporativo y soporte a usuarios) con una suite de más de 550 tests automatizados"
+      ],
+      "tecnologias": ["SQLite", "Web Push", "API REST", "Scraping", "Railway"]
     },
     {
       "proyecto": "Plataforma de Simulación Contable Inteligente (UAPSCI)",
@@ -29,12 +32,11 @@
       "cargo": "Desarrollador Backend",
       "periodo": "2025 - Actualidad",
       "responsabilidades": [
-        "Diseño e implementación del backend y APIs RESTful para la gestión de la lógica de negocio y simulación contable",
-        "Orquestación de modelos de lenguaje (Google Gemini AI) mediante ingeniería de prompts avanzada para la generación dinámica de ejercicios y retroalimentación pedagógica personalizada",
-        "Gestión del ciclo de vida de desarrollo con pruebas automatizadas E2E y de carga para asegurar la estabilidad bajo alta concurrencia",
-        "Desarrollo de la versión 2.0: diseño y modelamiento de la nueva base de datos relacional, refactorización de flujos de datos y optimización de la arquitectura central"
+        "Motor contable determinista: diseño de un motor que calcula y califica con reglas contables verificables, eliminando las alucinaciones y la evaluación de caja negra de la IA, que quedó limitada a redactar",
+        "Backend y API REST en Node.js/Express con autenticación JWT, roles y MariaDB; integración de Google Gemini con control de concurrencia y respaldo automático entre claves y modelos",
+        "Evolución v2.0: migración a un sistema multiusuario con gestión de cursos y reportes para docentes, desplegado en producción, con pruebas automatizadas end-to-end y de carga"
       ],
-      "tecnologias": ["Node.js", "Express.js", "Google Gemini AI", "Playwright", "K6"]
+      "tecnologias": ["Node.js", "Express.js", "MariaDB", "JWT", "Google Gemini AI", "Playwright", "K6"]
     }
   ],
 
@@ -44,7 +46,7 @@
       "Electron", "Tailwind CSS", "Flask", "C", "C++", "Java"
     ],
     "bases_de_datos": [
-      "SQL Server", "MySQL", "SQLite", "Oracle SQL", "MongoDB", "Neo4j", "SurrealDB"
+      "SQL Server", "MySQL", "MariaDB", "SQLite", "Oracle SQL", "MongoDB", "Neo4j", "SurrealDB"
     ],
     "entornos_y_cloud": [
       "Git", "GitHub", "Railway", "Vercel", "Supabase", "Cloudflare", "Google Cloud"
@@ -52,24 +54,18 @@
     "analisis_de_datos": ["Excel / Office", "Power BI", "Qlik (básico)"]
   },
 
-  "competencias_estrategicas": [
-    "Gestión de proyectos mediante metodologías ágiles",
+  "areas_de_experiencia": [
     "Arquitectura de sistemas resilientes",
-    "Testing de calidad (E2E / carga)",
-    "Integración de Inteligencia Artificial"
-  ],
-
-  "habilidades_blandas": [
-    "Resolución analítica de problemas complejos",
-    "Adaptabilidad técnica ante sistemas heredados",
-    "Comunicación asertiva en entornos multidisciplinarios",
-    "Orientación a resultados de alto impacto social"
+    "Integración de Inteligencia Artificial",
+    "Testing automatizado (E2E y carga)",
+    "Metodologías ágiles"
   ],
 
   "estudios": [
     {
       "institucion": "Universidad Católica del Maule",
       "titulo": "Ingeniero Civil Informático",
+      "distincion": "Distinción Máxima",
       "inicio": 2021,
       "fin": 2026
     }

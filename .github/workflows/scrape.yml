@@ -16,6 +16,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     permissions:
       contents: write # Requerido para hacer commit y push de revisado.json
 
