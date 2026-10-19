@@ -9896,5 +9896,415 @@
         "fecha": "2026-10-19 17:00:46",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/979-t%C3%A9cnico-para-administraci%C3%B3n-y-an%C3%A1lisis-de-la-informaci%C3%B3n-las-maule-20-horas-semanales-at-corporaci%C3%B3n-opci%C3%B3n-4478613150",
+        "titulo": "(979) Técnico para Administración y Análisis de la Información - LAS Maule (20 horas semanales)",
+        "empresa": "Corporación Opción",
+        "fuente": "LinkedIn",
+        "ubicacion": "Talca, Maule Region, Chile",
+        "fecha": "2026-10-19 20:36:31",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-plc-rancagua-vi-regi%C3%B3n-at-unitec-spa-4480997209",
+        "titulo": "Programador PLC - Rancagua (VI Región)",
+        "empresa": "Unitec SpA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-10-19 20:36:39",
+        "calza": false,
+        "motivo": "El cargo de 'Programador PLC' no se alinea con el tipo de desarrollo de software/informática del candidato, que se especializa en plataformas web, APIs y sistemas resilientes."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/tech-lead-mobile-web-at-actionhub-chile-4478610602",
+        "titulo": "Tech Lead Mobile & Web",
+        "empresa": "Actionhub Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-19 20:37:45",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-backend-witi-santiago",
+        "titulo": "Desarrollador Full-Stack (Web/Foco Back-end)",
+        "empresa": "WiTi",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-19 20:38:40",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas y posee un perfil técnico sólido y relevante, pero la modalidad híbrida sin ubicación específica requiere confirmación y el nivel de experiencia implícito en el rol podría ser ligeramente superior a su experiencia actual."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/bilingual-sales-assistant-english-spanish-lead-response-garage-force-remote",
+        "titulo": "Bilingual Sales Assistant (English/Spanish) – Lead Response",
+        "empresa": "Garage Force",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto - Remote",
+        "fecha": "2026-10-19 20:38:45",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-tcit-santiago",
+        "titulo": "Data Engineer GCP SSR",
+        "empresa": "TCIT",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-19 20:38:45",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'SSR'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-semi-senior-en-santiago-centro-885EA322C35F337E61373E686DCF3405",
+        "titulo": "Desarrollador .Net Semi Senior",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-senior-en-santiago-providencia-3A9738C37991332461373E686DCF3405",
+        "titulo": "Desarrollador Java Senior",
+        "empresa": "IT People S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-chofer-tracto-camion-antofagasta-en-antofagasta-55DE4BFBB344E07A61373E686DCF3405",
+        "titulo": "Chofer Tracto Camión",
+        "empresa": "United Sistema de Tuberías Ltda.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-alumnoa-en-practica-area-ti-providencia-en-santiago-providencia-B4A03C56F89CA79961373E686DCF3405",
+        "titulo": "Alumno/a en Práctica. Área TI",
+        "empresa": "Burô Temps",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Práctica'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-en-terreno-experiencia-en-logistica-e-inventario-en-santiago-centro-3FF063AED0C5D26361373E686DCF3405",
+        "titulo": "Soporte Informático en Terreno, experiencia en Logística e Inventario",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-ti-turno-noche-romeral-curico-en-curico-6A7E3343AA26E8DD61373E686DCF3405",
+        "titulo": "Analista de Soporte TI turno noche",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Curicó, Maule",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-proyectos-e-innovacion-pudahuel-en-santiago-pudahuel-CCAE6190033FE78361373E686DCF3405",
+        "titulo": "Ingeniero/a de Proyectos e Innovación",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-civil-puerto-montt-en-puerto-montt-D50F3765EC41D86461373E686DCF3405",
+        "titulo": "Ingeniero/a Civil (Puerto Montt)",
+        "empresa": "Grupo Tawa",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-mecanicoa-puerto-montt-en-puerto-montt-29F42EE56AE9D25261373E686DCF3405",
+        "titulo": "Ingeniero/a Mecánico/a (Puerto Montt)",
+        "empresa": "Grupo Tawa",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electrico-telecomunicaciones-zona-sur-en-valdivia-B35B037DC5F6FC7C61373E686DCF3405",
+        "titulo": "Técnico Eléctrico (telecomunicaciones) Zona Sur",
+        "empresa": "Randstad",
+        "fuente": "Computrabajo",
+        "ubicacion": "Valdivia, Los Ríos",
+        "fecha": "2026-10-19 20:43:09",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-despachador-operaciones-distribucion-base-talca-en-talca-738C9269EB48497561373E686DCF3405",
+        "titulo": "Despachador Operaciones Distribución base Talca",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Talca, Maule",
+        "fecha": "2026-10-19 20:44:02",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-sap-santiago-en-santiago-estacion-central-A5E0820CCA0C2CCC61373E686DCF3405",
+        "titulo": "Ingeniero SAP",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Estación Central, R.Metropolitana",
+        "fecha": "2026-10-19 20:44:03",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Estación Central, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-proyectos-y-procesos-digitales-en-santiago-las-condes-2E6CACCB01B5A11461373E686DCF3405",
+        "titulo": "Analista de Proyectos y Procesos Digitales",
+        "empresa": "ASESORIAS Y SERVICIOS DE INFORMATICA OUTSOURCING LIMITADA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-relatora-en-transformacion-digital-e-inteligencia-artificial-iquique-en-iquique-AB9B7A43147EA46761373E686DCF3405",
+        "titulo": "Relator/a en Transformación Digital e Inteligencia Artificial",
+        "empresa": "Team-Work",
+        "fuente": "Computrabajo",
+        "ubicacion": "Iquique, Tarapacá",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefea-de-taller-en-santiago-centro-FCFC19ED9CA919CA61373E686DCF3405",
+        "titulo": "Jefe/a de taller",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargadoa-de-mantenimiento-e-infraestructura-antofagasta-en-antofagasta-6B009244559AE04461373E686DCF3405",
+        "titulo": "Encargado/a de Mantenimiento e Infraestructura Antofagasta",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-farmacia-para-analista-de-direccion-tecnica-drogueria-rys-en-santiago-pudahuel-24B48CCF55C591C361373E686DCF3405",
+        "titulo": "Técnico en Farmacia para Analista de Dirección Técnica – Droguería RyS",
+        "empresa": "SAEP LTDA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-servicios-externos-trabajo-temporal-alto-hospicio-iquique-en-alto-hospicio-181B4715F2DB2E3161373E686DCF3405",
+        "titulo": "Coordinador de Servicios Externos (Trabajo temporal)",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Alto Hospicio, Tarapacá",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-servicios-externos-alto-hospicio-en-alto-hospicio-1712531E8B19F1CE61373E686DCF3405",
+        "titulo": "Coordinador/a servicios externos",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Alto Hospicio, Tarapacá",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-logistico-ti-hardware-y-stock-metro-moneda-42hrs-en-santiago-centro-0CABAB5BD5578FE961373E686DCF3405",
+        "titulo": "Analista Logístico TI, Hardware y Stock, Metro Moneda.",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-cctv-turno-pm-quilicura-en-santiago-quilicura-0157CE666F7498D961373E686DCF3405",
+        "titulo": "Operador CCTV Turno PM  Quilicura",
+        "empresa": "Castaño Panaderías",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-ti-ingles-intermedio-terreno-en-santiago-providencia-4E8A17640EC2403C61373E686DCF3405",
+        "titulo": "Soporte TI inglés intermedio",
+        "empresa": "HB CONSULTORES SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-ti-en-terreno-los-angeles-en-los-angeles-07AD7F1B0EF5686C61373E686DCF3405",
+        "titulo": "Técnico de Soporte TI en Terreno, Los Ángeles.",
+        "empresa": "SSI OUTSOURCING",
+        "fuente": "Computrabajo",
+        "ubicacion": "Los Ángeles, Bíobío",
+        "fecha": "2026-10-19 20:45:51",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-a-net-3915159",
+        "titulo": "Desarrollador/a .NET",
+        "empresa": "Ps grupo hunting",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 20:54:33",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-informatico-full-stack-e-inteligencia-artificial-aplicada-3914381",
+        "titulo": "Desarrollador Informático Full Stack e Inteligencia",
+        "empresa": "Ecoalliance spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Valparaíso",
+        "fecha": "2026-10-19 20:54:34",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Valparaíso)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-contrato-indefinido-3899617",
+        "titulo": "Desarrollador FullSTACK - Contrato Indefinido",
+        "empresa": "Perceptual consultores ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 20:56:33",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-las-condes-contrato-indefinido-3902039",
+        "titulo": "Desarrollador FULLSTACK - Las Condes -",
+        "empresa": "Perceptual consultores ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 20:56:36",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-ia-developer-3916656",
+        "titulo": "Práctica Profesional - Ingeniería Informática /",
+        "empresa": "Valitcom",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 20:56:36",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Práctica'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/software-qa-engineer-3914366",
+        "titulo": "Software QA Engineer",
+        "empresa": "Ademsys",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 20:57:14",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/business-developer-emat-3907344",
+        "titulo": "Business Developer EMAT",
+        "empresa": "Emat",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 20:57:14",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/fullstack-ai-first-proyecto-6meses-3910160",
+        "titulo": "Fullstack  (AI-First) / Proyecto 6Meses",
+        "empresa": "Ionix spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 20:57:14",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-net-ingles-billingue-3807840",
+        "titulo": "Desarrollador Full Stack .NET (Inglés Billingue)",
+        "empresa": "Haibu solutions",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 21:05:36",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Bilingue'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/electrico-o-automatizado-3916597",
+        "titulo": "Eléctrico o automatizado",
+        "empresa": "Ssmcontrol spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Osorno",
+        "fecha": "2026-10-19 21:06:22",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/docente-claude-presencial-3915724",
+        "titulo": "Docente Claude (presencial)",
+        "empresa": "Desafío latam",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 21:06:22",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-proyecto-req456-3916636",
+        "titulo": "JEFE PROYECTO - Req456",
+        "empresa": "Gep consultores spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-19 21:06:22",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
