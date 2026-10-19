@@ -7654,5 +7654,37 @@
         "fecha": "2026-10-18 23:10:43",
         "calza": false,
         "motivo": "La modalidad híbrida en Las Condes no cumple con la regla de ubicación, que exige presencialidad solo en la Región del Maule o que sea 100% remota."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/test-engineering-intern-at-murex-4479143462",
+        "titulo": "Test Engineering Intern",
+        "empresa": "Murex",
+        "fecha": "2026-10-19 14:40:01",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Intern'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-nisum-4479355584",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "Nisum",
+        "fecha": "2026-10-19 14:40:07",
+        "calza": false,
+        "motivo": "La oferta exige modalidad híbrida y residencia en Santiago de Chile, lo cual incumple la regla de ubicación crítica al no ser 100% remota o exclusiva de la Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-drimo-4476477263",
+        "titulo": "Software Engineer",
+        "empresa": "Drimo",
+        "fecha": "2026-10-19 14:40:15",
+        "calza": false,
+        "motivo": "La oferta exige presencialidad en la Región Metropolitana de Santiago, lo cual incumple la regla de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en Talca/Región del Maule."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/dev-fullstack-data-cloud-engineer-at-tipartner-consulting-4480216939",
+        "titulo": "DEV FullStack & Data Cloud Engineer",
+        "empresa": "TIPartner Consulting",
+        "fecha": "2026-10-19 14:40:25",
+        "calza": false,
+        "motivo": "La oferta de empleo exige una modalidad híbrida en Santiago, lo cual incumple la regla crítica de ubicación que requiere 100% remoto o presencial/híbrido exclusivamente en la Región del Maule."
     }
 ]
