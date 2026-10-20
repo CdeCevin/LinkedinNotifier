@@ -10556,5 +10556,225 @@
         "fecha": "2026-10-20 00:50:44",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-semi-senior-at-svirtual-cl-4478639326",
+        "titulo": "Full Stack Engineer Semi Senior",
+        "empresa": "sVirtual.cl",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 06:01:37",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-mobile-%E2%80%93-react-native-hibrido-at-stefanini-group-4468797379",
+        "titulo": "Desarrollador/a Mobile – React Native - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 06:01:52",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero la modalidad híbrida en Santiago sin indicar la cantidad de días presenciales lo clasifica como cercano, y algunas tecnologías específicas de testing (Jest, React Native Testing Library) y Redux Toolkit no están explícitamente detalladas en el CV."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-net-at-avos-tech-chile-4481240774",
+        "titulo": "Desarrollador .Net",
+        "empresa": "AVOS Tech | Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 06:02:33",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero la modalidad híbrida en Santiago no especifica días presenciales y la experiencia (1-1.5 años) es menor a la requerida (2-4 años)."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-trainee-sin-experiencia-at-empresa-confidencial-4481513560",
+        "titulo": "AI Engineer Trainee (sin experiencia)",
+        "empresa": "Empresa Confidencial",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 06:03:01",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito excluyente de residencia en Santiago, ya que reside en Lontué."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/emprendedor-a-para-crear-nuevos-negocios-utilizando-theodizey-3880617",
+        "titulo": "Emprendedor/a para Crear Nuevos Negocios utilizando",
+        "empresa": "Integ ltda.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:14:09",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-y-operador-cnc-tornos-y-o-centros-de-mecanizado-3916582",
+        "titulo": "Programador y Operador CNC  Tornos y/o",
+        "empresa": "Maestranza giglio ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:25:02",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/urgente-ingeniero-programador-experiencia-oocc-o-vialidad-urbana-antof-3886238",
+        "titulo": "URGENTE Ingeniero Programador - EXPERIENCIA OOCC",
+        "empresa": "Ingenet ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Antofagasta",
+        "fecha": "2026-10-20 06:25:03",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-de-obras-3915236",
+        "titulo": "Programador de Obras",
+        "empresa": "Asch spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Temuco",
+        "fecha": "2026-10-20 06:25:56",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Temuco)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-cnc-control-fanuc-3907682",
+        "titulo": "Programador CNC Control Fanuc",
+        "empresa": "Mente minera",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:25:56",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-a-de-control-y-proyectos-mineria-3899268",
+        "titulo": "PROGRAMADOR/A DE CONTROL Y PROYECTOS –",
+        "empresa": "Rs impermeabilizacion",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Calama",
+        "fecha": "2026-10-20 06:26:46",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Calama)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-bms-ebo-schneider-3916015",
+        "titulo": "Programador BMS - EBO Schneider",
+        "empresa": "",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Colina",
+        "fecha": "2026-10-20 06:26:46",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Colina)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-bms-siemens-3916020",
+        "titulo": "Programador BMS - Siemens",
+        "empresa": "",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Colina",
+        "fecha": "2026-10-20 06:26:46",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Colina)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/operador-y-programador-de-torno-cnc-3387904",
+        "titulo": "OPERADOR Y PROGRAMADOR DE TORNO CNC",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "La serena",
+        "fecha": "2026-10-20 06:27:33",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (La serena)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-3738351",
+        "titulo": "Ingeniero de sistemas",
+        "empresa": "Operaciones logísticas",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:27:34",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-erp-sap-bo-3906983",
+        "titulo": "Ingeniero de Sistemas ERP SAP BO",
+        "empresa": "Ingeniero de sistemas erp..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:27:34",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/operador-y-programador-torno-cnc-3690569",
+        "titulo": "Operador y programador Torno CNC",
+        "empresa": "Maestranza sáez",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "San antonio",
+        "fecha": "2026-10-20 06:27:34",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (San antonio)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/supervisor-a-en-sistemas-hidraulicos-3913875",
+        "titulo": "Supervisor/a en sistemas Hidráulicos",
+        "empresa": "Empresa industrial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:27:35",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-fullstack-las-condes-3913539",
+        "titulo": "Programador FullStack Las Condes",
+        "empresa": "Perceptual consultores ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:27:35",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-operador-de-centro-de-mecanizado-cnc-3910415",
+        "titulo": "PROGRAMADOR OPERADOR DE CENTRO DE MECANIZADO",
+        "empresa": "Maestranza liracard metal spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:27:36",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/hs-28-ingeniero-key-user-software-jd-edwards-comuna-sierra-gorda-3909289",
+        "titulo": "HS-28 INGENIERO KEY USER SOFTWARE JD",
+        "empresa": "Heredia ^ santana",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Antofagasta",
+        "fecha": "2026-10-20 06:28:30",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-fullstack-contrato-indefinido-las-condes-3892430",
+        "titulo": "Ingeniero FullStack - Contrato Indefinido -",
+        "empresa": "Perceptual consultores ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:30:10",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-en-desarrollo-de-software-en-informatica-especialista-en-paginas-web-3871207",
+        "titulo": "Ingeniero en Desarrollo de Software, en",
+        "empresa": "Cherry chile",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 06:30:10",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
     }
 ]
