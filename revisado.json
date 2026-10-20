@@ -10306,5 +10306,255 @@
         "fecha": "2026-10-19 21:06:22",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-trabajo-remoto-at-bairesdev-4480264847",
+        "titulo": "Ingeniero de Software .NET - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:21:15",
+        "calza": false,
+        "motivo": "El candidato solo lee documentación técnica en inglés, lo cual incumple la regla crítica de idioma, ya que la oferta requiere un nivel avanzado de inglés."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-aws-python-at-hf-solutions-4481233880",
+        "titulo": "Desarrollador Backend - AWS - Python",
+        "empresa": "HF Solutions",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:21:49",
+        "calza": false,
+        "motivo": "La modalidad híbrida de 4 días presenciales en Santiago no cumple con la regla de ubicación para el candidato residente en Lontué."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-software-senior-back-end-at-checkr-inc-4480266811",
+        "titulo": "Ingeniero Software Senior - Back End",
+        "empresa": "Checkr, Inc.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:21:52",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-python-senior-at-avos-tech-chile-4481260290",
+        "titulo": "Backend Developer Python Senior",
+        "empresa": "AVOS Tech | Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:21:52",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/engineer-afp-at-afp-cuprum-4481247242",
+        "titulo": "Engineer AFP",
+        "empresa": "AFP Cuprum",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:24:07",
+        "calza": false,
+        "motivo": "El requisito de 'Nivel de Inglés intermedio' de la oferta entra en conflicto con la habilidad del candidato de solo leer documentación técnica y no ser conversacional."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-node-react-aws-at-soho-4478610380",
+        "titulo": "Desarrollador Fullstack Node React AWS",
+        "empresa": "Soho",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:25:08",
+        "calza": false,
+        "motivo": "La oferta es híbrida con 2 días presenciales en Santiago, una distancia que el candidato no puede cubrir desde Lontué con su límite de 1.5 horas de viaje. Además, la oferta requiere más de 4 años de experiencia, mientras que el candidato posee aproximadamente 1 a 1.5 años de experiencia relevante."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-engineer-afp-at-afp-cuprum-4480195112",
+        "titulo": "Senior Engineer AFP",
+        "empresa": "AFP Cuprum",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:25:10",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultor-a-sap-slcm-abap-fiori-at-indra-group-4477300955",
+        "titulo": "Consultor/a SAP SLCM | ABAP / Fiori",
+        "empresa": "Indra Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 00:25:11",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-developer-python-%2B-vue-js-remote-latin-america-at-fullstack-4479713494",
+        "titulo": "Senior Full Stack Developer (Python + Vue.js) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-20 00:25:11",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/junior-integrations-developer-inversiones-vertice-limitada-santiago",
+        "titulo": "Junior Integrations Developer",
+        "empresa": "Inversiones Vertice Limitada",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-20 00:25:11",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Inglés avanzado'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/trainee-python-tcit-santiago-74dd",
+        "titulo": "Desarrollador Python Junior",
+        "empresa": "TCIT",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-20 00:25:20",
+        "calza": true,
+        "motivo": "El candidato cumple con el perfil Junior y la experiencia técnica requerida, pero la modalidad híbrida en Santiago sin especificar el número de días presenciales lo convierte en un calce cercano que requiere confirmación."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-witi-remote-eabe",
+        "titulo": "QA Automation Engineer",
+        "empresa": "WiTi",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-20 00:26:29",
+        "calza": true,
+        "motivo": "El candidato tiene experiencia relevante en automatización QA con Playwright, pruebas de carga (K6), API testing y metodologías ágiles, sin embargo, la modalidad híbrida no especifica días ni ubicación exacta, lo cual necesita ser confirmado."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ai-trainee-aprendiz-de-inteligencia-artificial-factor-it-remote",
+        "titulo": "Aprendiz de Inteligencia Artificial Contrato Sena",
+        "empresa": "Factor IT",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-10-20 00:26:34",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-java-senior-en-santiago-centro-7F85B35F80955AEA61373E686DCF3405",
+        "titulo": "Desarrollador Backend JAVA senior",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-20 00:30:08",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electronico-telecomunicaciones-en-santiago-providencia-C2D165DFF8E6E05161373E686DCF3405",
+        "titulo": "Técnico Electrónico / Telecomunicaciones",
+        "empresa": "Pro-Connection Empresa de Servicios",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-20 00:30:08",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-ba-en-santiago-centro-B21474A9758389C261373E686DCF3405",
+        "titulo": "Business Analyst (BA).",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-20 00:31:01",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnicoa-electrico-superior-protecciones-y-control-zona-antofagasta-en-antofagasta-0AD60FF2E4F40A0861373E686DCF3405",
+        "titulo": "Técnico/a Eléctrico Superior Protecciones y Control",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-20 00:31:01",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operarios-de-produccion-paine-en-paine-FB4D512D60DF440961373E686DCF3405",
+        "titulo": "Operarios de Producción Paine",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Paine, R.Metropolitana",
+        "fecha": "2026-10-20 00:31:01",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-3902874",
+        "titulo": "Desarrollador Full Stack",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 00:37:24",
+        "calza": true,
+        "motivo": "El candidato es cercano porque la oferta es híbrida en la Región Metropolitana sin especificar días, y tiene una brecha de experiencia significativa (1.5 vs 5+ años) y falta de experiencia en .NET Core/C#."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/fullstack-developer-react-python-fastapi-3910030",
+        "titulo": "Fullstack Developer React / Python /",
+        "empresa": "Muck consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 00:38:55",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas, tiene un buen dominio de tecnologías clave y experiencia en pruebas automatizadas, pero la experiencia requerida de 2 años es un poco superior a la evaluada (1-1.5 años), y no se mencionan explícitamente FastAPI o Docker en el CV."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-a-web-junior-req-500-3916852",
+        "titulo": "Desarrollador(a) Web Junior Req-500",
+        "empresa": "Gep consultores spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 00:39:43",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-web-junior-req-510-3916848",
+        "titulo": "Desarrollador Web Junior Req-510",
+        "empresa": "Gep consultores spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 00:39:43",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/buscamos-desarrollador-a-full-stack-nodejs-angular-proyecto-remoto-3907589",
+        "titulo": "Buscamos Desarrollador/a Full Stack (Node.js/Angular) –",
+        "empresa": "Bctecnologia",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 00:43:09",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas y tiene experiencia relevante con Node.js, Express y MongoDB, pero carece de experiencia explícita con Angular, aunque su perfil sugiere adaptabilidad a nuevas tecnologías frontend."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/full-stack-developer-aws-ciberseguridad-3905495",
+        "titulo": "Full Stack Developer - AWS/Ciberseguridad",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 00:46:16",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero la oferta pide 4+ años de experiencia (tiene 1-1.5), experiencia práctica en AWS específica y en ciberseguridad, lo cual no se detalla en su CV, y la modalidad híbrida en Santiago no especifica los días presenciales."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/practica-profesional-qa-desarrolladorfullstack-jr-3818412",
+        "titulo": "[Practica Profesional] QA DesarrolladorFullStack Jr",
+        "empresa": "Eventech  spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 00:50:44",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
     }
 ]
