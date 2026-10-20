@@ -10776,5 +10776,385 @@
         "fecha": "2026-10-20 06:30:10",
         "calza": false,
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-aws-at-r-y-c-consultores-asociados-4478620227",
+        "titulo": "Desarrollador Fullstack AWS",
+        "empresa": "R y C Consultores Asociados",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-20 12:44:56",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-ai-engineer-at-epam-systems-4478199616",
+        "titulo": "Senior AI Engineer",
+        "empresa": "EPAM Systems",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-20 12:44:56",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-bc-tecnologia-santiago-f47a",
+        "titulo": "QA Automation Engineer",
+        "empresa": "BC Tecnología",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-20 12:45:08",
+        "calza": true,
+        "motivo": "El candidato cumple con el perfil técnico y requisitos de experiencia en automatización y tecnologías solicitadas. Sin embargo, la modalidad híbrida en Las Condes no especifica los días presenciales, lo que lo hace un match cercano para confirmar."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ingeniero-de-datos-middle-bice-vida-santiago-247f",
+        "titulo": "Ingeniero de Datos Middle",
+        "empresa": "BICE VIDA",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-20 12:45:32",
+        "calza": true,
+        "motivo": "Cumple las reglas críticas, pero es cercano por la experiencia requerida (3 años vs 1-1.5), la falta de experiencia en AWS (aunque es excluyente, la regla de tecnologías es flexible) y la modalidad híbrida sin especificar ciudad o días."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/business-analyst-ssr-banca-tcit-santiago",
+        "titulo": "Business Analyst SSR | Banca",
+        "empresa": "TCIT",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-20 12:45:37",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/analista-de-calidad-de-datos-checkr-santiago",
+        "titulo": "Analista de Calidad de Datos",
+        "empresa": "Checkr",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-20 12:45:54",
+        "calza": false,
+        "motivo": "La oferta es presencial en Santiago, lo cual no calza con la ubicación del candidato en Lontué, y el cargo de Analista de Calidad de Datos no se alinea con un rol de desarrollo o ingeniería de software."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ingeniero-trainee-tecnologias-y-datos-agrosuper-rancagua",
+        "titulo": "Ingeniero Trainee Tecnologías y Datos",
+        "empresa": "Agrosuper",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-20 12:46:05",
+        "calza": false,
+        "motivo": "El candidato no cumple el requisito excluyente de inglés intermedio a avanzado, ya que su nivel es intermedio solo para lectura de documentación técnica y no conversacional."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/analista-de-datos-data-analyst-bc-tecnologia-santiago",
+        "titulo": "Analista de Datos / Data Analyst",
+        "empresa": "BC Tecnología",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-20 12:46:20",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos técnicos y la experiencia relevante en datos, SQL, Python, Power BI e IA generativa, pero la oferta es híbrida sin especificar la ciudad ni los días presenciales, lo que requiere confirmación."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-planta-padre-hurtado-tec-de-mantenimiento-mecanico-electrico-electronico-o-afin-en-padre-hurtado-8FDF470152C7F7A961373E686DCF3405",
+        "titulo": "Operador de planta / Padre Hurtado / Tec. de Mantenimiento, Mecánico, Eléctrico, Electrónico o afín",
+        "empresa": "Progestion Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Padre Hurtado, R.Metropolitana",
+        "fecha": "2026-10-20 12:46:24",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-comercial-en-terreno-part-time-antofagasta-movil-y-hogar-segmento-personas-ventas-en-terreno-part-time-internet-hogar-telefonia-movil-en-antofagasta-D7A1738A7540BBDB61373E686DCF3405",
+        "titulo": "Ejecutivo Comercial en Terreno Part Time Antofagasta Móvil y Hogar, Segmento Personas",
+        "empresa": "HUMAN CAPITAL CYA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-20 12:46:24",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Ejecutivo Comercial'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-comercial-b2b-venta-terreno-part-time-r-metropolitana-segmento-empresas-ventas-en-terreno-part-timesegmento-empresas-internet-telefonia-movil-en-santiago-maipu-74CDEE7C002B093D61373E686DCF3405",
+        "titulo": "Ejecutivo Comercial B2B, Venta Terreno Part Time R. Metropolitana, Segmento Empresas",
+        "empresa": "HUMAN CAPITAL CYA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Maipú, R.Metropolitana",
+        "fecha": "2026-10-20 12:46:24",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-dba-y-desarrollo-en-santiago-pedro-aguirre-cerda-1470958BEFFF76F761373E686DCF3405",
+        "titulo": "Ingeniero DBA y Desarrollo",
+        "empresa": "Lo Valledor",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pedro Aguirre Cerda, R.Metropolitana",
+        "fecha": "2026-10-20 12:46:24",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Pedro Aguirre Cerda, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-engineer-en-santiago-centro-822FF5A2D2D4079761373E686DCF3405",
+        "titulo": "QA engineer",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-20 12:46:36",
+        "calza": false,
+        "motivo": "La modalidad híbrida de la oferta requiere 'al menos dos días presenciales' en Santiago, lo cual podría exceder el máximo de dos días presenciales permitidos para el candidato que reside fuera de la Región Metropolitana."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-analista-de-datos-y-estadisticas-estacion-central-en-penaflor-C3A38769D0548A5A61373E686DCF3405",
+        "titulo": "Practica analista de datos y estadísticas",
+        "empresa": "PROA S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Peñaflor, R.Metropolitana",
+        "fecha": "2026-10-20 12:46:38",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-golang-net-react-3915759",
+        "titulo": "Desarrollador Full Stack  Golang + .NET",
+        "empresa": "3it",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:46:51",
+        "calza": true,
+        "motivo": "Cumple las reglas críticas, pero es cercano por la experiencia requerida (3-5 años vs 1-1.5 años del candidato), la ausencia de Golang y .NET en su CV, y la modalidad híbrida en Santiago sin especificar los días presenciales."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-net-angular-nodejs-3906329",
+        "titulo": "Desarrollador Fullstack .NET / Angular /",
+        "empresa": "Kibernum",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:47:22",
+        "calza": true,
+        "motivo": "La oferta es híbrida en Santiago sin especificar los días presenciales, y el candidato tiene 1 a 1,5 años de experiencia, mientras que la oferta pide 3 años, lo que lo hace un calce cercano."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-de-sistemas-junior-odoo-3804103",
+        "titulo": "Analista de Sistemas Junior (Odoo)",
+        "empresa": "The project company",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:47:33",
+        "calza": false,
+        "motivo": "La oferta es presencial en Santiago, lo cual incumple la regla de ubicación y modalidad del candidato que reside en Lontué y solo cumpliría si fuera 100% remota o híbrida con máximo 2 días presenciales en Santiago."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-nodejs-react-3912387",
+        "titulo": "Desarrollador Fullstack Node.js / React",
+        "empresa": "Kibernum",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:48:06",
+        "calza": true,
+        "motivo": "El candidato cumple con las reglas críticas de ubicación, idioma, nivel y tipo de cargo. Aunque posee una sólida base en Node.js y React, la oferta pide 3 años de experiencia (el candidato tiene 1-1.5 años equivalentes) y menciona NestJS y AWS que no están explícitamente en su CV, siendo un perfil cercano."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/developer-backend-visual-studio-net-net-core-31-no-sql-modalidad-hibrida-3912417",
+        "titulo": "Developer backend Visual Studio/.Net/Net core 3.1/NO",
+        "empresa": "Valor Único",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:48:18",
+        "calza": false,
+        "motivo": "La oferta es híbrida en Santiago con 3 días presenciales a la semana, lo cual incumple la regla de ubicación y modalidad para el candidato que reside en Lontué."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-junior-integraciones-con-jira-3911018",
+        "titulo": "Desarrollador Junior - integraciones con JIRA",
+        "empresa": "Haibu solutions spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:48:29",
+        "calza": false,
+        "motivo": "La modalidad híbrida de 4 días presenciales en Santiago excede el límite máximo de 2 días presenciales para la ubicación del candidato."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-ios-3910185",
+        "titulo": "Desarrollador iOS",
+        "empresa": "Kibernum",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:49:01",
+        "calza": false,
+        "motivo": "El candidato no cumple con los 4+ años de experiencia senior en desarrollo iOS ni con el dominio avanzado de Swift/SwiftUI y sus frameworks específicos requeridos."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-proyecto-6-meses-las-condes-3912994",
+        "titulo": "Desarrollador FullStack (Proyecto 6 meses Las",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:49:16",
+        "calza": true,
+        "motivo": "Cumple las reglas críticas, pero la modalidad híbrida en Santiago no especifica los días presenciales y la experiencia solicitada es para un referente técnico."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/buscamos-desarrolladores-as-full-stack-con-ia-aplicada-3913528",
+        "titulo": "¡Buscamos Desarrolladores(as) Full Stack con IA",
+        "empresa": "Cmg3.cl",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:49:33",
+        "calza": true,
+        "motivo": "Cumple las reglas críticas. Es cercano debido a que la modalidad híbrida en Santiago no especifica los días presenciales, la experiencia solicitada es superior a la del candidato (1-1.5 años vs +2 años) y hay diferencias en el stack tecnológico principal (Angular, Spring Boot, .NET C# y PL/SQL)."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/consultor-sap-pp-qm-3913450",
+        "titulo": "Consultor SAP PP QM",
+        "empresa": "Muck consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:49:47",
+        "calza": false,
+        "motivo": "El cargo de 'Consultor SAP PP QM' no es un puesto de desarrollo o ingeniería de software, lo cual incumple la regla crítica de tipo de cargo."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/backend-developer-aws-glue-3912232",
+        "titulo": "Backend Developer AWS Glue",
+        "empresa": "Ryc consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:50:03",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas y maneja los lenguajes principales, pero carece de experiencia explícita con AWS Glue y los servicios de procesamiento de datos de AWS que son centrales para el puesto. La modalidad híbrida en Santiago es flexible al ser de región."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/python-developer-ai-specialist-genai-cloud-3909457",
+        "titulo": "Python Developer / AI Specialist (GenAI",
+        "empresa": "Kibernum",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:50:17",
+        "calza": true,
+        "motivo": "El candidato cumple con las reglas críticas (ubicación remota, inglés de lectura, nivel de titulación y tipo de cargo), y aunque tiene sólida experiencia en integración de IA y Python, los 3 años requeridos en la oferta lo hacen un perfil cercano por experiencia, y debería confirmar el dominio de frameworks específicos de LLM y bases de datos vectoriales."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-de-inteligencia-artificial-especialista-en-llms-3870999",
+        "titulo": "Desarrollador de Inteligencia Artificial Especialista en",
+        "empresa": "Haibu solutions",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:50:35",
+        "calza": false,
+        "motivo": "La oferta es híbrida con 4 días presenciales en Santiago, lo cual incumple la regla de ubicación y modalidad para el candidato que reside en Lontué."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/salesforce-developer-intermedio-3905929",
+        "titulo": "Salesforce Developer Intermedio",
+        "empresa": "Ryc consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:50:46",
+        "calza": false,
+        "motivo": "El candidato reside en Lontué y la oferta es híbrida con 3 días presenciales en Santiago, lo cual incumple la regla de ubicación y modalidad."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/developer-backend-net5-apis-rest-pl-sql-oracle-11g-modalidad-remota-3906322",
+        "titulo": "Developer Backend .net5/APIs REST/PL/SQL Oracle 11g",
+        "empresa": "Valor Único",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:51:05",
+        "calza": true,
+        "motivo": "El candidato cumple con las reglas críticas de ubicación, modalidad, nivel y tipo de cargo; sin embargo, no tiene experiencia directa con .NET o PL/SQL en Oracle 11g, que son tecnologías centrales de la oferta, aunque posee experiencia relevante en APIs REST, Oracle SQL y desarrollo backend general."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/email-marketing-developer-salesforce-marketing-cloud-multinacional-aeronautica-3901894",
+        "titulo": "Email Marketing Developer, Salesforce Marketing Cloud",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:51:22",
+        "calza": false,
+        "motivo": "El candidato no cumple con el nivel de inglés requerido de 'intermedio o superior', ya que su habilidad se limita a la lectura de documentación técnica y no es conversacional ni para comunicación profesional."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/fullstack-developer-react-typescript-3903109",
+        "titulo": "Fullstack Developer- React/Typescript",
+        "empresa": "Perceptual consultores ltda.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:53:04",
+        "calza": false,
+        "motivo": "El candidato solo lee documentación técnica en inglés (no escribe profesionalmente) y la oferta exige escribir comentarios de código en inglés, lo que incumple la regla crítica de idioma."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-y-operador-centro-cnc-3898850",
+        "titulo": "Programador y operador Centro CNC",
+        "empresa": "Maestranza binimeliz",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 12:59:23",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-software-de-mantenimiento-3904448",
+        "titulo": "Ingeniero de Software de Mantenimiento",
+        "empresa": "Alstom",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 13:03:56",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/informatico-fullstack-react-typscript-las-condes-indefinido-3904389",
+        "titulo": "Informático FullStack (React - Typscript /",
+        "empresa": "Perceptual consultores ltda.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 13:03:57",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-software-3894764",
+        "titulo": "INGENIERO(A) DE SOFTWARE",
+        "empresa": "Importante empresa nacional",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 13:03:57",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-desarrollador-fullstack-react-typscript-las-condes-indefinido-3897104",
+        "titulo": "Ingeniero Desarrollador FullStack React / Typscript",
+        "empresa": "Perceptual consultores ltda.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 13:04:43",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-software-full-stack-3896018",
+        "titulo": "Ingeniero/a de Software Full Stack",
+        "empresa": "Ps grupo hunting",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-20 13:04:43",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-especialista-en-tecnologia-de-informacion-mineria-mantos-verdes-ep109-3916947",
+        "titulo": "Ingeniero Especialista en Tecnología de Información",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Chañaral",
+        "fecha": "2026-10-20 13:05:40",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
