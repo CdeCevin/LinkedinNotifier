@@ -11956,5 +11956,225 @@
         "fecha": "2026-10-21 01:42:43",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-android-at-solheiro-advogados-associados-saa-4482020563",
+        "titulo": "Desarrollador Android",
+        "empresa": "Solheiro Advogados Associados - SAA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-21 08:34:39",
+        "calza": true,
+        "motivo": "El puesto es híbrido en Santiago sin especificar días presenciales, requiere 3+ años de experiencia específica en Android, y el candidato tiene 1-1.5 años de experiencia en desarrollo móvil con React Native."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-back-end-node-js-golang-at-orantex-tech-4481737395",
+        "titulo": "Developer Back End (Node.js & Golang)",
+        "empresa": "Orantex Tech",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-21 08:34:57",
+        "calza": false,
+        "motivo": "El candidato no cumple con los 5 años de experiencia mínima requerida ni con las habilidades obligatorias en Golang, Kafka y Next.js."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/qa-engineer-proyecto-3-a-4-meses-agilistik-santiago",
+        "titulo": "QA Engineer (Proyecto 3 a 4 Meses)",
+        "empresa": "Agilistik",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-21 08:35:39",
+        "calza": true,
+        "motivo": "El candidato calza muy bien con el perfil técnico y la experiencia requerida, incluyendo automatización, pero la modalidad híbrida no especifica la ciudad, por lo que requiere confirmación de ubicación para el cargo."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/gestor-a-de-procesos-ti-bice-vida-santiago",
+        "titulo": "Gestor/a de Procesos TI",
+        "empresa": "BICE VIDA",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-21 08:35:54",
+        "calza": false,
+        "motivo": "El candidato es un ingeniero de software/desarrollador, mientras que el cargo de 'Gestor/a de Procesos TI' no corresponde a un rol de desarrollo o ingeniería de software/informática según las reglas."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/analista-de-negocios-junior-retail-e-inteligencia-artifici-bc-tecnologia-santiago",
+        "titulo": "Analista de Negocios Junior – Retail e IA (LLM)",
+        "empresa": "BC Tecnología",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-21 08:36:08",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos críticos y su experiencia con integración de IA/LLM se alinea perfectamente con la oferta, pero la modalidad híbrida sin especificar la ciudad de trabajo presencial hace que sea un calce cercano."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-liferay-en-santiago-centro-E36B2DFD464B383F61373E686DCF3405",
+        "titulo": "Desarrollador Full Stack – Liferay",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-21 08:36:28",
+        "calza": false,
+        "motivo": "El candidato no cumple con el requisito excluyente de certificación Liferay y no posee los 4 años de experiencia solicitados."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-web-full-stack-net-react-en-santiago-centro-03BFD91644CAA8B661373E686DCF3405",
+        "titulo": "Desarrollador/a Web Full Stack .NET + React",
+        "empresa": "Grupo Tawa",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-21 08:36:42",
+        "calza": false,
+        "motivo": "La oferta es 100% presencial en Santiago, lo que no es compatible con la ubicación del candidato en Lontué ni su rango de viaje."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-j2ee-springboot-en-santiago-providencia-A90D9BC39C6DA54261373E686DCF3405",
+        "titulo": "Desarrollador Java J2EE, Springboot",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-21 08:36:53",
+        "calza": false,
+        "motivo": "La oferta pide inglés como requisito, y el candidato solo lee documentación técnica sin ser conversacional, incumpliendo una regla crítica. Además, la oferta requiere 5 años de experiencia, y el candidato tiene el equivalente a 1-1.5 años."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-software-full-stack-net-react-en-santiago-centro-DD29DF0EEDA3521E61373E686DCF3405",
+        "titulo": "Ingeniero/a de Software Full Stack .NET + React",
+        "empresa": "Grupo Tawa",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-21 08:37:06",
+        "calza": false,
+        "motivo": "La oferta es presencial en Santiago, lo cual incumple con las reglas de ubicación y modalidad del candidato."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-proyectos-y-negocios-digitales-ia-rubro-industrial-en-santiago-providencia-9D1AA9363FC246E761373E686DCF3405",
+        "titulo": "Ingeniero/a de Proyectos y Negocios Digitales IA rubro industrial",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-21 08:37:22",
+        "calza": false,
+        "motivo": "La oferta es híbrida en Santiago con hasta 3 días presenciales, lo cual incumple la regla de máximo 2 días presenciales para candidatos que no residen en la Región Metropolitana."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/senior-full-stack-java-developer-test-automation-ai-3917769",
+        "titulo": "Senior Full Stack Java Developer (Test",
+        "empresa": "23people",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:37:25",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-android-3917412",
+        "titulo": "Desarrollador Android",
+        "empresa": "Cmg3.cl",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:37:35",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero la modalidad híbrida en Santiago requiere confirmación de días presenciales, la experiencia es menor a la solicitada (1-1.5 vs 3+ años), y carece de experiencia explícita en Kotlin y desarrollo nativo Android."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/developer-fullstack-nest-react-3515525",
+        "titulo": "Developer Fullstack Nest - React",
+        "empresa": "Haibu solutions",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:37:54",
+        "calza": false,
+        "motivo": "El candidato no calza debido a la significativa brecha en experiencia (1-1.5 años vs 5 años requeridos) y la ausencia de varias tecnologías excluyentes como NestJS, Kafka, Redis/BullMQ y experiencia específica con PostgreSQL."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-desarrollador-full-stack-proyecto-bancario-3899875",
+        "titulo": "Analista Desarrollador Full Stack – Proyecto",
+        "empresa": "Softgroup servicios computacionales limitada.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:38:05",
+        "calza": false,
+        "motivo": "El candidato vive en Lontué y la oferta requiere 3 días presenciales a la semana en Santiago, lo cual incumple la regla de ubicación."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-desarrollador-net-ia-3899815",
+        "titulo": "Analista Desarrollador .NET + IA",
+        "empresa": "Softgroup servicios computacionales limitada.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:38:14",
+        "calza": false,
+        "motivo": "La oferta de empleo es híbrida con 4 días presenciales en Santiago, lo cual incumple la regla de ubicación y modalidad para el candidato que reside en Lontué."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/developer-backend-junior-modalidad-hibrida-3899304",
+        "titulo": "Developer Backend Junior Modalidad Hibrida",
+        "empresa": "Valor único",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:38:28",
+        "calza": false,
+        "motivo": "La oferta es híbrida en Santiago con 3 días presenciales, lo cual incumple la regla de ubicación para un candidato de Lontué."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-net-3897756",
+        "titulo": "Desarrollador .Net",
+        "empresa": "Opendev pro",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:38:45",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas y tiene fuerte experiencia en backend, AI y testing, pero no posee experiencia directa en .NET/C# que es la tecnología principal de la oferta."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/full-stack-mobile-react-native-java-3910433",
+        "titulo": "Full-Stack Mobile (React Native + Java)",
+        "empresa": "3it",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:39:03",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero su experiencia (1-1.5 años vs 3-5 solicitados) es menor y carece de experiencia explícita en Spring Boot, OCI y otras herramientas clave para un match perfecto."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/qa-engineer-3910222",
+        "titulo": "QA ENGINEER",
+        "empresa": "Technology solutions",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:39:19",
+        "calza": false,
+        "motivo": "La oferta es híbrida en Santiago (80% presencial), lo cual incumple la regla de ubicación y modalidad para un candidato residente en Lontué."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-software-backend-ia-3916453",
+        "titulo": "Ingeniero de Software Backend & IA",
+        "empresa": "Lanek",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:40:10",
+        "calza": true,
+        "motivo": "El candidato cumple con las reglas críticas y tiene un perfil técnico muy relevante, pero la modalidad híbrida en Santiago sin especificar días de presencialidad y el tono de 'liderar' la posición lo hacen un calce cercano que requiere confirmación."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-software-3913504",
+        "titulo": "Ingeniero de Software",
+        "empresa": "Smartjob",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:40:43",
+        "calza": false,
+        "motivo": "La oferta pide inglés intermedio para participar en instancias de colaboración internacional, pero el candidato solo lee documentación técnica y no tiene inglés conversacional."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-software-ia-3902663",
+        "titulo": "Ingeniero/a de Software IA",
+        "empresa": "Empresas sb",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-21 08:45:16",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos críticos, sin embargo, la modalidad híbrida en Santiago no especifica los días presenciales, lo que lo hace cercano a confirmar, y aunque tiene experiencia en IA y prompt engineering, las plataformas de observabilidad agéntica no están explícitamente detalladas en el CV."
     }
 ]
