@@ -11876,5 +11876,85 @@
         "fecha": "2026-10-20 22:44:48",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-%E2%80%93-liferay-at-bc-tecnolog%C3%ADa-4478936833",
+        "titulo": "Desarrollador Full Stack – Liferay",
+        "empresa": "BC Tecnología",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-21 01:36:05",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-centro-de-agilidad-at-banco-de-chile-4480465674",
+        "titulo": "Desarrollador Fullstack - Centro de Agilidad.",
+        "empresa": "Banco de Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-21 01:36:18",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero su experiencia de 1-1.5 años no alcanza los 3 años requeridos, la modalidad en Santiago es incierta y le faltan algunas tecnologías específicas como Spring/Angular."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-edtech-ai-remote-full-time-at-um%C3%A1ximo-4478913825",
+        "titulo": "Software Engineer (EdTech-AI-Remote-Full Time)",
+        "empresa": "Umáximo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-21 01:36:32",
+        "calza": true,
+        "motivo": "El candidato cumple con todas las reglas críticas y posee un fuerte dominio de las tecnologías clave y experiencia en IA, aunque su experiencia total es ligeramente inferior a los 2 años deseables."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-mactec-4478905250",
+        "titulo": "Ingeniero de software",
+        "empresa": "Mactec",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-21 01:36:50",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos críticos, su experiencia de 1-1.5 años se alinea con los 1-2 años solicitados, y posee las tecnologías fundamentales como React, TypeScript, Node.js, MongoDB, GCP e integración de IA, con capacidad para aprender frameworks específicos como Next.js y Fastify."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/swift-developer-remote-work-at-bairesdev-4480713381",
+        "titulo": "Swift Developer - Remote Work",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-21 01:37:36",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnico-de-desarrollo-movil-y-web-presencial-en-santiago-centro-AD86A167CE62994061373E686DCF3405",
+        "titulo": "Líder Técnico de Desarrollo Móvil y Web",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-21 01:41:58",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Líder'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-administrativoa-de-proyectos-ti-sector-publico-en-santiago-centro-22D68D36FDC73F7561373E686DCF3405",
+        "titulo": "Coordinador/a Administrativo/a de Proyectos TI (Sector Público)",
+        "empresa": "LINKMARKET ASESORIAS Y SERVICIOS LTDA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-21 01:41:58",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Coordinador'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-negocios-junior-retail-e-inteligencia-artificial-llm-en-santiago-las-condes-29424F039BC7A07161373E686DCF3405",
+        "titulo": "Analista de Negocios Junior – Retail e Inteligencia Artificial (LLM)",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-21 01:42:43",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
