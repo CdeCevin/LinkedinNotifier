@@ -13696,5 +13696,345 @@
         "fecha": "2026-10-22 18:04:31",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-full-stack-javascript-typescript-y-node-js-hibrido-at-stefanini-group-4481602048",
+        "titulo": "Developer Full Stack - JavaScript / TypeScript y Node.js - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:21:01",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas criticas. Su experiencia (1-1.5 años vs 3 años requeridos) y la modalidad híbrida en Santiago sin especificar días presenciales lo hacen un match cercano."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-fullstack-developer-java-%2B-react-at-stefanini-latam-4481600173",
+        "titulo": "Sr Fullstack Developer (Java + React)",
+        "empresa": "Stefanini LATAM",
+        "fuente": "LinkedIn",
+        "ubicacion": "Providencia, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:21:06",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-software-engineer-at-ria-money-transfer-4480081047",
+        "titulo": "Lead Software Engineer",
+        "empresa": "Ria Money Transfer",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:21:06",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-ntt-data-europe-latam-4481383771",
+        "titulo": "Programador full stack",
+        "empresa": "NTT DATA Europe & Latam",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:21:50",
+        "calza": true,
+        "motivo": "El candidato cumple con el perfil técnico, de experiencia y nivel para un rol Junior, destacando en integración de IA y proyectos en producción, pero la modalidad híbrida en Santiago sin especificar los días presenciales lo clasifica como 'cercano' según las reglas de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-fullstack-developer-java-%2B-angular-at-stefanini-latam-4481385822",
+        "titulo": "Sr Fullstack Developer (Java + Angular)",
+        "empresa": "Stefanini LATAM",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:21:53",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/service-now-software-engineer-career-at-equifax-4454927894",
+        "titulo": "Service Now - Software Engineer - Career",
+        "empresa": "Equifax",
+        "fuente": "LinkedIn",
+        "ubicacion": "Providencia, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:21:54",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-ia-ag%C3%A9ntica-at-getdata-cl-4480079521",
+        "titulo": "Desarrollador de IA Agéntica",
+        "empresa": "Getdata (CL)",
+        "fuente": "LinkedIn",
+        "ubicacion": "Providencia, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:22:56",
+        "calza": false,
+        "motivo": "La oferta es híbrida con 3 días presenciales en Santiago, lo cual excede el límite de 2 días presenciales para la ubicación del candidato."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-big-data-engineer-azure-at-softserve-4481391805",
+        "titulo": "Lead Big Data Engineer (Azure)",
+        "empresa": "SoftServe",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-22 22:23:54",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-backend-%E2%80%93-junior-at-proyectum-chile-4481726725",
+        "titulo": "Líder Técnico Backend – Junior",
+        "empresa": "Proyectum Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:23:54",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Líder'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-%C2%A1estamos-buscando-consultor-a-power-platform%21-at-biar-consultores-4480029864",
+        "titulo": "🚀 ¡Estamos buscando Consultor/a Power Platform!",
+        "empresa": "BIAr Consultores",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:23:54",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-aplicaciones-e-implementar-erp-odoo-at-itg-ltda-4480544837",
+        "titulo": "Ingeniero(a) de Aplicaciones e implementar  ERP Odoo",
+        "empresa": "ITG LTDA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 22:23:55",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-comercial-y-kpis-con-excel-y-sql-las-condes-hibrido-en-santiago-las-condes-72000CFFF81D9FD861373E686DCF3405",
+        "titulo": "Analista Comercial y KPIs con Excel y SQL– Las Condes (hibrido)",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-electricoa-bess-en-santiago-estacion-central-F9278765FAAD548161373E686DCF3405",
+        "titulo": "Ingeniero/a Eléctrico/a BESS",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Estación Central, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-proyecto-mecanico-5x2-en-santiago-las-condes-A64D36E3D6644A1561373E686DCF3405",
+        "titulo": "Ingeniero de Proyecto Mecánico",
+        "empresa": "J.E.J INGENIERIA S.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-geomensora-industria-minera-region-de-antofagasta-en-calama-ED1942402A586E8661373E686DCF3405",
+        "titulo": "Ingeniero(a) Geomensor(a) – Industria Minera – Región de Antofagasta",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administradora-de-contrato-de-servicios-ti-industria-ferroviaria-region-metropolitana-en-santiago-centro-B88211419F67755A61373E686DCF3405",
+        "titulo": "Administrador(a) de Contrato de Servicios TI – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultora-sap-senior-asesoria-de-proyectos-industria-ferroviaria-region-metropolitana-en-santiago-centro-9CF9897BED35CBC761373E686DCF3405",
+        "titulo": "Consultor(a) SAP Senior (Asesoría de Proyectos)– Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-ciberseguridad-industria-ferroviaria-region-metropolitana-en-santiago-centro-29E3BE4A7872E86C61373E686DCF3405",
+        "titulo": "Especialista en Ciberseguridad– Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-redes-y-comunicaciones-industria-ferroviaria-region-metropolitana-en-santiago-centro-B9432E125CC4400461373E686DCF3405",
+        "titulo": "Especialista en Redes y Comunicaciones – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-respaldos-y-recuperacion-de-datos-industria-ferroviaria-region-metropolitana-en-santiago-centro-0586C0A3C7559B7961373E686DCF3405",
+        "titulo": "Especialista en Respaldos y Recuperación de Datos – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administradora-de-servidores-windows-y-linux-industria-ferroviaria-region-metropolitana-en-santiago-centro-3DBBA3222191F09161373E686DCF3405",
+        "titulo": "Administrador(a) de Servidores Windows y Linux – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-servidores-virtuales-vmware-industria-ferroviaria-region-metropolitana-en-santiago-centro-73FE34950A8BCA0A61373E686DCF3405",
+        "titulo": "Especialista en Servidores Virtuales (VMware) – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administradora-de-base-de-datos-oracle-industria-ferroviaria-region-metropolitana-en-santiago-centro-3C43A85DFC962D4A61373E686DCF3405",
+        "titulo": "Administrador(a) de Base de Datos Oracle – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-accesos-y-permisos-sap-industria-ferroviaria-region-metropolitana-en-santiago-centro-A469028F6B68D67F61373E686DCF3405",
+        "titulo": "Especialista en Accesos y Permisos SAP – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-sap-industria-ferroviaria-region-metropolitana-en-santiago-centro-64A19D4862C2DD6E61373E686DCF3405",
+        "titulo": "Especialista SAP – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-sap-senior-industria-ferroviaria-region-metropolitana-en-santiago-centro-5A9484B39846C6E261373E686DCF3405",
+        "titulo": "Especialista SAP Senior – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefea-de-proyecto-de-migracion-ti-industria-ferroviaria-region-metropolitana-en-santiago-centro-1AC1417EF952F69861373E686DCF3405",
+        "titulo": "Jefe(a) de Proyecto de Migración TI – Industria Ferroviaria – Región Metropolitana",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Jefe'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-laboratorio-en-constitucion-90C265731307169F61373E686DCF3405",
+        "titulo": "Analista de laboratorio",
+        "empresa": "Eurofirms Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "constitución, Maule",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnicos-de-soporte-ti-y-tecnicos-en-terreno-en-puerto-montt-BEF46DD287E4D9F661373E686DCF3405",
+        "titulo": "Técnicos de Soporte TI y Técnicos en Terreno",
+        "empresa": "TECNOSERVICIOS LTDA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativo-exp-en-salud-proyecto-soporte-usuario-en-santiago-estacion-central-1C6C8342F84BD08B61373E686DCF3405",
+        "titulo": "Administrativo exp en salud proyecto",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Estación Central, R.Metropolitana",
+        "fecha": "2026-10-22 22:25:34",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3919242",
+        "titulo": "Ingeniero en Informática",
+        "empresa": "Importante empresa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Valparaíso",
+        "fecha": "2026-10-22 22:26:18",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Valparaíso)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-sistemas-e-informatica-3919010",
+        "titulo": "Jefe Sistemas e Informática",
+        "empresa": "Empresa confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 22:26:18",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Jefe'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/asistente-comercial-3919045",
+        "titulo": "Asistente Comercial",
+        "empresa": "Drive patagonia",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 22:26:18",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-conectividad-y-redes-3919134",
+        "titulo": "Ingeniero/a en Conectividad y Redes",
+        "empresa": "Inprint spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 22:26:18",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
