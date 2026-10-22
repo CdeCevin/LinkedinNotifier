@@ -13186,5 +13186,175 @@
         "fecha": "2026-10-22 06:14:21",
         "calza": false,
         "motivo": "La modalidad híbrida de 3 días presenciales en Santiago incumple la regla de ubicación, ya que el candidato reside en Lontué."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/dev-back-end-java-at-vr-group-chile-4480044098",
+        "titulo": "DEV Back-End (Java)",
+        "empresa": "VR Group Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-22 12:59:51",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas, pero es cercano a la oferta por la falta de experiencia con Spring y Spring Boot (indispensable) y la experiencia levemente menor a la solicitada."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/kernel-developer-kernelcare-els-team-remote-work-latam-at-tuxcare-4482436422",
+        "titulo": "Kernel Developer - KernelCare ELS Team (remote work, LATAM)",
+        "empresa": "TuxCare",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 13:01:11",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/application-security-automation-analyst-at-iqvia-4481199195",
+        "titulo": "Application Security Automation Analyst",
+        "empresa": "IQVIA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 13:01:11",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-especialista-en-automatizaci%C3%B3n-y-control-at-cyd-ingenier%C3%ADa-4481156411",
+        "titulo": "Ingeniero Especialista en Automatización y Control",
+        "empresa": "CyD Ingeniería",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-10-22 13:01:24",
+        "calza": false,
+        "motivo": "El candidato es Ingeniero Civil Informático con experiencia en desarrollo y arquitectura de software, mientras que la oferta es para ingeniería especializada en automatización y control industrial (DCS, PLC, SCADA), un tipo de cargo diferente al de desarrollo de software."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-ti--cableado-estructurado-y-fibra-optica-antofagasta-en-antofagasta-7FA3982F33F9399361373E686DCF3405",
+        "titulo": "Técnico ti   cableado estructurado y fibra óptica",
+        "empresa": "NORTHTEK",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-22 13:01:27",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-comercial-senior-autopartes-comercio-electronico-en-vina-del-mar-3E4CCB5C4F800E9561373E686DCF3405",
+        "titulo": "Jefe Comercial Senior Autopartes Comercio Electrónico",
+        "empresa": "Pick Up Consultores SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Viña del Mar, Valparaíso",
+        "fecha": "2026-10-22 13:01:27",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-proyectos-e-innovacion-electronica-y-pcb-lo-boza-pudahuel-en-santiago-pudahuel-4C12CC93CC738FE961373E686DCF3405",
+        "titulo": "Ingeniero de proyectos e innovación electronica y PCB",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-10-22 13:01:27",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-semi-senior-en-santiago-lo-espejo-2FBE9DB1E2DC968561373E686DCF3405",
+        "titulo": "Analista de Datos Semi Senior",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Lo Espejo, R.Metropolitana",
+        "fecha": "2026-10-22 13:01:27",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-a-full-stack-aws-3918583",
+        "titulo": "Desarrollador/a Full Stack  AWS",
+        "empresa": "Ryc consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:01:35",
+        "calza": false,
+        "motivo": "La modalidad híbrida con 3 días presenciales en Santiago incumple las reglas de ubicación y desplazamiento del candidato."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-en-contabilidad-gubernamental-3428953",
+        "titulo": "Programador en contabilidad gubernamental",
+        "empresa": "Consultora de servicios bi",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:02:32",
+        "calza": true,
+        "motivo": "El cargo es híbrido en Santiago sin días presenciales definidos, y la experiencia del candidato está en el límite inferior del mínimo requerido, además de no tener experiencia explícita en contabilidad gubernamental."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-en-software-cas-chile-3867732",
+        "titulo": "Programador en Software CAS-CHILE",
+        "empresa": "Consultora de servicios chile..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:02:49",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas (ubicación, inglés, nivel y tipo de cargo), pero no tiene experiencia directa con el software específico CAS-CHILE, aunque sus habilidades de desarrollo y aprendizaje rápido lo hacen un candidato cercano."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-fullstack-hibrido-las-condes-3905687",
+        "titulo": "Ingeniero informático FullStack - Hibrido -",
+        "empresa": "Perceptual consultores ltda.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:03:07",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas y tiene un buen perfil técnico con experiencia en tecnologías clave, pero la oferta es híbrida en Santiago sin especificar los días presenciales y pide 3+ años de experiencia, mientras que el candidato tiene un equivalente de 1-1.5 años."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/software-engineer-full-stack-node-react-3903147",
+        "titulo": "Software Engineer Full Stack (Node/React)",
+        "empresa": "Bc tecnologia",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:03:23",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas. Es un buen match en tecnologías clave como Node.js, React e integración de IA, y su experiencia en proyectos en producción es valiosa, pero la modalidad híbrida en Santiago no especifica los días presenciales, por lo que necesita confirmación. Además, no tiene experiencia directa con NestJS ni los servicios específicos de AWS (Lambda, SQS) mencionados, aunque si experiencia con arquitectura de sistemas resilientes y cloud."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/encargado-soporte-ti-ciberseguridad-para-colina-3918513",
+        "titulo": "Encargado Soporte TI ciberseguridad para Colina",
+        "empresa": "Empresa avícola",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:03:28",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/administrador-a-de-servidores-de-aplicaciones-freelance-3915435",
+        "titulo": "Administrador/a de Servidores de Aplicaciones -",
+        "empresa": "Act s.a.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:03:36",
+        "calza": false,
+        "motivo": "La oferta es para un Administrador/a de Servidores de Aplicaciones, un cargo que no es de desarrollo o ingeniería de software, incumpliendo la regla crítica del tipo de cargo."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-operaciones-ti-3916927",
+        "titulo": "Ingeniero/a de Operaciones TI",
+        "empresa": "Dalca s.a.",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 13:03:52",
+        "calza": true,
+        "motivo": "Cumple las reglas críticas. El perfil es cercano al cargo de Operaciones/SRE con experiencia en arquitectura de sistemas resilientes y automatización, y su experiencia de 1-1.5 años encaja con lo solicitado. Sin embargo, la modalidad híbrida en Santiago no especifica los días presenciales, por lo que se marca como cercano para que el candidato confirme si es compatible con su viaje."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tecnico-informatico-3915314",
+        "titulo": "TECNICO INFORMATICO",
+        "empresa": "Juan y medio rosario",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Rancagua",
+        "fecha": "2026-10-22 13:04:08",
+        "calza": false,
+        "motivo": "El cargo es de técnico informático y soporte, lo cual no calza con el perfil del candidato como Ingeniero de Software y Desarrollador."
     }
 ]
