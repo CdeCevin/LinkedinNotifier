@@ -12886,5 +12886,245 @@
         "fecha": "2026-10-21 19:30:47",
         "calza": false,
         "motivo": "El tipo de cargo es de infraestructura y coordinación TI, lo cual no calza con el perfil de desarrollo e ingeniería de software del candidato según la regla crítica de 'Tipo de Cargo'."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-at-accenture-chile-4481164581",
+        "titulo": "Full Stack Engineer",
+        "empresa": "Accenture Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 00:02:27",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-ia-san-andr%C3%A9s-at-arauco-4482158873",
+        "titulo": "Ingeniero/a de Desarrollo IA - San Andrés",
+        "empresa": "ARAUCO",
+        "fuente": "LinkedIn",
+        "ubicacion": "Concepcion, Biobío Region, Chile",
+        "fecha": "2026-10-22 00:02:28",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Concepcion, Biobío Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-improving-south-america-4481155598",
+        "titulo": "Machine Learning Engineer",
+        "empresa": "Improving South America",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-22 00:02:28",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-buscamos-ai-implementation-engineer-para-startup-tecnol%C3%B3gica-at-rima-spa-4478616309",
+        "titulo": "🚀 Buscamos AI / Implementation Engineer para startup tecnológica",
+        "empresa": "RIMA SpA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-22 00:02:43",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas y posee experiencia muy relevante en integración de IA y desarrollo backend para sistemas en producción, aunque la modalidad flexible en Santiago requiere confirmar los días presenciales para asegurar el calce de ubicación."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-ml-engineer-at-softserve-4461365452",
+        "titulo": "Lead ML Engineer",
+        "empresa": "SoftServe",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-22 00:02:47",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/supplier-enablement-subject-matter-expert-hyqoo-remote",
+        "titulo": "Supplier Enablement Subject Matter Expert",
+        "empresa": "Hyqoo",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-10-22 00:04:25",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-desarrollador-fullstack-en-santiago-providencia-311E2868C5DC328561373E686DCF3405",
+        "titulo": "Ingeniero Desarrollador FullStack",
+        "empresa": "Vector Servicios y Asesorias SpA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-22 00:04:25",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Providencia, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-ventas-valvulas-industriales-desarrollador-de-negocios-en-antofagasta-5923A9DA758E05B261373E686DCF3405",
+        "titulo": "Ejecutivo de Ventas Válvulas Industriales",
+        "empresa": "Team-Work",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-22 00:04:25",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electronico-senior-maipu-en-santiago-maipu-058D143DEE514F9E61373E686DCF3405",
+        "titulo": "Técnico Electrónico Senior",
+        "empresa": "EDELPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Maipú, R.Metropolitana",
+        "fecha": "2026-10-22 00:04:25",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-picker-proyecto-web-picker-full-time-easy-los-angeles-en-los-angeles-260B101FD9F3FBD461373E686DCF3405",
+        "titulo": "Picker Proyecto Web / Picker / Full Time",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Los Ángeles, Bíobío",
+        "fecha": "2026-10-22 00:04:26",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Los Ángeles, Bíobío)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-mantencion-industrial-en-santiago-macul-7C53F9CCF2E445F461373E686DCF3405",
+        "titulo": "Ingeniero/a de Mantención Industrial",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Macul, R.Metropolitana",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-a-de-mantenimiento-planta-de-productos-de-construccion-quilicura-quilicura-en-santiago-providencia-12E27D71893CE30C61373E686DCF3405",
+        "titulo": "Jefe (a) de mantenimiento planta de productos de construcción quilicura",
+        "empresa": "Consultora BHT",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-ingenieria-de-ejecucion-industrialingenieria-informatica-lampa-en-lampa-66D809DD3A207AD461373E686DCF3405",
+        "titulo": "Practicante Ingeniería de Ejecución Industrial/Ingeniería Informática",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Practicante'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-financieras-part-time-tda-mall-concepcion-banco-ripley-en-concepcion-732FAE92CEC2E5EF61373E686DCF3405",
+        "titulo": "Analista de Operaciones Financieras  Part Time Tda Mall Concepción Banco Ripley",
+        "empresa": "RIPLEY",
+        "fuente": "Computrabajo",
+        "ubicacion": "Concepción, Bíobío",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargadoa-mantenimiento-e-infraestructura-antofagasta-la-portada-en-antofagasta-4DBEB6FF28A7666761373E686DCF3405",
+        "titulo": "Encargado(a) Mantenimiento e Infraestructura",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-de-soporte-y-redes-hibrido-en-santiago-las-condes-D0BE88F9ABBF8A8861373E686DCF3405",
+        "titulo": "Practicante de Soporte y Redes",
+        "empresa": "Randstad",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electrico-en-mantenimiento-licencia-sec-clase-b-en-santiago-renca-BCB6EC019520F21F61373E686DCF3405",
+        "titulo": "Técnico eléctrico en mantenimiento",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Renca, R.Metropolitana",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jr-full-stack-engineer-3833361",
+        "titulo": "Jr. Full Stack Engineer",
+        "empresa": "Swfit talent",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 00:05:06",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/business-developer-saas-marketing-3918374",
+        "titulo": "Business Developer - SaaS Marketing",
+        "empresa": "Trc recruitme",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 00:05:07",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-y-control-de-produccion-3918474",
+        "titulo": "Programador y Control de Producción",
+        "empresa": "Ingeniería esigsa ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 00:06:46",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingenieros-de-software-consultores-odoo-stack-ia-claude-lovable-curso-3830932",
+        "titulo": "Ingenieros de Software & Consultores —",
+        "empresa": "Industrial y comercial opera..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 00:07:54",
+        "calza": false,
+        "motivo": "El candidato no cumple con el nivel de inglés requerido, ya que la oferta pide 'Inglés técnico fluido (lectura/escritura mínimo)' y el candidato solo lee documentación técnica, no escribe profesionalmente."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/administrador-informatico-cabrero-3918352",
+        "titulo": "Administrador Informático - CABRERO",
+        "empresa": "Aif ruta 5 tramo..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Concepción",
+        "fecha": "2026-10-22 00:09:28",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Concepción)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-de-proyectos-rubro-bancario-reemplazo-3918370",
+        "titulo": "Jefe de Proyectos - Rubro Bancario",
+        "empresa": "S&amp;m consulting group",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 00:09:28",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tech-lead-net-azure-modernizacion-cloud-3918392",
+        "titulo": "Tech Lead .NET & Azure -",
+        "empresa": "Muck consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 00:11:11",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
     }
 ]
