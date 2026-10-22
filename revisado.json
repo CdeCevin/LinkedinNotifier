@@ -13126,5 +13126,65 @@
         "fecha": "2026-10-22 00:11:11",
         "calza": false,
         "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-node-js-con-typescript-idealmente-utilizando-nestjs-at-metrica-chile-4479475590",
+        "titulo": "Fullstack Node.js con TypeScript, idealmente utilizando NestJS.",
+        "empresa": "METRICA Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 06:08:54",
+        "calza": true,
+        "motivo": "Cumple las reglas críticas, pero es cercano por la experiencia requerida (3 años vs 1-1.5 años reales) y la modalidad híbrida en Santiago sin días presenciales especificados."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-mobile-at-sky-airline-4482198670",
+        "titulo": "Desarrollador Mobile",
+        "empresa": "SKY Airline",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-22 06:08:59",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Area)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-application-security-developer-at-iqvia-4481188735",
+        "titulo": "Senior Application Security Developer",
+        "empresa": "IQVIA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-22 06:08:59",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-ia-at-sky-airline-4482199591",
+        "titulo": "Desarrollador IA",
+        "empresa": "SKY Airline",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-22 06:09:00",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Area)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-de-servicios-alto-hospicio-en-alto-hospicio-FDDC3C0047B75F5D61373E686DCF3405",
+        "titulo": "Coordinador/a de Servicios",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Alto Hospicio, Tarapacá",
+        "fecha": "2026-10-22 06:10:33",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/192026-ingeniero-de-desarrollo-aws-3911980",
+        "titulo": "(192026) Ingeniero de desarrollo (AWS)",
+        "empresa": "Ryc consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-22 06:14:21",
+        "calza": false,
+        "motivo": "La modalidad híbrida de 3 días presenciales en Santiago incumple la regla de ubicación, ya que el candidato reside en Lontué."
     }
 ]
