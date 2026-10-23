@@ -167,7 +167,7 @@ def cargar_revisados():
     return urls, claves
 
 
-def guardar_revisado(empleo, calza, motivo):
+def guardar_revisado(empleo, calza, motivo, nivel=None, avisos=None):
     """Guarda una oferta en el archivo revisado.json para no volver a evaluarla"""
     revisados = leer_revisados()
     if empleo["url"] in {r["url"] for r in revisados}:
@@ -180,7 +180,9 @@ def guardar_revisado(empleo, calza, motivo):
         "ubicacion": empleo.get("ubicacion", ""),
         "fecha": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "calza": calza,
+        "nivel": nivel or ("match" if calza else "descartado"),
         "motivo": motivo,
+        **({"avisos": avisos} if avisos else {}),
     })
     try:
         with open(REVISADO_PATH, "w", encoding="utf-8") as f:
@@ -193,27 +195,10 @@ def guardar_revisado(empleo, calza, motivo):
 # CONSULTAR A LA API DE GEMINI
 # =====================================================================
 def evaluar_con_gemini(empleo, descripcion_empleo):
+    """Gemini solo EXTRAE datos de la oferta. La decisión la toma decidir() con reglas fijas."""
     prompt = f"""
-    Actua como un reclutador tecnico experto en TI. Evalua si el candidato del siguiente CV calza con la oferta de empleo.
-
-    REGLAS CRITICAS (DE CUMPLIMIENTO OBLIGATORIO). Si la oferta incumple CUALQUIERA, "cumple_reglas" debe ser false:
-    1. UBICACION Y MODALIDAD: El candidato vive en Lontue (Region del Maule) y puede viajar hasta ~1,5 horas.
-       - 100% Remota (desde Chile o global): CUMPLE. Si el titulo o la ubicacion de LinkedIn dicen "Remote"/"Remoto", considerala remota salvo que la descripcion diga lo contrario.
-       - Presencial o hibrida en la ZONA CERCANA, con cualquier cantidad de dias: CUMPLE. Zona cercana: Talca, Curico, Molina, Lontue, Sagrada Familia, Teno, Romeral, Rauco, San Rafael, Pelarco, San Clemente, Maule, Linares, San Javier, Chimbarongo, San Fernando, Nancagua, Santa Cruz, Rengo, Requinoa, Rancagua, Machali, Graneros.
-       - Santiago / Region Metropolitana: CUMPLE solo si es 100% remota, o hibrida con MAXIMO 2 dias presenciales a la semana. Si es presencial, o hibrida con 3 o mas dias presenciales, INCUMPLE. Si es hibrida pero no dice cuantos dias, CUMPLE pero marcala como "cercano" (no "calza") para que el candidato lo confirme.
-       - Presencial o hibrida en cualquier otra ciudad (Valparaiso, Vina del Mar, Concepcion, Chillan, Antofagasta, etc.): INCUMPLE.
-       - Si la oferta NO indica la modalidad ni la ciudad, NO la rechaces por eso: CUMPLE, pero marcala como "cercano" (no "calza").
-    2. INGLES: El candidato solo LEE documentacion tecnica en ingles; no habla ni escribe en ingles de forma profesional. Incumple la regla si la oferta:
-       - pide ingles fluido, avanzado, conversacional, intermedio-alto, B2 o superior, o "buen nivel de ingles";
-       - requiere usar ingles en el trabajo diario (reuniones, comunicacion escrita, chats, documentacion o colaboracion con equipos o clientes angloparlantes, por ejemplo un equipo en Estados Unidos);
-       - tiene entrevistas en ingles, o la descripcion esta escrita en ingles (en ese caso se asume que el trabajo es en ingles).
-       Solo cumple si no menciona ingles, o si lo pide solo como "deseable" o para leer documentacion.
-    3. NIVEL: El candidato es titulado. Incumple la regla si es una practica profesional, pasantia, internship o cualquier cargo exclusivo para estudiantes. Los programas trainee o para recien titulados SI son validos.
-    4. TIPO DE CARGO: Debe ser un cargo de desarrollo o ingenieria de software/informatica (desarrollador, ingeniero de software, analista programador, QA automatizado, DevOps, ingeniero de datos, integraciones, etc.). Incumple si es soporte tecnico, mesa de ayuda, tecnico en terreno, ventas, docencia u otro cargo que no sea de desarrollo.
-
-    CRITERIOS FLEXIBLES (no son motivo de rechazo):
-    - TECNOLOGIAS: El candidato aprende rapido y tiene facilidad para Frontend y Fullstack (HTML, CSS, TypeScript, Tailwind, React, Angular, etc.). Si la oferta pide lenguajes o frameworks que no estan en el CV, NO la descartes por eso.
-    - EXPERIENCIA: Sus proyectos (Caudal Rio y UAPSCI, en produccion con usuarios reales desde 2025) equivalen a 1 a 1,5 años de experiencia real. Si la oferta pide hasta 2 años, considera que calza. Si pide 3 años, puede ser "cercano". Si pide 4 o mas años, no calza.
+    Eres un reclutador tecnico experto en TI. Lee la oferta de empleo y EXTRAE datos objetivos.
+    No decidas si el candidato calza: solo responde lo que dice la oferta, comparando tecnologias con el CV cuando se pida.
 
     CV del Candidato (JSON):
     {CV_TEXTO_JSON}
@@ -229,13 +214,30 @@ def evaluar_con_gemini(empleo, descripcion_empleo):
 
     Responde ESTRICTAMENTE con un objeto JSON valido con esta estructura, sin textos extras:
     {{
-        "cumple_reglas": true o false,
-        "calza": true o false,
-        "cercano": true o false,
-        "motivo": "Explicacion breve de una frase del porque calza, es cercano, o se rechaza"
+        "anos_experiencia_requeridos": numero entero o null,
+        "modalidad": "remoto" | "hibrido" | "presencial" | "no_indicada",
+        "dias_presenciales": numero entero o null,
+        "ciudad": "texto" o null,
+        "zona": "cercana" | "santiago" | "otra" | "no_indicada",
+        "exige_ingles": true o false,
+        "es_practica": true o false,
+        "es_cargo_desarrollo": true o false,
+        "stack_principal_compatible": true o false,
+        "tecnologias_faltantes": ["..."],
+        "resumen": "una frase sobre el cargo y por que le podria interesar al candidato"
     }}
 
-    Nota sobre 'cercano': Si cumple las reglas criticas pero no es un match perfecto (falta alguna herramienta, pide algo mas de experiencia o no indica modalidad o dias presenciales), pon "cercano": true para que lo revise manualmente.
+    Como llenar cada campo:
+    - anos_experiencia_requeridos: el MINIMO de años de experiencia que se exige (si dice "3 a 5 años" es 3; si dice "Senior" sin numero, pon 5). Si no pide experiencia o no lo dice, null.
+    - modalidad: "remoto" solo si es 100% remoto (si el titulo o la ubicacion dicen "Remote"/"Remoto" y la descripcion no lo contradice). "hibrido" si combina oficina y casa.
+    - dias_presenciales: dias de oficina por semana si es hibrido y lo dice; si no lo dice, null.
+    - ciudad: ciudad o comuna de la oficina, si se menciona.
+    - zona: "cercana" si la oficina esta en Talca, Curico, Molina, Lontue, Sagrada Familia, Teno, Romeral, Rauco, San Rafael, Pelarco, San Clemente, Maule, Linares, San Javier, Chimbarongo, San Fernando, Nancagua, Santa Cruz, Rengo, Requinoa, Rancagua, Machali o Graneros. "santiago" si esta en Santiago o cualquier comuna de la Region Metropolitana (Las Condes, Providencia, Huechuraba, etc.). "otra" si es otra ciudad. "no_indicada" si no se sabe.
+    - exige_ingles: true si pide ingles fluido, avanzado, conversacional, intermedio-alto, B2 o superior, "buen nivel de ingles", entrevistas en ingles, o usar ingles en el trabajo diario (reuniones, comunicacion escrita, equipos o clientes angloparlantes). false si no lo menciona o es solo "deseable" o para leer documentacion.
+    - es_practica: true si es practica profesional, pasantia, internship o un cargo exclusivo para estudiantes. Los programas trainee o para recien titulados son false.
+    - es_cargo_desarrollo: true si es desarrollo o ingenieria de software/informatica (desarrollador, ingeniero de software, analista programador, QA, DevOps, ingeniero de datos, integraciones, etc.). false si es soporte, mesa de ayuda, tecnico en terreno, ventas, docencia u otro.
+    - stack_principal_compatible: compara el lenguaje/plataforma CENTRAL del cargo con el CV. true si el candidato lo maneja o lo esta aprendiendo (campo "en_aprendizaje_actualmente"), o si es un lenguaje/framework muy cercano a lo que maneja. false si el cargo gira en torno a una tecnologia que el candidato no maneja en absoluto (por ejemplo ABAP, Android nativo con Kotlin, iOS con Swift, Golang, Salesforce Apex, Liferay) o si exige una certificacion excluyente que no tiene. Herramientas secundarias (Docker, AWS, Kubernetes, un framework puntual) NO hacen que sea false.
+    - tecnologias_faltantes: tecnologias que la oferta pide y no estan en el CV (maximo 5).
     """
     for intento in range(3):
         try:
@@ -243,23 +245,102 @@ def evaluar_con_gemini(empleo, descripcion_empleo):
                 model='gemini-2.5-flash',
                 contents=prompt,
                 config=types.GenerateContentConfig(
-                    response_mime_type="application/json"
+                    response_mime_type="application/json",
+                    temperature=0,
                 )
             )
-            return json.loads(response.text)
+            datos = json.loads(response.text)
+            if isinstance(datos, list) and datos:
+                datos = datos[0]
+            if isinstance(datos, dict):
+                return datos
+            raise ValueError(f"Respuesta inesperada: {response.text[:200]}")
         except Exception as e:
             print(f"[!] Error en API Gemini (Intento {intento+1}/3): {e}")
             if intento < 2:
                 time.sleep(random.uniform(15, 30)) # Espera larga para evitar limites de cuota (429)
 
     # Si fallan todos los reintentos, devolvemos un flag de error
-    return {"error_api": True, "motivo": "Fallo total en la consulta de IA"}
+    return {"error_api": True}
+
+
+# =====================================================================
+# DECISIÓN DETERMINISTA (reglas fijas sobre los datos que extrajo Gemini)
+# =====================================================================
+MAX_DIAS_SANTIAGO = 2      # híbrido en Santiago: máximo de días presenciales aceptados
+EXPERIENCIA_MATCH = 2      # hasta N años pedidos -> match
+EXPERIENCIA_CERCANO = 3    # N años -> cercano; más que esto -> descartado
+
+
+def _entero(valor):
+    try:
+        return int(float(valor))
+    except (TypeError, ValueError):
+        return None
+
+
+def decidir(datos):
+    """Devuelve (nivel, motivo, avisos). nivel: "match", "cercano" o "descartado"."""
+    avisos = []
+    cercano = False
+
+    if datos.get("es_practica") is True:
+        return "descartado", "Es una practica profesional o cargo para estudiantes", avisos
+    if datos.get("exige_ingles") is True:
+        return "descartado", "Exige ingles hablado o de uso diario", avisos
+    if datos.get("es_cargo_desarrollo") is False:
+        return "descartado", "No es un cargo de desarrollo", avisos
+    if datos.get("stack_principal_compatible") is False:
+        faltan = ", ".join(datos.get("tecnologias_faltantes") or []) or "stack principal"
+        return "descartado", f"El stack principal no es compatible ({faltan})", avisos
+
+    # Experiencia
+    anos = _entero(datos.get("anos_experiencia_requeridos"))
+    if anos is not None and anos > EXPERIENCIA_CERCANO:
+        return "descartado", f"Pide {anos}+ años de experiencia", avisos
+    if anos is not None and anos > EXPERIENCIA_MATCH:
+        cercano = True
+        avisos.append(f"Piden {anos} años de experiencia")
+
+    # Ubicación y modalidad
+    modalidad = datos.get("modalidad") or "no_indicada"
+    zona = datos.get("zona") or "no_indicada"
+    dias = _entero(datos.get("dias_presenciales"))
+    ciudad = datos.get("ciudad") or "ciudad no indicada"
+
+    if modalidad == "remoto" or zona == "cercana":
+        pass
+    elif zona == "santiago":
+        if modalidad == "presencial":
+            return "descartado", f"Presencial en Santiago ({ciudad})", avisos
+        if modalidad == "hibrido":
+            if dias is not None and dias > MAX_DIAS_SANTIAGO:
+                return "descartado", f"Hibrido con {dias} dias presenciales en Santiago", avisos
+            if dias is None:
+                avisos.append(f"Hibrido en Santiago ({ciudad}): confirmar dias presenciales (maximo {MAX_DIAS_SANTIAGO})")
+        else:
+            cercano = True
+            avisos.append(f"Oficina en Santiago ({ciudad}) y no indica modalidad: confirmar si es remoto o hibrido")
+    elif zona == "otra":
+        return "descartado", f"{modalidad.capitalize()} fuera de la zona ({ciudad})", avisos
+    else:  # zona no indicada
+        if modalidad == "hibrido":
+            avisos.append("Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales")
+        else:
+            cercano = True
+            avisos.append("No indica ciudad ni modalidad: confirmar")
+
+    faltan = datos.get("tecnologias_faltantes") or []
+    if faltan:
+        avisos.append("Tecnologias que no estan en tu CV: " + ", ".join(faltan[:5]))
+
+    return ("cercano" if cercano else "match"), datos.get("resumen") or "Sin resumen", avisos
 
 
 # =====================================================================
 # ENVIARTE LA ALERTA A TU GMAIL
 # =====================================================================
-def enviar_alerta_correo(empleo, motivo, es_cercano=False):
+def enviar_alerta_correo(empleo, motivo, es_cercano=False, avisos=None):
     remitente = os.environ.get("EMAIL_REMITENTE")
     destinatario = os.environ.get("EMAIL_DESTINATARIO")
     password_aplicacion = os.environ.get("EMAIL_PASSWORD")
@@ -275,6 +356,7 @@ def enviar_alerta_correo(empleo, motivo, es_cercano=False):
     tipo_match = "MATCH CERCANO" if es_cercano else "MATCH"
     msg["Subject"] = limpiar_texto(f"{tipo_match} ({empleo.get('fuente', 'LinkedIn')}): {empleo['titulo']} en {empleo['empresa']}")
 
+    texto_avisos = "\n".join(f"    ! {a}" for a in (avisos or [])) or "    (ninguno)"
     cuerpo = f"""
     Hola Kevin,
 
@@ -284,8 +366,11 @@ def enviar_alerta_correo(empleo, motivo, es_cercano=False):
     - Empresa: {empleo['empresa']}
     - Ubicacion: {empleo.get('ubicacion') or 'No indicada'}
     - Plataforma: {empleo.get('fuente', 'LinkedIn')}
-    - Motivo de la IA: {motivo}
+    - Resumen: {motivo}
     - Link directo: {empleo['url']}
+
+    Para revisar antes de postular:
+{texto_avisos}
 
     Mucho exito en la postulacion!
     """
@@ -377,22 +462,18 @@ if __name__ == "__main__":
             urls_revisadas.discard(empleo["url"])
             continue # No se guarda en revisado.json, por lo que se reintentara en la proxima ejecucion
 
-        # Las reglas criticas mandan: si no se cumplen, no hay match aunque Gemini marque "cercano"
-        cumple_reglas = veredicto.get("cumple_reglas") is True
-        calza = cumple_reglas and veredicto.get("calza") is True
-        cercano = cumple_reglas and veredicto.get("cercano") is True
-        motivo = veredicto.get("motivo", "Sin motivo")
+        nivel, motivo, avisos = decidir(veredicto)
+        es_match = nivel in ("match", "cercano")
+        guardar_revisado(empleo, es_match, motivo, nivel, avisos)
 
-        # Guardar en revisados
-        guardar_revisado(empleo, calza or cercano, motivo)
-
-        if calza or cercano:
+        if es_match:
             matches += 1
-            nivel = "MATCH ENCONTRADO" if calza else "MATCH CERCANO"
-            print(f"[+] {nivel}!: {limpiar_texto(motivo)}")
-            enviar_alerta_correo(empleo, motivo, es_cercano=cercano and not calza)
+            print(f"[+] {nivel.upper()}!: {limpiar_texto(motivo)}")
+            for aviso in avisos:
+                print(f"    ! {limpiar_texto(aviso)}")
+            enviar_alerta_correo(empleo, motivo, es_cercano=(nivel == "cercano"), avisos=avisos)
         else:
-            print(f"[-] Pasando: {limpiar_texto(motivo)}")
+            print(f"[-] Descartado (Gemini): {limpiar_texto(motivo)}")
 
         # Pausa aleatoria antes de la siguiente oferta para evitar bloqueos
         time.sleep(random.uniform(1.5, 3.5))

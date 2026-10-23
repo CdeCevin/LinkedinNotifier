@@ -43,8 +43,9 @@
   "habilidades_tecnicas": {
     "desarrollo_full_stack": [
       "Python", "JavaScript", "TypeScript", "Node.js", "Express", "React", "React Native",
-      "Electron", "Tailwind CSS", "Flask", "C", "C++", "Java"
+      "Electron", "Tailwind CSS", "Flask", "C", "C++", "Java", "Spring Boot"
     ],
+    "en_aprendizaje_actualmente": ["C#", ".NET"],
     "bases_de_datos": [
       "SQL Server", "MySQL", "MariaDB", "SQLite", "Oracle SQL", "MongoDB", "Neo4j", "SurrealDB"
     ],

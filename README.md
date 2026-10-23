@@ -6,7 +6,7 @@ Busca ofertas de desarrollo en **LinkedIn, Get on Board, Computrabajo y Chiletra
 - **Multiplataforma** (`fuentes.py`): LinkedIn (API guest), Get on Board (API pública), Computrabajo y Chiletrabajos. Términos amplios: desarrollador, developer, programador, ingeniero de software, ingeniero informático, informático.
 - **Filtros estáticos** (antes de gastar cuota de IA): cargo de desarrollo, seniority (senior, ssr, lead, jefe…), prácticas profesionales, inglés exigido u oferta escrita en inglés, y ubicación presencial fuera de la zona.
 - **Ubicación**: remoto; presencial/híbrido en la zona cercana a Lontué (Talca, Curicó, Molina, San Fernando, Rancagua, etc.); Santiago solo remoto o híbrido con máximo 2 días presenciales.
-- **Evaluación con Gemini** (`gemini-2.5-flash`) con reglas críticas obligatorias (`cumple_reglas`) y match "cercano" para revisar a mano. Máximo `MAX_EVALUACIONES_GEMINI` evaluaciones por ejecución; el resto queda en cola.
+- **Gemini extrae, el código decide**: `gemini-2.5-flash` (temperatura 0) solo extrae datos de la oferta (años de experiencia, modalidad, días presenciales, zona, inglés, práctica, stack compatible). `decidir()` aplica reglas fijas: 4+ años o stack incompatible = descartado, 3 años = cercano, híbrido en Santiago sin días = match con aviso. Los avisos llegan en el correo. Máximo `MAX_EVALUACIONES_GEMINI` evaluaciones por ejecución; el resto queda en cola.
 - **Sin duplicados**: `revisado.json` guarda lo ya evaluado, por URL y por empresa+título (la misma oferta en varias plataformas se evalúa una sola vez).
 
 ---
