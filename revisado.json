@@ -14036,5 +14036,75 @@
         "fecha": "2026-10-22 22:26:18",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-java-at-tinet-s-a-4481642162",
+        "titulo": "Desarrollador Backend Java",
+        "empresa": "TINET S.A.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 01:31:37",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-revenue-self-service-at-nubox-spa-4481634677",
+        "titulo": "AI Engineer - Revenue (Self Service).",
+        "empresa": "Nubox SpA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 01:31:38",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-engineer-santiago-at-houm-4482154249",
+        "titulo": "Product Engineer - Santiago",
+        "empresa": "Houm",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 01:31:51",
+        "calza": true,
+        "motivo": "El candidato cumple con todos los requisitos críticos, su experiencia (1-1.5 años) y stack tecnológico (Python, TypeScript, React, SQL, integración de IA) calzan bien con los 1-3 años solicitados y las tecnologías mencionadas, y la modalidad híbrida de 2 días en Santiago es compatible con su ubicación."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/qa-tester-grupo-mariposa-remote-8728",
+        "titulo": "QA Manual Tester",
+        "empresa": "Grupo Mariposa",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-10-23 01:33:00",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas y tiene el nivel de experiencia requerido, pero su perfil está más orientado al desarrollo y testing automatizado que al testing manual, el foco principal de la oferta."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-devops-semi-senior-en-santiago-las-condes-9E393356D5FA378A61373E686DCF3405",
+        "titulo": "Ingeniero/a DevOps Semi Senior",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-23 01:33:39",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gerente-de-operaciones-prosegur-alarmas-en-santiago-renca-A4006F85FECCF50461373E686DCF3405",
+        "titulo": "Gerente de Operaciones",
+        "empresa": "Prosegur",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Renca, R.Metropolitana",
+        "fecha": "2026-10-23 01:33:39",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-atencion-al-cliente-en-santiago-centro-F8EDC7F53F70CFA661373E686DCF3405",
+        "titulo": "Supervisor Atención al cliente",
+        "empresa": "Eurofirms Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 01:33:39",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
