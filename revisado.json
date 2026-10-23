@@ -14396,5 +14396,392 @@
         "fecha": "2026-10-23 14:17:17",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-grupo-falabella-4471112044",
+        "titulo": "Software Engineer",
+        "empresa": "Grupo Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:24",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Software Engineer en Falabella se centra en el desarrollo backend con Python/Node.js y GCP, lo que podría interesarle al candidato por su sólida experiencia en APIs REST, arquitectura de sistemas y uso de Google Cloud.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: BigQuery, Cloud Composer/Airflow, Cloud Run, App Engine, Cloud Storage"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-backend-ssr-santiago-de-chile-at-stefanini-latam-4481904482",
+        "titulo": "Developer Backend Ssr | Santiago de Chile",
+        "empresa": "Stefanini LATAM",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Ssr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-backend-developer-golang-%2B-node-at-stefanini-latam-4481919521",
+        "titulo": "Sr Backend Developer (Golang + Node)",
+        "empresa": "Stefanini LATAM",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-tata-consultancy-services-4483133218",
+        "titulo": "Full Stack Developer",
+        "empresa": "Tata Consultancy Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:30",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-i-android-at-ripley-chile-4482894516",
+        "titulo": "Software Engineer I - Android",
+        "empresa": "Ripley Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:30",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-java-developer-remote-chile-at-ey-4443642092",
+        "titulo": "Senior Java Developer (REMOTE-CHILE)",
+        "empresa": "EY",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-23 19:14:30",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/dev-full-stack-ror-react-%2B-api-restful-at-rankmi-4483120073",
+        "titulo": "Dev Full-Stack RoR/React + API RESTful",
+        "empresa": "Rankmi",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/applied-ai-engineer-remote-concepcion-at-blacksmith-agency-4483134002",
+        "titulo": "Applied AI Engineer (Remote, Concepcion)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-23 19:14:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/especialista-integraci%C3%B3n-pleno-at-banco-bci-4480550679",
+        "titulo": "Especialista Integración Pleno",
+        "empresa": "Banco Bci",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415702296",
+        "titulo": "AI/ML Engineer",
+        "empresa": "Perform",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 19:14:45",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'upper intermediate'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-go-y-node-js-itsmart-santiago",
+        "titulo": "Desarrollador Go y Node.js",
+        "empresa": "ITSMART",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-23 19:14:55",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Desarrollador Go y Node.js en ITSMART podría interesarle al candidato por su sólida experiencia en Node.js, APIs REST y arquitectura de sistemas, aunque necesitaría adquirir conocimientos en Go y herramientas de contenedores.",
+        "avisos": [
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: Go, Postgres, Redis, Docker, Kubernetes"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-net-etl-bc-tecnologia-santiago",
+        "titulo": "Desarrollador .NET ETL",
+        "empresa": "BC Tecnología",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-23 19:15:11",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador .NET ETL podría interesarle al candidato por su enfoque en integración y optimización de datos, lo cual complementa su experiencia en arquitectura de sistemas y su actual aprendizaje de C# y .NET.",
+        "avisos": [
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: SQL Server Integration Services (SSIS), Azure Data Factory"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/practica-profesional-ofimatica-y-redes-iconstruye-santiago-766d",
+        "titulo": "Práctica Profesional Ofimática y Redes",
+        "empresa": "ICONSTRUYE",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-23 19:15:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/docente-introduccion-ciberseguridad-sede-melipilla-diurno-duoc-uc-melipilla",
+        "titulo": "Docente Introducción Ciberseguridad Sede Melipilla Diurno",
+        "empresa": "Duoc UC",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-23 19:15:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-especialista-etl-en-santiago-centro-846DD14B965A2CC761373E686DCF3405",
+        "titulo": "Desarrollador .NET – Especialista ETL",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 19:15:26",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Un rol de Desarrollador .NET – Especialista ETL que busca experiencia en C#/.NET y procesos de integración de datos, lo que podría interesarle al candidato por su experiencia en arquitectura de sistemas, APIs REST y su actual aprendizaje de C#/.NET.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Experiencia en .NET / C#, Experiencia en procesos ETL, SQL Server Integration Services (SSIS), Azure Data Factory, Herramientas de CI/CD"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electronico-informatico-o-telecomunicaciones-mantenimiento-y-reparacion-de-pos-de-lunes-a-viernes-de-800-a-1700-horas-en-santiago-providencia-A8833490663C8FB761373E686DCF3405",
+        "titulo": "Técnico Electrónico, Informático o Telecomunicaciones – Mantenimiento y Reparación de POS",
+        "empresa": "ENOFIR SYSTEMS CHILE SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-23 19:15:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Providencia, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-electronicoa-en-santiago-huechuraba-8BFD5A0914CC505361373E686DCF3405",
+        "titulo": "Ingeniero/a electrónico/a",
+        "empresa": "Webclass Learning Management System Ltda.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-10-23 19:15:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-planner-huechuraba-en-santiago-huechuraba-9EE3EE47C6F1DB7E61373E686DCF3405",
+        "titulo": "Planner",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-10-23 19:15:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-arquitecto-de-datos-en-santiago-centro-EC51AEB2A72D1C2B61373E686DCF3405",
+        "titulo": "Arquitecto de Datos",
+        "empresa": "DCS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 19:15:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Arquitecto'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-proyectos-hidraulico-faena-los-pelambres-en-salamanca-F82FAF7D88D2033061373E686DCF3405",
+        "titulo": "Ingeniero  de Proyectos Hidráulico /Faena Los Pelambres",
+        "empresa": "Relix S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Salamanca, Coquimbo",
+        "fecha": "2026-10-23 19:15:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-de-electronica-hibrido-en-santiago-las-condes-D0BE88F9ABBF8A8861373E686DCF3405",
+        "titulo": "Practicante de Electrónica",
+        "empresa": "Randstad",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-23 19:15:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-datos-jr-en-santiago-centro-671D9AB7119A6A2761373E686DCF3405",
+        "titulo": "Ingeniero de Datos Jr",
+        "empresa": "DCS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 19:16:13",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero de Datos Jr. se alinea con la experiencia del candidato en desarrollo backend, APIs REST, Python, SQL e integración de IA, ofreciendo una oportunidad para aplicar y expandir sus habilidades en pipelines de datos.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Claude Code, construcción de agentes de IA y manejo de MCP, Snowflake, Azure (Data Factory, Functions, Container Registry, Blob Storage), NGINX, Fivetran"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-datos-y-analitica-en-santiago-centro-E7A702B756C6D2AD61373E686DCF3405",
+        "titulo": "Jefe de Datos y Analítica",
+        "empresa": "DCS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 19:16:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Jefe'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-electronica-o-telecomunicaciones-informatica--mantenimiento-de-pos-horario-lunes-a-viernes-de-800-a-1700-en-santiago-providencia-17CF9CBCBFD260E061373E686DCF3405",
+        "titulo": "Técnico en Electrónica o Telecomunicaciones, Informática  – Mantenimiento de POS",
+        "empresa": "ENOFIR SYSTEMS CHILE SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-23 19:16:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Providencia, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-comercial-servicio-integral-a-clientes-plazo-fijo-en-santiago-centro-CA201788233836FB61373E686DCF3405",
+        "titulo": "Asistente Comercial Servicio Integral a Clientes (Plazo Fijo)",
+        "empresa": "Banco de Crédito e Inversiones",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 19:16:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-ti-en-planta-ingles-avanzado-los-angeles-en-los-angeles-DBFF1C45F2DF559761373E686DCF3405",
+        "titulo": "Técnico de Soporte TI en Planta – Inglés Avanzado  (Los Ángeles)",
+        "empresa": "SSI OUTSOURCING",
+        "fuente": "Computrabajo",
+        "ubicacion": "Los Ángeles, Bíobío",
+        "fecha": "2026-10-23 19:16:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mall-supervisor-de-seguridad-instalado-4x4-turno-noche-huechuraba-en-santiago-huechuraba-428B54CC4C95A1BF61373E686DCF3405",
+        "titulo": "Mall Supervisor de Seguridad Instalado 4x4 Turno Noche",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-10-23 19:16:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-net-core-blazor-oracle-3919563",
+        "titulo": "Desarrollador Full Stack – .NET Core",
+        "empresa": "Prosys ingeniería",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 19:16:44",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este es un cargo de Desarrollador Full Stack híbrido en Santiago, ideal para el candidato por su experiencia en backend y arquitectura de sistemas, y su interés y aprendizaje activo en .NET, aunque deberá familiarizarse con Blazor.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Blazor"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/fullstack-engineer-3919493",
+        "titulo": "Fullstack Engineer",
+        "empresa": "Importante empresa de tecnología",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 19:16:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/urgente-ingeniero-programador-obra-experiencia-oocc-o-vialidad-urbana-antof-3886238",
+        "titulo": "URGENTE Ingeniero Programador Obra - EXPERIENCIA",
+        "empresa": "Ingenet ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Antofagasta",
+        "fecha": "2026-10-23 19:16:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/informatica-3796732",
+        "titulo": "INFORMATICA",
+        "empresa": "Tiendas allison",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 19:16:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-mesa-de-ayuda-carrera-tecnica-14-a-23-horas-3782107",
+        "titulo": "Analista Mesa de Ayuda Carrera Técnica",
+        "empresa": "Privado",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 19:16:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-conectividad-y-redes-ot-deseable-conocimiento-en-ciberseguridad-3919134",
+        "titulo": "Ingeniero/a en Conectividad y Redes OT-",
+        "empresa": "Inprint spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 19:16:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
