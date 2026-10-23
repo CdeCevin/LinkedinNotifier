@@ -14106,5 +14106,195 @@
         "fecha": "2026-10-23 01:33:39",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-net-c%23-y-sql-server-at-kpaz-4482756834",
+        "titulo": "Desarrollador Backend .NET | C# y SQL Server",
+        "empresa": "KPaz",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:32:50",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero es cercano por la experiencia requerida (3 años vs 1-1.5 del candidato), la ausencia de .NET/C# en su CV, y la modalidad híbrida en Santiago sin especificar días presenciales."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-java-spring-boot-y-aws-at-kpaz-4482775220",
+        "titulo": "Backend Developer: Java, Spring Boot y AWS",
+        "empresa": "KPaz",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:09",
+        "calza": true,
+        "motivo": "El candidato cumple las reglas críticas, pero la modalidad híbrida en Santiago sin días definidos y la falta de experiencia sólida en Java/Spring Boot y AWS específicos lo hacen un perfil cercano."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-senior-at-larrainvial-4482716233",
+        "titulo": "Desarrollador Backend Senior",
+        "empresa": "LarrainVial",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-chile-at-canals-4482811448",
+        "titulo": "Senior Software Engineer - Chile",
+        "empresa": "Canals",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-senior-node-js-at-groupe-sii-4482717213",
+        "titulo": "Desarrollador Backend Senior (Node.JS)",
+        "empresa": "Groupe SII",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-developer-con-experiencia-en-node-js-y-react-js-%E2%80%93-remoto-latam-at-coderio-4482498767",
+        "titulo": "Senior Full-Stack Developer con experiencia en Node.js y React.js – Remoto (LATAM)",
+        "empresa": "Coderio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-net-semi-senior-%E2%80%93-azure-ia-at-muck-consultores-4482748988",
+        "titulo": "Desarrollador Full Stack .NET Semi Senior – Azure & IA",
+        "empresa": "Muck Consultores",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-senior-at-achs-4482754762",
+        "titulo": "Desarrollador Senior",
+        "empresa": "Achs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-full-stack-engineer-php-laravel-vue-english-required-mexico-latam-at-dacodes-4482712592",
+        "titulo": "SR Full Stack Engineer | PHP/Laravel & Vue | English Required | Mexico & LATAM",
+        "empresa": "DaCodes.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'SR'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-ai-backend-developer-at-acid-labs-4482489875",
+        "titulo": "Senior AI Backend Developer",
+        "empresa": "Acid Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-python-at-applaudo-4482780384",
+        "titulo": "Backend Developer (Python)",
+        "empresa": "Applaudo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Strong English'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-frontend-blazor-contrato-indefinido-at-tata-consultancy-services-4482738451",
+        "titulo": "Desarrollador Frontend Blazor (contrato indefinido)",
+        "empresa": "Tata Consultancy Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-23 08:33:13",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Area)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-rpa-at-acid-labs-4482702369",
+        "titulo": "Desarrollador RPA",
+        "empresa": "Acid Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:14",
+        "calza": false,
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultor-abap-at-lion-consulting-spa-4480080885",
+        "titulo": "Consultor ABAP",
+        "empresa": "Lion Consulting SpA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 08:33:30",
+        "calza": true,
+        "motivo": "Aunque cumple las reglas críticas, el candidato no tiene experiencia en ABAP, tecnología central del cargo, y la modalidad híbrida en Santiago es un ajuste cercano para su residencia en Lontué sin especificar días presenciales."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/marketing-coordinator-law-firm-remote",
+        "titulo": "Marketing Coordinator",
+        "empresa": "Law Firm",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-10-23 08:33:34",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-software-full-stack-net-react-en-santiago-centro-FA3B08F863910F7761373E686DCF3405",
+        "titulo": "Desarrollador de Software Full Stack .NET + React",
+        "empresa": "Grupo Tawa",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 08:33:43",
+        "calza": false,
+        "motivo": "La oferta es presencial en Santiago, lo cual incumple la regla de ubicación y modalidad para el candidato que reside en Lontué."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-desarrollador-las-condes-3890951",
+        "titulo": "Analista Desarrollador - Las Condes",
+        "empresa": "Importante institución de educación..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 08:33:54",
+        "calza": true,
+        "motivo": "Cumple las reglas críticas, pero la modalidad híbrida en Santiago no especifica los días presenciales, el candidato tiene 1-1.5 años de experiencia y la oferta pide al menos 2, y el CV no lista C# ni MS Visual Studio."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-ti-nivel-1-rm-3919288",
+        "titulo": "Analista TI, Nivel 1 (RM)",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 08:34:06",
+        "calza": false,
+        "motivo": "El tipo de cargo de la oferta es de soporte técnico, lo cual incumple la regla crítica de que debe ser un cargo de desarrollo o ingeniería de software."
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-de-segmentacion-y-fidelizacion-3919284",
+        "titulo": "Analista de Segmentación y Fidelización",
+        "empresa": "Ns holding",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 08:34:07",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
