@@ -14296,5 +14296,105 @@
         "fecha": "2026-10-23 08:34:07",
         "calza": false,
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-backend-senior-at-drimo-4480660544",
+        "titulo": "Software Engineer Backend Senior",
+        "empresa": "Drimo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 14:16:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-back-end-senior-at-gamma-recruitment-4482895095",
+        "titulo": "Desarrollador de back-end Senior",
+        "empresa": "Gamma Recruitment",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 14:16:12",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-java-developer-remote-work-ref%23304763-at-bairesdev-4474352308",
+        "titulo": "Full Stack Java Developer - Remote Work | REF#304763",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-23 14:16:20",
+        "calza": false,
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-liferay-bc-tecnologia-santiago",
+        "titulo": "Desarrollador Full-Stack Liferay LATAM",
+        "empresa": "BC Tecnología",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto - Remote",
+        "fecha": "2026-10-23 14:17:03",
+        "calza": true,
+        "motivo": "El candidato cumple todas las reglas críticas y tiene experiencia con React, SQL Server, APIs REST y Git, pero carece de la certificación oficial Liferay (excluyente) y de experiencia con .NET/C# y Microsoft Azure."
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/docente-diseno-de-arquitecturas-sede-melipilla-j-diurna-duoc-uc-melipilla",
+        "titulo": "Docente Diseño de Arquitecturas Sede Melipilla Jornadadiurna",
+        "empresa": "Duoc UC",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-23 14:17:07",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-tecnico-ti-huechuraba-en-santiago-huechuraba-A75676979CA8D53861373E686DCF3405",
+        "titulo": "Asistente técnico TI",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-10-23 14:17:14",
+        "calza": false,
+        "motivo": "La oferta es para un cargo de soporte técnico presencial en Santiago, lo cual incumple tanto la ubicación del candidato como el tipo de cargo de desarrollo de software."
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-taller-de-mantenimiento-camiones-en-santiago-maipu-FE614629ABD521F861373E686DCF3405",
+        "titulo": "Jefe de taller de Mantenimiento (Camiones)",
+        "empresa": "Transportes Moneda Ltda.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Maipú, R.Metropolitana",
+        "fecha": "2026-10-23 14:17:17",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-senior-civil-estructural-santiago-5x2-en-santiago-las-condes-441E8D38AEDF8E9961373E686DCF3405",
+        "titulo": "Ingeniero/a Senior Civil Estructural",
+        "empresa": "J.E.J INGENIERIA S.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-23 14:17:17",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnico-de-aplicaciones-las-condes-en-santiago-las-condes-78D1F631C0F7919E61373E686DCF3405",
+        "titulo": "Líder Técnico de Aplicaciones / Las Condes",
+        "empresa": "Almar Water Servicios Latam",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-23 14:17:17",
+        "calza": false,
+        "motivo": "Descartado por palabra clave estatica: 'Líder'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-redes-y-telecomunicaciones-tecnicos-y-supervisores-con-o-sin-experiencia-en-concepcion-308B74A288733E6261373E686DCF3405",
+        "titulo": "redes y telecomunicaciones",
+        "empresa": "Materia Gris",
+        "fuente": "Computrabajo",
+        "ubicacion": "Concepción, Bíobío",
+        "fecha": "2026-10-23 14:17:17",
+        "calza": false,
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
