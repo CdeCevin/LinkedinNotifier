@@ -14783,5 +14783,159 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4387995642",
+        "titulo": "Agentic Elixir Engineer - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-23 22:10:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Advanced English'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/docente-cloud-native-ii-sede-alameda-jornada-diurna-duoc-uc-santiago",
+        "titulo": "Docente Cloud Native II Sede Alameda Jornada Diurna",
+        "empresa": "Duoc UC",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-23 22:10:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Docente'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/docente-arquitecturas-ti-contemporaneas-sede-alameda-duoc-uc-santiago",
+        "titulo": "Docente Arquitecturas TI Contemporáneas Sede Alameda",
+        "empresa": "Duoc UC",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-23 22:10:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Docente'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-redes-n1-n2-en-santiago-centro-7556CF49FA9F33E161373E686DCF3405",
+        "titulo": "Especialista Redes N1 N2",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 22:10:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programadora-despachador-de-pedidos-servicios-transitorios-san-bernardo-en-san-bernardo-16EBCC23AED8ADDC61373E686DCF3405",
+        "titulo": "Programador(a) Despachador de Pedidos (Servicios Transitorios)",
+        "empresa": "workmate",
+        "fuente": "Computrabajo",
+        "ubicacion": "San Bernardo, R.Metropolitana",
+        "fecha": "2026-10-23 22:10:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (San Bernardo, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-ventas-colchagua-en-san-fernando-E98EC54A9BD31E9761373E686DCF3405",
+        "titulo": "Ejecutivo de Ventas Colchagua",
+        "empresa": "Randstad",
+        "fuente": "Computrabajo",
+        "ubicacion": "San Fernando, Libertador B. O Higgins",
+        "fecha": "2026-10-23 22:10:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-ventas-coquimbo-en-coquimbo-74E80B8CFA2E709B61373E686DCF3405",
+        "titulo": "Ejecutivo de Ventas Coquimbo",
+        "empresa": "Randstad",
+        "fuente": "Computrabajo",
+        "ubicacion": "Coquimbo, Coquimbo",
+        "fecha": "2026-10-23 22:10:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-datos-servicios-transitorios-santiago-centro-en-santiago-centro-B5117D2D249E437D61373E686DCF3405",
+        "titulo": "Ingeniero(a) de Datos (Servicios Transitorios)",
+        "empresa": "workmate",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 22:10:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-scientist-jr-en-santiago-centro-64C7AFFB905DC05661373E686DCF3405",
+        "titulo": "Data Scientist Jr",
+        "empresa": "DCS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 22:10:37",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Data Scientist Jr en DCS Chile se enfoca en modelamiento analítico, ETL y soluciones de IA, lo cual podría interesarle al candidato por su experiencia en integración de Inteligencia Artificial y manejo de Python y SQL.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Claude Code, construcción de agentes de IA y manejo de MCP, Docker, Azure, Snowflake"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-scientist-semi-senior-en-santiago-centro-66E418DCC17409D361373E686DCF3405",
+        "titulo": "Data Scientist Semi senior",
+        "empresa": "DCS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 22:10:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-en-santiago-centro-EAFAFBCEC5BE50FD61373E686DCF3405",
+        "titulo": "Analista de datos",
+        "empresa": "DCS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 22:11:29",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Un cargo de Analista de Datos con foco en automatización y reportería, que podría interesarle al candidato por su sólida experiencia en Python, SQL, Power BI y la integración de IA, aunque deberá familiarizarse con herramientas específicas como Claude Code.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Claude Code, SAP S/4HANA, SQL Server Analysis Services, Snowflake, Docker"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-sales-specialist-infraestructura-y-storage-en-santiago-centro-C7FB80027712F31761373E686DCF3405",
+        "titulo": "Sales Specialist Infraestructura y Storage",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-23 22:11:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-ia-vacante-ley-de-inclusion-laboral-3919827",
+        "titulo": "Desarrollador IA - (Vacante Ley de",
+        "empresa": "Kabeli selección",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-23 22:12:01",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Desarrollador IA 100% remoto se enfoca en agentes y LLMs, lo cual es compatible con la experiencia del candidato en integración de IA (Google Gemini) y Python, ofreciéndole la oportunidad de aplicar sus habilidades en proyectos innovadores.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: n8n, LangChain, OpenAI"
+        ]
     }
 ]
