@@ -14937,5 +14937,104 @@
         "avisos": [
             "Tecnologias que no estan en tu CV: n8n, LangChain, OpenAI"
         ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-senior-at-drimo-4480689763",
+        "titulo": "Full Stack Developer Senior",
+        "empresa": "Drimo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-24 01:36:45",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/back-end-developer-java-semi-senior-at-imagemaker-4481953489",
+        "titulo": "Back-end Developer Java Semi Senior",
+        "empresa": "Imagemaker",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-24 01:36:45",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-acl-4480691397",
+        "titulo": "Software Engineer",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-24 01:36:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-%F0%9F%9A%80-at-sii-group-chile-4483123789",
+        "titulo": "FULL STACK ENGINEER 🚀",
+        "empresa": "SII Group Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-24 01:36:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Upper-intermediate'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-engineer-growth-experimentation-%E2%80%93-krak-at-kraken-4480248044",
+        "titulo": "Senior Full Stack Engineer, Growth & Experimentation – Krak",
+        "empresa": "Kraken",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-24 01:36:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-backend-developer-at-amaris-consulting-part-of-mantu-4480690774",
+        "titulo": "AI Backend Developer",
+        "empresa": "Amaris Consulting  | Part of Mantu",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-24 01:37:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Area)"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/docente-introduccion-a-herramientas-devops-sede-alameda-duoc-uc-santiago",
+        "titulo": "Docente – Introducción a Herramientas DevOps Sede Alameda",
+        "empresa": "Duoc UC",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-24 01:37:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Docente'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-soporte-informatico-en-puerto-montt-054ECD88C941F1C961373E686DCF3405",
+        "titulo": "Especialista en Soporte Informático",
+        "empresa": "AKVA group",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-10-24 01:37:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/asistente-corredor-de-seguros-3589759",
+        "titulo": "Asistente Corredor de Seguros",
+        "empresa": "Carlos gleiser ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-24 01:37:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
