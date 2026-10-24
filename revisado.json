@@ -15036,5 +15036,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-flutter-dart-mobile-engineer-at-sparq-4483306830",
+        "titulo": "Senior Flutter/Dart Mobile Engineer",
+        "empresa": "Sparq",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-24 08:07:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/back-end-developer-para-datos-industriales-detroit-s-a-santiago",
+        "titulo": "Back-end Developer para Datos Industriales",
+        "empresa": "Detroit S.A.",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-10-24 08:07:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Presencial - Chile)"
     }
 ]
