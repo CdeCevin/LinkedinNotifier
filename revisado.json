@@ -15058,5 +15058,30 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Presencial - Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-database-reliability-engineer-at-sezzle-4410938465",
+        "titulo": "Senior Database Reliability Engineer",
+        "empresa": "Sezzle",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-24 18:09:27",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ingeniero-a-mlops-y-machine-learning-dsac-chile-remote",
+        "titulo": "Ingeniero/a MLOps y Machine Learning",
+        "empresa": "DSAC Chile",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto - Remote",
+        "fecha": "2026-10-24 18:09:38",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero MLOps y Machine Learning 100% remoto en DSAC Chile podría interesarle al candidato por su experiencia en integración de IA, despliegue de sistemas en producción y testing automatizado, alineándose con el enfoque de operar modelos con calidad.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: MLflow, Apache Airflow, Docker, Kubernetes, MLOps"
+        ]
     }
 ]
