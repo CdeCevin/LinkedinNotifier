@@ -15083,5 +15083,19 @@
         "avisos": [
             "Tecnologias que no estan en tu CV: MLflow, Apache Airflow, Docker, Kubernetes, MLOps"
         ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-java-%E2%80%94-microservicios-e-integraci%C3%B3n-de-sistemas-at-singulapps-4480618096",
+        "titulo": "Desarrollador/a Java — Microservicios e Integración de Sistemas",
+        "empresa": "SingulApps",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-25 06:08:23",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador/a Java en microservicios e integración de sistemas podría interesarle al candidato por su experiencia en backend, APIs REST y arquitectura de sistemas, además de su manejo de Java y Spring Boot, aunque deberá familiarizarse con mensajería entre servicios y SAP/SAP HANA.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: mensajería entre servicios, SAP, SAP HANA"
+        ]
     }
 ]
