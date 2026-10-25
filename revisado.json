@@ -15144,5 +15144,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-android-at-cmg3-4482691659",
+        "titulo": "Desarrollador Android",
+        "empresa": "CMG3",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-25 19:37:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Kotlin, Android SDK, Android Studio, Jetpack / Jetpack Compose, MVVM / Clean Architecture)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/llm-engineer-remote-rancagua-at-blacksmith-agency-4481221803",
+        "titulo": "LLM Engineer (Remote, Rancagua)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-25 19:37:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/outbound-sales-development-specialist-calieluxe-cleaners-remote",
+        "titulo": "Outbound Sales Development Specialist",
+        "empresa": "Calieluxe Cleaners",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto - Remote",
+        "fecha": "2026-10-25 19:37:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
