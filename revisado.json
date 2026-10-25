@@ -15097,5 +15097,52 @@
         "avisos": [
             "Tecnologias que no estan en tu CV: mensajería entre servicios, SAP, SAP HANA"
         ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/java-engineer-at-plan-a-technologies-4456057092",
+        "titulo": "Java Engineer",
+        "empresa": "Plan A Technologies",
+        "fuente": "LinkedIn",
+        "ubicacion": "Pudahuel, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-25 17:05:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-media-automation-at-izimedia-4481091630",
+        "titulo": "Ingeniero de Software / (Media Automation)",
+        "empresa": "IZIMEDIA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-25 17:06:12",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero de Software en automatización de medios podría interesarle al candidato por su sólida experiencia en Python, desarrollo de APIs REST, scraping y arquitectura de sistemas resilientes, habilidades clave para optimizar flujos de datos y multimedia.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: HLS, M3U8, ffmpeg, streamlink, journalctl"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-net-%2B-vue-remote-latin-america-at-fullstack-4466400399",
+        "titulo": "Senior Software Engineer (.NET + Vue) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-25 17:06:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/administrativo-a-de-ventas-repuestos-maquinaria-multimarca-3919971",
+        "titulo": "Administrativo/a de Ventas – Repuestos Maquinaria",
+        "empresa": "Sociedad jorklift spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-25 17:06:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
