@@ -15210,5 +15210,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Hibrido fuera de la zona (Chile Chico)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-platform-engineer-mid-level-at-jobgether-4481664954",
+        "titulo": "Data Platform Engineer (Mid-level)",
+        "empresa": "Jobgether",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-26 06:13:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Mid'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-reemplazo-bodeguero-panoleroa-antofagasta-720000-5x2-en-antofagasta-C39536A6CACA26B761373E686DCF3405",
+        "titulo": "Reemplazo Bodeguero pañolero/a / Antofagasta/ $720.000",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-26 06:13:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
