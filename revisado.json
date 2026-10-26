@@ -15232,5 +15232,228 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-storage-at-jobgether-4482986897",
+        "titulo": "Software Engineer - Storage",
+        "empresa": "Jobgether",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-26 14:17:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/concurso-e-452026-desarrollador-junior-de-sistemas-at-universidad-austral-de-chile-4481427996",
+        "titulo": "Concurso E-452026 - Desarrollador Junior de Sistemas",
+        "empresa": "Universidad Austral de Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Valdivia, Los Ríos Region, Chile",
+        "fecha": "2026-10-26 14:17:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Valdivia, Los Ríos Region, Chile)"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/sales-development-representative-life-sciences-remote-larvol-remote",
+        "titulo": "Sales Developmentrepresentative Life Sciences/Pharma",
+        "empresa": "LARVOL",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto - Remote",
+        "fecha": "2026-10-26 14:17:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-desarrollador-net-ia-en-santiago-centro-7C0A00ED8840A46361373E686DCF3405",
+        "titulo": "Analista Desarrollador .NET / IA",
+        "empresa": "MM ASESORIAS",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido con 4 dias presenciales en Santiago",
+        "avisos": [
+            "Piden 3 años de experiencia"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mecanicoa-hidraulico-antofagasta-en-antofagasta-794BC871F9E80DF961373E686DCF3405",
+        "titulo": "Mecánico/a Hidráulico",
+        "empresa": "United Sistema de Tuberías Ltda.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-26 14:17:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-conductor-profesional-a2-traslado-de-personas-antofagasta-en-antofagasta-2DF46F462986FE5061373E686DCF3405",
+        "titulo": "Conductor Profesional A2 Traslado de Personas Antofagasta",
+        "empresa": "Holding Grupo Firma ( GF SYSTEM )",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-26 14:17:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-civil-informaticoa-reemplazo-vina-del-mar-en-vina-del-mar-25DA2C331BA69A9861373E686DCF3405",
+        "titulo": "Ingeniero/a Civil Informático/a – Reemplazo, Viña del Mar",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Viña del Mar, Valparaíso",
+        "fecha": "2026-10-26 14:17:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-dibujante-proyectista-region-de-tarapaca-en-pica-1A6D9D506218AF6C61373E686DCF3405",
+        "titulo": "Dibujante Proyectista",
+        "empresa": "United Sistema de Tuberías Ltda.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Pica, Tarapacá",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-proyecto-civil-estructural-4-a-7-las-condes-en-santiago-las-condes-1ED72E359F73D29561373E686DCF3405",
+        "titulo": "Ingeniero/a de Proyecto Civil Estructural (4 a 7)",
+        "empresa": "J.E.J INGENIERIA S.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-senior-sap-basis-base-las-condes-en-santiago-las-condes-AB9913815565A48761373E686DCF3405",
+        "titulo": "Consultor Senior SAP Basis (base Las Condes)",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-sre-observabilidad-dynatrace-opentelemetry-remoto-en-santiago-las-condes-64DA8A1C63EF1C0861373E686DCF3405",
+        "titulo": "SRE – Observabilidad (Dynatrace / OpenTelemetry)",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativoa-logistica-proyecto-3-semanas-las-condes-en-santiago-las-condes-0F10EBEF2D3FE33161373E686DCF3405",
+        "titulo": "Administrativo(a) Logística Proyecto 3 semanas",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisora-de-personal-logistico-lampa-en-lampa-17CC16FDB495461761373E686DCF3405",
+        "titulo": "Supervisor/a de Personal Logistico",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-administrativoa-las-condes-en-santiago-las-condes-36E24B265310320C61373E686DCF3405",
+        "titulo": "Asistente Administrativo/a",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-paramedico-policlinico-ist-valparaiso-en-valparaiso-A8914019E495C3BB61373E686DCF3405",
+        "titulo": "Paramédico Policlínico IST Valparaíso",
+        "empresa": "Instituto de Seguridad del Trabajo",
+        "fuente": "Computrabajo",
+        "ubicacion": "Valparaíso, Valparaíso",
+        "fecha": "2026-10-26 14:17:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ai-offer-aemobileadaptativechromium-1793018444295-en-chile-chico-6B8FCDEF2D82BE7761373E686DCF3405",
+        "titulo": "AI Offer aemobileadaptativechromium 1793018444295",
+        "empresa": "CTBJ Company EN500",
+        "fuente": "Computrabajo",
+        "ubicacion": "Chile Chico, Aysén del Gral. C. Ibañez del Campo",
+        "fecha": "2026-10-26 14:17:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativo-aseguramiento-calidad-pudahuel-en-santiago-pudahuel-8D33F23FB9A5071E61373E686DCF3405",
+        "titulo": "Administrativo Aseguramiento Calidad (Pudahuel)",
+        "empresa": "ACTIVOS CHILE",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-servicios-en-antofagasta-2635CBFBEAF9172A61373E686DCF3405",
+        "titulo": "Coordinador de Servicios",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-26 14:17:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-bi-en-santiago-las-condes-994EE6E090EFFEC961373E686DCF3405",
+        "titulo": "Analista de datos BI",
+        "empresa": "Smart Fit Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-26 14:17:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Las condes, R.Metropolitana)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-de-datos-bi-y-desarrollo-de-automatizaciones-con-uso-de-ia-iquique-3920120",
+        "titulo": "Analista de Datos, BI y Desarrollo",
+        "empresa": "76228396-4",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Iquique",
+        "fecha": "2026-10-26 14:18:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Presencial fuera de la zona (Iquique)"
     }
 ]
