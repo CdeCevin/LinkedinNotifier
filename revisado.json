@@ -15177,5 +15177,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-puesta-en-servicio-y-soporte-en-santiago-quilicura-F1911C87B6A7EC8261373E686DCF3405",
+        "titulo": "Técnico de puesta en servicio y soporte",
+        "empresa": "Grupo Tawa",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-10-26 01:14:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-q-a-automatizador-ingles-avanzado-conversacional-en-santiago-las-condes-764DF07A6E690C7661373E686DCF3405",
+        "titulo": "Q A Automatizador",
+        "empresa": "Abenis",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-26 01:14:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-contacto-aemobileadaptativechromium-1792757479474-en-chile-chico-63976A1538E52FC361373E686DCF3405",
+        "titulo": "QA Contacto aemobileadaptativechromium 1792757479474",
+        "empresa": "CTBJ Company EN500",
+        "fuente": "Computrabajo",
+        "ubicacion": "Chile Chico, Aysén del Gral. C. Ibañez del Campo",
+        "fecha": "2026-10-26 01:14:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido fuera de la zona (Chile Chico)"
     }
 ]
