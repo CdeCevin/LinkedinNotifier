@@ -15964,5 +15964,126 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-multitecnico-informatico-turno-rotativo-las-condes-en-santiago-las-condes-7187F2F3B7CE369261373E686DCF3405",
+        "titulo": "Multitécnico Informático Turno Rotativo",
+        "empresa": "ISS CHILE",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-27 00:26:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Las condes, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-it-en-santiago-providencia-71A9937B2BEF352061373E686DCF3405",
+        "titulo": "Soporte Técnico IT",
+        "empresa": "Oca Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-27 00:26:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-ventas-atacama-en-copiapo-65AA6F270EBC2FBA61373E686DCF3405",
+        "titulo": "Ejecutivo de Ventas Atacama",
+        "empresa": "Randstad",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-10-27 00:26:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-de-proteccion-de-datos-1000000-liquidos-en-santiago-providencia-15271D73545A020161373E686DCF3405",
+        "titulo": "Analista Junior de Protección de Datos ($1.000.000 líquidos)",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-27 00:26:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Providencia, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-project-manager-en-lampa-06DE59732914B86261373E686DCF3405",
+        "titulo": "Project Manager",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-10-27 00:26:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingreso-directo-ejecutivoa-de-venta-de-seguros-trabaja-lunes-a-viernes-peak-time-30-horas-call-center-contrato-pagos-puntuales-en-santiago-centro-91750FB0AC8B8E9761373E686DCF3405",
+        "titulo": "Ingreso Directo! Ejecutivo(a) de Venta de Seguros / Trabaja Lunes a Viernes",
+        "empresa": "S3 Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-27 00:26:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-en-santiago-las-condes-90F8570C94FEF02F61373E686DCF3405",
+        "titulo": "Soporte técnico",
+        "empresa": "MM ASESORIAS",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-27 00:26:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-project-manager-sap-s4hana-senior-ingles-avanzado-en-santiago-las-condes-4C0D62DCC62A986B61373E686DCF3405",
+        "titulo": "Project Manager SAP S/4Hana Senior (Ingles avanzado)",
+        "empresa": "Michael Page",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-27 00:26:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Manager'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-a-de-desarrollo-e-inversion-inmobiliaria-3920755",
+        "titulo": "JEFE/A DE DESARROLLO E INVERSIÓN INMOBILIARIA",
+        "empresa": "Corporación de desarrollo social..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-27 00:26:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'JEFE'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-ti-desarrollador-rubro-seguridad-santiago-centro-3920758",
+        "titulo": "Ingeniero TI/Desarrollador - Rubro seguridad -",
+        "empresa": "Lw empresas",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-27 00:26:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-desarrollo-de-software-net-c-3920737",
+        "titulo": "Ingeniero de Desarrollo de Software .NET/C#",
+        "empresa": "Valuetech - a ricoh..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-27 00:26:44",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
     }
 ]
