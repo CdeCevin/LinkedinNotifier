@@ -16155,5 +16155,115 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-full-stack-growth-product-at-kraken-4457111291",
+        "titulo": "Senior Software Engineer - Full-stack - Growth Product",
+        "empresa": "Kraken",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-27 13:13:35",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-front-end-developer-lwc-lwr-experience-cloud-at-atmira-4481855982",
+        "titulo": "Salesforce Front-End Developer (LWC, LWR & Experience Cloud)",
+        "empresa": "atmira",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-27 13:13:44",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Salesforce, Lightning Web Components (LWC), Experience Cloud, Apex, Lightning Web Runtime (LWR))"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ejecutivo-a-de-cuentas-account-executive-saas-solutions-bnamericas-remote-b14b",
+        "titulo": "Ejecutivo/a de Cuentas / Account Executive – SaaS Solutions",
+        "empresa": "BNamericas",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto - Remote",
+        "fecha": "2026-10-27 13:13:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-o-ingeniero-en-informatica-soporte-faena-minera-presencial-antofagasta-en-antofagasta-58BAE7547A3B4CA061373E686DCF3405",
+        "titulo": "Técnico o Ingeniero en Informática",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-27 13:13:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-planificadora-junior-en-antofagasta-559660FE3F49F8A861373E686DCF3405",
+        "titulo": "Planificador/a",
+        "empresa": "INGENIERÍA ERR SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-10-27 13:13:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnicoa-cctv-nivel-2-en-calama-85D15A7C6AB48E8761373E686DCF3405",
+        "titulo": "Técnico/a CCTV Nivel 2",
+        "empresa": "PSINet.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-10-27 13:13:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-urgente-aemobileadaptativechromium-1793105647962-en-chile-chico-F8A78ED1CCE360FA61373E686DCF3405",
+        "titulo": "QA Urgente aemobileadaptativechromium 1793105647962",
+        "empresa": "CTBJ Company EN500",
+        "fuente": "Computrabajo",
+        "ubicacion": "Chile Chico, Aysén del Gral. C. Ibañez del Campo",
+        "fecha": "2026-10-27 13:13:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido fuera de la zona (Chile Chico)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-implementador-de-exhibiciones-iquique-560000-lunes-a-viernes-en-iquique-6664CB6A085C861461373E686DCF3405",
+        "titulo": "Implementador de Exhibiciones Iquique $560.000 lunes a viernes",
+        "empresa": "Team-Work",
+        "fuente": "Computrabajo",
+        "ubicacion": "Iquique, Tarapacá",
+        "fecha": "2026-10-27 13:13:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-ti-3920920",
+        "titulo": "Jefe TI",
+        "empresa": "Innova talentos",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Valdivia",
+        "fecha": "2026-10-27 13:13:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Jefe'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-ciberseguridad-y-networking-concepcion-3083545",
+        "titulo": "INGENIERO DE CIBERSEGURIDAD Y NETWORKING /",
+        "empresa": "Soluciones tecnologicas order spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Concepción",
+        "fecha": "2026-10-27 13:13:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
