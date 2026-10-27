@@ -16085,5 +16085,75 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-android-y-backend-%E2%80%93-kotlin-apis-y-postgresql-at-finyks-4481817799",
+        "titulo": "Desarrollador/a Android y Backend – Kotlin, APIs y PostgreSQL",
+        "empresa": "Finyks",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-27 06:17:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-ios-swift-at-metrica-chile-4481493398",
+        "titulo": "Desarrollador IOS Swift",
+        "empresa": "METRICA Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-27 06:17:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Swift, UIKit, Xcode, CocoaPods, SDK de iOS)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultor-sap-abap-fiori-at-seidor-4481813571",
+        "titulo": "Consultor SAP ABAP - FIORI",
+        "empresa": "SEIDOR",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-27 06:17:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Area)"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ingeniero-de-sistemas-ittecture-spa-antofagasta",
+        "titulo": "Ingeniero de Sistemas",
+        "empresa": "ITtecture SpA",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-27 06:18:24",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-backend-3904883",
+        "titulo": "Desarrollador Backend",
+        "empresa": "It hunters",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-27 06:18:41",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este es un cargo de Desarrollador Backend para sistemas core críticos, donde se valora la experiencia en lenguajes orientados a objetos y la disposición a aprender nuevas plataformas, lo cual se alinea con la experiencia del candidato en backend, APIs REST y su actual aprendizaje de C#/.NET.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingenieros-informaticos-sean-alumnos-me-ensenen-a-usar-la-inteligencia-artifi-3900500",
+        "titulo": "Ingenieros Informaticos, \"sean Alumnos\" me enseñen",
+        "empresa": "Caro",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-27 06:18:44",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
     }
 ]
