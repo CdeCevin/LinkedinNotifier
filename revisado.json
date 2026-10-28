@@ -16969,5 +16969,49 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Valparaíso)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-at-oriencoop-4484277219",
+        "titulo": "Desarrollador",
+        "empresa": "Oriencoop",
+        "fuente": "LinkedIn",
+        "ubicacion": "Talca, Maule Region, Chile",
+        "fecha": "2026-10-28 02:16:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (PHP, PL/SQL, Docker, Linux, Jira)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativa-en-remuneraciones-outsourcing-en-santiago-maipu-B31E530540BE588361373E686DCF3405",
+        "titulo": "Administrativa en remuneraciones",
+        "empresa": "LOBOS ASOCIADOS",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Maipú, R.Metropolitana",
+        "fecha": "2026-10-28 02:16:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-las-condes-santiago-en-santiago-las-condes-094B655C2B7C895E61373E686DCF3405",
+        "titulo": "Analista Financiero",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-28 02:16:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/lider-en-gestion-portafolios-america-14-paises-3921654",
+        "titulo": "LIDER EN GESTION PORTAFOLIOS AMERICA -",
+        "empresa": "Grupo rh",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-28 02:16:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
