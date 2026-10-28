@@ -17013,5 +17013,31 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-semi-sr-java-react-at-tinet-s-a-4483832579",
+        "titulo": "Desarrollador Fullstack Semi Sr (Java - React)",
+        "empresa": "TINET S.A.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-28 09:39:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-cc99",
+        "titulo": "QA Automation Engineer",
+        "empresa": "Dynamic Devs",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-28 09:39:33",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de QA Automation Engineer en Dynamic Devs busca un perfil con experiencia en automatización de pruebas, lo cual se alinea con la experiencia del candidato en testing automatizado (E2E y carga) y su conocimiento en Java y Spring Boot.",
+        "avisos": [
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: Selenium, Cucumber, Postman, Karate, BDD"
+        ]
     }
 ]
