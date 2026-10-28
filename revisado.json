@@ -17462,5 +17462,251 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Copiapó)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-senior-at-groupe-sii-4484081007",
+        "titulo": "Desarrollador Backend Senior",
+        "empresa": "Groupe SII",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-28 21:40:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-back-end-software-engineer-at-grupo-falabella-4484731150",
+        "titulo": "Senior Back End Software Engineer",
+        "empresa": "Grupo Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-28 21:40:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-fullstack-go-typescript-engineer-remote-chile-at-kake-4482552205",
+        "titulo": "Senior FullStack (Go/TypeScript) Engineer - Remote - Chile",
+        "empresa": "Kake",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-28 21:40:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ssr-sr-en-golang-java-at-coderslab-4484738375",
+        "titulo": "SSR/SR en Golang/Java",
+        "empresa": "CodersLab",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-28 21:40:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'SSR'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/banner-and-plsql-developer-ingles-avanzado-at-dacodes-4484741138",
+        "titulo": "Banner and PLSQL Developer (ingles avanzado)",
+        "empresa": "DaCodes.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-28 21:40:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ingeniero-a-operaciones-ti-dalca-s-a-santiago",
+        "titulo": "Ingeniero/a Operaciones TI",
+        "empresa": "Dalca S.A.",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-28 21:40:49",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero de Operaciones TI podría interesarle al candidato por su experiencia en la operación y despliegue de plataformas en producción, arquitectura de sistemas resilientes e implementación de APIs, lo que se alinea con las responsabilidades de monitoreo, gestión de incidencias e integraciones.",
+        "avisos": [
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: Administración de servidores Linux, PostgreSQL, Bash, Docker, Kubernetes"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-de-flota-maipu-en-santiago-maipu-C17D917DD031555861373E686DCF3405",
+        "titulo": "programador de flota",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Maipú, R.Metropolitana",
+        "fecha": "2026-10-28 21:40:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Maipú, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-de-obra-en-santiago-las-condes-C6B894D180EA1A2661373E686DCF3405",
+        "titulo": "Programador de Obra",
+        "empresa": "CHINA RAILWAY CONSTRUCTION CORPORATION (INTERNATIONAL) LIMITED, AGENCI",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-28 21:40:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Las condes, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-disenador-moda-y-desarrollador-proyectos-textil-recoleta-en-santiago-recoleta-437AD038091153CC61373E686DCF3405",
+        "titulo": "Diseñador moda y desarrollador proyectos textil",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Recoleta, R.Metropolitana",
+        "fecha": "2026-10-28 21:40:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Recoleta, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-centro-despacho-contratistas-base-rancagua-en-rancagua-5C81ABAF5EDD761261373E686DCF3405",
+        "titulo": "Programador Centro Despacho Contratistas base Rancagua",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Rancagua, Libertador B. O Higgins",
+        "fecha": "2026-10-28 21:41:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-de-sistema-integrado-de-gestion-sig-quilicura-en-santiago-quilicura-C3C14B8A5561094B61373E686DCF3405",
+        "titulo": "Coordinador/a de Sistema Integrado de Gestión (SIG) Quilicura",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Coordinador'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-logistico-business-to-business-en-santiago-pudahuel-48416830E1A1C91961373E686DCF3405",
+        "titulo": "Coordinador Logístico",
+        "empresa": "IMPORTADORA EXPORTADORA DISTRIBUIDORA INMOBILIARIA E INVERSIONES NUEVA- ALIMENTARIA SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-control-de-procesos-bilingue-las-condes-en-santiago-las-condes-62105DD1B05B895861373E686DCF3405",
+        "titulo": "Ingeniero/a Control de Procesos. Bilingüe",
+        "empresa": "Burô Temps",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-de-mantenimiento-proyecto-de-licitacion-en-calama-5FBA56981FEFA2E461373E686DCF3405",
+        "titulo": "Supervisor de Mantenimiento",
+        "empresa": "PSINet.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestor-de-servicios-y-proyectos-sistemas-clinicos-en-santiago-providencia-516CB360A48D117E61373E686DCF3405",
+        "titulo": "Gestor de servicios y proyectos",
+        "empresa": "Act S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-telecomunicaciones-7x7-experiencia-en-mineria-en-calama-A2F2D92BC2CB1BA461373E686DCF3405",
+        "titulo": "Técnico en Telecomunicaciones 7x7",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-telemarketing-canal-ferretero-en-santiago-la-cisterna-3D003B918EA3019961373E686DCF3405",
+        "titulo": "Ejecutivo de Telemarketing",
+        "empresa": "Gevemac",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - La Cisterna, R.Metropolitana",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-comprador-estrategico-en-santiago-las-condes-345E35C95DCA248861373E686DCF3405",
+        "titulo": "Comprador Estratégico",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-ventas-arriendo-maquinarias-vina-del-mar-en-vina-del-mar-3739EBB15D2A63EE61373E686DCF3405",
+        "titulo": "Ejecutivo de Ventas Arriendo maquinarias",
+        "empresa": "Altodesempeño consultores",
+        "fuente": "Computrabajo",
+        "ubicacion": "Viña del Mar, Valparaíso",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-programador-3803529",
+        "titulo": "Analista programador",
+        "empresa": "Fgr energía y servicios",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Osorno",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Osorno)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-flota-maipu-3922338",
+        "titulo": "PROGRAMADOR FLOTA / MAIPU",
+        "empresa": "Xinerlink",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-28 21:41:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-ia-transformacion-digital-3820101",
+        "titulo": "Ingeniero/a Informático — IA & Transformación",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-28 21:41:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
     }
 ]
