@@ -17708,5 +17708,49 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-back-end-engineer-at-peek-4482564675",
+        "titulo": "Senior Back End Engineer",
+        "empresa": "Peek",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-29 02:27:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-acustico-o-profesional-con-estudios-en-acustica-en-rancagua-21D636217950698E61373E686DCF3405",
+        "titulo": "Ingeniero acústico o profesional con estudios en acústica",
+        "empresa": "FISAM FISCALIZACIONES AMBIENTALES SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Rancagua, Libertador B. O Higgins",
+        "fecha": "2026-10-29 02:27:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-auxiliar-de-limpieza-padre-hurtado-en-padre-hurtado-DCE34229AACE865061373E686DCF3405",
+        "titulo": "Auxiliar de limpieza",
+        "empresa": "ISS CHILE",
+        "fuente": "Computrabajo",
+        "ubicacion": "Padre Hurtado, R.Metropolitana",
+        "fecha": "2026-10-29 02:27:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-programador-3908256",
+        "titulo": "Analista Programador",
+        "empresa": "Coldwell banker chile",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 02:27:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
     }
 ]
