@@ -17752,5 +17752,322 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/java-developer-con-ia-at-tata-consultancy-services-4484969694",
+        "titulo": "Java Developer con IA",
+        "empresa": "Tata Consultancy Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-29 17:27:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-big-data-software-engineer-aws-%2B-databricks-at-softserve-4467131798",
+        "titulo": "Senior Big Data Software Engineer (AWS + Databricks)",
+        "empresa": "SoftServe",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-29 17:27:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-web-engineer-at-copilot-money-4150497115",
+        "titulo": "Senior Web Engineer",
+        "empresa": "Copilot Money",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-29 17:27:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-big-data-software-engineer-snowflake-%2B-dbt-at-softserve-4467132691",
+        "titulo": "Senior Big Data Software Engineer (Snowflake + DBT)",
+        "empresa": "SoftServe",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-29 17:27:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-experto-divisi%C3%B3n-marketing-tecnolog%C3%ADa-y-digital-at-banco-de-chile-4475447810",
+        "titulo": "Desarrollador Experto - División Marketing, Tecnología y Digital.",
+        "empresa": "Banco de Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-29 17:27:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Experto'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4431716563",
+        "titulo": "Senior Payments Engineer — Acquiring & Payment Processing",
+        "empresa": "Sezzle",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-29 17:27:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/data-analyst-i-signant-health-remote-947a",
+        "titulo": "Data Analyst I",
+        "empresa": "Signant Health",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-10-29 17:27:07",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/administrador-de-sistemas-nutanix-ahv-y-openshif-sonda-santiago",
+        "titulo": "Administrador de Sistemas Nutanix Ahv y Openshif",
+        "empresa": "SONDA",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-10-29 17:27:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-de-flota-maipu-proyecto-manejo-sap-en-santiago-maipu-9EDE8EA68D115B8261373E686DCF3405",
+        "titulo": "Programador de Flota Maipú",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Maipú, R.Metropolitana",
+        "fecha": "2026-10-29 17:27:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Maipú, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-automatizacion-y-optimizacion-de-procesos-y-sistemas-en-santiago-centro-36F451D31735E5CE61373E686DCF3405",
+        "titulo": "Analista de Automatización y Optimización de Procesos y Sistemas",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-29 17:27:28",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Analista de Automatización en el sector bancario podría interesarle al candidato por su enfoque en Python, integración de APIs e IA, áreas donde posee experiencia sólida y proyectos propios en producción.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Power Automate, Power Apps, SharePoint"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-buscamos-guardia-de-seguridad-lider-en-web-control-copiapo-en-copiapo-37C0F953C1698F3161373E686DCF3405",
+        "titulo": "Buscamos Guardia de Seguridad Líder en Web Control",
+        "empresa": "Grupo Eulen",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-10-29 17:27:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Líder'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestor-de-cambios-tecnologicos-ti-en-concepcion-B046257941E9828C61373E686DCF3405",
+        "titulo": "Gestor de Cambios Tecnológicos TI",
+        "empresa": "Tecnova Soluciones Informáticas",
+        "fuente": "Computrabajo",
+        "ubicacion": "Concepción, Bíobío",
+        "fecha": "2026-10-29 17:27:44",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-power-platform-semi-senior-en-santiago-las-condes-F11F0A1F3AFF5CC961373E686DCF3405",
+        "titulo": "Consultor Power Platform Semi Senior",
+        "empresa": "Axity",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-29 17:27:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-electrico-fv-bess-osorno-en-osorno-F7BE9B0A75B95A8A61373E686DCF3405",
+        "titulo": "Ingeniero eléctrico FV/ BESS",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Osorno, Los Lagos",
+        "fecha": "2026-10-29 17:27:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-proyectos-ingeniero-electrico-fv-bess-osorno-en-osorno-095FD35EA6982F2D61373E686DCF3405",
+        "titulo": "Jefe de Proyectos Ingeniero eléctrico FV/ BESS",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Osorno, Los Lagos",
+        "fecha": "2026-10-29 17:27:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-servicios-sistemas-clinicos-en-santiago-providencia-8BD666C8A52722ED61373E686DCF3405",
+        "titulo": "Coordinador de servicios.",
+        "empresa": "Act S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-29 17:27:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-terreno-desarrollo-de-tecnologia-industria-acuicola-en-puerto-montt-4DD4836D5C0B868061373E686DCF3405",
+        "titulo": "Ingeniero/a de Terreno – Desarrollo de Tecnología",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-10-29 17:27:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Puerto Montt, Los Lagos)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-y-requerimientos-proyectos-ti-hibrido-en-santiago-las-condes-24F06E3098E86EF661373E686DCF3405",
+        "titulo": "Analista de Operaciones y Requerimientos  Proyectos TI (Hibrido)",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-29 17:27:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-backend-3922537",
+        "titulo": "Desarrollador Backend",
+        "empresa": "3it",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 17:28:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 6+ años de experiencia"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-programador-3901290",
+        "titulo": "Analista Programador",
+        "empresa": "Partner consulting",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 17:28:28",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este es un cargo de Analista Programador híbrido en Santiago, enfocado en desarrollo web full-stack con Node.js/Express y metodologías ágiles, lo cual se alinea muy bien con la experiencia del candidato en backend, APIs REST y arquitectura de sistemas.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Vue.js 3, UI Kit, Modyo, MirageJS, Bitbucket"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-desarrollo-de-software-3922562",
+        "titulo": "Ingeniero de Desarrollo de Software",
+        "empresa": "Valuetech - a ricoh..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 17:28:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/gestor-de-cambios-tecnologicos-ti-itil-itsm-3922754",
+        "titulo": "Gestor de Cambios Tecnológicos TI (ITIL",
+        "empresa": "Tecnova",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Concepción",
+        "fecha": "2026-10-29 17:29:05",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/asistente-de-informatica-vitacura-3922769",
+        "titulo": "Asistente de Informática - Vitacura",
+        "empresa": "Rubro automotriz",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 17:29:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/encargado-soporte-ti-ciberseguridad-para-colina-3922710",
+        "titulo": "Encargado Soporte TI ciberseguridad para Colina",
+        "empresa": "Empresa zona norte",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 17:29:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/supervisor-de-ciberseguridad-operativa-rancagua-3921511",
+        "titulo": "Supervisor de Ciberseguridad Operativa  Rancagua",
+        "empresa": "Sat job",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Rancagua",
+        "fecha": "2026-10-29 17:29:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-a-de-centro-agua-mar-3922798",
+        "titulo": "Jefe/a de Centro Agua Mar",
+        "empresa": "Lider rubro salmonero",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Puerto montt",
+        "fecha": "2026-10-29 17:29:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-contractual-con-conocimientos-de-ia-3921004",
+        "titulo": "Asistente de Gestión Contractual con conocimientos",
+        "empresa": "Xms talentos ti",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 17:29:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-soporte-funcional-de-aplicaciones-y-procesos-3910876",
+        "titulo": "Ingeniero/a de Soporte Funcional de Aplicaciones",
+        "empresa": "Valuetech s.a",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-29 17:29:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
     }
 ]
