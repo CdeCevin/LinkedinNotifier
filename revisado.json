@@ -18571,5 +18571,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-senior-at-42labs-4484801864",
+        "titulo": "Desarrollador Full-Stack Senior",
+        "empresa": "42Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 10:00:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/solution-engineer-at-siemens-4484812748",
+        "titulo": "Solution Engineer",
+        "empresa": "Siemens",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-30 10:00:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Area)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ia-developer-senior-at-acl-4482550957",
+        "titulo": "IA Developer Senior",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 10:00:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
     }
 ]
