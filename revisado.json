@@ -18949,5 +18949,225 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-agroprime-4483049571",
+        "titulo": "Desarrollador full stack",
+        "empresa": "Agroprime",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 21:31:18",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Desarrollador Full Stack en Agroprime podría interesarle al candidato por su sólida experiencia en backend, APIs REST y arquitectura de sistemas resilientes, además de su interés y aprendizaje activo en C# y .NET, lo que le permitiría aplicar sus habilidades en un producto propio con impacto real.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Tecnologias que no estan en tu CV: ASP.NET Boilerplate / ABP, Angular, Entity Framework Core, Ionic, Azure"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-sr-java-%2B-react-at-stefanini-latam-4483642613",
+        "titulo": "Desarrollador/a Full Stack Sr (Java + React)",
+        "empresa": "Stefanini LATAM",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 21:31:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-python-%2B-angular-o-react-at-sermaluc-4484465878",
+        "titulo": "Desarrollador Fullstack (Python + Angular o React)",
+        "empresa": "Sermaluc",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-30 21:31:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-engineer-%2B-aws-at-r-y-c-consultores-asociados-4483490532",
+        "titulo": "Fullstack Engineer + AWS",
+        "empresa": "R y C Consultores Asociados",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 21:31:50",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador Fullstack AWS podría interesarle al candidato por su enfoque en desarrollo web y backend, arquitectura de sistemas resilientes y APIs REST, aunque requeriría adquirir experiencia en los servicios de AWS y herramientas DevOps.",
+        "avisos": [
+            "Hibrido en Santiago (Las Condes): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: AWS Lambda, Amazon EC2, Amazon S3, Docker, Kubernetes"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/llm-engineer-remote-santiago-at-blacksmith-agency-4483708833",
+        "titulo": "LLM Engineer (Remote, Santiago)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-30 21:31:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-senior-pega-at-tata-consultancy-services-4485200090",
+        "titulo": "Desarrollador/a Senior Pega",
+        "empresa": "Tata Consultancy Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 21:31:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-data-engineer-h%C3%ADbrido-at-coderio-4485358202",
+        "titulo": "Sr Data Engineer - Híbrido",
+        "empresa": "Coderio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 21:31:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-las-condes-en-santiago-centro-A0320D05559191D261373E686DCF3405",
+        "titulo": "Desarrollador Full Stack",
+        "empresa": "HPDM Entretención",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-30 21:31:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-fullstack-santiago-centro-en-santiago-centro-561D91F4E4C4B79D61373E686DCF3405",
+        "titulo": "Desarrollador/a Fullstack",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-30 21:32:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido con 4 dias presenciales en Santiago",
+        "avisos": [
+            "Piden 3 años de experiencia"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-copero-part-time-am-formato-30-hrs-turnos-6x1-sueldo-base-bonos-en-santiago-las-condes-02DFDFEC0FFEEC5961373E686DCF3405",
+        "titulo": "Copero Part Time AM, formato 30 hrs. Turnos 6x1. Sueldo base + bonos",
+        "empresa": "MAJANE SERVICIOS ADMINISTRATIVOS Y DE CAPACITACION LIMITADA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-30 21:32:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-profesional-ingenieria-industrial-bioingenieria-en-santiago-providencia-94FAF18DA4A4923961373E686DCF3405",
+        "titulo": "Practica Profesional Ingeniería industrial / Bioingeniería",
+        "empresa": "ISM",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-10-30 21:32:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-soporte-en-redes-y-telecomunicaciones-presencial-en-santiago-las-condes-BEA7877F501FFE5861373E686DCF3405",
+        "titulo": "Ingeniero/a de Soporte en Redes y Telecomunicaciones",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-10-30 21:32:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-infraestructura-ti-redes-servidores-y-virtualizacion-calama-5x2-en-calama-3C4EF7E3E3C946AD61373E686DCF3405",
+        "titulo": "Analista de Infraestructura TI – Redes, Servidores y Virtualización / Calama 5x2",
+        "empresa": "Progestion Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-10-30 21:32:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Calama, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-actividades-comerciales-administracion-de-sistemas--huechuraba-en-santiago-huechuraba-4AAFB5A89D98BB5E61373E686DCF3405",
+        "titulo": "Operador/a de Actividades Comerciales (Administración de Sistemas) /  Huechuraba",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-10-30 21:32:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Huechuraba, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-ti-nivel-1-en-santiago-centro-77C26DF49FD8EEF761373E686DCF3405",
+        "titulo": "Analista de Soporte TI Nivel 1",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-10-30 21:32:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-telemetria-junior-concepcion-en-concepcion-785BEFCCB335F18961373E686DCF3405",
+        "titulo": "Operador Telemetría Junior / Concepción",
+        "empresa": "Team-Work",
+        "fuente": "Computrabajo",
+        "ubicacion": "Concepción, Bíobío",
+        "fecha": "2026-10-30 21:32:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-developer-santiago-centro-3923479",
+        "titulo": "Desarrollador Fullstack Developer - Santiago Centro",
+        "empresa": "Incongnito",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-30 21:32:23",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido con 4 dias presenciales en Santiago"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-de-soporte-y-operaciones-tecnico-en-informatica-remoto-temporada-noviembre-a-enero-3923474",
+        "titulo": "Analista de Soporte y Operaciones (Técnico",
+        "empresa": "Agrocheck",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Rancagua",
+        "fecha": "2026-10-30 21:32:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-preventa-tic-senior-3923506",
+        "titulo": "Ingeniero(a) de Preventa TIC Senior",
+        "empresa": "Empresa confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-10-30 21:32:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
