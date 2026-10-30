@@ -18445,5 +18445,131 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-net-y-angular-at-42labs-4484539403",
+        "titulo": "Senior Full-Stack .NET y Angular",
+        "empresa": "42Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 02:41:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-at-sii-group-chile-4485228559",
+        "titulo": "Desarrollador Fullstack",
+        "empresa": "SII Group Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 02:41:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-javascript-developer-at-leytonmedia-4484538416",
+        "titulo": "Senior JavaScript Developer",
+        "empresa": "Leytonmedia",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 02:41:37",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-hitss-chile-4483045393",
+        "titulo": "Ingeniero/a de Desarrollo",
+        "empresa": "Hitss Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Huechuraba, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 02:41:47",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Ingeniero de Desarrollo en Hitss Chile se alinea con su experiencia en diseño y desarrollo de soluciones informáticas, integración de APIs y automatización, ofreciendo un desafío en un entorno híbrido en Santiago.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Huechuraba): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: ETL/ELT, AWS, Docker, CI/CD, Redes y telecomunicaciones"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-ios-swift-4-0%2B-hibrido-at-stefanini-group-4484561490",
+        "titulo": "Desarrollador de iOS - Swift (4.0+) - Hibrido",
+        "empresa": "Stefanini Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 02:42:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Swift, UIKit, Xcode, CocoaPods, ARC)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-mobile-ios-at-acl-4483044545",
+        "titulo": "Desarrollador Mobile IOS",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-30 02:42:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Swift, Bundler, HomeBrew, Ruby, MVC)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-gcp-ingl%C3%A9s-avanzado-at-ditech-group-4484521086",
+        "titulo": "FullStack Developer GCP - Inglés Avanzado",
+        "empresa": "Ditech Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-30 02:42:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Inglés avanzado'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-fullstack-engineer-at-coderio-4485275747",
+        "titulo": "Sr Fullstack Engineer",
+        "empresa": "Coderio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 02:42:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniera-o-especialista-en-ia-y-anal%C3%ADtica-de-datos-at-equans-4484518282",
+        "titulo": "INGENIERA/O ESPECIALISTA EN IA Y ANALÍTICA DE DATOS",
+        "empresa": "EQUANS",
+        "fuente": "LinkedIn",
+        "ubicacion": "Cerrillos, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-30 02:42:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Cerrillos, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-flota-de-transporte-maipu-proyecto-manejo-sap-en-santiago-maipu-1F27E22CD027F10361373E686DCF3405",
+        "titulo": "Coordinador de Flota de transporte Maipú",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Maipú, R.Metropolitana",
+        "fecha": "2026-10-30 02:42:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistentes-de-sala-y-operaciones-lo-barnechea-pie-andino-650-000-liquidos-en-santiago-vitacura-DA58012D6AA67DC161373E686DCF3405",
+        "titulo": "Asistentes de Sala y Operaciones Lo Barnechea Pie Andino 650 000 líquidos",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Vitacura, R.Metropolitana",
+        "fecha": "2026-10-30 02:42:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
