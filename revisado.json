@@ -19235,5 +19235,60 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-java-developer-at-sii-group-chile-4424017519",
+        "titulo": "Senior Full-Stack Java Developer",
+        "empresa": "SII Group Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 16:07:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-java-developer-with-slot-games-experience-at-plan-a-technologies-4476822339",
+        "titulo": "Senior Java Developer with Slot Games experience",
+        "empresa": "Plan A Technologies",
+        "fuente": "LinkedIn",
+        "ubicacion": "Valparaiso Region, Chile",
+        "fecha": "2026-10-31 16:07:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-development-lead-at-evertec-4485642695",
+        "titulo": "Software Development Lead",
+        "empresa": "Evertec",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-31 16:07:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-ai-developer-at-tata-consultancy-services-4485605527",
+        "titulo": "Senior AI Developer",
+        "empresa": "Tata Consultancy Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 16:07:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ia-developer-senior-hibrido-at-stefanini-group-4484857313",
+        "titulo": "IA Developer Senior - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 16:07:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
     }
 ]
