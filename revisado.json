@@ -19169,5 +19169,71 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-senior-at-factorit-4485117399",
+        "titulo": "Desarrollador Full-Stack Senior",
+        "empresa": "FactorIT",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 02:21:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-senior-at-factorlt-4485111969",
+        "titulo": "Desarrollador Full-Stack Senior",
+        "empresa": "FactorlT",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 02:21:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-full-stack-engineer-ai-native-latam-europe-remote-at-braintrust-4485643045",
+        "titulo": "Sr. Full-Stack Engineer, AI-Native (LATAM / Europe - Remote)",
+        "empresa": "Braintrust",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-31 02:21:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-react-native-at-acl-4483908845",
+        "titulo": "Desarrollador React Native",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 02:22:08",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/web-developer-1541-chile-at-bionic-talent-4485106223",
+        "titulo": "Web Developer - 1541 - Chile",
+        "empresa": "Bionic Talent",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-31 02:22:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-backend-engineer-laravel-go-microservices-remote-latin-america-at-fullstack-4484700665",
+        "titulo": "Senior Backend Engineer - Laravel & Go Microservices - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-10-31 02:22:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
     }
 ]
