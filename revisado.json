@@ -19290,5 +19290,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-desarrollador-a-de-tecnolog%C3%ADa-at-prosud-s-a-4485921447",
+        "titulo": "Analista Desarrollador/a de Tecnología",
+        "empresa": "Prosud S.A.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 20:29:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/generative-ai-engineer-remote-concepcion-at-blacksmith-agency-4485904989",
+        "titulo": "Generative AI Engineer (Remote, Concepcion)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-10-31 20:29:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-ia-junior-at-ita%C3%BA-chile-4485375911",
+        "titulo": "Ingeniero/a IA Junior",
+        "empresa": "Itaú Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-10-31 20:29:27",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Presencial en Santiago (Santiago)"
     }
 ]
