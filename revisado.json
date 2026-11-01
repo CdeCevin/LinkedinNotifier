@@ -19323,5 +19323,71 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Presencial en Santiago (Santiago)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-comisiones-ilimitadas-ejecutivoa-de-ventas-de-seguros-de-salud-30-horas-pagos-puntuales-ingreso-directo-en-santiago-centro-437186A06508010561373E686DCF3405",
+        "titulo": "¡Comisiones Ilimitadas! Ejecutivo(a) de Ventas de Seguros de Salud / 30 horas",
+        "empresa": "S3 Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-01 00:08:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivoa-de-ventas-seguros-de-autos-experiencia-comprobable-30-horas-contrato-pagos-puntuales-en-santiago-centro-7579CD587659B3A061373E686DCF3405",
+        "titulo": "Ejecutivo(a) de ventas! Seguros de autos / Experiencia comprobable",
+        "empresa": "S3 Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-01 00:08:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-control-de-gastos-de-telecomunicaciones-analista-tem-en-santiago-centro-A783C74AB9EC878261373E686DCF3405",
+        "titulo": "Analista de Control de Gastos de Telecomunicaciones / Analista TEM",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-01 00:08:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-operador-de-camiones-jet-servicio-transitorio-tocopilla-en-antofagasta-0CE509023424C26B61373E686DCF3405",
+        "titulo": "Técnico Operador de Camiones Jet (Servicio Transitorio)",
+        "empresa": "Aguas Antofagasta",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-01 00:08:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-contable-en-santiago-centro-0319873F82C636EB61373E686DCF3405",
+        "titulo": "Analista contable",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-01 00:08:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/garzonas-y-garzones-proxima-apertura-en-antofagasta-o-3894528",
+        "titulo": "GARZONAS Y GARZONES – PRÓXIMA APERTURA",
+        "empresa": "O",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Antofagasta",
+        "fecha": "2026-11-01 00:08:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
