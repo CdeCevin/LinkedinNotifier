@@ -19389,5 +19389,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lider-de-desarrollo-frontend-at-copec-s-a-4483064030",
+        "titulo": "Lider de Desarrollo Frontend",
+        "empresa": "COPEC S.A.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-01 16:02:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lider'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-de-servicios-a-la-personas-calama-antofagasta-en-calama-DE248123260D45A261373E686DCF3405",
+        "titulo": "Especialista de Servicios a la Personas",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-11-01 16:02:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-sap-copiapo-en-copiapo-DACEDB0F6A6699D161373E686DCF3405",
+        "titulo": "Analista SAP",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-01 16:02:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Copiapó, Atacama)"
     }
 ]
