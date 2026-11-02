@@ -19488,5 +19488,49 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/brand-web-designer-shopify-casa-hidalgo-remote",
+        "titulo": "Brand & Web Designer (Shopify)",
+        "empresa": "Casa Hidalgo",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto - Remote",
+        "fecha": "2026-11-02 07:41:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'strong English'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mesa-de-ayuda-ti-rubro-portuario-en-coronel-8B2AB65FE05E90CC61373E686DCF3405",
+        "titulo": "Mesa de Ayuda TI, Rubro Portuario",
+        "empresa": "LL Consulting",
+        "fuente": "Computrabajo",
+        "ubicacion": "Coronel, Bíobío",
+        "fecha": "2026-11-02 07:41:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Mesa de Ayuda'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ai-offer-aechromium-1793583563558-en-chile-chico-ED1BEC31DCD5DE3D61373E686DCF3405",
+        "titulo": "AI Offer aechromium 1793583563558",
+        "empresa": "CTBJ Company EN500",
+        "fuente": "Computrabajo",
+        "ubicacion": "Chile Chico, Aysén del Gral. C. Ibañez del Campo",
+        "fecha": "2026-11-02 07:41:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Chile Chico, Aysén del Gral. C. Ibañez del Campo)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-a-full-stack-senior-net-react-100-remoto-3923977",
+        "titulo": "Desarrollador/a Full Stack Senior (.NET +",
+        "empresa": "Netcomm.cl",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-02 07:41:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
     }
 ]
