@@ -19433,5 +19433,60 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operario-linea-de-produccion-licencia-clase-d-colina-en-colina-53FFFFF25F62963E61373E686DCF3405",
+        "titulo": "Operario Linea de Producción /Licencia Clase D",
+        "empresa": "GrupoExpro",
+        "fuente": "Computrabajo",
+        "ubicacion": "Colina, R.Metropolitana",
+        "fecha": "2026-11-02 00:45:05",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-servicio-puerto-montt-en-puerto-montt-DF8CF895FC1A87C461373E686DCF3405",
+        "titulo": "Tecnico de Servicio",
+        "empresa": "SOCIEDAD MOLINA Y MOLINA SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-11-02 00:45:05",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-servicio-compresores-la-serena-tecnico-electromecanico-cmp-en-la-serena-9D632E5E04C6B86661373E686DCF3405",
+        "titulo": "Técnico de Servicio Compresores, La Serena",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "La Serena, Coquimbo",
+        "fecha": "2026-11-02 00:45:05",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-confidencial-aemobileadaptativechromium-1793358236725-en-chile-chico-09967EAA9959373E61373E686DCF3405",
+        "titulo": "QA Confidencial aemobileadaptativechromium 1793358236725",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Chile Chico, Aysén del Gral. C. Ibañez del Campo",
+        "fecha": "2026-11-02 00:45:13",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido fuera de la zona (Chile Chico)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/recepcionista-para-clinica-dental-3906333",
+        "titulo": "Recepcionista para clinica dental",
+        "empresa": "Denteb",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-02 00:45:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
