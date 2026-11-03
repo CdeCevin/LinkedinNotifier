@@ -20550,5 +20550,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-software-engineer-team-lead-at-ria-money-transfer-4482267778",
+        "titulo": "Sr Software Engineer Team Lead",
+        "empresa": "Ria Money Transfer",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-03 10:51:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/murex-mxml-integration-developer-capital-markets-at-accenture-chile-4486022723",
+        "titulo": "Murex MXML Integration Developer | Capital Markets",
+        "empresa": "Accenture Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-03 10:51:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Inglés conversacional'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electrico-cerrillos-licencia-clase-b-sec-b-en-santiago-cerrillos-26A65A2FAC46CFC761373E686DCF3405",
+        "titulo": "Técnico Eléctrico Cerrillos",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Cerrillos, R.Metropolitana",
+        "fecha": "2026-11-03 10:51:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
