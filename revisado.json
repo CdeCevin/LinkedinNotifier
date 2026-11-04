@@ -21708,5 +21708,153 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-oracle-forms-pl-sql-at-solheiro-advogados-associados-saa-4487093702",
+        "titulo": "DESARROLLADOR/A ORACLE FORMS & PL/SQL",
+        "empresa": "Solheiro Advogados Associados - SAA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-04 07:31:24",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-neuralworks-4486315095",
+        "titulo": "Machine Learning Engineer",
+        "empresa": "NeuralWorks",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-04 07:31:41",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Machine Learning Engineer en NeuralWorks se enfoca en MLOps y la puesta en producción de modelos de IA, lo cual podría interesarle al candidato por su experiencia en integración de IA, arquitectura de sistemas resilientes y uso de Google Cloud.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Docker, CI/CD, Infrastructure as Code, Colas de mensajes, Motores de datos distribuidos"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-%E2%80%94-kubernetes-core-remote-work-ref%23290345-at-bairesdev-4487007850",
+        "titulo": "Software Engineer — Kubernetes Core - Remote Work | REF#290345",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-04 07:31:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-remote-work-ref%23294209-at-bairesdev-4487022357",
+        "titulo": "Backend Engineer - Remote Work | REF#294209",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-04 07:31:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-backend-engineer-%E2%80%93-identity-platform-remote-work-ref%23302338-at-bairesdev-4487025556",
+        "titulo": "Senior Backend Engineer – Identity Platform - Remote Work | REF#302338",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-04 07:31:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/rust-engineer-remote-work-ref%23290375-at-bairesdev-4487007858",
+        "titulo": "Rust Engineer - Remote Work | REF#290375",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-04 07:31:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-java-remote-work-at-bairesdev-4485737541",
+        "titulo": "Backend Engineer (Java) - Remote Work",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-04 07:31:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-asp-net-i-%2B-d-trabajo-remoto-ref%23303110-at-bairesdev-4487014556",
+        "titulo": "Ingeniero ASP.NET  / I + D - Trabajo Remoto | REF#303110",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-04 07:32:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-bice-4485025601",
+        "titulo": "Ingeniero de datos",
+        "empresa": "BICE",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-04 07:33:30",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-aws-at-innomar-4484133898",
+        "titulo": "Software Engineer AWS",
+        "empresa": "Innomar",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-04 07:33:31",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/junior-ad-ops-specialist-project-ad-ops-llc-remote",
+        "titulo": "Junior Ad Ops Specialist",
+        "empresa": "Project Ad Ops, LLC.",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-04 07:34:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-senior-uipath-en-santiago-las-condes-DFC6979AD119ED5461373E686DCF3405",
+        "titulo": "Desarrollador Senior UiPath",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-04 07:34:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-de-servicio-al-cliente-en-concepcion-5D49283B8FDE906661373E686DCF3405",
+        "titulo": "Supervisor de Servicio al Cliente",
+        "empresa": "COMERCIO ELECTRÓNICO DE PRODUCTOS DE AUDIO Y VIDEO SERGIO FELIPE INFANTE MUÑOZ E.I.R.L.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Concepción, Bíobío",
+        "fecha": "2026-11-04 07:34:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
