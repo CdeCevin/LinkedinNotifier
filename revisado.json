@@ -22624,5 +22624,126 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-go-remote-work-ref%23303359-at-bairesdev-4487026403",
+        "titulo": "Backend Engineer (Go) - Remote Work | REF#303359",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-05 03:30:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-scala-remote-work-ref%23290471-at-bairesdev-4487023278",
+        "titulo": "Backend Engineer (Scala) - Remote Work | REF#290471",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-05 03:30:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/python-software-engineer-remote-work-ref%23308176-at-bairesdev-4487024242",
+        "titulo": "Python Software Engineer - Remote Work | REF#308176",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-05 03:30:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-trabajo-remoto-ref%23307834-at-bairesdev-4487016794",
+        "titulo": "Desarrollador Python - Trabajo Remoto | REF#307834",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-05 03:30:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Inglés avanzado'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-flutter-node-js-engineer-remote-work-ref%23301439-at-bairesdev-4487032131",
+        "titulo": "Senior Flutter & Node.js Engineer - Remote Work | REF#301439",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-05 03:30:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-perl-postgresql-at-coderio-4486476705",
+        "titulo": "Desarrollador Backend (Perl / PostgreSQL)",
+        "empresa": "Coderio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-05 03:30:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Perl, PostgreSQL)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/principal-ai-engineer-agentic-ai-databricks-remote-latin-america-at-fullstack-4487506720",
+        "titulo": "Principal AI Engineer - Agentic AI & Databricks - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-05 03:30:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Principal'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-mlops-engineer-remote-latin-america-at-fullstack-4461212862",
+        "titulo": "Senior MLOps Engineer - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-05 03:30:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-y-programador-de-torno-vertical-cnc-en-san-bernardo-D5B02929488A2F8161373E686DCF3405",
+        "titulo": "Operador y Programador de Torno Vertical CNC",
+        "empresa": "MACROMEC SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "San Bernardo, R.Metropolitana",
+        "fecha": "2026-11-05 03:30:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (San Bernardo, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-atencion-area-salud-puerto-varas-en-puerto-varas-9F9538A9E6506B0B61373E686DCF3405",
+        "titulo": "Ejecutivo de Atención (Área Salud)",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Varas, Los Lagos",
+        "fecha": "2026-11-05 03:30:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tens-en-esterilizacion-3926625",
+        "titulo": "TENS en Esterilización",
+        "empresa": "Fundación gantz",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-05 03:30:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
