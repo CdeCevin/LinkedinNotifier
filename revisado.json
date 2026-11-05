@@ -22745,5 +22745,82 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-senior-las-condes-at-mandomedio-4487751529",
+        "titulo": "Desarrollador Full Stack Senior- Las Condes",
+        "empresa": "Mandomedio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-05 13:12:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/front-end-engineer-senior-at-drimo-4485836024",
+        "titulo": "Front End Engineer Senior",
+        "empresa": "Drimo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-05 13:12:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago",
+        "titulo": "Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
+        "empresa": "23people",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-05 13:12:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-prevencionista-de-riesgos-calama-en-calama-E18CAD007C61B47F61373E686DCF3405",
+        "titulo": "Prevencionista de Riesgos, Calama",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-11-05 13:12:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-conductor-de-ambulancias-antofagasta-reemplazo-vacaciones-en-antofagasta-608DB739C2BF293361373E686DCF3405",
+        "titulo": "Conductor de Ambulancias, Antofagasta",
+        "empresa": "Achs Servicios",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-05 13:12:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-react-nextjs-nestjs-typescript-3926759",
+        "titulo": "Desarrollador Full Stack – React /",
+        "empresa": "Bc tecnologia",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-05 13:12:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/programador-y-operador-de-centro-de-mecanizado-3387890",
+        "titulo": "PROGRAMADOR Y OPERADOR DE CENTRO DE",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Coquimbo",
+        "fecha": "2026-11-05 13:12:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Coquimbo)"
     }
 ]
