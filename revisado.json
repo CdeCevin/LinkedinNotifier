@@ -23952,5 +23952,289 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-net-at-kibernum-4486268424",
+        "titulo": "Desarrollador de .NET",
+        "empresa": "Kibernum",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 23:45:13",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador .NET en Kibernum se enfoca en tecnologías modernas y agentes de IA, lo cual podría interesarle al candidato dado su perfil de Ingeniero Civil Informático con experiencia en integración de IA y arquitectura de sistemas, y su actual aprendizaje de C# y .NET.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: MVC, Dapper, DTSX, Bootstrap"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-caja-los-andes-4486286263",
+        "titulo": "Ingeniero de software",
+        "empresa": "Caja Los Andes",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 23:45:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-fullstack-developer-react-node-js-at-applaudo-4488427493",
+        "titulo": "Senior Fullstack Developer (React/Node JS)",
+        "empresa": "Applaudo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 23:45:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-analista-desarrollo-at-r-y-c-consultores-asociados-4486271341",
+        "titulo": "Ingeniero Analista - Desarrollo",
+        "empresa": "R y C Consultores Asociados",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 23:45:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Angular, Docker, Kubernetes, Jira)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-d%C3%A9veloppeur-at-softia-4487361030",
+        "titulo": "Lead Développeur",
+        "empresa": "Softia",
+        "fuente": "LinkedIn",
+        "ubicacion": "La Florida, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 23:45:38",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-oracle-sonda-santiago",
+        "titulo": "Desarrollador Oracle",
+        "empresa": "SONDA",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-06 23:45:46",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Desarrollador Oracle en SONDA podría interesarle al candidato por su sólida experiencia en backend y APIs REST, su conocimiento de Oracle SQL y su actual aprendizaje de C#/.NET, aunque requerirá profundizar en la experiencia comprobable con Oracle y PL/SQL.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: Entity Framework, LINQ, MVC/MVVM, PL/SQL, Experiencia comprobable en Oracle"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-java-sonda-santiago",
+        "titulo": "Desarrollador Java",
+        "empresa": "SONDA",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-06 23:46:03",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este es un cargo de desarrollador Java híbrido en SONDA, ideal para un Ingeniero Civil Informático con experiencia en backend y desarrollo full-stack, que busca aplicar sus conocimientos en Java, Spring Boot y React en un entorno con metodologías ágiles y oportunidades de desarrollo.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: Redux, Context API, Liquibase, Flyway, PL/SQL"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ai-aws-support-engineer-softserve-remote",
+        "titulo": "Support Engineer (AWS & IA)",
+        "empresa": "Softserve",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-06 23:46:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/practicante-area-comercial-zerviz-technologies-santiago",
+        "titulo": "Practicante Área Comercial",
+        "empresa": "Zerviz Technologies",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-11-06 23:46:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/ingeniero-de-soporte-operacional-n1-n2-agilistik-santiago",
+        "titulo": "Ingeniero de Soporte Operacional N1/N2",
+        "empresa": "Agilistik",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-06 23:46:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-en-santiago-centro-48D850A17F8DF4AC61373E686DCF3405",
+        "titulo": "Desarrollador .net",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-06 23:46:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programador-en-santiago-centro-BE0FA6D657DFB71F61373E686DCF3405",
+        "titulo": "Analista programador",
+        "empresa": "MM ASESORIAS",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-06 23:46:26",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Un cargo de Analista Programador híbrido en una empresa bancaria en Santiago, que podría interesarle al candidato por su experiencia en Python y SQL Server, aunque requeriría aprender Visual Basic 6 para la migración de herramientas legacy.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Visual Basic 6"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-html-c-en-santiago-las-condes-8039CBC27C08CD7261373E686DCF3405",
+        "titulo": "Desarrollador .Net, Html, C#",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-06 23:46:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Presencial en Santiago (San Ramón)",
+        "avisos": [
+            "Piden 3 años de experiencia"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-devops-cloud-engineering-y-devsecops-modalidad-hibrida-en-santiago-centro-1647C45349AAFF0B61373E686DCF3405",
+        "titulo": "Ingeniero Devops/ Cloud engineering y DevSecOps",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-06 23:46:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mlpoperador-tolva-minera-los-pelambresturno-7x7-dia-y-noche-en-salamanca-3A811537652904E761373E686DCF3405",
+        "titulo": "MLP/Operador Tolva / Minera Los Pelambres/Turno 7x7 dia y noche",
+        "empresa": "Relix S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Salamanca, Coquimbo",
+        "fecha": "2026-11-06 23:47:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-telesoporte-reemplazo-en-santiago-las-condes-CB49BB109652E89561373E686DCF3405",
+        "titulo": "Analista de Telesoporte",
+        "empresa": "First EST CAP",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-06 23:47:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-seguridad-de-la-informacion-information-security-business-partner-en-santiago-providencia-01CE5449E5A36F7761373E686DCF3405",
+        "titulo": "Especialista en Seguridad de la Información / Information Security Business Partner",
+        "empresa": "Sodexo Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-06 23:47:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-a-de-servicios-remotos-en-santiago-vitacura-E0169F42C1588E5561373E686DCF3405",
+        "titulo": "Operador a de Servicios Remotos",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Vitacura, R.Metropolitana",
+        "fecha": "2026-11-06 23:47:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-contador-con-experiencia-en-activos-fijos-y-contratos-de-arrendamiento-en-santiago-centro-BDE74E0A41D7E11B61373E686DCF3405",
+        "titulo": "Analista Financiero / Contador con experiencia en activos fijos y contratos de arrendamiento",
+        "empresa": "C&S informática SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-06 23:47:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-a-fullstack-ssr-frontend-aws-serverless-3927932",
+        "titulo": "Desarrollador/a Fullstack SSR - Frontend +",
+        "empresa": "Haibu solutions",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 23:47:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'SSR'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-net-3928016",
+        "titulo": "Desarrollador .NET",
+        "empresa": "Trc recruitme",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 23:47:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Inglés avanzado'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tech-lead-3928037",
+        "titulo": "Tech Lead",
+        "empresa": "Trc recruitme",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 23:47:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-de-soporte-de-aplicaciones-ti-3928050",
+        "titulo": "Jefe de Soporte de Aplicaciones TI",
+        "empresa": "Arpher spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 23:47:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Jefe'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/especialista-de-soporte-3927911",
+        "titulo": "Especialista de Soporte",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 23:47:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
