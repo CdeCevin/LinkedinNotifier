@@ -23586,5 +23586,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-senior-at-factorit-4486947693",
+        "titulo": "Desarrollador/a Full-Stack Senior",
+        "empresa": "FactorIT",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 10:51:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-qa-pk-engineer-aemobileadaptativechromium-1793951883837-en-chile-chico-3A2B79071A4A5F0361373E686DCF3405",
+        "titulo": "QA PK Engineer aemobileadaptativechromium 1793951883837",
+        "empresa": "CTBJ Company EN500",
+        "fuente": "Computrabajo",
+        "ubicacion": "Chile Chico, Aysén del Gral. C. Ibañez del Campo",
+        "fecha": "2026-11-06 10:52:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Es una practica profesional o cargo para estudiantes"
     }
 ]
