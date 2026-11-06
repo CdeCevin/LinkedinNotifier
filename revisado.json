@@ -23451,5 +23451,140 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-engineer-net-react-at-zipdev-4488042754",
+        "titulo": "Senior Full-Stack Engineer (.NET & React)",
+        "empresa": "Zipdev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-06 01:32:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-senior-react-node-js-hibrido-at-stefanini-group-4486924244",
+        "titulo": "Full Stack Developer Senior- React - Node.js - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 01:32:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-desarrollador-fullstack-at-r-y-c-consultores-asociados-4485859759",
+        "titulo": "Analista-Desarrollador Fullstack",
+        "empresa": "R y C Consultores Asociados",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 01:32:57",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Analista-Desarrollador Fullstack remoto con foco en .NET Core y Angular podría interesarle al candidato por su modalidad remota y porque está actualmente aprendiendo C# y .NET, lo que le permitiría aplicar y profundizar sus conocimientos en un entorno profesional.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: Angular, Docker, Kubernetes, Jira"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-developer-at-ulvior-4485873824",
+        "titulo": "Backend Developer",
+        "empresa": "Ulvior",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-06 01:33:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sap-full-stack-developer-at-glencore-4486761611",
+        "titulo": "SAP Full Stack Developer",
+        "empresa": "Glencore",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-06 01:33:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativoa-en-santiago-las-condes-1A24466A7764D34B61373E686DCF3405",
+        "titulo": "Administrativo/a",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-06 01:33:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-2-administrativoa--las-condes-en-santiago-las-condes-0284D1E76726C14661373E686DCF3405",
+        "titulo": "2 Administrativo/a –  Las Condes",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-06 01:33:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativoa--las-condes-870000-en-santiago-las-condes-B024B0449559259A61373E686DCF3405",
+        "titulo": "Administrativo/a –  Las Condes – $870.000",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-06 01:33:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativoa--las-condes-en-santiago-las-condes-0F98B221300F00C461373E686DCF3405",
+        "titulo": "Administrativo/a –  Las Condes",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-06 01:33:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/subgerente-de-desarrollo-digital-3927391",
+        "titulo": "Subgerente de desarrollo digital",
+        "empresa": "Kibernum",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 01:33:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Subgerente'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-fullstack-intermedio-3927345",
+        "titulo": "Ingeniero Fullstack Intermedio",
+        "empresa": "Ryc consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 01:33:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Vue.js, AWS, PostgreSQL, Kubernetes, OAuth 2.0)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/data-developer-senior-ia-y-reporteria-3927393",
+        "titulo": "Data Developer Senior - IA y",
+        "empresa": "Ps grupo hunting",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-06 01:33:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
     }
 ]
