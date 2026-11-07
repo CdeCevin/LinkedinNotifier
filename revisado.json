@@ -24261,5 +24261,27 @@
         "avisos": [
             "Tecnologias que no estan en tu CV: NestJS"
         ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-ti-y-sistemas-junior-independencia-en-santiago-quilicura-A7B9DA1228ACD59761373E686DCF3405",
+        "titulo": "Analista de Soporte TI y Sistemas Junior",
+        "empresa": "ATCOM",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-07 19:27:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/encargada-o-de-bodega-e-inventario-con-tecnologia-de-punta-shopper-o-3917704",
+        "titulo": "ENCARGADA/O DE BODEGA E INVENTARIO CON",
+        "empresa": "O",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Antofagasta",
+        "fecha": "2026-11-07 19:27:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
