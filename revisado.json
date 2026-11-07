@@ -24236,5 +24236,16 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/forward-deployed-engineer-python-%2B-ai-remote-latin-america-at-fullstack-4480167729",
+        "titulo": "Forward Deployed Engineer (Python + AI) - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-07 07:09:30",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Advanced English'"
     }
 ]
