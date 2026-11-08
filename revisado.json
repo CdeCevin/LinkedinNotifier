@@ -24294,5 +24294,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'SSR'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-gis-valparaiso-1050000-en-vina-del-mar-841A3F76587BC3BA61373E686DCF3405",
+        "titulo": "Programador GIS / Valparaiso / $1.050.000",
+        "empresa": "Eurofirms Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Viña del Mar, Valparaíso",
+        "fecha": "2026-11-08 07:19:27",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Viña del Mar, Valparaíso)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tens-administrativo-sistema-de-turnos-en-santiago-las-condes-8BE2CA2934906BFF61373E686DCF3405",
+        "titulo": "Tens Administrativo",
+        "empresa": "CIMENTA S.A, ADMINISTRADORA GENERAL DE FONDOS",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-08 07:19:27",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
