@@ -24283,5 +24283,16 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-fullstack-ssr-frontend-%2B-aws-serverless-at-haibu-solutions-4488730713",
+        "titulo": "Desarrollador/a Fullstack SSR - Frontend + AWS Serverless",
+        "empresa": "Haibu Solutions",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-08 00:35:27",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'SSR'"
     }
 ]
