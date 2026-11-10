@@ -25471,5 +25471,137 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-at-owl-team-solutions-4487493190",
+        "titulo": "Full stack Engineer",
+        "empresa": "OWL TEAM SOLUTIONS",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-10 13:29:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-desarrollo-at-falabella-4487293621",
+        "titulo": "Ingeniero Desarrollo",
+        "empresa": "Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-10 13:29:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-inteligencia-artificial-at-kabeli-selecci%C3%B3n-4487518194",
+        "titulo": "Ingeniero Inteligencia Artificial",
+        "empresa": "Kabeli Selección",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-10 13:29:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/shopify-front-end-developer-website-editor-at-scalejet-ecommerce-recruitment-agency-4486063551",
+        "titulo": "Shopify Front-End Developer & Website Editor",
+        "empresa": "ScaleJet | eCommerce Recruitment agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-10 13:29:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-plataformas-senior-at-empresa-confidencial-4487524900",
+        "titulo": "Ingeniero de Plataformas Senior",
+        "empresa": "Empresa Confidencial",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-10 13:29:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/1047-t%C3%A9cnico-para-administraci%C3%B3n-y-an%C3%A1lisis-de-la-informaci%C3%B3n-mca-o%C2%B4higgins-20-horas-semanales-at-corporaci%C3%B3n-opci%C3%B3n-4487433199",
+        "titulo": "(1047) Técnico para Administración y Análisis de la Información - MCA O´Higgins (20 horas semanales)",
+        "empresa": "Corporación Opción",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-11-10 13:29:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-para-integracion-erpapis-rest-modalidad-remota-por-proyecto-en-santiago-centro-D95F6EC3040122AD61373E686DCF3405",
+        "titulo": "Desarrollador Fullstack para integración ERP/Apis Rest",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-10 13:29:45",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Angular, WSO2, NGINX)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-de-mantenimiento-en-graneros-en-graneros-4C4CF696F14A2D5361373E686DCF3405",
+        "titulo": "Programador de Mantenimiento en Graneros",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Graneros, Libertador B. O Higgins",
+        "fecha": "2026-11-10 13:29:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-agricola-agronomo-molina-en-molina-52B132B65B75085A61373E686DCF3405",
+        "titulo": "Técnico Agrícola (Agrónomo)",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Molina, Maule",
+        "fecha": "2026-11-10 13:29:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-operaciones-logisticas-senior-en-talcahuano-059DD6E9357A0DEE61373E686DCF3405",
+        "titulo": "Jefe de Operaciones Logísticas Senior",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Talcahuano, Bíobío",
+        "fecha": "2026-11-10 13:29:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-ti-quilicura-en-santiago-quilicura-BBDB4408FACBB47961373E686DCF3405",
+        "titulo": "Técnico de Soporte TI",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-10 13:29:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-y-desarrollo-3929291",
+        "titulo": "TECNICO EN SISTEMAS Y DESARROLLO",
+        "empresa": "Rio claro integral solution..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Coquimbo",
+        "fecha": "2026-11-10 13:29:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Coquimbo)"
     }
 ]
