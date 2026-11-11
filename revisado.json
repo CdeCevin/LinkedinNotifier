@@ -26329,5 +26329,233 @@
         "avisos": [
             "Tecnologias que no estan en tu CV: OpenAI GPT, Azure Cognitive Services, Gobierno de IA, Mitigación de sesgos éticos, Vertex AI"
         ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-core-trabajo-remoto-ref%23309318-at-bairesdev-4489664382",
+        "titulo": "Ingeniero de Software .NET Core - Trabajo Remoto | REF#309318",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-11 02:48:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-microsoft-teams-net-developer-remote-work-ref%23309394-at-bairesdev-4489672161",
+        "titulo": "Senior Microsoft Teams & .NET Developer - Remote Work | REF#309394",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-11 02:48:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/java-engineer-spring-boot-at-applaudo-4489649543",
+        "titulo": "Java Engineer (Spring Boot)",
+        "empresa": "Applaudo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-11 02:48:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Strong English'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-rust-consumer-at-kraken-4488635455",
+        "titulo": "Software Engineer - Rust - Consumer",
+        "empresa": "Kraken",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-11 02:48:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-net-react-cl-remoto-at-imagemaker-4488621488",
+        "titulo": "Full Stack .Net / React - CL - Remoto",
+        "empresa": "Imagemaker",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-11 02:49:19",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador Full Stack .NET/React para migración tecnológica y consolidación bancaria podría interesarle al candidato por su experiencia en backend, APIs, integración de IA y su proyecto de simulación contable, además de estar aprendiendo .NET y manejar React."
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-integrations-crawler-at-truv-4487866329",
+        "titulo": "Senior Software Engineer - Integrations, Crawler",
+        "empresa": "Truv",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-11 02:49:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-fullstack-engineer-at-toptal-4488642213",
+        "titulo": "Senior Fullstack Engineer",
+        "empresa": "Toptal",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-11 02:49:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-sap-abap-fiori-s-4hana-at-indra-group-4487858095",
+        "titulo": "Programador SAP ABAP / FIORI (S/4Hana)",
+        "empresa": "Indra Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-11 02:49:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-fintech-excellence-at-deel-4487850819",
+        "titulo": "Backend Engineer, Fintech Excellence",
+        "empresa": "Deel",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-11 02:49:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-senior-l%C3%ADder-at-mandomedio-4488615804",
+        "titulo": "Desarrollador Senior Líder",
+        "empresa": "Mandomedio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-11 02:49:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/generative-ai-engineer-at-sonda-4488641203",
+        "titulo": "Generative AI Engineer",
+        "empresa": "SONDA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-11 02:49:33",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Generative AI Engineer en SONDA busca un profesional para diseñar e implementar soluciones de IA generativa con LLMs y Azure, lo cual podría interesarle al candidato por su experiencia en integración de IA, desarrollo backend con Python y arquitectura de sistemas resilientes.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Foundry Agent Service, Azure OpenAI, Azure AI Search, Semantic Kernel, LangChain"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/technical-architect-at-marcus-thomas-llc-4487848477",
+        "titulo": "Technical Architect",
+        "empresa": "Marcus Thomas LLC",
+        "fuente": "LinkedIn",
+        "ubicacion": "Buenos Aires, Maule Region, Chile",
+        "fecha": "2026-11-11 02:49:38",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/network-and-system-design-specialist-%E2%80%93-automation-at-sandvik-4487860250",
+        "titulo": "Network and System Design Specialist – Automation",
+        "empresa": "Sandvik",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-11-11 02:49:38",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-tocopilla-en-tocopilla-E4353C3E0EEB58C761373E686DCF3405",
+        "titulo": "Programador / Tocopilla",
+        "empresa": "Eurofirms Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Tocopilla, Antofagasta",
+        "fecha": "2026-11-11 02:49:38",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Tocopilla, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-planificador-de-mantenimiento-tocopilla-en-tocopilla-884B24E454C2E92961373E686DCF3405",
+        "titulo": "Programador / Planificador de Mantenimiento / Tocopilla",
+        "empresa": "Eurofirms Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Tocopilla, Antofagasta",
+        "fecha": "2026-11-11 02:49:39",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Tocopilla, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-planificador-de-mantenimiento-mejillones-en-mejillones-7A7F7E702AAC946D61373E686DCF3405",
+        "titulo": "Programador / Planificador de Mantenimiento / Mejillones",
+        "empresa": "Eurofirms Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Mejillones, Antofagasta",
+        "fecha": "2026-11-11 02:49:39",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Mejillones, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-full-stack-java-angular-en-santiago-centro-A3F3E6A0A441D13361373E686DCF3405",
+        "titulo": "Desarrollador/a Full Stack Java / Angular",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-11 02:49:51",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Desarrollador/a Full Stack remoto con foco en integración de IA y APIs REST podría interesarle al candidato por su experiencia en backend Java, integración de IA con Google Gemini y desarrollo de APIs, aunque necesitaría familiarizarse con Angular.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Tecnologias que no estan en tu CV: Angular 18+, API Gateway (NGINX y/o WSO2), DevSecOps practices, Integración de plataformas Contact Center"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-rrhh-en-santiago-centro-B8874D74F2ECB6E861373E686DCF3405",
+        "titulo": "Asistente de RR.HH.",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-11 02:50:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-ti-ingles-intermedio-terreno-puerto-montt-en-puerto-montt-25599DFF579306AD61373E686DCF3405",
+        "titulo": "Soporte TI inglés intermedio, Terreno",
+        "empresa": "HB CONSULTORES SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-11-11 02:50:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-administrativo-media-jornada-temporada-primavera-verano-en-santiago-centro-0963A3873968B36161373E686DCF3405",
+        "titulo": "Asistente Administrativo Media Jornada",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-11 02:50:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
