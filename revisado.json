@@ -26557,5 +26557,54 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-backend-senior-java-spring-boot-node-js-gcp-riesgo-de-cr%C3%A9dito-at-zenta-group-4488639509",
+        "titulo": "Desarrollador/a Backend Senior | Java Spring Boot / Node.js | GCP | Riesgo de Crédito",
+        "empresa": "Zenta Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-11 10:55:52",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/staff-ai-product-engineer-at-jobgether-4488682123",
+        "titulo": "Staff AI Product Engineer",
+        "empresa": "Jobgether",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-11 10:55:52",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Staff'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-java-angular-integraciones-erp-rex-en-santiago-centro-3D93018D0C283F1161373E686DCF3405",
+        "titulo": "Desarrollador Full Stack Java  Angular Integraciones ERP Rex+",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-11 10:56:03",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "El cargo de Desarrollador Full Stack Java Angular con integraciones ERP podría interesarle al candidato por su sólida experiencia en backend con Java y Node.js, APIs REST, bases de datos SQL y metodologías ágiles, aunque necesitaría familiarizarse con Angular y las integraciones específicas de ERP como Rex+.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Angular, NGINX, WSO2, Rex+, DevSecOps"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tecnico-en-reparacion-de-impresoras-y-multifuncionales-terreno-y-laboratorio-3930088",
+        "titulo": "Técnico en Reparación de Impresoras y",
+        "empresa": "New office chile",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-11 10:56:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
