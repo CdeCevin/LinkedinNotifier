@@ -27060,5 +27060,228 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-back-end-python-aws-at-42labs-4489040777",
+        "titulo": "Desarrollador/a Back-end Python (AWS)",
+        "empresa": "42Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-12 01:34:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-%E2%80%93-react-next-js-nestjs-typescript-at-bc-tecnolog%C3%ADa-4488421519",
+        "titulo": "Desarrollador Full Stack – React / Next.js / NestJS / TypeScript",
+        "empresa": "BC Tecnología",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-12 01:34:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-python-at-haintech-solutions-4488243960",
+        "titulo": "Desarrollador Python",
+        "empresa": "Haintech Solutions",
+        "fuente": "LinkedIn",
+        "ubicacion": "Huechuraba, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-12 01:34:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Huechuraba, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-front-end-react-at-42labs-4489053265",
+        "titulo": "Desarrollador/a Front-end React",
+        "empresa": "42Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-12 01:34:30",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este rol de Desarrollador/a Front-end React es una excelente oportunidad para el candidato, dada su sólida experiencia en React y TypeScript, desarrollo de plataformas en producción y testing automatizado, además de su interés en la integración de IA, lo cual se valora positivamente en la oferta.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Next.js, Vite, React Query / TanStack Query, Redux Toolkit, Jest"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-de-sistema-at-banco-de-chile-4487770878",
+        "titulo": "Analista de sistema",
+        "empresa": "Banco de Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-12 01:34:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-prontopaga-4488425448",
+        "titulo": "Machine Learning Engineer",
+        "empresa": "ProntoPaga",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-12 01:34:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido con 3 dias presenciales en Santiago"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-maestro-programador-centro-mecanizado-cnc-con-experiencia-en-santiago-quinta-normal-A47AB107430797DF61373E686DCF3405",
+        "titulo": "Maestro programador centro mecanizado CNC",
+        "empresa": "COMERCIAL E INDUSTRIAL EUROPER SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quinta Normal, R.Metropolitana",
+        "fecha": "2026-11-12 01:34:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Quinta Normal, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-implementacion-buk-en-santiago-providencia-9BD5DE0F6E118C0B61373E686DCF3405",
+        "titulo": "Analista Implementación Buk",
+        "empresa": "BST SERVICIOS OPERACIONALES Y TECNOLOGICOS SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-12 01:34:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-buscamos-especialista-power-bi-para-importante-proyecto-en-mineria-las-condes-en-santiago-las-condes-F0C1AB57EB078AB361373E686DCF3405",
+        "titulo": "¡Buscamos Especialista Power BI para importante proyecto en minería",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-12 01:34:56",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este es un cargo de Especialista Power BI en minería, enfocado en la visualización y modelamiento de datos para KPIs, lo cual podría interesarle al candidato dado su experiencia con Power BI y Excel, y su perfil técnico en arquitectura de sistemas.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Las Condes): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: DAX, Power Query, Modelamiento de datos, Excel avanzado"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefea-de-proyecto-ecommerce-senior-en-santiago-centro-942BD47D79D162D661373E686DCF3405",
+        "titulo": "Jefe(a) de Proyecto eCommerce Senior",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-12 01:35:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-control-y-reportabilidad-copiapo-en-copiapo-8EAD05FB833406DC61373E686DCF3405",
+        "titulo": "Analista Control y Reportabilidad (Copiapó)",
+        "empresa": "CDO Servicios Empresariales",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-12 01:35:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-ingenieria-en-informatica-en-curico-319170B49C09038161373E686DCF3405",
+        "titulo": "Practica Ingenieria en Informatica",
+        "empresa": "DISTRIBUIDORA MAXIMA SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Curicó, Maule",
+        "fecha": "2026-11-12 01:35:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-comercial-de-desarrollo-de-proveedores-y-procurement-3930636",
+        "titulo": "Jefe comercial de desarrollo de proveedores",
+        "empresa": "Lyd cargo",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-12 01:35:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Jefe'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-qa-funcional-3930767",
+        "titulo": "ANALISTA QA FUNCIONAL",
+        "empresa": "Technology solutions",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-12 01:35:06",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Analista QA Funcional en Santiago podría interesarle al candidato por su sólida experiencia en testing automatizado (E2E y carga) y su conocimiento en APIs y SQL, aunque deberá familiarizarse con herramientas específicas como Jira, Xray, Postman y Swagger.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Jira, Xray, Postman/Swagger"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-constructor-o-constructor-civil-programador-de-obra-3930784",
+        "titulo": "INGENIERO CONSTRUCTOR O CONSTRUCTOR CIVIL PROGRAMADOR",
+        "empresa": "Empresa constructora",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-12 01:35:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/relator-a-de-agentes-de-ia-con-microsoft-copilot-curso-presencial-en-las-condes-3930710",
+        "titulo": "Relator/a de Agentes de IA con",
+        "empresa": "Bit capacitaciones",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-12 01:35:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/multitecnico-informatico-las-condes-3930431",
+        "titulo": "Multitécnico Informático – Las Condes",
+        "empresa": "Nodo talentos",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-12 01:35:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/supervisor-a-tecnico-a-audiovisual-las-condes-3930416",
+        "titulo": "Supervisor/a Técnico/a Audiovisual – Las Condes",
+        "empresa": "Nodo talentos",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-12 01:35:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/multitecnico-senior-las-condes-3930425",
+        "titulo": "Multitécnico Senior – Las Condes",
+        "empresa": "Nodo talentos",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-12 01:35:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
