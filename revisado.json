@@ -27283,5 +27283,49 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ai-tooling-at-jobgether-4489099573",
+        "titulo": "Software Engineer - AI Tooling",
+        "empresa": "Jobgether",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-12 11:03:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/wordpress-developer-remote-work-at-indi-staffing-services-4489974487",
+        "titulo": "WordPress Developer - Remote Work",
+        "empresa": "INDI Staffing Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-12 11:03:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gerente-de-operacoes-de-plataforma-web-en-santiago-las-condes-47F75A01F00DA3EA61373E686DCF3405",
+        "titulo": "Gerente de Operações de Plataforma Web",
+        "empresa": "ComuWeb Digital Communications",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-12 11:03:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Gerente'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tensejecutiva-planificacion-quirurgica-osorno-en-osorno-F6F52547701CCCC061373E686DCF3405",
+        "titulo": "TENS/Ejecutiva Planificación Quirúrgica",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Osorno, Los Lagos",
+        "fecha": "2026-11-12 11:03:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
