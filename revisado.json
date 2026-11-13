@@ -27985,5 +27985,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ii-latam-at-sumup-4489530187",
+        "titulo": "Software Engineer II - LatAm",
+        "empresa": "SumUp",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 07:56:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-power-platform-power-apps-offline-para-inspecciones-industriales-at-zenta-group-4489284563",
+        "titulo": "Desarrollador/a Power Platform | Power Apps offline para inspecciones industriales",
+        "empresa": "Zenta Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 07:56:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
     }
 ]
