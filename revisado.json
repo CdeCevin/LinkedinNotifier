@@ -27758,5 +27758,232 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-fullstack-react-node-cr-at-imagemaker-4490516326",
+        "titulo": "Developer Fullstack React/Node - CR",
+        "empresa": "Imagemaker",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-13 00:21:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-react-native-senior-at-genesys-global-4488553881",
+        "titulo": "Desarrollador React Native Senior",
+        "empresa": "Genesys Global",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 00:21:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-ai-software-engineer-%E2%80%93-payments-integrations-at-kashio-4487431151",
+        "titulo": "Senior AI Software Engineer – Payments & Integrations",
+        "empresa": "KASHIO",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-13 00:21:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-dise%C3%B1o-y-desarrollo-sist%C3%A9mico-at-sodimac-4490511584",
+        "titulo": "Ingeniero Diseño y Desarrollo Sistémico",
+        "empresa": "Sodimac",
+        "fuente": "LinkedIn",
+        "ubicacion": "Lo Espejo, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 00:21:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Lo Espejo, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/vulnerability-research-engineer-at-socket-4488557985",
+        "titulo": "Vulnerability Research Engineer",
+        "empresa": "Socket",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-13 00:22:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iv-data-cloud-google-cloud-english-portuguese-at-google-4489293934",
+        "titulo": "Forward Deployed Engineer IV, Data Cloud, Google Cloud (English, Portuguese)",
+        "empresa": "Google",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 00:22:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-platform-engineering-devops-1-a-3-a%C3%B1os-de-experiencia-at-ssi-outsourcing-4488562263",
+        "titulo": "Ingeniero/a Platform Engineering / DevOps 1 a 3 años de experiencia",
+        "empresa": "SSI Outsourcing",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 00:22:19",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero/a Platform Engineering / DevOps, con énfasis en automatización y desarrollo de software, podría interesarle al candidato por su sólida base en desarrollo backend, arquitectura de sistemas resilientes y experiencia en testing automatizado, habilidades clave para potenciar la entrega continua de soluciones.",
+        "avisos": [
+            "Hibrido en Santiago (Las Condes): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Kubernetes, Terraform, AWS, GitHub Actions, Go"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/integration-expert-buk-finanzas-at-buk-4489293983",
+        "titulo": "Integration Expert (Buk Finanzas)",
+        "empresa": "Buk",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 00:22:23",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Expert'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lider-tecnico-salesforce-at-kibernum-4488576208",
+        "titulo": "Lider Tecnico Salesforce",
+        "empresa": "Kibernum",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 00:22:23",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lider'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-backend-engineer-net-payments-remote-latin-america-at-fullstack-4490534723",
+        "titulo": "Senior Backend Engineer - .NET & Payments - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-13 00:22:23",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/international-business-development-lead-b2b-sales-sum-trading-remote",
+        "titulo": "International Business Development Lead (B2B Sales)",
+        "empresa": "SUM Trading",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-13 00:22:23",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/database-administrator-junior-prontopaga-santiago",
+        "titulo": "Database Administrator (Junior)",
+        "empresa": "ProntoPaga",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-13 00:22:24",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-0e78",
+        "titulo": "QA Funcional",
+        "empresa": "Dynamic Devs",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-13 00:22:32",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de QA Funcional podría interesarle al candidato por su sólida experiencia en testing automatizado end-to-end, pruebas de API REST y manejo de SQL, lo que se alinea directamente con los requisitos técnicos del puesto.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago de Chile): confirmar dias presenciales (maximo 2)"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/software-engineer-frontend-capital-express-santiago",
+        "titulo": "Software Engineer Front-end",
+        "empresa": "Capital Express",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-11-13 00:22:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Presencial - Chile)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-mantenimiento-electrico-electronico-en-santiago-huechuraba-987314B30504094961373E686DCF3405",
+        "titulo": "Asistente de Mantenimiento Eléctrico Electrónico",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-13 00:22:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-estudiante-en-practica-ingenieria-informatica-o-carrera-afin-en-vina-del-mar-51FD9A423CBAD5B661373E686DCF3405",
+        "titulo": "Estudiante en Práctica",
+        "empresa": "KEFI VENTURE SPA.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Viña del Mar, Valparaíso",
+        "fecha": "2026-11-13 00:22:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-atencion-clientes-contact-center-en-santiago-providencia-71FC8323D2F6A05061373E686DCF3405",
+        "titulo": "Ejecutivo de Atención Clientes Contact Center",
+        "empresa": "NUEVA MASVIDA SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-13 00:22:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-soporte-nivel-1-presencial-huechuraba-en-santiago-huechuraba-C687B39C98E3156561373E686DCF3405",
+        "titulo": "Técnico en Soporte Nivel 1 /Presencial Huechuraba",
+        "empresa": "Axity",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-13 00:22:37",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-operaciones-bancarias-junior-en-santiago-centro-0B039AA2DA16049061373E686DCF3405",
+        "titulo": "Analista de Operaciones Bancarias Junior",
+        "empresa": "C&S informática SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-13 00:22:37",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-atencion-al-cliente-presencial-temuco-en-temuco-55B533C53BA8D57961373E686DCF3405",
+        "titulo": "Ejecutivo Atención al Cliente Presencial Temuco",
+        "empresa": "NUEVA MASVIDA SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Temuco, Araucanía",
+        "fecha": "2026-11-13 00:22:37",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
