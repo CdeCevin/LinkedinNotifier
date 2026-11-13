@@ -28396,5 +28396,210 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-at-drimo-4488964339",
+        "titulo": "Full Stack Developer",
+        "empresa": "Drimo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 22:37:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-exp-oracle-cloud-infrastructure-at-apiux-tech-4488985443",
+        "titulo": "Desarrollador Fullstack - Exp Oracle Cloud Infrastructure",
+        "empresa": "Apiux Tech",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 22:38:08",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Oracle Cloud Infrastructure (OCI), Oracle PL/SQL, Jira, Docker, OKE)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-developer-remote-rancagua-at-blacksmith-agency-4490763554",
+        "titulo": "AI Developer (Remote, Rancagua)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-13 22:38:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-oracle-at-sermaluc-4490783533",
+        "titulo": "Ingeniero de Integración Oracle",
+        "empresa": "Sermaluc",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 22:38:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-agentic-ai-python-%2B-langchain-at-seeds-4489822458",
+        "titulo": "AI Engineer - Agentic AI (Python + LangChain)",
+        "empresa": "Seeds",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-13 22:38:39",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de AI Engineer en Santiago, con foco en Python y agentes de IA, podría interesarle al candidato por su sólida experiencia en desarrollo backend, integración de IA con Google Gemini y manejo de Python, aunque deberá familiarizarse con LangChain, Azure y Databricks.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: LangChain, Azure, Databricks, Nociones de capas semánticas, ontologías o modelado de datos para BI"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-bc-tecnologia-santiago-b211",
+        "titulo": "Full-Stack Semi Senior – Node.js / TypeScript / React / IA",
+        "empresa": "BC Tecnología",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programadora-operador-torno-cnc-lampa-turno-noche-en-lampa-E79717DCF520FD9A61373E686DCF3405",
+        "titulo": "Programador/a Operador Torno CNC",
+        "empresa": "5SConsultores",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Lampa, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-full-stack-semi-senior-nodejs-typescript-react-ia-hibrido-en-santiago-centro-6B23B9328FDFA6F261373E686DCF3405",
+        "titulo": "Full Stack Semi Senior – Node.js / TypeScript / React / IA",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-nivel-1-en-santiago-providencia-C2D29C1D61E6367D61373E686DCF3405",
+        "titulo": "Soporte Informatico",
+        "empresa": "Consultame",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-informatica-en-iquique-B900519D27D50E9461373E686DCF3405",
+        "titulo": "Técnico en Informática",
+        "empresa": "TERMINAL AGROPECUARIO IQUIQUE S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Iquique, Tarapacá",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Iquique, Tarapacá)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-sistema-tratamiento-en-san-pedro-A7024D04BF21968961373E686DCF3405",
+        "titulo": "Operador Sistema Tratamiento",
+        "empresa": "Agrosuper S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "San Pedro, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tech-lead-en-santiago-las-condes-C865E8EC93E9104761373E686DCF3405",
+        "titulo": "Tech Lead",
+        "empresa": "Dily",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefea-de-inteligencia-de-negocios-rubro-hormigon-o-industrial-en-santiago-las-condes-3189040855EB617361373E686DCF3405",
+        "titulo": "Jefe(a) de Inteligencia de Negocios – Rubro Hormigón o Industrial",
+        "empresa": "Táctica Consultores",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-talento-y-desarrollo-ia-y-automatizacion-en-santiago-nunoa-4BD892CCBA74DE7261373E686DCF3405",
+        "titulo": "Analista de Talento y Desarrollo – IA y Automatización",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Ñuñoa, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Ñuñoa, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-emision-de-polizas-las-condes-reemplazo-en-santiago-las-condes-A77AAE88E2DB7CDA61373E686DCF3405",
+        "titulo": "Analista Emisión de Pólizas Las Condes Reemplazo",
+        "empresa": "ECRGROUP®️",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/full-stack-semi-senior-nodejs-typescript-react-ia-3931976",
+        "titulo": "Full Stack Semi Senior – Node.js",
+        "empresa": "Bctecnologia.com",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-13 22:38:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-python-gcp-3932040",
+        "titulo": "Desarrollador Fullstack Python GCP",
+        "empresa": "Kibernum",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-13 22:38:51",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador Fullstack Python/GCP con foco en ETL y IA podría interesarle al candidato por su sólida experiencia en Python, Google Cloud, APIs REST e integración de Inteligencia Artificial.",
+        "avisos": [
+            "Hibrido en Santiago (Las Condes): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: BigQuery, Cloud Run, pipelines ETL, modelo Medallón"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tecnico-especialista-en-laptops-ultrapc-dhc-providencia-3773848",
+        "titulo": "Técnico Especialista en Laptops - Ultrapc",
+        "empresa": "Ultrapc dhc spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-13 22:38:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
