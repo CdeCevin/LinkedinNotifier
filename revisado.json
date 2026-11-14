@@ -28601,5 +28601,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-de-recaudo-at-busmatick-group-4488986986",
+        "titulo": "Analista de recaudo",
+        "empresa": "Busmatick Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-14 03:13:28",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-builder-lead-tech-lead-full-stack-at-mandomedio-4488615804",
+        "titulo": "Product Builder Lead / Tech Lead Full Stack",
+        "empresa": "Mandomedio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-14 03:13:28",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
     }
 ]
