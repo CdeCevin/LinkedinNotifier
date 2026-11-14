@@ -28634,5 +28634,16 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/consultor-a-t%C3%A9cnico-de-netsuite-at-oracle-4481002640",
+        "titulo": "Consultor/a Técnico de NetSuite",
+        "empresa": "Oracle",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-14 17:06:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
