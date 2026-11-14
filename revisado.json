@@ -28623,5 +28623,16 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/web-developer-1562-chile-at-bionic-talent-4489857353",
+        "titulo": "Web Developer - 1562 - Chile",
+        "empresa": "Bionic Talent",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-14 10:24:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
