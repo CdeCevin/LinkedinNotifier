@@ -28645,5 +28645,16 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-ejecucion-en-electricidad-en-santiago-providencia-CC0CAF143E6150B761373E686DCF3405",
+        "titulo": "Ingeniero ejecución en electricidad",
+        "empresa": "TECHCONTROL SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-14 21:30:06",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
