@@ -28689,5 +28689,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-frontend-developer-at-epam-systems-4490237443",
+        "titulo": "Senior Frontend Developer",
+        "empresa": "EPAM Systems",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-15 17:44:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-frontend-developer-at-epam-systems-4490243309",
+        "titulo": "Lead Frontend Developer",
+        "empresa": "EPAM Systems",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-15 17:44:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-bi-data-analytics-3932326",
+        "titulo": "Analista BI & Data Analytics",
+        "empresa": "Grupo rh chile",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-15 17:44:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
     }
 ]
