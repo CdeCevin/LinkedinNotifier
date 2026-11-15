@@ -28656,5 +28656,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-produccion-lampa-en-lampa-C6505565993DA8E861373E686DCF3405",
+        "titulo": "Operador de Producción",
+        "empresa": "5SConsultores",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-11-15 10:51:08",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soldador-rematador-o-soldador-armador-lampa-en-lampa-A6EC6EB564690A8561373E686DCF3405",
+        "titulo": "Soldador Rematador o Soldador Armador",
+        "empresa": "5SConsultores",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-11-15 10:51:08",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-corte-plasma-y-laser-lampa-en-lampa-1377F477D1DDA74F61373E686DCF3405",
+        "titulo": "Operador de Corte Plasma y Láser",
+        "empresa": "5SConsultores",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-11-15 10:51:08",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
