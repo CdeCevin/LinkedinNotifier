@@ -28722,5 +28722,60 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-infraestructura-electrica-region-de-ohiggins-en-rancagua-19C8880FFDE2D03C61373E686DCF3405",
+        "titulo": "Coordinador de Infraestructura Eléctrica – Región de O'Higgins",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Rancagua, Libertador B. O Higgins",
+        "fecha": "2026-11-16 07:59:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operativo-multiservicio-full-time-chicureo-proyecto-en-colina-90A1C7343E1EF17C61373E686DCF3405",
+        "titulo": "Operativo Multiservicio Full Time Chicureo (Proyecto)",
+        "empresa": "Fram Spa.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Colina, R.Metropolitana",
+        "fecha": "2026-11-16 07:59:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisoraor-7x7-calama-7x7-calama-en-calama-66D617009AE12F3B61373E686DCF3405",
+        "titulo": "Supervisora/or 7x7 Calama",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-11-16 07:59:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-red-y-servicio-puerto-montt-en-puerto-montt-76BCB4DF73F6AE0261373E686DCF3405",
+        "titulo": "Técnico de Red y Servicio",
+        "empresa": "PSINet.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-11-16 07:59:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-especialista-sistemas-contra-incendio-copiapo-en-copiapo-C3DA7E9EB29D569261373E686DCF3405",
+        "titulo": "Técnico especialista sistemas contra incendio",
+        "empresa": "Johnson Controls",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-16 07:59:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Copiapó, Atacama)"
     }
 ]
