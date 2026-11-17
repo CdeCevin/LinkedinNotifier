@@ -29297,5 +29297,261 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Coordinador'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ssr-sr-backend-developer-java-at-stefanini-latam-4490926628",
+        "titulo": "Ssr/Sr Backend Developer (Java)",
+        "empresa": "Stefanini LATAM",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 03:52:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Ssr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/claude-certified-developer-at-conkord-4490970080",
+        "titulo": "Claude Certified Developer",
+        "empresa": "CONKORD",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-17 03:52:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Area)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-java-%2B-aws-at-acl-4489785063",
+        "titulo": "Líder técnico (Java + AWS)",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-17 03:52:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Líder'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programadora-centro-mecanizado-lampa-turno-noche-en-lampa-1D500EFEDDB69A5161373E686DCF3405",
+        "titulo": "Programador/a Centro Mecanizado",
+        "empresa": "5SConsultores",
+        "fuente": "Computrabajo",
+        "ubicacion": "Lampa, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Lampa, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-desarrollo-comercial-prospeccion-de-clientes-b2b-en-santiago-providencia-1AF4CE318C95F89F61373E686DCF3405",
+        "titulo": "Analista de Desarrollo Comercial",
+        "empresa": "INGENIERIA Y CONSTRUCCION TECHEK SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:24",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-electronico-quilicura-en-santiago-quilicura-B44512B1047F48E161373E686DCF3405",
+        "titulo": "Electrónico",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-senior-de-ciberseguridad-gestion-modalidad-hibrida-en-santiago-centro-FD86564E677E9B5D61373E686DCF3405",
+        "titulo": "Ingeniero Senior de Ciberseguridad (Gestión)",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-senior-de-ciberseguridad-modalidad-hibrida-en-santiago-centro-33B05E0450F9E95761373E686DCF3405",
+        "titulo": "Ingeniero senior de Ciberseguridad",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-ciberseguridad-perimetro-modalidad-hibrida-en-santiago-centro-D9A837EA021E301A61373E686DCF3405",
+        "titulo": "Jefe de Ciberseguridad (Perímetro)",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-junior-de-ciberseguridad-modalidad-hibrida-en-santiago-centro-85F8EC4A46E94BC661373E686DCF3405",
+        "titulo": "Ingeniero Junior de Ciberseguridad",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-administrativo-rrhh-providencia-en-santiago-providencia-F6A7CA8D50D1C41A61373E686DCF3405",
+        "titulo": "Asistente Administrativo RRHH",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mecanicos-b-proyecto-copiapo-en-copiapo-E3D01205D118318A61373E686DCF3405",
+        "titulo": "Mecánicos B, proyecto",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-soporte-pos-arica-en-arica-5E29C4184DFD299461373E686DCF3405",
+        "titulo": "Analista Soporte POS",
+        "empresa": "Stefanini Chile S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Arica, Arica y Parinacota",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mecanico-b-copiapo-en-copiapo-4F082ADD645EBFCA61373E686DCF3405",
+        "titulo": "mecanico B",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargado-mantenimiento-antofagasta-en-antofagasta-93E455AF03537DE161373E686DCF3405",
+        "titulo": "encargado mantenimiento",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-de-terreno-turno-7x7-en-copiapo-CA380D75EE40DCC361373E686DCF3405",
+        "titulo": "Supervisor de terreno",
+        "empresa": "MASTER SERVICES",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-comercio-exterior-comex-la-reina-en-santiago-la-reina-35ADA818028932B561373E686DCF3405",
+        "titulo": "Analista de Comercio Exterior (comex)",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - La Reina, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mecanicoa-maquinaria-pesada-copiapo-en-copiapo-2995CAD1A1024B6661373E686DCF3405",
+        "titulo": "Mecánico/a maquinaria pesada",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrativo-a-tecnico-nivel-medio-en-la-union-363A0819B950B6EF61373E686DCF3405",
+        "titulo": "Administrativo (a)",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "La Unión, Los Ríos",
+        "fecha": "2026-11-17 03:52:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-bi-y-datos-en-santiago-las-condes-80DEA4EF5AD0A68F61373E686DCF3405",
+        "titulo": "Analista BI y datos",
+        "empresa": "Michael Page",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-17 03:52:38",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido con 3 dias presenciales en Santiago",
+        "avisos": [
+            "Piden 3 años de experiencia"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-cobol-proyecto-01-mes-3933118",
+        "titulo": "Desarrollador Cobol - Proyecto 01 mes",
+        "empresa": "Sermaluc",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-17 03:52:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (COBOL, JCL, DB2)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/operador-centro-de-mecanizado-3932963",
+        "titulo": "Operador CENTRO DE MECANIZADO",
+        "empresa": "Maquimal",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-17 03:52:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/coordinador-de-logistica-3933079",
+        "titulo": "COORDINADOR DE LOGÍSTICA",
+        "empresa": "Mercotrans spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-17 03:52:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
