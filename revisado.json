@@ -29553,5 +29553,281 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-at-tata-consultancy-services-4491568306",
+        "titulo": "Senior Software Engineer",
+        "empresa": "Tata Consultancy Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:23:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-at-jobgether-4490418119",
+        "titulo": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+        "empresa": "Jobgether",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-17 14:23:26",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/developer-react-native-typescript-at-genesys-global-4490465033",
+        "titulo": "Developer React Native/TypeScript",
+        "empresa": "Genesys Global",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:23:36",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Desarrollador React Native Senior 100% remoto en el sector bancario podría interesarle por su sólida experiencia en React Native, TypeScript, desarrollo de APIs y testing automatizado, además de su interés en proyectos de alto impacto.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Tecnologias que no estan en tu CV: Redux / Redux Toolkit / Context API, Jest y React Native Testing Library, CI/CD (GitHub Actions, Bitrise, Azure DevOps, Jenkins o equivalente), Conocimientos intermedios de Android e iOS nativo, Conocimientos de seguridad móvil y OWASP Mobile Top 10"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-mainframe-at-sermaluc-4490156049",
+        "titulo": "Desarrollador Mainframe",
+        "empresa": "Sermaluc",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:23:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (COBOL Batch, JCL, DB2, Host, Zowe Explorer)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-zendesk-desarrollador-semipresencial-at-del-mar-technology-group-4491578015",
+        "titulo": "Senior Zendesk Desarrollador, Semipresencial",
+        "empresa": "Del Mar Technology Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:23:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-mobile-nativo-senior-ios-android-at-acl-4488993641",
+        "titulo": "Desarrollador Mobile Nativo Senior (iOS & Android)",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:23:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/powercenter-java-developer-at-talan-4491171431",
+        "titulo": "PowerCenter / Java Developer",
+        "empresa": "Talan",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:23:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-falabella-4490940104",
+        "titulo": "Software Engineer",
+        "empresa": "Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:24:02",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero de Software en Falabella se enfoca en ingeniería de datos con Python, SQL y Google Cloud, lo cual se alinea con la experiencia del candidato en desarrollo backend, APIs y manejo de datos, ofreciéndole la oportunidad de aplicar sus habilidades en un entorno de gran escala.",
+        "avisos": [
+            "Hibrido en Santiago (Las Condes): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: BigQuery, Salesforce, RPA"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-senior-net-react-proyecto-1-a%C3%B1o-at-atcom-chile-4490140642",
+        "titulo": "Desarrollador Full Stack Senior .NET / React | Proyecto 1 año",
+        "empresa": "ATCOM Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:24:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-senior-full-stack-%E2%80%93-vb6-oracle-sistemas-legacy-at-atcom-chile-4490152092",
+        "titulo": "Desarrollador Senior Full Stack – VB6 / Oracle | Sistemas Legacy",
+        "empresa": "ATCOM Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:24:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-developer-powercenter-o-idmc-at-orantex-tech-4490452579",
+        "titulo": "Senior Developer PowerCenter o IDMC",
+        "empresa": "Orantex Tech",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:24:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-datos-o-m-energ%C3%ADas-renovables-at-tritec-intervento-4490177814",
+        "titulo": "Ingeniero de Datos O&M - Energías Renovables",
+        "empresa": "TRITEC-Intervento",
+        "fuente": "LinkedIn",
+        "ubicacion": "Providencia, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:24:05",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Providencia, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-datos-o-m-energ%C3%ADas-renovables-at-tritec-services-4490162959",
+        "titulo": "Ingeniero de Datos O&M - Energías Renovables",
+        "empresa": "TRITEC SERVICES",
+        "fuente": "LinkedIn",
+        "ubicacion": "Providencia, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-17 14:24:06",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Providencia, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/full-stack-developer-blueworks-crm-remote",
+        "titulo": "Full-Stack Developer",
+        "empresa": "Blueworks CRM",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-17 14:24:06",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-543b",
+        "titulo": "Software Engineer (6 Meses)",
+        "empresa": "Grupo Lagos",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-17 14:24:12",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Software Engineer en Transformación Digital se alinea con su experiencia en backend, APIs REST y arquitectura de sistemas resilientes, ofreciendo la oportunidad de diseñar y construir soluciones de alto impacto.",
+        "avisos": [
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: Vue.js, Angular, Go, PostgreSQL"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-de-trafico-en-santiago-quinta-normal-31D12E8D9809B38E61373E686DCF3405",
+        "titulo": "Programador de Trafico",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quinta Normal, R.Metropolitana",
+        "fecha": "2026-11-17 14:24:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Quinta Normal, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-buscamos-un-mecanico-administrativo-en-talca-en-talca-76D63239831A084861373E686DCF3405",
+        "titulo": "¡Buscamos un mecánico administrativo en Talca!",
+        "empresa": "Holding Grupo Firma ( GF SYSTEM )",
+        "fuente": "Computrabajo",
+        "ubicacion": "Talca, Maule",
+        "fecha": "2026-11-17 14:24:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-de-operaciones-tocopilla-en-tocopilla-1E6724FF4A19B04861373E686DCF3405",
+        "titulo": "Supervisor de Operaciones",
+        "empresa": "Empresas HumanNet - Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Tocopilla, Antofagasta",
+        "fecha": "2026-11-17 14:24:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-instrumentista-planta-la-negra-en-antofagasta-DB49D9044C0F8B9B61373E686DCF3405",
+        "titulo": "Instrumentista",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-17 14:24:16",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-datos-en-santiago-providencia-0F3334464B0AA27E61373E686DCF3405",
+        "titulo": "Ingeniero de datos",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-17 14:24:23",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-de-proyectos-de-telecomunicaciones-core-mpls-en-santiago-centro-465A4DC7A0B5678961373E686DCF3405",
+        "titulo": "Coordinador/a de Proyectos de Telecomunicaciones",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-17 14:24:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operadora-de-servicios-digitales-en-santiago-providencia-F17972EBA0D420BF61373E686DCF3405",
+        "titulo": "Operador(a) de Servicios Digitales",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-17 14:24:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-subcontratos-reemplazo-pre-y-post-natal-en-antofagasta-570BF9B333577BFF61373E686DCF3405",
+        "titulo": "Analista Subcontratos (Reemplazo pre y post natal)",
+        "empresa": "Maestranza Diesel S.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-17 14:24:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargadoa-de-soporte-ti-maxam-chile-santiago-en-santiago-las-condes-D5C02E3AA5E89D6461373E686DCF3405",
+        "titulo": "Encargado/a de Soporte TI",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-17 14:24:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
     }
 ]
