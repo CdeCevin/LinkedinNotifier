@@ -30519,5 +30519,148 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-a-business-central-at-confidencial-4490877769",
+        "titulo": "Programador/a Business Central",
+        "empresa": "Confidencial",
+        "fuente": "LinkedIn",
+        "ubicacion": "Talca, Maule Region, Chile",
+        "fecha": "2026-11-18 13:58:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Microsoft Dynamics 365 Business Central, Lenguaje AL, Experiencia en desarrollo sobre Microsoft Dynamics 365 Business Central)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-ia-at-acid-labs-4492039091",
+        "titulo": "Fullstack Developer (IA)",
+        "empresa": "Acid Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-18 13:58:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-senior-at-owl-team-solutions-4491302050",
+        "titulo": "Programador Senior",
+        "empresa": "OWL TEAM SOLUTIONS",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-18 13:58:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-developer-semi-senior-at-eva-learning-4490886615",
+        "titulo": "Data Developer Semi senior",
+        "empresa": "EVA-Learning",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-18 13:58:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi senior'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-de-dispositivos-iot-ecometric-concepcion",
+        "titulo": "IoT Device Developer",
+        "empresa": "Ecometric",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-18 13:58:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (desarrollo de dispositivos electrónicos IoT, producción en serie de dispositivos, trabajo en terreno (instalación, mantenimiento))"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-especialista-mecanico-centinela-7x7-en-antofagasta-95B0A2317A6E905161373E686DCF3405",
+        "titulo": "Ingeniero especialista Mecánico (centinela)",
+        "empresa": "J.E.J INGENIERIA S.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-643000-recepcionista-despachador-frio-quilicura-lunes-a-viernes-en-santiago-quilicura-87F3CFFE3D6B637961373E686DCF3405",
+        "titulo": "$643.000 Recepcionista Despachador Frio",
+        "empresa": "SOS GROUP CAPITAL HUMANO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnico-jornada-hibrida-en-santiago-providencia-F124B87F0667206361373E686DCF3405",
+        "titulo": "Líder Técnico",
+        "empresa": "Abenis",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-comercial-est-valdivia-en-valdivia-A5FB6555CB49C15561373E686DCF3405",
+        "titulo": "Asistente Comercial (EST)",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Valdivia, Los Ríos",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-banco-de-talentos-volvo-practicas-profesionales-2do-semestre-en-santiago-quilicura-BE7E12449D43EE9C61373E686DCF3405",
+        "titulo": "Banco de Talentos Volvo Prácticas Profesionales 2do Semestre",
+        "empresa": "VOLVO CHILE SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/supervisor-de-perforacion-y-tronadura-copiapo-3934276",
+        "titulo": "supervisor de Perforación y tronadura -",
+        "empresa": "Importante empresa del sector",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Copiapó",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/supervisor-de-perforacion-y-tronadura-copiapo-3934294",
+        "titulo": "supervisor de Perforación y Tronadura -",
+        "empresa": "Stracon",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Copiapó",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ejecutivo-de-cuenta-con-experiencia-en-cobranza-en-terreno-3934189",
+        "titulo": "Ejecutivo de Cuenta con experiencia en",
+        "empresa": "Rsv",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-18 13:58:18",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
