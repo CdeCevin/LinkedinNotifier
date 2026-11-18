@@ -30426,5 +30426,98 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-net-c%23-sql-server-at-genera-hr-digital-4492003020",
+        "titulo": "Desarrollador/a .NET (C#, SQL Server)",
+        "empresa": "GENERA - HR Digital",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-18 04:19:41",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Un cargo de desarrollador .NET con foco en integraciones y uso de IA, que podría interesarle al candidato por su experiencia en arquitectura de sistemas, APIs REST e integración de IA, aunque el stack principal está en aprendizaje.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Claude Code, SFTP, ETL, IIS, Azure App Service"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-java-aws-hibrido-at-stefanini-group-4491432710",
+        "titulo": "Desarrollador Backend Java / AWS - HIBRIDO",
+        "empresa": "Stefanini Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-18 04:19:56",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador Backend Java/AWS híbrido en Stefanini Group podría interesarle por su sólida experiencia en Java/Spring Boot, desarrollo de APIs REST y testing automatizado, aunque necesitaría familiarizarse con los servicios específicos de AWS y CI/CD.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: AWS (API Gateway, S3, Lambda, IAM), JUnit, OWASP Top 10, CI/CD (Jenkins), Microservicios"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ii-frontend-developer-platform-at-kraken-4489510070",
+        "titulo": "Software Engineer II - Frontend - Developer Platform",
+        "empresa": "Kraken",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-18 04:20:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-ii-react-native-consumer-growth-at-kraken-4489795681",
+        "titulo": "Software Engineer II - React Native - Consumer Growth",
+        "empresa": "Kraken",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-18 04:20:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-aws-at-innomar-4491465363",
+        "titulo": "AI Engineer (AWS)",
+        "empresa": "Innomar",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-18 04:20:14",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero de IA en AWS podría interesarle al candidato por su experiencia en integración de IA con Google Gemini y desarrollo backend, ofreciéndole la oportunidad de especializarse en IA generativa y el ecosistema AWS.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago de Chile): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: RAG, AWS Serverless, IAM, Terraform, Monitoreo y trazabilidad de agentes de IA"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-productos-y-servicios-big-data-pleno-at-banco-bci-4491523643",
+        "titulo": "Ingeniero/a Productos y Servicios Big Data Pleno",
+        "empresa": "Banco Bci",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-18 04:20:32",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Ingeniero/a de Productos y Servicios Big Data en Banco Bci implica diseñar y desarrollar soluciones de datos, ETL/ELT e integrar IA, lo cual podría interesarle al candidato por su experiencia en backend, APIs, arquitectura de sistemas resilientes e integración de IA con Python y Node.js.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: Scala, Spark, Databricks, Kafka, ADF"
+        ]
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/tens-salud-ocupacional-la-calera-3926522",
+        "titulo": "TENS – Salud Ocupacional-La Calera",
+        "empresa": "Redclin- cemical",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Quillota",
+        "fecha": "2026-11-18 04:20:39",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
