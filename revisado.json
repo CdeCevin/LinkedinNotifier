@@ -31286,5 +31286,283 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-backend-engineer-at-coderio-4492435117",
+        "titulo": "Senior Backend Engineer",
+        "empresa": "Coderio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-19 14:26:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-grupo-falabella-4492448339",
+        "titulo": "Senior Full Stack Software Engineer",
+        "empresa": "Grupo Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-19 14:26:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-traffic-platform-at-mercado-libre-4491624185",
+        "titulo": "Senior Software Engineer - Traffic Platform",
+        "empresa": "Mercado Libre",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-19 14:26:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-desarrollador-oracle-apex-at-160k-4492438109",
+        "titulo": "Ingeniero Desarrollador Oracle APEX",
+        "empresa": "160K",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-19 14:26:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-backend-at-amaris-consulting-part-of-mantu-4491613717",
+        "titulo": "Desarrollador/a Backend",
+        "empresa": "Amaris Consulting  | Part of Mantu",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-19 14:26:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Inglés fluido'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/principal-data-engineer-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4484774077",
+        "titulo": "Principal Data Engineer - QuantumBlack, AI by McKinsey",
+        "empresa": "QuantumBlack, AI by McKinsey",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-19 14:26:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Principal'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-senior-de-inteligencia-artificial--a-i-agents-en-santiago-providencia-43FC122EDEA7650E61373E686DCF3405",
+        "titulo": "Desarrollador Senior de Inteligencia Artificial    A I Agents",
+        "empresa": "Abenis",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-19 14:26:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-de-software-en-santiago-cerrillos-082CD90DDBFE7ECB61373E686DCF3405",
+        "titulo": "desarrollador/a de software",
+        "empresa": "SYG SOLUCIONES INFORMATICAS SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Cerrillos, R.Metropolitana",
+        "fecha": "2026-11-19 14:26:32",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de desarrollador de software híbrido en Santiago se alinea con la experiencia del candidato en desarrollo backend, JavaScript y bases de datos, ofreciendo la oportunidad de aplicar sus habilidades en la creación y mantenimiento de aplicaciones.",
+        "avisos": [
+            "Hibrido en Santiago (Cerrillos): confirmar dias presenciales (maximo 2)"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-informatico-612000-liquidos-beneficio-de-alimentacion-en-santiago-nunoa-37AA10A77BE775E461373E686DCF3405",
+        "titulo": "Soporte Técnico Informático ($612.000 líquidos + beneficio de alimentación)",
+        "empresa": "Vector Servicios y Asesorias SpA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Ñuñoa, R.Metropolitana",
+        "fecha": "2026-11-19 14:26:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-ti-de-impresiones-y-computo-la-serena-en-la-serena-5D60C8D9CD1BC21C61373E686DCF3405",
+        "titulo": "Tecnico TI de Impresiones y Computo La Serena",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "La Serena, Coquimbo",
+        "fecha": "2026-11-19 14:26:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programadora-controladora-de-obras-industria-minera-region-libertador-bernardo-ohiggins-en-rancagua-1BB00AB0CEE58A9361373E686DCF3405",
+        "titulo": "Programador(a) – Controlador(a) de Obras– Industria Minera – Región Libertador Bernardo O’Higgins",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Rancagua, Libertador B. O Higgins",
+        "fecha": "2026-11-19 14:26:59",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-engineering-manager-en-santiago-lo-barnechea-6A213D3E2B9E539561373E686DCF3405",
+        "titulo": "Engineering Manager",
+        "empresa": "DELPHIN CHILE SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Lo Barnechea, R.Metropolitana",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Manager'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-engineering-manager-en-santiago-providencia-160AC4397B04091761373E686DCF3405",
+        "titulo": "Engineering Manager",
+        "empresa": "KILLSTORE",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Manager'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-ingenieria-informatica-lampa-en-santiago-providencia-B703B2290AF8D76461373E686DCF3405",
+        "titulo": "Practica Ingeniería Informática: Lampa",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-de-soporte-tecnico-ti-en-santiago-la-reina-408C6A84B571E85461373E686DCF3405",
+        "titulo": "Especialista de soporte técnico TI",
+        "empresa": "OUTSERVICE DEL NORTE SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - La Reina, R.Metropolitana",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-ayudante-electrico-onboard-codelco-calama-en-santiago-centro-8DC3B7887486EDD761373E686DCF3405",
+        "titulo": "Técnico Ayudante eléctrico onboard",
+        "empresa": "SONDA S A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisora-de-empaque-planta-pesquera-10000000-puerto-montt-en-puerto-montt-726FEC6A50C68F3961373E686DCF3405",
+        "titulo": "Supervisor/a de Empaque Planta Pesquera $1.000.0000 Puerto Montt",
+        "empresa": "Team-Work",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puerto Montt, Los Lagos",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-mecanico-maquinaria-pesada-la-negra-antofagasta-en-antofagasta-C21569D9CD98640461373E686DCF3405",
+        "titulo": "Técnico Mecánico (Maquinaria Pesada)",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-mecanico-est-tierra-amarilla-copiapo-en-tierra-amarilla-12F3F56BDFD2488D61373E686DCF3405",
+        "titulo": "Técnico Mecánico (EST)",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Tierra Amarilla, Atacama",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-queue-managers-queues-y-channels-las-condes-en-santiago-providencia-E170AD4204B02CD961373E686DCF3405",
+        "titulo": "Administrador Queue Managers, Queues y Channels",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tens-de-endoscopia-vina-del-mar-renaca-en-vina-del-mar-2A112038B2CDABD761373E686DCF3405",
+        "titulo": "Tens de Endoscopia",
+        "empresa": "Grupo Integra",
+        "fuente": "Computrabajo",
+        "ubicacion": "Viña del Mar, Valparaíso",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestor-gobierno-ti-1297000-liquido-santiago-en-santiago-centro-BA464C48ED07A23361373E686DCF3405",
+        "titulo": "Gestor Gobierno TI/ $1.297.000 liquido/ Santiago",
+        "empresa": "Eurofirms Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-senior-de-inteligencia-artificial-a-i-agents-3935125",
+        "titulo": "Desarrollador Senior de Inteligencia Artificial    A",
+        "empresa": "Abenis",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/soporte-informatico-3935027",
+        "titulo": "Soporte Informático",
+        "empresa": "Tecnologia y seguridad sbs..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-19 14:27:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/coordinador-a-de-obras-civiles-3922295",
+        "titulo": "Coordinador/a de Obras Civiles",
+        "empresa": "Sinec",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-19 14:27:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
