@@ -31176,5 +31176,115 @@
             "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
             "Tecnologias que no estan en tu CV: GKE, Docker, Terraform, GitHub Actions, Trivy"
         ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-java-at-acl-4491370143",
+        "titulo": "Backend Java",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-19 04:12:42",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-node-js-typescript-y-react-%E2%80%93-experiencia-en-inteligencia-artificial-at-bc-tecnolog%C3%ADa-4490776603",
+        "titulo": "Full Stack Node.js, TypeScript y React – Experiencia en Inteligencia Artificial",
+        "empresa": "BC Tecnología",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-19 04:12:45",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-react-at-acl-4491354904",
+        "titulo": "Frontend React",
+        "empresa": "ACL",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-19 04:12:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-aws-cloud-integration-engineer-remote-at-coderio-4492263619",
+        "titulo": "Sr AWS Cloud Integration Engineer - Remote",
+        "empresa": "Coderio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-19 04:12:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-machine-learning-engineer-at-redbee-4492225150",
+        "titulo": "Senior Machine Learning Engineer",
+        "empresa": "redbee",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-19 04:12:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-php-remote-work-ref%23294181-at-bairesdev-4491705616",
+        "titulo": "Backend Engineer (PHP) - Remote Work | REF#294181",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-19 04:12:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/gestor-a-de-proyectos-ti-6ta-regi%C3%B3n-rancagua-y-o-alrededores-at-scl-consultores-4491725309",
+        "titulo": "Gestor/a de Proyectos TI - 6ta región (Rancagua y/o alrededores)",
+        "empresa": "SCL Consultores",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-11-19 04:13:35",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-nodejs-react-reemplazo-en-santiago-las-condes-A4B1DB6E39C85C1061373E686DCF3405",
+        "titulo": "Desarrollador Fullstack Node.js / React (Reemplazo)",
+        "empresa": "Ingenieria informatica Kibernum S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-19 04:13:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-custmer-care-en-santiago-pudahuel-E1DF0AB9351EF43261373E686DCF3405",
+        "titulo": "Custmer care",
+        "empresa": "Empresa de Servicios Transitorios Dimac SpA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-11-19 04:13:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-mecanico-b-copiapo-en-copiapo-BF72AC6929C06E2161373E686DCF3405",
+        "titulo": "Mecánico B Copiapó",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-19 04:13:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
