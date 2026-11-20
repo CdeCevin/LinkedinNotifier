@@ -32095,5 +32095,86 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-nodejs-aws-at-kabeli-selecci%C3%B3n-4492719346",
+        "titulo": "Desarrollador Back End (Nodejs - AWS)",
+        "empresa": "Kabeli Selección",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-20 04:01:25",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador Back End en el rubro bancario, enfocado en APIs y microservicios sobre AWS, podría interesarle al candidato por su sólida experiencia en desarrollo backend con Node.js, APIs REST y arquitectura de sistemas, aunque requerirá familiarizarse con el ecosistema AWS y NestJS.",
+        "avisos": [
+            "Hibrido en Santiago (Las Condes): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: NestJS, AWS Glue, Amazon EKS, EventBridge, DynamoDB"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-full-stack-developer-at-citi-4492528078",
+        "titulo": "Senior Full Stack Developer",
+        "empresa": "Citi",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-20 04:01:28",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-%E2%80%93-aws-amazon-bedrock-at-bc-tecnolog%C3%ADa-4491642859",
+        "titulo": "AI Engineer – AWS / Amazon Bedrock",
+        "empresa": "BC Tecnología",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-20 04:01:28",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/technical-lead-python-aws-api-at-42labs-4492505907",
+        "titulo": "Technical Lead (Python, AWS, API)",
+        "empresa": "42Labs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-20 04:01:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/especialista-en-inteligencia-artificial-y-transformaci%C3%B3n-digital-santiago-at-vantaz-group-4492521613",
+        "titulo": "Especialista en Inteligencia Artificial y Transformación Digital - Santiago",
+        "empresa": "Vantaz Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-20 04:01:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-ruby-on-rails-remote-work-ref%23303410-at-bairesdev-4491707556",
+        "titulo": "Full Stack Engineer (Ruby on Rails) - Remote Work | REF#303410",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Valparaiso Region, Chile",
+        "fecha": "2026-11-20 04:01:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/full-stack-senior-ai-product-builder-desarrollo-de-plataformas-y-automatiza-3935739",
+        "titulo": "Full Stack Senior / AI Product",
+        "empresa": "Reclutadora chile pro",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-20 04:01:29",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
     }
 ]
