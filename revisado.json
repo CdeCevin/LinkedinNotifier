@@ -32176,5 +32176,148 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-software-engineer-rust-payward-services-at-kraken-4439466492",
+        "titulo": "Senior Software Engineer - Rust - Payward Services",
+        "empresa": "Kraken",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-20 14:01:30",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-civil-estructural-en-las-condes-en-santiago-las-condes-58103E49BBAB5E1461373E686DCF3405",
+        "titulo": "Ingeniero Civil Estructural en Las Condes",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-pmo-proyectos-estrategicos-en-santiago-las-condes-65FE0DB203B05C5461373E686DCF3405",
+        "titulo": "PMO (Proyectos Estratégicos)",
+        "empresa": "DFV INGENIERIA Y GESTIÓN",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-pmo-proyectos-estandar-en-santiago-las-condes-0DD7694E802AA09761373E686DCF3405",
+        "titulo": "PMO (Proyectos Estándar)",
+        "empresa": "DFV INGENIERIA Y GESTIÓN",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-bases-de-datos-con-experiencia-en-salud-hospitalaria-presencial-en-santiago-providencia-264E8D5AC9AEA7CC61373E686DCF3405",
+        "titulo": "Administrador de Bases de Datos/ con experiencia en salud hospitalaria",
+        "empresa": "TicMoAI",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Providencia, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-en-ingenieria-informatica-lampa-400000-en-santiago-providencia-033F3C097BD6CD1961373E686DCF3405",
+        "titulo": "Practica en Ingeniería Informática: Lampa (400.000)",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-sistemas-y-soporte-ti-en-santiago-la-cisterna-466D357718D3DEAC61373E686DCF3405",
+        "titulo": "Analista de Sistemas y Soporte TI",
+        "empresa": "ingmetrica",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - La Cisterna, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-a-de-digitalizacion-en-santiago-vitacura-39A1655E6FC6CA9461373E686DCF3405",
+        "titulo": "Operador a de Digitalización",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Vitacura, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:43",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-de-ti-en-santiago-cerrillos-CD2E4F213D1E162C61373E686DCF3405",
+        "titulo": "Especialista de TI",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Cerrillos, R.Metropolitana",
+        "fecha": "2026-11-20 14:02:44",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Cerrillos, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-tratamiento-reemplazo-lm-llanquihue-en-llanquihue-CB2FB2E1E12E1E5E61373E686DCF3405",
+        "titulo": "Operador de Tratamiento /Reemplazo LM (Llanquihue)",
+        "empresa": "Grupo Tawa",
+        "fuente": "Computrabajo",
+        "ubicacion": "Llanquihue, Los Lagos",
+        "fecha": "2026-11-20 14:02:44",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-salesforce-2-anos-de-experiencia-hibrido-3883380",
+        "titulo": "Desarrollador Salesforce 2 años de experiencia",
+        "empresa": "Consistor chile",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-20 14:02:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Salesforce, Sales Cloud, Service Cloud, Financial Cloud, Marketing Cloud)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-senior-nextjs-100-remoto-manejo-ingles-3856504",
+        "titulo": "Desarrollador senior Next.js 100% Remoto (manejo",
+        "empresa": "Consistor chile",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-20 14:02:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-desarrollador-senior-next-nest-nodejs-y-react-full-ingles-3763085",
+        "titulo": "Ingeniero Desarrollador senior Next, nest, Node.JS",
+        "empresa": "Consistor chile",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-20 14:02:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'senior'"
     }
 ]
