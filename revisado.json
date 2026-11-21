@@ -32800,5 +32800,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-en-oracle-at-sonda-4493203696",
+        "titulo": "Desarrollador en Oracle",
+        "empresa": "SONDA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-21 04:00:02",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (PL/SQL, Oracle BPM, Oracle Data Integrator (ODI), Oracle SOA Suite, Oracle Service Bus (OSB))"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-salesforce-at-experis-chile-4493219819",
+        "titulo": "Desarrollador Salesforce",
+        "empresa": "Experis Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-21 04:00:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
     }
 ]
