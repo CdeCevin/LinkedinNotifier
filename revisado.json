@@ -32822,5 +32822,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-tecnico-en-informatica-soporte-ti-en-santiago-quilicura-15BB923260F12F5E61373E686DCF3405",
+        "titulo": "Práctica Técnico en Informática",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-21 13:29:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Práctica'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-recepcionista-secretarioa-en-santiago-huechuraba-BE3FC0EE5DE2A66461373E686DCF3405",
+        "titulo": "Recepcionista – Secretario(a)",
+        "empresa": "SERVICIOS TECNOLOGICOS INFORMATICOS AUDICIO LIMITADA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-21 13:29:15",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
