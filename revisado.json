@@ -32844,5 +32844,27 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-de-ti-%E2%80%93-sistemas-continuidad-operacional-y-automatizaci%C3%B3n-at-takenjobs-4492581557",
+        "titulo": "Analista de TI – Sistemas, Continuidad Operacional y Automatización",
+        "empresa": "TakenJobs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-11-21 20:55:44",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/analista-de-tecnolog%C3%ADas-de-la-informaci%C3%B3n-ti-at-takenjobs-4493300445",
+        "titulo": "Analista de Tecnologías de la Información (TI)",
+        "empresa": "TakenJobs",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-11-21 20:56:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
     }
 ]
