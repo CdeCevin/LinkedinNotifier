@@ -33009,5 +33009,49 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-laravel-developer-%2B-react-remote-latin-america-at-bluelight-4493398091",
+        "titulo": "Senior Laravel Developer + React - Remote, Latin America",
+        "empresa": "Bluelight",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-22 22:30:14",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-sql-developer-at-prove-4492371172",
+        "titulo": "Senior SQL Developer",
+        "empresa": "PROVE",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 22:30:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/lider-tecnico-de-plataforma-tech-lead-aws-serverless-hibrido-3x2-3936602",
+        "titulo": "Líder Técnico de Plataforma (Tech Lead",
+        "empresa": "Swift talent",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-22 22:30:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/encargado-de-servicio-tecnico-y-capacitacion-3936599",
+        "titulo": "ENCARGADO DE SERVICIO TÉCNICO Y CAPACITACIÓN",
+        "empresa": "Khronos",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-22 22:30:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
