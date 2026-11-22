@@ -32866,5 +32866,137 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-senior-java-at-stefanini-group-4492802146",
+        "titulo": "Desarrollador Backend Senior Java",
+        "empresa": "Stefanini Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-22 08:05:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-at-bc-tecnolog%C3%ADa-4492808326",
+        "titulo": "Desarrollador Back-end",
+        "empresa": "BC Tecnología",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-22 08:05:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-developer-remote-antofagasta-at-blacksmith-agency-4492983221",
+        "titulo": "AI Developer (Remote, Antofagasta)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:28",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/generative-ai-engineer-remote-santiago-at-blacksmith-agency-4491270060",
+        "titulo": "Generative AI Engineer (Remote, Santiago)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:35",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-ai-engineer-internal-tools-agents-at-jobgether-4492576796",
+        "titulo": "Senior AI Engineer (Internal Tools & Agents)",
+        "empresa": "Jobgether",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:35",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/it-business-systems-developer%C2%A0-at-chemtreat-4493223614",
+        "titulo": "IT Business Systems Developer",
+        "empresa": "ChemTreat",
+        "fuente": "LinkedIn",
+        "ubicacion": "Lampa, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-22 08:05:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/1603-senior-martech-integration-engineer-adobe-ecosystem-at-nortal-4485222022",
+        "titulo": "(1603) Senior MarTech Integration Engineer (Adobe Ecosystem)",
+        "empresa": "Nortal",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-backend-developer-chile-at-customer-intelligence-inc-4492956181",
+        "titulo": "Senior Backend Developer - Chile",
+        "empresa": "Customer Intelligence Inc.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-big-data-engineer-aws-%2B-snowflake-%2B-spark-at-softserve-4492846298",
+        "titulo": "Senior Big Data Engineer (AWS + Snowflake + Spark)",
+        "empresa": "SoftServe",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-1-at-innomotics-4491955140",
+        "titulo": "Ingeniero(a) Machine Learning 1",
+        "empresa": "Innomotics",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-22 08:05:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/backend-engineer-elixir-remote-work-ref%23290428-at-bairesdev-4492956952",
+        "titulo": "Backend Engineer (Elixir) - Remote Work | REF#290428",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:37",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/golang-react-developer-remote-work-ref%23302852-at-bairesdev-4492974362",
+        "titulo": "Golang React Developer - Remote Work | REF#302852",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-22 08:05:37",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
     }
 ]
