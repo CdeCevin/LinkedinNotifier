@@ -33053,5 +33053,38 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-sistemas-contra-incendio-deteccion-y-extincion-en-santiago-huechuraba-228A0405A2F59CE761373E686DCF3405",
+        "titulo": "Técnico en Sistemas contra Incendio",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-23 03:44:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Huechuraba, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-proyectos-santiago-en-santiago-vitacura-A7649324530A29CE61373E686DCF3405",
+        "titulo": "Coordinador de Proyectos",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Vitacura, R.Metropolitana",
+        "fecha": "2026-11-23 03:44:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-en-santiago-lo-barnechea-9011B29EB0871EE861373E686DCF3405",
+        "titulo": "Analista de Datos",
+        "empresa": "Adecco Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Lo Barnechea, R.Metropolitana",
+        "fecha": "2026-11-23 03:44:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Lo Barnechea, R.Metropolitana)"
     }
 ]
