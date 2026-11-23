@@ -33086,5 +33086,440 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: Presencial fuera de la zona (Santiago - Lo Barnechea, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-ssr-aws-presencial-at-soho-4491615418",
+        "titulo": "Desarrollador Fullstack Ssr AWS - Presencial",
+        "empresa": "Soho",
+        "fuente": "LinkedIn",
+        "ubicacion": "Huechuraba, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-23 15:58:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Ssr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-mandomedio-4493637843",
+        "titulo": "Ingeniero de software",
+        "empresa": "Mandomedio",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-23 15:58:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Las Condes, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-engineer-remote-rancagua-at-blacksmith-agency-4492971890",
+        "titulo": "AI Engineer (Remote, Rancagua)",
+        "empresa": "Blacksmith Agency",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-23 15:59:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-platform-enginee-at-epam-systems-4492133870",
+        "titulo": "Senior Platform Enginee",
+        "empresa": "EPAM Systems",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-23 15:59:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lead-platform-enginee-at-epam-systems-4492143546",
+        "titulo": "Lead Platform Enginee",
+        "empresa": "EPAM Systems",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-23 15:59:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ai-product-engineer-at-agendapro-4492931593",
+        "titulo": "AI Product Engineer",
+        "empresa": "AgendaPro",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-23 15:59:01",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/data-engineer-aws-at-atmira-4492603454",
+        "titulo": "Data Engineer (AWS)",
+        "empresa": "atmira",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-23 15:59:13",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Data Engineer en atmira, centrado en Oracle y plataformas cloud con procesos ETL/ELT, podría interesarle al candidato por su sólida experiencia con Oracle SQL, su manejo de Google Cloud y su experiencia en integración de datos y arquitectura de sistemas resilientes.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: AWS, Pentaho"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-tech-lead-at-grupo-falabella-4492468609",
+        "titulo": "Senior Tech Lead",
+        "empresa": "Grupo Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-23 15:59:19",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/erp-microsoft-dynamics-technical-analyst-at-equans-4492852073",
+        "titulo": "ERP MICROSOFT DYNAMICS - TECHNICAL ANALYST",
+        "empresa": "EQUANS",
+        "fuente": "LinkedIn",
+        "ubicacion": "Providencia, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-23 15:59:19",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'English proficiency'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-real-time-remote-work-ref%23301277-at-bairesdev-4491714311",
+        "titulo": "Software Engineer (Real-Time) - Remote work | REF#301277",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-23 15:59:28",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-a-frontend-angular-o-react-typescript-witi-remote",
+        "titulo": "Desarrollador/a Front-end (Angular o React · TypeScript)",
+        "empresa": "WiTi",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-23 15:59:40",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Desarrollador/a Front-end en WiTi podría interesarle al candidato por su dominio de React y TypeScript, su experiencia en la creación de plataformas en producción con foco en la experiencia de usuario y su conocimiento en arquitectura de sistemas y testing automatizado.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: AWS (S3/CloudFront)"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-nestjs-angular-react-witi-remote",
+        "titulo": "Desarrollador/a Full-Stack (NestJS + Angular/React)",
+        "empresa": "WiTi",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-23 15:59:54",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Desarrollador/a Full-Stack en WiTi podría interesarle al candidato por su experiencia en construir plataformas completas de punta a punta, incluyendo APIs REST y despliegue, lo que se alinea con la expectativa de tomar funcionalidades desde la pantalla hasta la API y el despliegue.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: NestJS, AWS, Docker, CI/CD pipelines"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-nestjs-typescript-witi-remote",
+        "titulo": "Desarrollador/a Back-end (NestJS / TypeScript)",
+        "empresa": "WiTi",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-23 16:00:06",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador Backend para una nueva plataforma de publicidad en retail podría interesarle al candidato por su sólida experiencia en Node.js/TypeScript, diseño de APIs REST y despliegue de sistemas en producción, aunque necesitaría familiarizarse con NestJS y AWS.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: NestJS, AWS, Docker, Observabilidad, CI/CD pipelines"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/semi-senior-software-engineer-python-23people-remote-f4b6",
+        "titulo": "Semi Senior Software Engineer Python",
+        "empresa": "23people",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-23 16:00:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-tecnicoa-microsoft-dynamics-365-en-santiago-providencia-D3A765F18EE0B1D361373E686DCF3405",
+        "titulo": "Desarrollador/a Técnico/a Microsoft Dynamics 365",
+        "empresa": "GrupoExpro",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'inglés conversacional'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-negocios-en-santiago-huechuraba-415304FF3FBC385F61373E686DCF3405",
+        "titulo": "Desarrollador de Negocios",
+        "empresa": "ALS",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Huechuraba, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargadoa-del-sistema-de-gestion-de-calidad-industria-minera-region-de-ohiggins-en-rancagua-6A861CFA3599149061373E686DCF3405",
+        "titulo": "Encargado(a) del Sistema de Gestión de Calidad – Industria Minera – Región de O'Higgins",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Rancagua, Libertador B. O Higgins",
+        "fecha": "2026-11-23 16:00:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnicoa-en-ti-en-antofagasta-A9D07D2E2FC5E50361373E686DCF3405",
+        "titulo": "Técnico/a en TI",
+        "empresa": "NORTHTEK",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-23 16:00:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tornero-vertical-cnc-antofagasta-en-antofagasta-0F9841A8305731F861373E686DCF3405",
+        "titulo": "Tornero Vertical CNC Antofagasta",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-23 16:00:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-customer-sucess-analyst-analista-de-integraciones-o-de-configuracion-soporte-n2-en-santiago-nunoa-0B033F905A8E5A5061373E686DCF3405",
+        "titulo": "Customer Sucess Analyst/ analista de integraciones o de configuración/ Soporte N2",
+        "empresa": "Progestion Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Ñuñoa, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:11",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-sistemas-en-san-bernardo-C633292B7ABF336D61373E686DCF3405",
+        "titulo": "Ingeniero de Sistemas",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "San Bernardo, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (San Bernardo, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-especialidad-mecanica-7x7-antofagasta-en-santiago-providencia-B0B7EBB73853965C61373E686DCF3405",
+        "titulo": "Ingeniero de especialidad Mecánica",
+        "empresa": "J.E.J INGENIERIA S.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-evaluacion-de-proyecto-inmobiliario-en-santiago-las-condes-BB4C4DC15F99A1C161373E686DCF3405",
+        "titulo": "Ingeniero Evaluación de Proyecto",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-preventa-ti-en-santiago-pedro-aguirre-cerda-977742E4587386ED61373E686DCF3405",
+        "titulo": "Ingeniero/a de Preventa TI",
+        "empresa": "ITred Spa.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pedro Aguirre Cerda, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Pedro Aguirre Cerda, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-ti-en-antofagasta-71D3EC9FBBD3602761373E686DCF3405",
+        "titulo": "Supervisor TI",
+        "empresa": "NORTHTEK",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-23 16:00:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta, Antofagasta)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-en-ingenieria-informatica-para-lampa-400000-en-santiago-providencia-98B224B4129BD67F61373E686DCF3405",
+        "titulo": "Practica en Ingeniería Informática para Lampa (400.000)",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-profesional-ti-en-santiago-quilicura-E06FF002A2DD7B5061373E686DCF3405",
+        "titulo": "Practica Profesional TI",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:12",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-administrativo-con-portugues-en-santiago-las-condes-5706C2A2F21F150261373E686DCF3405",
+        "titulo": "Analista Administrativo con Portugués",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:13",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-maestros-con-portugues-en-santiago-las-condes-DFEF3AD08C33793361373E686DCF3405",
+        "titulo": "Analista de Datos Maestros Con Portugués",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-23 16:00:27",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ethical-hacker-mobile-modalidad-hibrida-en-santiago-centro-20452DA661B7814761373E686DCF3405",
+        "titulo": "Ethical Hacker Mobile",
+        "empresa": "Michael Page",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-23 16:01:06",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-atencion-presencial-plaza-egana-reemplazo-1-mes-en-santiago-la-reina-2F1790D8E359C1C261373E686DCF3405",
+        "titulo": "Ejecutivo Atención Presencial Plaza Egaña",
+        "empresa": "NUEVA MASVIDA SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - La Reina, R.Metropolitana",
+        "fecha": "2026-11-23 16:01:08",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-integracion-de-datos-en-santiago-centro-9415DC7A000C7CBE61373E686DCF3405",
+        "titulo": "Especialista en Integración de Datos",
+        "empresa": "Tecnova Soluciones Informáticas",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-23 16:02:17",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (SQL Server Integration Services (SSIS), Pentaho Data Integration, Reporting Services)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-bodeguerosas-punta-arenas-en-punta-arenas-3D116E03BA8063BB61373E686DCF3405",
+        "titulo": "Bodegueros/as",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Punta Arenas, Magallanes y Antártica Chilena",
+        "fecha": "2026-11-23 16:02:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-consultor-pmo-en-rancagua-en-rancagua-95050E0722C2E59161373E686DCF3405",
+        "titulo": "Consultor PMO en Rancagua",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Rancagua, Libertador B. O Higgins",
+        "fecha": "2026-11-23 16:02:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnico-javagcp-jornada-hibrida-1-dia-en-oficina-en-santiago-providencia-6304D248C691561E61373E686DCF3405",
+        "titulo": "Líder Técnico (Java/GCP)",
+        "empresa": "Abenis",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-23 16:02:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Líder'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-buscamos-asistente-comercial-en-santiago-vitacura-9B3A4FBA317C8D6E61373E686DCF3405",
+        "titulo": "Buscamos Asistente Comercial",
+        "empresa": "SIMMEDICAL SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Vitacura, R.Metropolitana",
+        "fecha": "2026-11-23 16:02:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/especialista-proteccion-de-datos-y-gestion-de-proyectos-3936992",
+        "titulo": "Especialista Protección de Datos y Gestión",
+        "empresa": "Privado",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-23 16:02:33",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/coordinador-a-comercial-trabajo-hibrido-san-pedro-de-la-paz-3934517",
+        "titulo": "Coordinador/a Comercial – Trabajo híbrido (San",
+        "empresa": "Bigcapital",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Concepción",
+        "fecha": "2026-11-23 16:02:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
