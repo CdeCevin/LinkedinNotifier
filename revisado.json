@@ -34853,5 +34853,118 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-software-engineer-at-ria-money-transfer-4493084409",
+        "titulo": "Sr Software Engineer",
+        "empresa": "Ria Money Transfer",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-25 12:51:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-automatizaci%C3%B3n-de-controles-de-seguridad-ti-at-getronics-4493411734",
+        "titulo": "Ingeniero/a de Automatización de Controles de Seguridad TI",
+        "empresa": "Getronics",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-25 12:52:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Presencial en Santiago (Santiago)",
+        "avisos": [
+            "Piden 3 años de experiencia"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-proyectos-ti-at-quimetal-industrial-s-a-4493419452",
+        "titulo": "Ingeniero/a de Proyectos TI",
+        "empresa": "Quimetal Industrial S.A.",
+        "fuente": "LinkedIn",
+        "ubicacion": "Maipú, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-25 12:52:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Maipú, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electronico-de-laboratorio-armado-y-configuracion-de-equipos-en-santiago-providencia-AD6DACE24CE280A961373E686DCF3405",
+        "titulo": "Técnico Electrónico de Laboratorio",
+        "empresa": "ATCOM",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-25 12:52:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ito-sistema-geodesico-gis-inspector-tecnico-de-obras-gis-en-santiago-cerrillos-720E7158DB4853E561373E686DCF3405",
+        "titulo": "ITO Sistema Geodésico / GIS (Inspector Técnico de Obras GIS)",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Cerrillos, R.Metropolitana",
+        "fecha": "2026-11-25 12:52:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-innovacion-tecnologica-junior-en-antofagasta-FC945537B9DA67DB61373E686DCF3405",
+        "titulo": "Ingeniero/a de Innovación Tecnológica Junior",
+        "empresa": "SERVICIOS DE INTEGRACION TECNOLOGICA TRES60 SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-25 12:52:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practica-ingenieria-informatica-en-lampa-400000-en-santiago-providencia-A880159B9EDACAF761373E686DCF3405",
+        "titulo": "Practica Ingeniería Informática en Lampa 400.000",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-25 12:52:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Practica'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electromecanico-ep-carcel-alto-hospicio-en-alto-hospicio-ED07F1C41348F00E61373E686DCF3405",
+        "titulo": "Técnico Electromecánico (EP)",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Alto Hospicio, Tarapacá",
+        "fecha": "2026-11-25 12:52:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-3938429",
+        "titulo": "INGENIERO INFORMATICO",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Antofagasta",
+        "fecha": "2026-11-25 12:52:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Antofagasta)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-mesa-de-ayuda-3938376",
+        "titulo": "Analista Mesa de Ayuda",
+        "empresa": "Servicios y tecnologia ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-25 12:52:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
