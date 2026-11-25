@@ -34966,5 +34966,401 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/sr-software-engineer-at-cencosud-4493437889",
+        "titulo": "Sr. Software Engineer",
+        "empresa": "Cencosud",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-25 22:31:38",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Sr'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-aplicaciones-ios-trabajo-remoto-at-bairesdev-4494935139",
+        "titulo": "Desarrollador de Aplicaciones iOS - Trabajo Remoto",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-25 22:31:45",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-data-remote-work-ref%23311134-at-bairesdev-4492987005",
+        "titulo": "Software Engineer (Data) - Remote Work | REF#311134",
+        "empresa": "BairesDev",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-25 22:31:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-collections-engineer-threat-intelligence-at-securityscorecard-4493466051",
+        "titulo": "Senior Collections Engineer, Threat Intelligence",
+        "empresa": "SecurityScorecard",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-25 22:31:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/lider-tecnico-en-ia-at-caja-los-andes-4493443641",
+        "titulo": "Lider Tecnico en IA",
+        "empresa": "Caja Los Andes",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-25 22:31:47",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lider'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/backend-developer-apside-remote-85f0",
+        "titulo": "Back-end Developer",
+        "empresa": "Apside",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-25 22:31:54",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este es un cargo de desarrollo backend 100% remoto con foco en Java y Spring Boot, que podría interesarle al candidato por su experiencia en desarrollo backend, APIs REST, arquitectura de sistemas y metodologías ágiles, aunque deberá familiarizarse con AWS, Kubernetes y GraphQL.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: Quarkus, AWS Cloud, Kubernetes, GraphQL, Atlassian (Jira y Confluence)"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-remote-argentina-lira-development-remote",
+        "titulo": "Desarrollador/a Full-Stack | (Argentina)",
+        "empresa": "Lira Development",
+        "fuente": "Get on Board",
+        "ubicacion": "Remoto (solo residentes del país) - Remote",
+        "fecha": "2026-11-25 22:31:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Inglés conversacional'"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-frontend-remplazo-1-mes-3it-santiago",
+        "titulo": "Desarrollador Front-end (Remplazo 1 Mes)",
+        "empresa": "3IT",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-25 22:32:08",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Angular, SCSS, Sass)"
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-7fe9",
+        "titulo": "Product Development Engineer",
+        "empresa": "Healthatom",
+        "fuente": "Get on Board",
+        "ubicacion": "Híbrido - Chile",
+        "fecha": "2026-11-25 22:32:17",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "El cargo de Product Development Engineer en Healthatom se alinea con la experiencia del candidato en desarrollo de soluciones, integración de IA y aseguramiento de calidad, ofreciendo un desafío en un entorno híbrido.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido sin ciudad indicada: confirmar ciudad y dias presenciales",
+            "Tecnologias que no estan en tu CV: Ruby on Rails"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-cloud-ia-aws-cloud-e-inteligencia-artificial-en-santiago-centro-52B5DDEF925A97D061373E686DCF3405",
+        "titulo": "Desarrollador Full Stack Cloud IA",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-y-control-especialista-en-construccion-pyc-en-santiago-centro-F848F1E2CE1E046661373E686DCF3405",
+        "titulo": "Programador y Control especialista en construcción.",
+        "empresa": "Planificacion e Ingenieria DELPRO LTDA.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollado-full-stack-nodejs-angular-remoto-en-santiago-centro-43DB80986542396461373E686DCF3405",
+        "titulo": "Desarrollado Full Stack (Node.js /Angular)",
+        "empresa": "BCTecnología",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Angular, AWS)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-engineer-aws-proyecto-sector-financiero-remoto-en-santiago-centro-7C4830BAF401AE9E61373E686DCF3405",
+        "titulo": "Data Engineer AWS",
+        "empresa": "Michael Page",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-buscamos-un-conductor-a2-en-castro-en-castro-B673009A252A964561373E686DCF3405",
+        "titulo": "Buscamos un conductor A2 en Castro!",
+        "empresa": "Holding Grupo Firma ( GF SYSTEM )",
+        "fuente": "Computrabajo",
+        "ubicacion": "Castro, Los Lagos",
+        "fecha": "2026-11-25 22:32:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-soporte-informatico-por-proyecto-ciudad-empresarial-huechuraba-en-santiago-huechuraba-3C2FB380E678746E61373E686DCF3405",
+        "titulo": "Técnico Soporte Informático por proyecto",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tec-electrico-tec-electronico-residencia-antofagasta-en-antofagasta-5B490A3FCDDACE7161373E686DCF3405",
+        "titulo": "Téc. Eléctrico Téc.  Electrónico Residencia Antofagasta",
+        "empresa": "SGS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-25 22:32:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-civil-estructural-las-condes-en-santiago-las-condes-0746E9BABCD26C2261373E686DCF3405",
+        "titulo": "Ingeniero Civil Estructural (Las Condes)",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-geomensora-senior-proyecto-minero-region-de-antofagasta-en-calama-3FA4BD3E812240D261373E686DCF3405",
+        "titulo": "Ingeniero(a) Geomensor(a) Senior – Proyecto Minero – Región de Antofagasta",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-11-25 22:32:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-inteligencia-artificial-y-machine-learning-semi-senior-senior-en-santiago-quilicura-43F2EC0F659F952461373E686DCF3405",
+        "titulo": "Ingeniero/a de Inteligencia Artificial y Machine Learning – Semi Senior / Senior",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-automatizacion-e-integracion-con-inteligencia-artificial-en-santiago-quilicura-890E3082254C712A61373E686DCF3405",
+        "titulo": "Ingeniero/a de Automatización e Integración con Inteligencia Artificial",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Quilicura, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago - Quilicura, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivoa-comercial-freelance-software-industrial-midepro-comision-sin-tope-en-santiago-independencia-DC30FA5BC2E0326161373E686DCF3405",
+        "titulo": "Ejecutivo comercial freelance",
+        "empresa": "PERDOMO ALBARRAN TECHNOLOGIES SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Independencia, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-estructural-proyecto-minero-region-de-atacama-en-copiapo-F65562CCC187BA7361373E686DCF3405",
+        "titulo": "Especialista Estructural – Proyecto Minero – Región de Atacama",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-experto-en-prevencion-de-riesgos-con-sernageomin-rancagua-en-rancagua-4A633C4B78847FE061373E686DCF3405",
+        "titulo": "Coordinador/a Experto en Prevención de Riesgos con Sernageomin",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Rancagua, Libertador B. O Higgins",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ito-terreno-c-proyecto-minero-region-de-antofagasta-en-calama-2824053BBA25396261373E686DCF3405",
+        "titulo": "ITO Terreno C – Proyecto Minero – Región de Antofagasta",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ito-terreno-b-proyecto-minero-region-de-antofagasta-en-calama-36E4CE23DE3A4DF861373E686DCF3405",
+        "titulo": "ITO Terreno B – Proyecto Minero – Región de Antofagasta",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ito-terreno-a-proyecto-minero-region-de-antofagasta-en-calama-27B98035D81F02EF61373E686DCF3405",
+        "titulo": "ITO Terreno A – Proyecto Minero – Región de Antofagasta",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Calama, Antofagasta",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-engineer-junior-servicios-transitorios-en-santiago-centro-2B2D018DDD45543861373E686DCF3405",
+        "titulo": "Data Engineer Junior (Servicios Transitorios)",
+        "empresa": "workmate",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefea-de-mantenimiento-en-santiago-centro-96375D0FE83B292C61373E686DCF3405",
+        "titulo": "Jefe(a) de Mantenimiento",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-proyecto-y-qa-en-santiago-pudahuel-5D0261ADC2D0B33661373E686DCF3405",
+        "titulo": "Analista de Proyecto y QA",
+        "empresa": "RBU",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-11-25 22:32:58",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Analista de Proyecto y QA se enfoca en el control de calidad y documentación de software, lo cual podría interesarle al candidato dada su experiencia en testing automatizado y arquitectura de sistemas.",
+        "avisos": [
+            "Hibrido en Santiago (Pudahuel): confirmar dias presenciales (maximo 2)"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-financiero-semijunior-las-condes-santiago-en-santiago-las-condes-D6CFF4859206D9A561373E686DCF3405",
+        "titulo": "Analista Financiero SemiJunior",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-25 22:33:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-arquitecto-cloud-senior-en-santiago-las-condes-DAA8DAF14E59CCD761373E686DCF3405",
+        "titulo": "Arquitecto Cloud Senior",
+        "empresa": "Banco de Crédito e Inversiones",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-25 22:33:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Arquitecto'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-tecnico-santiago-en-santiago-centro-3C0C7CA58AD5BAC261373E686DCF3405",
+        "titulo": "Soporte Técnico Santiago",
+        "empresa": "Fuerza Laboral E.S.T. SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:33:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-bodeguero-con-experiencia-y-licencia-d-851000-liquidos-punta-arenas-en-punta-arenas-62E64EE3188976FD61373E686DCF3405",
+        "titulo": "bodeguero con experiencia y licencia D $851.000 liquidos",
+        "empresa": "XinerLink",
+        "fuente": "Computrabajo",
+        "ubicacion": "Punta Arenas, Magallanes y Antártica Chilena",
+        "fecha": "2026-11-25 22:33:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-certificacion-acreditada-en-santiago-centro-1D504BE7C1237E2761373E686DCF3405",
+        "titulo": "Analista QA.",
+        "empresa": "G-Talent",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-25 22:33:19",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Certificación ISTQB, Experiencia en procesos ETL, Integration Services (SSIS), Procedimientos almacenados, Certificación Scrum Foundation Professional Certificate (SFPC))"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-redes-y-comunicacion-en-santiago-las-condes-519070E8BB77D8C661373E686DCF3405",
+        "titulo": "Analista de Redes y Comunicación",
+        "empresa": "AGtec Servicios Informáticos",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-25 22:33:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
