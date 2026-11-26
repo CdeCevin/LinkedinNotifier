@@ -35520,5 +35520,208 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Coordinador'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-senior-at-siigsa-4493815534",
+        "titulo": "Desarrollador Full Stack Senior",
+        "empresa": "SIIGSA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 15:13:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-integraciones-senior-at-siigsa-4493817544",
+        "titulo": "Desarrollador de Integraciones Senior",
+        "empresa": "SIIGSA",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 15:13:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-it-business-consultant-at-grupo-falabella-4495502104",
+        "titulo": "Senior IT Business Consultant",
+        "empresa": "Grupo Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 15:13:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-bamoe-at-hiberus-4495512252",
+        "titulo": "Ingeniero de procesos BAMOE",
+        "empresa": "hiberus",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 15:13:20",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-de-ia-at-hiberus-4495503555",
+        "titulo": "Ingeniero de Procesos de IA",
+        "empresa": "hiberus",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 15:13:30",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Ingeniero de Procesos de IA en hiberus se alinea con la experiencia del candidato en integración de IA y desarrollo de APIs, ofreciéndole la oportunidad de aplicar sus habilidades en diseño de sistemas resilientes y testing a la optimización de agentes de IA generativa.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: RAG, Observabilidad de LLMs, Prompt Security, Arquitecturas multiagente, Evaluación automatizada de agentes"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/automatizador-power-platform-remoto-k1126-at-keppri-4494935310",
+        "titulo": "Automatizador Power Platform (Remoto) K1126",
+        "empresa": "Keppri",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 15:13:35",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-de-reposicion-picking-web-en-santiago-centro-83E42D36B12644EA61373E686DCF3405",
+        "titulo": "Supervisor de reposición Picking web",
+        "empresa": "workforce staffing est SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 15:13:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-buscamos-un-conductor-a2-para-penaflor-en-penaflor-2639356C112346FC61373E686DCF3405",
+        "titulo": "Buscamos un conductor A2  para Peñaflor!",
+        "empresa": "Holding Grupo Firma ( GF SYSTEM )",
+        "fuente": "Computrabajo",
+        "ubicacion": "Peñaflor, R.Metropolitana",
+        "fecha": "2026-11-26 15:13:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-software-engineer-full-stack-net-core-react-para-empresa-retail-las-condes-en-santiago-las-condes-2CA6D21FAED2E49361373E686DCF3405",
+        "titulo": "Software Engineer Full Stack (.NET Core / React)  para empresa Retail Las Condes",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-26 15:13:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-electromecanico-7x7-antofagasta-en-antofagasta-DC5454F8AB30998961373E686DCF3405",
+        "titulo": "Especialista Electromecánico 7x7",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-26 15:13:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-electromecanico-7x7-antofagasta-en-antofagasta-C54180EFD335D59461373E686DCF3405",
+        "titulo": "Técnico Electromecánico 7x7",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-26 15:13:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-estudios-de-trafico-en-santiago-huechuraba-B141893055DCF60C61373E686DCF3405",
+        "titulo": "Ingeniero/a de Estudios de Tráfico",
+        "empresa": "Randstad",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-26 15:13:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-ti-proyecto-a-plazo-fijo-en-santiago-las-condes-6F0B6CDEF508CB2461373E686DCF3405",
+        "titulo": "Soporte TI",
+        "empresa": "Burô Temps",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-26 15:13:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Soporte'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-atencion-al-cliente-call-center-honorario-rubro-consecion-sanitaria-en-santiago-centro-7FF4385B573BA4DB61373E686DCF3405",
+        "titulo": "Ejecutivo Atencion al cliente call center honorario",
+        "empresa": "Upcom DTS",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 15:13:48",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-frontend-remplazo-1-mes-3939184",
+        "titulo": "Desarrollador Frontend (Remplazo 1 mes)",
+        "empresa": "3it",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-26 15:14:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Angular, SCSS/Sass)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-a-mobile-online-proyecto-2-anos-3939338",
+        "titulo": "Desarrollador/a Mobile - Online Proyecto 2",
+        "empresa": "Perceptual consultores ltda",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-26 15:14:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/data-developer-senior-3939348",
+        "titulo": "Data Developer Senior",
+        "empresa": "Ps grupo",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-26 15:14:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/dba-oracle-3926099",
+        "titulo": "DBA ORACLE",
+        "empresa": "Abenis",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-26 15:14:03",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
