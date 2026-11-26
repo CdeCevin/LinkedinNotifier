@@ -35362,5 +35362,163 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-at-tech-house-4493473386",
+        "titulo": "Full-Stack Engineer",
+        "empresa": "Tech-House",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-26 05:02:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'INGLÉS AVANZADO'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/salesforce-developer-at-experis-chile-4493219819",
+        "titulo": "Salesforce Developer",
+        "empresa": "Experis Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 05:02:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-abap-senior-%E2%80%93-sap-s-4hana-at-zenta-group-4494756176",
+        "titulo": "Desarrollador/a ABAP Senior – SAP S/4HANA",
+        "empresa": "Zenta Group",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 05:02:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-de-software-soporte-de-sistemas-nivel-2-at-actis-4493491175",
+        "titulo": "DESARROLLADOR DE SOFTWARE SOPORTE DE SISTEMAS NIVEL 2",
+        "empresa": "ACTIS",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 05:02:00",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'SOPORTE'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-development-engineer-at-healthatom-dentalink-medilink-4494935363",
+        "titulo": "Product Development Engineer",
+        "empresa": "HealthAtom - Dentalink - Medilink",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 05:02:10",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Product Development Engineer podría interesarle al candidato por su sólida experiencia en desarrollo backend, arquitectura de sistemas resilientes, integración de IA y testing automatizado, habilidades clave para el rol.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Ruby on Rails"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-ai-engineer-at-topsort-4494906872",
+        "titulo": "Senior AI Engineer",
+        "empresa": "Topsort",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-26 05:02:13",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-european-southern-observatory-4493435022",
+        "titulo": "Software Engineer",
+        "empresa": "European Southern Observatory",
+        "fuente": "LinkedIn",
+        "ubicacion": "Antofagasta Region, Chile",
+        "fecha": "2026-11-26 05:02:13",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-integrations-at-topsort-4494920959",
+        "titulo": "Software Engineer - Integrations",
+        "empresa": "Topsort",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 05:02:21",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/platform-engineer-at-dxc-technology-4494944234",
+        "titulo": "Platform Engineer",
+        "empresa": "DXC Technology",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 05:02:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/docente-adjunto-a-carrera-de-ingenier%C3%ADa-civil-en-computaci%C3%B3n-at-universidad-de-o-higgins-4493459887",
+        "titulo": "Docente Adjunto(a) Carrera de Ingeniería Civil en Computación",
+        "empresa": "Universidad de O'Higgins",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-11-26 05:02:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Docente'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/junior-forward-deployed-ai-engineer-ai-ml-data-track-remote-latin-america-at-fullstack-4493218825",
+        "titulo": "Junior Forward Deployed AI Engineer - AI/ML & Data Track - Remote - Latin America",
+        "empresa": "FullStack",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-26 05:02:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: la oferta esta escrita en ingles"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-modelos-de-datos-de-riesgo-at-caja-los-andes-4493420917",
+        "titulo": "Líder Modelos de datos de Riesgo",
+        "empresa": "Caja Los Andes",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 05:02:22",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Líder'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-salesforce-developer-ciudad-empresarial-santiago-en-santiago-huechuraba-58952018BFF8970461373E686DCF3405",
+        "titulo": "Salesforce Developer",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-26 05:02:32",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Salesforce Platform, Apex, Salesforce Flow, Salesforce Cloud, SOAP)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinador-de-sistema-integrado-de-calidad-importante-empresa-del-area-servicios-en-santiago-las-condes-6000D60A89B6272E61373E686DCF3405",
+        "titulo": "Coordinador de Sistema integrado de Calidad",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-26 05:02:35",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Coordinador'"
     }
 ]
