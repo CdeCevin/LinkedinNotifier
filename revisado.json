@@ -35723,5 +35723,538 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-mercado-libre-4493849121",
+        "titulo": "Software Engineer",
+        "empresa": "Mercado Libre",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-26 23:51:51",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Software Engineer en Mercado Libre se alinea con la experiencia del candidato en backend escalable, APIs REST e integración de IA, ofreciendo un desafío en la democratización del comercio y servicios financieros.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: contenedores, integración y entrega continua, AWS, flujos de trabajo agénticos, orquestación multiagente"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/dev-back-end-java-springboot-at-vr-group-chile-4493835895",
+        "titulo": "DEV Back-End (Java - Springboot)",
+        "empresa": "VR Group Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Area",
+        "fecha": "2026-11-26 23:52:04",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Desarrollador Backend remoto con Java y Spring Boot es una excelente oportunidad para el candidato, dada su sólida experiencia en backend, APIs REST y su dominio de estas tecnologías clave.",
+        "avisos": [
+            "Tecnologias que no estan en tu CV: Jira, SonarQube, AWS, Quarkus"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/fullstack-developer-java-angular-cl-at-imagemaker-4494648545",
+        "titulo": "FullStack Developer Java / Angular - CL",
+        "empresa": "Imagemaker",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-26 23:52:21",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Ingeniero de Software Full Stack Java/Angular en el sector financiero podría interesarle al candidato por su experiencia en backend con Java/Spring Boot, arquitectura de sistemas resilientes y resolución de incidencias, aunque requeriría aprender Angular y herramientas específicas del ecosistema Java.",
+        "avisos": [
+            "No indica ciudad ni modalidad: confirmar",
+            "Tecnologias que no estan en tu CV: Angular, Hibernate, JPA, WebLogic 12c, Maven"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-react-%2B-python-django-at-nisum-4495044627",
+        "titulo": "Desarrollador/a Full Stack (React + Python/Django)",
+        "empresa": "Nisum",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 23:52:37",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Desarrollador/a Full Stack (React + Python/Django) en Nisum podría interesarle al candidato por su sólida experiencia en desarrollo backend, APIs REST, React, integración de IA y testing automatizado, además de su perfil proactivo con proyectos propios en producción, aunque deberá familiarizarse con Django y considerar la modalidad híbrida en Santiago.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Django, Claude, Docker, Jest o React Testing Library"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-software-e-integraci%C3%B3n-ia-at-hiberus-4495509746",
+        "titulo": "Ingeniero de Software e Integración IA",
+        "empresa": "hiberus",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 23:52:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 4+ años de experiencia"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-sap-abap-at-softtek-4493843209",
+        "titulo": "Desarrollador SAP ABAP",
+        "empresa": "Softtek",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 23:53:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Ingles Avanzado'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-senior-bpm-at-tata-consultancy-services-4485200090",
+        "titulo": "Desarrollador/a Senior BPM",
+        "empresa": "Tata Consultancy Services",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 23:53:04",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/product-engineer-at-wherex-4495522147",
+        "titulo": "Product Engineer",
+        "empresa": "Wherex",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-26 23:53:16",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "Este cargo de Product Engineer en Wherex le podría interesar al candidato por su enfoque en el liderazgo de soluciones, desarrollo end-to-end y la integración de IA en un entorno SaaS + fintech, lo cual se alinea con su experiencia en arquitectura de sistemas, desarrollo de plataformas propias y metodologías ágiles.",
+        "avisos": [
+            "Hibrido en Santiago (Las Condes): confirmar dias presenciales (maximo 2)"
+        ]
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/1641-senior-adobe-workfront-integration-engineer-at-nortal-4494683248",
+        "titulo": "(1641) Senior Adobe Workfront Integration Engineer",
+        "empresa": "Nortal",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-26 23:53:19",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-microsoft-power-platform-modalidad-remota-en-santiago-centro-30B5A2BB5E62AF1461373E686DCF3405",
+        "titulo": "Desarrollador/a Microsoft Power Platform",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:27",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Microsoft Power Platform, Power Apps, Power Automate, Power Fx, Dataverse)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-proyectos-kam-en-santiago-pudahuel-72B7B74840DE3ABB61373E686DCF3405",
+        "titulo": "Desarrollador de proyectos KAM",
+        "empresa": "Talentfinder",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:55",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-practicante-desarrollo-de-software-full-stack-en-santiago-centro-5C594FD7B995FE7761373E686DCF3405",
+        "titulo": "Practicante Desarrollo de Software Full Stack",
+        "empresa": "ISEG Chile SpA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Practicante'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-encargadoa-de-relaciones-laborales-en-antofagasta-7D12B4A8A3EAB1D661373E686DCF3405",
+        "titulo": "Encargado/a de Relaciones Laborales",
+        "empresa": "United Sistema de Tuberías Ltda.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-vendedora-en-terreno-internet-television-y-telefonia-en-antofagasta-gtd-telecomunicaciones-en-antofagasta-41BFB7294AD0B18061373E686DCF3405",
+        "titulo": "Vendedor/a en Terreno Internet, Televisión y Telefonía en Antofagasta",
+        "empresa": "Atento Chile SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-vendedora-en-terreno-internet-television-y-telefonia-en-santiago-gtd-telecomunicaciones-en-santiago-centro-1A9B96487D189FC461373E686DCF3405",
+        "titulo": "Vendedor/a en Terreno Internet, Televisión y Telefonía en Santiago",
+        "empresa": "Atento Chile SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-vendedora-en-terreno-internet-television-y-telefonia-en-vina-del-mar-gtd-telecomunicaciones-en-vina-del-mar-6085AF0FE5C2F29B61373E686DCF3405",
+        "titulo": "Vendedor/a en Terreno Internet, Televisión y Telefonía en Viña del Mar",
+        "empresa": "Atento Chile SA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Viña del Mar, Valparaíso",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-portales-web-licitaciones-publicadas-o-privadas-rubro-ferreteria-o-afin-en-santiago-centro-A4E414775B2FE8FF61373E686DCF3405",
+        "titulo": "Asistente de Portales web, licitaciones publicadas o Privadas",
+        "empresa": "Balanced Consulting S.p.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Centro, R.Metropolitana)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-observability-lead-en-santiago-centro-0375FEE39EA549E561373E686DCF3405",
+        "titulo": "Data Observability Lead",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Lead'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-de-servicios-y-administracion-en-santiago-pudahuel-831895405E2533B761373E686DCF3405",
+        "titulo": "Coordinador/a de Servicios y Administración",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Pudahuel, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-electromecanico-caex-y-palas-turno-7x7-residencia-antofagasta-en-antofagasta-D3BA26F5BB8E5ED761373E686DCF3405",
+        "titulo": "Especialista Electromecánico Caex y Palas Turno 7x7",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-supervisor-ito-proyectos-copiapo-en-copiapo-834ABFFD68E4147961373E686DCF3405",
+        "titulo": "Supervisor ITO Proyectos",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-planificacion-a-5x2-copiapo-en-copiapo-97B0CFFBE0956DEC61373E686DCF3405",
+        "titulo": "Ingeniero Planificación A",
+        "empresa": "J.E.J INGENIERIA S.A",
+        "fuente": "Computrabajo",
+        "ubicacion": "Copiapó, Atacama",
+        "fecha": "2026-11-26 23:53:57",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-en-sistemas-de-comunicacion-y-seguridad-proyecto-ferroviario-region-de-valparaiso-en-valparaiso-63D625D540577A0861373E686DCF3405",
+        "titulo": "Ingeniero(a) en Sistemas de Comunicación y Seguridad – Proyecto Ferroviario – Región de Valparaíso",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Valparaíso, Valparaíso",
+        "fecha": "2026-11-26 23:53:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Valparaíso, Valparaíso)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-agente-de-monitoreo-en-santiago-centro-E158D8E3EEC7C5F861373E686DCF3405",
+        "titulo": "Agente de Monitoreo",
+        "empresa": "Avos Tech",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-arquitecto-de-aplicaciones-empresariales-en-santiago-huechuraba-781FB7287B0FB2ED61373E686DCF3405",
+        "titulo": "Arquitecto de Aplicaciones Empresariales",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Arquitecto'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-especialista-en-continuidad-de-negocio-y-resiliencia-operacional-en-santiago-providencia-9E9320273BBDB6B061373E686DCF3405",
+        "titulo": "Especialista en Continuidad de Negocio y Resiliencia Operacional",
+        "empresa": "Manpower Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-26 23:53:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivoa-con-funcion-de-caja-concepcion-detacoop-en-concepcion-E2C333802013773361373E686DCF3405",
+        "titulo": "Ejecutivo/a con función de caja Concepción",
+        "empresa": "Detacoop",
+        "fuente": "Computrabajo",
+        "ubicacion": "Concepción, Bíobío",
+        "fecha": "2026-11-26 23:53:58",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-responsable-de-pruebas-y-aseguramiento-de-calidad-qa-modalidad-remota-en-santiago-centro-1F3A800BEC7DFB3761373E686DCF3405",
+        "titulo": "Responsable de Pruebas y Aseguramiento de Calidad (QA)",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:05",
+        "calza": true,
+        "nivel": "cercano",
+        "motivo": "Este cargo de Responsable de QA en el rubro energético, con modalidad híbrida en Santiago, podría interesarle al candidato por su sólida experiencia en testing automatizado (E2E y carga), APIs REST y SQL, habilidades clave para asegurar la calidad de aplicaciones empresariales.",
+        "avisos": [
+            "Piden 3 años de experiencia",
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Azure DevOps (Test Plans), Jira, Postman, Dataverse, Microsoft Power Platform"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivoa-de-plataforma-sucursal-suecia-detacoop-en-santiago-providencia-E818D3447DB6102F61373E686DCF3405",
+        "titulo": "Ejecutivo/a de Plataforma Sucursal Suecia",
+        "empresa": "Detacoop",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-funcional-analista-de-negocio-modalidad-remota-en-santiago-centro-EDAB4D7DCF004A8E61373E686DCF3405",
+        "titulo": "Analista Funcional / Analista de Negocio",
+        "empresa": "Valor Unico",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-soporte-tecnico-conectividad-en-santiago-providencia-C6FB4BAC9D1C230261373E686DCF3405",
+        "titulo": "Analista Soporte Tecnico",
+        "empresa": "Stefanini Chile S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-jefe-de-proyectos-experiencia-en-datos-ingles-avanzado-en-santiago-huechuraba-445195C377E36F1461373E686DCF3405",
+        "titulo": "Jefe de proyectos (experiencia en datos)",
+        "empresa": "Michael Page",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Huechuraba, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Jefe'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivoa-de-plataforma-sucursal-puente-alto-detacoop-en-puente-alto-61BE9F4F9A82416F61373E686DCF3405",
+        "titulo": "Ejecutivo/a de Plataforma Sucursal Puente Alto",
+        "empresa": "Detacoop",
+        "fuente": "Computrabajo",
+        "ubicacion": "Puente Alto, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-customer-service-reemplazo-en-santiago-centro-AD38EB0AB54EE68461373E686DCF3405",
+        "titulo": "Customer Service (Reemplazo)",
+        "empresa": "Banco de Crédito e Inversiones",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-digital-customer-service-reemplazo-en-santiago-centro-2F8AAF548C7AF80361373E686DCF3405",
+        "titulo": "Digital Customer Service (Reemplazo)",
+        "empresa": "Banco de Crédito e Inversiones",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-funcional-semi-senior-en-santiago-centro-802C70D30E2783DE61373E686DCF3405",
+        "titulo": "Analista QA Funcional Semi Senior",
+        "empresa": "ATCOM",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-terreno-freelance-en-arica-F790DF5AD7D519D161373E686DCF3405",
+        "titulo": "Soporte Terreno Freelance",
+        "empresa": "DCS Chile",
+        "fuente": "Computrabajo",
+        "ubicacion": "Arica, Arica y Parinacota",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistentes-de-sala-y-operaciones-las-condes-1112-650-000-liquidos-en-santiago-las-condes-8CA3B6410651306161373E686DCF3405",
+        "titulo": "Asistentes de Sala y Operaciones Las Condes 1112 650 000 líquidos",
+        "empresa": "People GO",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Las condes, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:09",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-en-santiago-centro-583BB3534517541261373E686DCF3405",
+        "titulo": "Analista QA",
+        "empresa": "Tecnova Soluciones Informáticas",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-26 23:54:21",
+        "calza": true,
+        "nivel": "match",
+        "motivo": "El cargo de Analista QA es una excelente oportunidad para el candidato, ya que su experiencia en testing automatizado (E2E y carga) y arquitectura de sistemas resilientes se alinea directamente con las responsabilidades del puesto.",
+        "avisos": [
+            "Hibrido en Santiago (Santiago Centro): confirmar dias presenciales (maximo 2)",
+            "Tecnologias que no estan en tu CV: Certificación ISTQB"
+        ]
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-soporte-tecnico-por-boleta-antofagasta-on-demand-en-antofagasta-4BB37AB40B4972BE61373E686DCF3405",
+        "titulo": "Analista Soporte Tecnico. Por Boleta.",
+        "empresa": "Stefanini Chile S.A.",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-26 23:54:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-a-microsoft-power-platform-modalidad-remota-3939722",
+        "titulo": "Desarrollador/a Microsoft Power Platform Modalidad Remota",
+        "empresa": "Valor Único",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-26 23:54:34",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Microsoft Power Platform, Power Apps, Power Automate, Power Fx, Dataverse)"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/mecanico-a-soldador-litio-3939567",
+        "titulo": "Mecánico(a) Soldador Litio",
+        "empresa": "Mecánico(a) soldador litio",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Antofagasta",
+        "fecha": "2026-11-26 23:54:36",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ingeniero-de-desarrollo-de-software-net-3939703",
+        "titulo": "Ingeniero de Desarrollo de Software .Net",
+        "empresa": "Ps grupo",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-26 23:54:46",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Pide 5+ años de experiencia"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/jefe-bodega-ovalle-3939662",
+        "titulo": "JEFE BODEGA - Ovalle",
+        "empresa": "Pavan consultores",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Ovalle",
+        "fecha": "2026-11-26 23:54:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ejecutiva-comercial-medios-digitales-3939699",
+        "titulo": "Ejecutiva Comercial Medios Digítales",
+        "empresa": "Ensus chile spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Santiago",
+        "fecha": "2026-11-26 23:54:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/analista-de-control-de-gestion-chillan-3925252",
+        "titulo": "Analista de Control de Gestión- Chillán",
+        "empresa": "Empresa industrial- chillán",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "Chillán",
+        "fecha": "2026-11-26 23:54:49",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
