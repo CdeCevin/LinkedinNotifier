@@ -36256,5 +36256,60 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-junior-ia-at-apiux-tech-4491949995",
+        "titulo": "Ingeniero Junior IA",
+        "empresa": "Apiux Tech",
+        "fuente": "LinkedIn",
+        "ubicacion": "Providencia, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-27 09:41:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Providencia, Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/head-of-trading-desk-platform-c%2B%2B-at-jobgether-4495078189",
+        "titulo": "Head of Trading Desk Platform (C++)",
+        "empresa": "Jobgether",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-27 09:41:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/senior-machine-learning-engineer-at-vacantes-trabajo-y-empleo-4495055576",
+        "titulo": "Senior Machine Learning Engineer",
+        "empresa": "Vacantes: Trabajo y Empleo",
+        "fuente": "LinkedIn",
+        "ubicacion": "Chile",
+        "fecha": "2026-11-27 09:41:50",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-y-marketing-cloud-gcp-salesforce-at-atcom-chile-4495520101",
+        "titulo": "Ingeniero/a de Datos y Marketing Cloud - GCP / Salesforce",
+        "empresa": "ATCOM Chile",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-27 09:41:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: Presencial fuera de la zona (Santiago Metropolitan Region, Chile)"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistentes-de-validacion-de-documentos-santiago-en-santiago-centro-9AD9C63751D2AA3A61373E686DCF3405",
+        "titulo": "Asistentes de Validación de Documentos",
+        "empresa": "Fuerza Laboral E.S.T. SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-27 09:41:51",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
