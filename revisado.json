@@ -37003,5 +37003,16 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-at-softline-consultores-gerenciales-4495878180",
+        "titulo": "Ingeniero(a) de datos",
+        "empresa": "Softline Consultores Gerenciales",
+        "fuente": "LinkedIn",
+        "ubicacion": "Rancagua, O'Higgins Region, Chile",
+        "fecha": "2026-11-28 14:12:53",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "El stack principal no es compatible (Microsoft Azure, Azure Data Factory, Azure Synapse Analytics, Azure Databricks, PySpark)"
     }
 ]
