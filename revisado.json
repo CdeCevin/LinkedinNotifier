@@ -36791,5 +36791,217 @@
         "calza": false,
         "nivel": "descartado",
         "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-at-grupoexpro-4494222257",
+        "titulo": "Programador full stack",
+        "empresa": "GrupoExpro",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-28 03:19:54",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-senior-at-factorit-4495344432",
+        "titulo": "Desarrollador Back-end Senior",
+        "empresa": "FactorIT",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-28 03:19:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-back-end-senior-at-factorlt-4495352291",
+        "titulo": "Desarrollador Back-end Senior",
+        "empresa": "FactorlT",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-28 03:19:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-semi-senior-contrato-indefinido-at-seidor-4495891063",
+        "titulo": "Desarrollador backend Semi Senior. Contrato Indefinido",
+        "empresa": "SEIDOR",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-28 03:19:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/frontend-developer-semi-senior-senior-angular-o-react-at-seidor-4495872821",
+        "titulo": "Frontend Developer Semi Senior / Senior (Angular o React)",
+        "empresa": "SEIDOR",
+        "fuente": "LinkedIn",
+        "ubicacion": "Las Condes, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-28 03:19:56",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-plataformas-de-datos-at-falabella-4495883505",
+        "titulo": "Ingeniero/a de Plataformas de Datos",
+        "empresa": "Falabella",
+        "fuente": "LinkedIn",
+        "ubicacion": "Santiago, Santiago Metropolitan Region, Chile",
+        "fecha": "2026-11-28 03:20:10",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Hibrido con 4 dias presenciales en Santiago",
+        "avisos": [
+            "Piden 3 años de experiencia"
+        ]
+    },
+    {
+        "url": "https://www.getonbrd.com/jobs/desarrollador-a-semi-senior-full-stack-cenac-santiago-fb1f",
+        "titulo": "Desarrollador/a Semi Senior Full-Stack",
+        "empresa": "cenac",
+        "fuente": "Get on Board",
+        "ubicacion": "Presencial - Chile",
+        "fecha": "2026-11-28 03:20:13",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado por palabra clave estatica: 'Semi Senior'"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-programacion-y-control-en-antofagasta-F9DD95281423B7B861373E686DCF3405",
+        "titulo": "Ingeniero de Programación y Control",
+        "empresa": "Servicio de mantención, montaje e ingeniería Ecora",
+        "fuente": "Computrabajo",
+        "ubicacion": "Antofagasta, Antofagasta",
+        "fecha": "2026-11-28 03:20:13",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-en-informatica-redes-telecomunicaciones-electronica-en-santiago-lo-barnechea-A0D5643EB75726C861373E686DCF3405",
+        "titulo": "técnico en Informática, Redes, Telecomunicaciones, Electrónica",
+        "empresa": "CdmConsultora RRHH",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Lo Barnechea, R.Metropolitana",
+        "fecha": "2026-11-28 03:20:25",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "No es un cargo de desarrollo"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-infraestructura-ti-en-santiago-providencia-8716CFBAD8C9631361373E686DCF3405",
+        "titulo": "Ingeniero en Infraestructura TI",
+        "empresa": "Empresa confidencial",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago - Providencia, R.Metropolitana",
+        "fecha": "2026-11-28 03:20:38",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Exige ingles hablado o de uso diario"
+    },
+    {
+        "url": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-contable-en-santiago-centro-AF1591DE1428740761373E686DCF3405",
+        "titulo": "Asistente Contable",
+        "empresa": "TALENT MIND CHILE SPA",
+        "fuente": "Computrabajo",
+        "ubicacion": "Santiago Centro, R.Metropolitana",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/ejecutivo-comercial-de-terreno-3822695",
+        "titulo": "Ejecutivo Comercial de Terreno",
+        "empresa": "Empresa de publicidad",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/estamos-contratando-team-leader-de-ventas-claro-movil-portabilidad-3940461",
+        "titulo": "Estamos Contratando Team Leader de Ventas",
+        "empresa": "Nuevo mundo callcenter spa",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/cirujano-dentista-especialista-diplomado-endodoncia-3940450",
+        "titulo": "Cirujano Dentista Especialista/Diplomado Endodoncia",
+        "empresa": "Uruz centro médico y..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/solicitamos-conductor-para-pasteleria-3940420",
+        "titulo": "Solicitamos conductor para pastelería",
+        "empresa": "Rrhh",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/conductor-para-talca-3940419",
+        "titulo": "Conductor Para Talca",
+        "empresa": "Transportes y logÍstica cordillera..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/supervisor-a-de-climatizacion-7x7-mineria-contrato-permanente-3940417",
+        "titulo": "Supervisor/a de Climatización 7x7 Minería –",
+        "empresa": "Empresa de servicios a..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/conductor-turismo-para-concepcion-3940415",
+        "titulo": "Conductor Turismo para Concepción",
+        "empresa": "Transportes y logÍstica cordillera..",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
+    },
+    {
+        "url": "https://www.chiletrabajos.cl/trabajo/operario-de-linea-de-produccion-manufactura-de-alimentos-3940412",
+        "titulo": "Operario de Línea de Producción –",
+        "empresa": "Confidencial",
+        "fuente": "Chiletrabajos",
+        "ubicacion": "",
+        "fecha": "2026-11-28 03:20:41",
+        "calza": false,
+        "nivel": "descartado",
+        "motivo": "Descartado: el titulo no corresponde a un cargo de desarrollo"
     }
 ]
